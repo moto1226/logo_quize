@@ -21,6 +21,7 @@ const { saveLatestResult } = require("../../../../utils/storage.js");
 const letters = ["A", "B", "C", "D"];
 const ROUND_QUESTION_COUNT = 20;
 const LOGO_BASE_URL = "https://logos.lupio.studio/logos";
+const preloadedLogoUrls = new Set();
 const brandNameMap = sourceBrands.reduce((map, brand) => {
   map[brand.brand_id] = brand.display_name || brand.name_zh || brand.name_en || brand.brand_id;
   return map;
@@ -96,6 +97,26 @@ function isValidQuestion(question) {
     return false;
   }
   return true;
+}
+
+function collectQuestionLogoUrls(question) {
+  if (!question) return [];
+  if (question.type === "logo_to_brand") {
+    return [normalizeLogoImage(question.logo, question.answer_brand_id)];
+  }
+  if (question.type === "brand_to_logo") {
+    return (question.options || []).slice(0, 4).map((option) => normalizeLogoImage(option.image, option.brand_id));
+  }
+  return [];
+}
+
+function preloadLogoUrl(src) {
+  if (!src || preloadedLogoUrls.has(src) || typeof wx === "undefined" || !wx.getImageInfo) return;
+  preloadedLogoUrls.add(src);
+  wx.getImageInfo({
+    src,
+    fail() {}
+  });
 }
 
 function getTypeLabel(type) {
@@ -269,6 +290,7 @@ Page({
       isEmpty: false
     });
     this.setCurrentQuestion(0);
+    this.preloadUpcomingImages(0);
   },
 
   pickRoundQuestions(questions, mode) {
@@ -320,6 +342,16 @@ Page({
       stagePrompt: getPrompt(currentQuestion.type)
     });
     this.startTimer();
+    this.preloadUpcomingImages(index + 1);
+  },
+
+  preloadUpcomingImages(startIndex) {
+    const questions = this.data.questions || [];
+    for (let index = startIndex; index < Math.min(startIndex + 3, questions.length); index += 1) {
+      for (const src of collectQuestionLogoUrls(questions[index])) {
+        preloadLogoUrl(src);
+      }
+    }
   },
 
   startTimer() {

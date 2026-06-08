@@ -49,7 +49,7 @@ page {
 
 .stage-card {
   width: calc(100% - 64rpx);
-  min-height: 360rpx;
+  min-height: 420rpx;
   margin: 24rpx auto 0;
   padding: 36rpx 32rpx;
   border-radius: 40rpx;
@@ -83,9 +83,9 @@ page {
 }
 
 .logo-question-image {
-  width: 240rpx;
-  height: 240rpx;
-  margin-top: 28rpx;
+  width: 320rpx;
+  height: 320rpx;
+  margin-top: 24rpx;
 }
 
 .brand-question-name {
@@ -215,8 +215,8 @@ page {
 }
 
 .logo-option-btn image {
-  width: 150rpx;
-  height: 150rpx;
+  width: 178rpx;
+  height: 178rpx;
 }
 
 .option-active {
