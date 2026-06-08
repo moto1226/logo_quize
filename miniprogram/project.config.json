@@ -19,7 +19,12 @@
   "compileType": "miniprogram",
   "simulatorPluginLibVersion": {},
   "packOptions": {
-    "ignore": [],
+    "ignore": [
+      {
+        "type": "folder",
+        "value": "packages/quiz/assets/logos"
+      }
+    ],
     "include": []
   },
   "appid": "wxa95d914566fe6d1d",

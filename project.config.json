@@ -32,7 +32,16 @@
   "projectname": "logo-quize",
   "simulatorPluginLibVersion": {},
   "packOptions": {
-    "ignore": [],
+    "ignore": [
+      {
+        "value": "packages/quiz/assets/logos",
+        "type": "folder"
+      },
+      {
+        "value": "miniprogram/packages/quiz/assets/logos",
+        "type": "folder"
+      }
+    ],
     "include": []
   },
   "editorSetting": {},

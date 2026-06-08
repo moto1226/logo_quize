@@ -289,8 +289,8 @@ page {
 
 .quick-card {
   margin-top: 24rpx;
-  min-height: 112rpx;
-  padding: 22rpx 24rpx;
+  min-height: 136rpx;
+  padding: 28rpx 26rpx;
   border-radius: 30rpx;
   border: 4rpx solid #46a302;
   background: #58cc02;
@@ -302,8 +302,8 @@ page {
 }
 
 .quick-icon {
-  width: 58rpx;
-  height: 58rpx;
+  width: 66rpx;
+  height: 66rpx;
   border-radius: 50%;
   background: rgba(255, 255, 255, 0.22);
   display: flex;
