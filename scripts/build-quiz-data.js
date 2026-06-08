@@ -11,6 +11,7 @@ const dataDir = path.join(quizRoot, "data");
 const mainDataDir = path.join(miniprogramRoot, "data");
 const reportDir = path.join(root, "reports");
 const reviewDir = path.join(root, "review");
+const logoCdnBase = (process.env.LOGO_CDN_BASE || "https://logos.lupio.studio/logos").replace(/\/+$/, "");
 
 const sourceIndexFile = path.join(root, "data", "all_logo_candidates_index.json");
 const reviewMarksFile = path.join(root, "data", "all-logo-corpus-marks.json");
@@ -65,6 +66,10 @@ function writeJs(file, data) {
 function writeJson(file, data) {
   ensureDir(path.dirname(file));
   fs.writeFileSync(file, `${JSON.stringify(data, null, 2)}\n`, "utf8");
+}
+
+function publicLogoUrl(brandId) {
+  return `${logoCdnBase}/${brandId}.jpg`;
 }
 
 function htmlEscape(value) {
@@ -274,7 +279,7 @@ function brandFromRecord(row, metaMap, overrides, enrichmentMap) {
     name_en: cleanDisplayName(override?.name_en || meta.name_en || enriched?.label_en || row.title || brand_id),
     name_zh: override?.name_zh || meta.name_zh || enriched?.label_zh || "",
     display_name: displayName({ ...meta, display_name: override?.display_name || enrichedDisplayName, title: row.title, brand_id }),
-    logo: `/packages/quiz/assets/logos/${brand_id}.jpg`,
+    logo: publicLogoUrl(brand_id),
     industry: override?.industry || industry,
     similar_group: override?.similar_group || meta.similar_group || industry,
     has_pure_symbol: meta.has_pure_symbol !== false,
@@ -635,10 +640,12 @@ function validate() {
   const brandIds = new Set(brands.map((brand) => brand.brand_id));
   const errors = [];
   const similarGroupStats = {};
-  const checkImage = (image, qid) => {
-    if (!image || /^https?:\/\//i.test(image)) errors.push({ question_id: qid, error: "external_or_missing_image", image });
-    const file = path.join(miniprogramRoot, image.replace(/^\//, ""));
-    if (!fs.existsSync(file)) errors.push({ question_id: qid, error: "image_file_not_found", image });
+  const checkImage = (image, qid, brandId) => {
+    const target = image || publicLogoUrl(brandId);
+    const expectedPrefix = `${logoCdnBase}/`;
+    if (!target || !target.startsWith(expectedPrefix) || !target.endsWith(".jpg")) {
+      errors.push({ question_id: qid, error: "invalid_logo_url", image: target });
+    }
   };
   for (const question of questions) {
     if (!["logo_to_brand", "brand_to_logo"].includes(question.type)) errors.push({ question_id: question.id, error: "invalid_type" });
@@ -647,9 +654,9 @@ function validate() {
     const optionIds = (question.options || []).map((option) => option.brand_id);
     if (new Set(optionIds).size !== optionIds.length) errors.push({ question_id: question.id, error: "duplicate_options" });
     if (!optionIds.includes(question.answer_brand_id)) errors.push({ question_id: question.id, error: "answer_not_in_options" });
-    if (question.type === "logo_to_brand") checkImage(question.logo || `/packages/quiz/assets/logos/${question.answer_brand_id}.jpg`, question.id);
+    if (question.type === "logo_to_brand") checkImage(question.logo, question.id, question.answer_brand_id);
     if (question.type === "brand_to_logo") {
-      for (const option of question.options || []) checkImage(option.image || `/packages/quiz/assets/logos/${option.brand_id}.jpg`, question.id);
+      for (const option of question.options || []) checkImage(option.image, question.id, option.brand_id);
     }
     similarGroupStats[question.similar_group] = (similarGroupStats[question.similar_group] || 0) + 1;
   }

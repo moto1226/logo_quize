@@ -21,7 +21,7 @@
     "swc": false,
     "disableSWC": true,
     "ignoreDevUnusedFiles": false,
-    "ignoreUploadUnusedFiles": false,
+    "ignoreUploadUnusedFiles": true,
     "babelSetting": {
       "ignore": [],
       "disablePlugins": [],
@@ -33,16 +33,7 @@
   "simulatorPluginLibVersion": {},
   "packOptions": {
     "ignore": [],
-    "include": [
-      {
-        "value": "packages/quiz/assets/logos",
-        "type": "folder"
-      },
-      {
-        "value": "miniprogram/packages/quiz/assets/logos",
-        "type": "folder"
-      }
-    ]
+    "include": []
   },
   "editorSetting": {},
   "libVersion": "3.8.12"

@@ -20,13 +20,19 @@ const { saveLatestResult } = require("../../../../utils/storage.js");
 
 const letters = ["A", "B", "C", "D"];
 const ROUND_QUESTION_COUNT = 20;
+const LOGO_BASE_URL = "https://logos.lupio.studio/logos";
 const brandNameMap = sourceBrands.reduce((map, brand) => {
   map[brand.brand_id] = brand.display_name || brand.name_zh || brand.name_en || brand.brand_id;
   return map;
 }, {});
 
 function logoPath(brandId) {
-  return `/packages/quiz/assets/logos/${brandId}.jpg`;
+  return `${LOGO_BASE_URL}/${brandId}.jpg`;
+}
+
+function normalizeLogoImage(image, brandId) {
+  if (image && /^https?:\/\//i.test(image)) return image;
+  return logoPath(brandId);
 }
 
 function brandName(brandId) {
@@ -74,7 +80,7 @@ function normalizeOption(option, index, questionType) {
   return {
     brand_id: brandId,
     text: option.text || option.name || brandName(brandId),
-    image: option.image || logoPath(brandId),
+    image: normalizeLogoImage(option.image, brandId),
     letter: letters[index] || "",
     className: "normal"
   };
@@ -285,7 +291,7 @@ Page({
     }
     const currentQuestion = {
       ...rawQuestion,
-      logo: rawQuestion.logo || logoPath(rawQuestion.answer_brand_id),
+      logo: normalizeLogoImage(rawQuestion.logo, rawQuestion.answer_brand_id),
       brand_name: rawQuestion.brand_name || brandName(rawQuestion.answer_brand_id),
       prompt: rawQuestion.prompt || getPrompt(rawQuestion.type)
     };
