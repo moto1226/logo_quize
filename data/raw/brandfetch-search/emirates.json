@@ -1,0 +1,58 @@
+{
+  "fetched_at": "2026-06-06T12:08:26.921Z",
+  "brand_id": "emirates",
+  "query": "Emirates",
+  "http_status": 200,
+  "search_status": "ok",
+  "results": [
+    {
+      "brandId": "idItGcrKZZ",
+      "claimed": true,
+      "domain": "emirates.com",
+      "name": "Emirates",
+      "icon": "https://cdn.brandfetch.io/idItGcrKZZ/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834105758bfumLaCV7m6OYfiugk",
+      "_score": 17.643562,
+      "qualityScore": 0.9997251537774422,
+      "verified": true
+    },
+    {
+      "brandId": "idU8ySD_W7",
+      "claimed": false,
+      "domain": "emiratesnbd.com",
+      "name": "Emirates NBD",
+      "icon": "https://cdn.brandfetch.io/idU8ySD_W7/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834105758bfumLaCV7m6OYfiugk",
+      "_score": 15.303602,
+      "qualityScore": 0.857026435410455,
+      "verified": true
+    },
+    {
+      "brandId": "idwL5JRWaw",
+      "claimed": false,
+      "domain": "emiratesislamic.ae",
+      "name": "emiratesislamic",
+      "icon": "https://cdn.brandfetch.io/idwL5JRWaw/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834105758bfumLaCV7m6OYfiugk",
+      "_score": 27.305033,
+      "qualityScore": 0.852847088211772,
+      "verified": true
+    },
+    {
+      "brandId": "idyVHrf9mi",
+      "claimed": false,
+      "domain": "enoc.com",
+      "name": "Emirates National Oil Company",
+      "icon": "https://cdn.brandfetch.io/idyVHrf9mi/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834105758bfumLaCV7m6OYfiugk",
+      "_score": 10.221781,
+      "qualityScore": 0.8473070675959976,
+      "verified": true
+    },
+    {
+      "brandId": "idfTCAReVd",
+      "claimed": false,
+      "domain": "emiratesgroupcareers.com",
+      "name": "Emirates",
+      "icon": "https://cdn.brandfetch.io/idfTCAReVd/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834105758bfumLaCV7m6OYfiugk",
+      "_score": 17.92838,
+      "qualityScore": 0.7680212496976201
+    }
+  ]
+}

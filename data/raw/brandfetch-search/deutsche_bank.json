@@ -1,0 +1,55 @@
+{
+  "fetched_at": "2026-06-06T12:08:21.765Z",
+  "brand_id": "deutsche_bank",
+  "query": "Deutsche Bank",
+  "http_status": 200,
+  "search_status": "ok",
+  "results": [
+    {
+      "brandId": "id5PmMuE2j",
+      "claimed": false,
+      "domain": "db.com",
+      "name": "Deutsche Bank",
+      "icon": "https://cdn.brandfetch.io/id5PmMuE2j/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834100593bfumLaCV7mRPQ0XOGB",
+      "_score": 29.962315,
+      "qualityScore": 0.9612594037763894,
+      "verified": true
+    },
+    {
+      "brandId": "idlWwRAwvW",
+      "claimed": false,
+      "domain": "deutsche-bank.de",
+      "name": "Deutsche Bank",
+      "icon": "https://cdn.brandfetch.io/idlWwRAwvW/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834100593bfumLaCV7mRPQ0XOGB",
+      "_score": 29.962315,
+      "qualityScore": 0.7292144803805432
+    },
+    {
+      "brandId": "idz0l7lwfm",
+      "claimed": false,
+      "domain": "deutsche-bank.es",
+      "name": "Deutsche Bank",
+      "icon": "https://cdn.brandfetch.io/idz0l7lwfm/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834100593bfumLaCV7mRPQ0XOGB",
+      "_score": 28.265133,
+      "qualityScore": 0.7177698813655472
+    },
+    {
+      "brandId": "idAraRSU8Y",
+      "claimed": false,
+      "domain": "deutschebank.be",
+      "name": "Deutsche Bank",
+      "icon": "https://cdn.brandfetch.io/idAraRSU8Y/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834100593bfumLaCV7mRPQ0XOGB",
+      "_score": 28.265133,
+      "qualityScore": 0.7176202851743021
+    },
+    {
+      "brandId": "id_9de_7ej",
+      "claimed": false,
+      "domain": "db-finanzberatung.de",
+      "name": "Deutsche Bank Finanzberatung",
+      "icon": "https://cdn.brandfetch.io/id_9de_7ej/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834100593bfumLaCV7mRPQ0XOGB",
+      "_score": 29.962315,
+      "qualityScore": 0.6884063836400574
+    }
+  ]
+}

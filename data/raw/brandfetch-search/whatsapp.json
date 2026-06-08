@@ -1,0 +1,56 @@
+{
+  "fetched_at": "2026-06-06T12:08:06.472Z",
+  "brand_id": "whatsapp",
+  "query": "WhatsApp",
+  "http_status": 200,
+  "search_status": "ok",
+  "results": [
+    {
+      "brandId": "id6Zq084G_",
+      "claimed": false,
+      "domain": "whatsapp.com",
+      "name": "WhatsApp",
+      "icon": "https://cdn.brandfetch.io/id6Zq084G_/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834085303bfumLaCV7mMKiEjynY",
+      "_score": 18.515877,
+      "qualityScore": 0.961535173076101,
+      "verified": true
+    },
+    {
+      "brandId": "id1-pgleJI",
+      "claimed": false,
+      "domain": "ycloud.com",
+      "name": "YCloud- WhatsAppBSP",
+      "icon": "https://cdn.brandfetch.io/id1-pgleJI/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834085303bfumLaCV7mMKiEjynY",
+      "_score": 21.240786,
+      "qualityScore": 0.7498483413082392
+    },
+    {
+      "brandId": "idfzDfuCm1",
+      "claimed": false,
+      "domain": "360dialog.com",
+      "name": "360dialog — WhatsApp BSP",
+      "icon": "https://cdn.brandfetch.io/idfzDfuCm1/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834085303bfumLaCV7mMKiEjynY",
+      "_score": 12.41844,
+      "qualityScore": 0.7398769734307818
+    },
+    {
+      "brandId": "idUGqFxWt3",
+      "claimed": false,
+      "domain": "explara.com",
+      "name": "Explara for WhatsApp",
+      "icon": "https://cdn.brandfetch.io/idUGqFxWt3/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834085303bfumLaCV7mMKiEjynY",
+      "_score": 12.549347,
+      "qualityScore": 0.7253873544237617
+    },
+    {
+      "brandId": "idRiB8CNDE",
+      "claimed": false,
+      "domain": "wistickers.com",
+      "name": "Stickers para WhatsApp",
+      "icon": "https://cdn.brandfetch.io/idRiB8CNDE/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834085303bfumLaCV7mMKiEjynY",
+      "_score": 12.549347,
+      "qualityScore": 0.7207041994068191,
+      "verified": false
+    }
+  ]
+}

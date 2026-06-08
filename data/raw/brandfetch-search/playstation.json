@@ -1,0 +1,56 @@
+{
+  "fetched_at": "2026-06-06T12:08:11.060Z",
+  "brand_id": "playstation",
+  "query": "PlayStation",
+  "http_status": 200,
+  "search_status": "ok",
+  "results": [
+    {
+      "brandId": "idsn73YDWv",
+      "claimed": false,
+      "domain": "playstation.com",
+      "name": "PlayStation®",
+      "icon": "https://cdn.brandfetch.io/idsn73YDWv/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834089886bfumLaCV7mpdZHynQt",
+      "_score": 16.597424,
+      "qualityScore": 0.8845822692224903,
+      "verified": true
+    },
+    {
+      "brandId": "idiseOYtpE",
+      "claimed": false,
+      "domain": "sonyentertainmentnetwork.com",
+      "name": "PlayStation",
+      "icon": "https://cdn.brandfetch.io/idiseOYtpE/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834089886bfumLaCV7mpdZHynQt",
+      "_score": 21.154598,
+      "qualityScore": 0.768506211357322
+    },
+    {
+      "brandId": "id_gQouGef",
+      "claimed": false,
+      "domain": "ghostoftsushima.com",
+      "name": "PlayStation",
+      "icon": "https://cdn.brandfetch.io/id_gQouGef/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834089886bfumLaCV7mpdZHynQt",
+      "_score": 21.154598,
+      "qualityScore": 0.7581760549286292
+    },
+    {
+      "brandId": "idcdeMqImH",
+      "claimed": false,
+      "domain": "horizonchase.com",
+      "name": "Horizon Chase 2 is OUT on PlayStation and Xbox",
+      "icon": "https://cdn.brandfetch.io/idcdeMqImH/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834089886bfumLaCV7mpdZHynQt",
+      "_score": 7.1072598,
+      "qualityScore": 0.7370992035055701
+    },
+    {
+      "brandId": "idzg1eXkIo",
+      "claimed": false,
+      "domain": "psu.com",
+      "name": "PlayStation Universe",
+      "icon": "https://cdn.brandfetch.io/idzg1eXkIo/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834089886bfumLaCV7mpdZHynQt",
+      "_score": 16.700027,
+      "qualityScore": 0.7286451148535864,
+      "verified": false
+    }
+  ]
+}

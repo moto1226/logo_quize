@@ -1,0 +1,56 @@
+{
+  "fetched_at": "2026-06-06T12:08:29.177Z",
+  "brand_id": "united_nations",
+  "query": "United Nations",
+  "http_status": 200,
+  "search_status": "ok",
+  "results": [
+    {
+      "brandId": "idiOFtp60S",
+      "claimed": false,
+      "domain": "unfoundation.org",
+      "name": "United Nations Foundation",
+      "icon": "https://cdn.brandfetch.io/idiOFtp60S/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834108009bfumLaCV7mWPZNPGKg",
+      "_score": 26.22629,
+      "qualityScore": 0.7261400565350141
+    },
+    {
+      "brandId": "idOJqk1Ymo",
+      "claimed": false,
+      "domain": "un.int",
+      "name": "United Nations",
+      "icon": "https://cdn.brandfetch.io/idOJqk1Ymo/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834108009bfumLaCV7mWPZNPGKg",
+      "_score": 26.22629,
+      "qualityScore": 0.6847870365813745,
+      "verified": false
+    },
+    {
+      "brandId": "idn27NUeJ1",
+      "claimed": false,
+      "domain": "worldhumanitarianday.org",
+      "name": "United Nations OCHA",
+      "icon": "https://cdn.brandfetch.io/idn27NUeJ1/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834108009bfumLaCV7mWPZNPGKg",
+      "_score": 26.395222,
+      "qualityScore": 0.6551829426418896,
+      "verified": false
+    },
+    {
+      "brandId": "idU80gmSCm",
+      "claimed": false,
+      "domain": "unjiu.org",
+      "name": "United Nations",
+      "icon": "https://cdn.brandfetch.io/idU80gmSCm/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834108009bfumLaCV7mWPZNPGKg",
+      "_score": 25.958683,
+      "qualityScore": 0.6016997658095569
+    },
+    {
+      "brandId": "idNZWaGW6P",
+      "claimed": false,
+      "domain": "unosat.org",
+      "name": "United Nations Satellite Centre",
+      "icon": "https://cdn.brandfetch.io/idNZWaGW6P/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834108009bfumLaCV7mWPZNPGKg",
+      "_score": 25.958683,
+      "qualityScore": 0.5604896785839582
+    }
+  ]
+}

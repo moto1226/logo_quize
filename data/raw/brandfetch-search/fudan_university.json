@@ -1,0 +1,18 @@
+{
+  "fetched_at": "2026-06-06T12:08:32.485Z",
+  "brand_id": "fudan_university",
+  "query": "Fudan University",
+  "http_status": 200,
+  "search_status": "ok",
+  "results": [
+    {
+      "brandId": "idlNGSgBvt",
+      "claimed": false,
+      "domain": "fudantoronto.ca",
+      "name": "Fudan University Alumni Toronto Association - FUATA",
+      "icon": "https://cdn.brandfetch.io/idlNGSgBvt/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834111319bfumLaCV7m9-LVPPim",
+      "_score": 32.970974,
+      "qualityScore": 0.2692307692307692
+    }
+  ]
+}

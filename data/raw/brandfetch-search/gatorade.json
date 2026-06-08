@@ -1,0 +1,38 @@
+{
+  "fetched_at": "2026-06-06T12:07:47.244Z",
+  "brand_id": "gatorade",
+  "query": "Gatorade",
+  "http_status": 200,
+  "search_status": "ok",
+  "results": [
+    {
+      "brandId": "idarovUHc8",
+      "claimed": false,
+      "domain": "gatorade.com",
+      "name": "Gatorade",
+      "icon": "https://cdn.brandfetch.io/idarovUHc8/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834066083bfumLaCV7mZ8oN8UwA",
+      "_score": 22.36179,
+      "qualityScore": 0.9602704996830096,
+      "verified": true
+    },
+    {
+      "brandId": "id-ctVlOw5",
+      "claimed": false,
+      "domain": "illevitrain.com",
+      "name": "Gatorade",
+      "icon": "https://cdn.brandfetch.io/id-ctVlOw5/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834066083bfumLaCV7mZ8oN8UwA",
+      "_score": 23.891172,
+      "qualityScore": 0.5955421777316983
+    },
+    {
+      "brandId": "idU1468Rj7",
+      "claimed": false,
+      "domain": "gatoradeperformancepartner.com",
+      "name": "Gatorade Performance Partner",
+      "icon": "https://cdn.brandfetch.io/idU1468Rj7/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834066083bfumLaCV7mZ8oN8UwA",
+      "_score": 16.024712,
+      "qualityScore": 0.545387559423813,
+      "verified": false
+    }
+  ]
+}

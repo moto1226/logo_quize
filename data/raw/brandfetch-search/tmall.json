@@ -1,0 +1,47 @@
+{
+  "fetched_at": "2026-06-06T12:08:14.002Z",
+  "brand_id": "tmall",
+  "query": "Tmall",
+  "http_status": 200,
+  "search_status": "ok",
+  "results": [
+    {
+      "brandId": "idzbJSLdrV",
+      "claimed": false,
+      "domain": "taobaocargo.com",
+      "name": "Baobaocargo รับสั่งซื้อสั่งของสั่งสินค้า นำเข้าจากเว็บจีน Taobao Tmall 1688",
+      "icon": "https://cdn.brandfetch.io/idzbJSLdrV/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834092832bfumLaCV7mYAjAdepc",
+      "_score": 11.511595,
+      "qualityScore": 0.6189850393616444,
+      "verified": false
+    },
+    {
+      "brandId": "idAHOXLI8M",
+      "claimed": false,
+      "domain": "tmall.com",
+      "name": "Tmall.com",
+      "icon": "https://cdn.brandfetch.io/idAHOXLI8M/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834092832bfumLaCV7mYAjAdepc",
+      "_score": 27.211926,
+      "qualityScore": 0.5126697050905032
+    },
+    {
+      "brandId": "id_N48wKxg",
+      "claimed": false,
+      "domain": "tmallcanada.com",
+      "name": "UCanada",
+      "icon": "https://cdn.brandfetch.io/id_N48wKxg/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834092832bfumLaCV7mYAjAdepc",
+      "_score": 14.835882,
+      "qualityScore": 0.48717948717948717,
+      "verified": false
+    },
+    {
+      "brandId": "idP7tjQIV-",
+      "claimed": false,
+      "domain": "tmallonlaw.com",
+      "name": "Mallon Tranger",
+      "icon": "https://cdn.brandfetch.io/idP7tjQIV-/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834092832bfumLaCV7mYAjAdepc",
+      "_score": 14.550428,
+      "qualityScore": 0.48717948717948717
+    }
+  ]
+}

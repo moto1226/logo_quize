@@ -1,0 +1,101 @@
+brand_id,name_en,name_zh,domain,industry,country_region,fame_level,similar_group,has_pure_symbol,symbol_review_status,include_mvp,preferred_source,notes,resolved_domain,domain_source,search_top_domain,domain_matches_existing,search_http_status,search_status
+nike,Nike,耐克,nike.com,服装时尚,美国,5,sportswear,true,pending,true,brandfetch,运动品牌组，适合题型3真实相似干扰,nike.com,seed,nike.com,true,200,ok
+adidas,Adidas,阿迪达斯,adidas.com,服装时尚,德国,5,sportswear,true,pending,true,brandfetch,运动品牌组，优先取三叶草/三条纹 symbol,adidas.com,seed,adidas.com,true,200,ok
+puma,Puma,彪马,puma.com,服装时尚,德国,4,sportswear,true,pending,true,brandfetch,运动品牌组,puma.com,seed,puma.com,true,200,ok
+reebok,Reebok,锐步,reebok.com,服装时尚,美国,4,sportswear,true,pending,true,brandfetch,运动品牌组,reebok.com,seed,reebok.com,true,200,ok
+the_north_face,The North Face,北面,thenorthface.com,服装时尚,美国,4,outdoor_sports,true,pending,true,brandfetch,户外运动品牌组,thenorthface.com,seed,thenorthface.com,true,200,ok
+patagonia,Patagonia,巴塔哥尼亚,patagonia.com,服装时尚,美国,4,outdoor_sports,unknown,pending,true,brandfetch,可能抓到带文字版本，需人工确认纯图形,patagonia.com,seed,patagonia.com,true,200,ok
+salomon,Salomon,萨洛蒙,salomon.com,服装时尚,法国,4,outdoor_sports,true,pending,true,brandfetch,户外运动品牌组,salomon.com,seed,salomon.com,true,200,ok
+under_armour,Under Armour,安德玛,underarmour.com,服装时尚,美国,4,outdoor_sports,true,pending,true,brandfetch,户外/运动品牌组,underarmour.com,seed,underarmour.com,true,200,ok
+starbucks,Starbucks,星巴克,starbucks.com,餐饮食品,美国,5,coffee_chain,true,pending,true,brandfetch,咖啡连锁组,starbucks.com,seed,starbucks.com,true,200,ok
+costa,Costa Coffee,Costa 咖啡,costa.co.uk,餐饮食品,英国,4,coffee_chain,unknown,pending,true,brandfetch,可能抓到字标，需确认是否有纯图形,costa.co.uk,seed,costacoffee.com,false,200,ok
+luckin,Luckin Coffee,瑞幸咖啡,luckincoffee.com,餐饮食品,中国,5,coffee_chain,true,pending,true,brandfetch/svglogo,中国咖啡品牌，可用 SVGLOGO 补充,luckincoffee.com,seed,luckincoffee.com,true,200,ok
+tim_hortons,Tim Hortons,Tim Hortons,timhortons.com,餐饮食品,加拿大,4,coffee_chain,unknown,pending,true,brandfetch,可能抓到字标，需确认是否有纯图形,timhortons.com,seed,timhortons.com,true,200,ok
+mcdonalds,McDonald's,麦当劳,mcdonalds.com,餐饮食品,美国,5,fast_food,true,pending,true,brandfetch,快餐组,mcdonalds.com,seed,mcdonalds.com,true,200,ok
+kfc,KFC,肯德基,kfc.com,餐饮食品,美国,5,fast_food,true,pending,true,brandfetch,快餐组,kfc.com,seed,kfc.com,true,200,ok
+burger_king,Burger King,汉堡王,burgerking.com,餐饮食品,美国,5,fast_food,unknown,pending,true,brandfetch,可能是组合标，需确认是否适合出题,burgerking.com,seed,bk.com,false,200,ok
+pizza_hut,Pizza Hut,必胜客,pizzahut.com,餐饮食品,美国,4,fast_food,true,pending,true,brandfetch,快餐组,pizzahut.com,seed,pizzahut.com,true,200,ok
+pepsi,Pepsi,百事,pepsi.com,餐饮食品,美国,5,beverage_energy,true,pending,true,brandfetch,饮料组,pepsi.com,seed,pepsico.com,false,200,ok
+red_bull,Red Bull,红牛,redbull.com,餐饮食品,奥地利,5,beverage_energy,true,pending,true,brandfetch,饮料/能量饮料组,redbull.com,seed,redbull.com,true,200,ok
+monster_energy,Monster Energy,魔爪能量,monsterenergy.com,餐饮食品,美国,4,beverage_energy,true,pending,true,brandfetch,能量饮料组,monsterenergy.com,seed,upandupmerch.myshopify.com,false,200,ok
+gatorade,Gatorade,佳得乐,gatorade.com,餐饮食品,美国,4,beverage_energy,true,pending,true,brandfetch,运动饮料组,gatorade.com,seed,gatorade.com,true,200,ok
+tesla,Tesla,特斯拉,tesla.com,汽车交通,美国,5,ev_cars,true,pending,true,brandfetch,新能源车组,tesla.com,seed,teslarati.com,false,200,ok
+byd,BYD,比亚迪,byd.com,汽车交通,中国,5,ev_cars,true,pending,true,brandfetch/svglogo,新能源车组，中国品牌,byd.com,seed,byd.com,true,200,ok
+nio,NIO,蔚来,nio.com,汽车交通,中国,4,ev_cars,true,pending,true,brandfetch/svglogo,新能源车组，中国品牌,nio.com,seed,nio.com,true,200,ok
+geely,Geely,吉利,geely.com,汽车交通,中国,4,ev_cars,true,pending,true,brandfetch/svglogo,新能源/汽车组，中国品牌,geely.com,seed,geely.com,true,200,ok
+toyota,Toyota,丰田,toyota.com,汽车交通,日本,5,mass_auto_asia,true,pending,true,brandfetch,大众汽车品牌组,toyota.com,seed,toyota.com,true,200,ok
+honda,Honda,本田,honda.com,汽车交通,日本,5,mass_auto_asia,true,pending,true,brandfetch,大众汽车品牌组,honda.com,seed,honda.com,true,200,ok
+nissan,Nissan,日产,nissan-global.com,汽车交通,日本,4,mass_auto_asia,true,pending,true,brandfetch,大众汽车品牌组,nissan-global.com,seed,nissanusa.com,false,200,ok
+hyundai,Hyundai,现代,hyundai.com,汽车交通,韩国,4,mass_auto_asia,true,pending,true,brandfetch,大众汽车品牌组,hyundai.com,seed,hyundai.com,true,200,ok
+bmw,BMW,宝马,bmw.com,汽车交通,德国,5,premium_auto,true,pending,true,brandfetch,豪华汽车品牌组,bmw.com,seed,bmw-berlin-marathon.com,false,200,ok
+mercedes_benz,Mercedes-Benz,梅赛德斯-奔驰,mercedes-benz.com,汽车交通,德国,5,premium_auto,true,pending,true,brandfetch,豪华汽车品牌组,mercedes-benz.com,seed,mercedes-benz.com,true,200,ok
+audi,Audi,奥迪,audi.com,汽车交通,德国,5,premium_auto,true,pending,true,brandfetch,豪华汽车品牌组,audi.com,seed,audible.com,false,200,ok
+lexus,Lexus,雷克萨斯,lexus.com,汽车交通,日本,4,premium_auto,true,pending,true,brandfetch,豪华汽车品牌组,lexus.com,seed,lexus.com,true,200,ok
+porsche,Porsche,保时捷,porsche.com,汽车交通,德国,5,sports_luxury_auto,true,pending,true,brandfetch,跑车/豪华汽车组,porsche.com,seed,porsche.com,true,200,ok
+ferrari,Ferrari,法拉利,ferrari.com,汽车交通,意大利,5,sports_luxury_auto,true,pending,true,brandfetch,跑车/豪华汽车组,ferrari.com,seed,ferrari.com,true,200,ok
+lamborghini,Lamborghini,兰博基尼,lamborghini.com,汽车交通,意大利,5,sports_luxury_auto,true,pending,true,brandfetch,跑车/豪华汽车组,lamborghini.com,seed,lamborghini.com,true,200,ok
+maserati,Maserati,玛莎拉蒂,maserati.com,汽车交通,意大利,4,sports_luxury_auto,true,pending,true,brandfetch,跑车/豪华汽车组,maserati.com,seed,maserati.com,true,200,ok
+apple,Apple,苹果,apple.com,科技互联网,美国,5,mobile_device,true,pending,true,brandfetch,手机/硬件组,apple.com,seed,apple.com,true,200,ok
+huawei,Huawei,华为,huawei.com,科技互联网,中国,5,mobile_device,true,pending,true,brandfetch/svglogo,手机/硬件组，中国品牌,huawei.com,seed,huawei.com,true,200,ok
+xiaomi,Xiaomi,小米,mi.com,科技互联网,中国,5,mobile_device,true,pending,true,brandfetch/svglogo,手机/硬件组，中国品牌,mi.com,seed,mi.com,true,200,ok
+oneplus,OnePlus,一加,oneplus.com,科技互联网,中国,4,mobile_device,true,pending,true,brandfetch/svglogo,手机/硬件组，中国品牌,oneplus.com,seed,oneplus.com,true,200,ok
+google,Google,谷歌,google.com,科技互联网,美国,5,tech_platforms,true,pending,true,brandfetch,科技平台组，优先取 G symbol,google.com,seed,google.com,true,200,ok
+microsoft,Microsoft,微软,microsoft.com,科技互联网,美国,5,tech_platforms,true,pending,true,brandfetch,科技平台组，优先取四色窗 symbol,microsoft.com,seed,microsoft.com,true,200,ok
+adobe,Adobe,Adobe,adobe.com,科技互联网,美国,5,tech_platforms,true,pending,true,brandfetch,设计/软件平台组,adobe.com,seed,adobe.com,true,200,ok
+nvidia,NVIDIA,英伟达,nvidia.com,科技互联网,美国,5,tech_platforms,true,pending,true,brandfetch,科技/芯片品牌组,nvidia.com,seed,nvidia.com,true,200,ok
+instagram,Instagram,Instagram,instagram.com,文化媒体,美国,5,social_global,true,pending,true,brandfetch,全球社交媒体组,instagram.com,seed,instagram.com,true,200,ok
+tiktok,TikTok,TikTok,tiktok.com,文化媒体,中国/国际,5,social_global,true,pending,true,brandfetch,全球短视频社交组,tiktok.com,seed,tiktok.com,true,200,ok
+snapchat,Snapchat,Snapchat,snapchat.com,文化媒体,美国,4,social_global,true,pending,true,brandfetch,全球社交媒体组,snapchat.com,seed,snapchat.com,true,200,ok
+pinterest,Pinterest,Pinterest,pinterest.com,文化媒体,美国,4,social_global,true,pending,true,brandfetch,全球社交/图片平台组,pinterest.com,seed,pinterest.com,true,200,ok
+wechat,WeChat,微信,wechat.com,文化媒体,中国,5,social_china,true,pending,true,brandfetch/svglogo,中国社交媒体组,wechat.com,seed,wechat.com,true,200,ok
+qq,QQ,QQ,qq.com,文化媒体,中国,5,social_china,true,pending,true,brandfetch/svglogo,中国社交媒体组,qq.com,seed,qualifax.ie,false,200,ok
+douyin,Douyin,抖音,douyin.com,文化媒体,中国,5,social_china,true,pending,true,brandfetch/svglogo,中国短视频平台组,douyin.com,seed,douyin.com,true,200,ok
+xiaohongshu,Xiaohongshu,小红书,xiaohongshu.com,文化媒体,中国,5,social_china,true,pending,true,brandfetch/svglogo,中国社交/生活方式平台组,xiaohongshu.com,seed,xiaohongshu.com,true,200,ok
+whatsapp,WhatsApp,WhatsApp,whatsapp.com,文化媒体,美国,5,messaging_community,true,pending,true,brandfetch,通讯社群组,whatsapp.com,seed,whatsapp.com,true,200,ok
+telegram,Telegram,Telegram,telegram.org,文化媒体,阿联酋/国际,4,messaging_community,true,pending,true,brandfetch,通讯社群组,telegram.org,seed,telegram.org,true,200,ok
+line,LINE,LINE,line.me,文化媒体,日本,4,messaging_community,true,pending,true,brandfetch,通讯社群组,line.me,seed,finishline.com,false,200,ok
+discord,Discord,Discord,discord.com,文化媒体,美国,4,messaging_community,true,pending,true,brandfetch,通讯/社区平台组,discord.com,seed,discord.com,true,200,ok
+youtube,YouTube,YouTube,youtube.com,文化媒体,美国,5,video_platforms,true,pending,true,brandfetch,视频平台组,youtube.com,seed,youtube.com,true,200,ok
+netflix,Netflix,Netflix,netflix.com,文化媒体,美国,5,video_platforms,true,pending,true,brandfetch,视频/流媒体组，优先取 N icon,netflix.com,seed,netflix.com,true,200,ok
+bilibili,Bilibili,哔哩哔哩,bilibili.com,文化媒体,中国,5,video_platforms,true,pending,true,brandfetch/svglogo,中国视频平台组,bilibili.com,seed,bilibili.com,true,200,ok
+tencent_video,Tencent Video,腾讯视频,v.qq.com,文化媒体,中国,5,video_platforms,true,pending,true,brandfetch/svglogo,中国视频平台组,v.qq.com,seed,,,200,ok
+playstation,PlayStation,PlayStation,playstation.com,文化媒体,日本,5,game_platforms,true,pending,true,brandfetch,游戏平台组,playstation.com,seed,playstation.com,true,200,ok
+xbox,Xbox,Xbox,xbox.com,文化媒体,美国,5,game_platforms,true,pending,true,brandfetch,游戏平台组,xbox.com,seed,xbox.com,true,200,ok
+steam,Steam,Steam,steampowered.com,文化媒体,美国,4,game_platforms,true,pending,true,brandfetch,游戏平台组,steampowered.com,seed,steampowered.com,true,200,ok
+roblox,Roblox,Roblox,roblox.com,文化媒体,美国,4,game_platforms,true,pending,true,brandfetch,游戏平台/UGC 组,roblox.com,seed,roblox.com,true,200,ok
+jd,JD.com,京东,jd.com,生活消费,中国,5,ecommerce_china,true,pending,true,brandfetch/svglogo,中国电商组,jd.com,seed,jd.com,true,200,ok
+tmall,Tmall,天猫,tmall.com,生活消费,中国,5,ecommerce_china,true,pending,true,brandfetch/svglogo,中国电商组,tmall.com,seed,taobaocargo.com,false,200,ok
+pinduoduo,Pinduoduo,拼多多,pinduoduo.com,生活消费,中国,5,ecommerce_china,true,pending,true,brandfetch/svglogo,中国电商组,pinduoduo.com,seed,pinduoduo.com,true,200,ok
+meituan,Meituan,美团,meituan.com,生活消费,中国,5,ecommerce_china,true,pending,true,brandfetch/svglogo,中国本地生活组,meituan.com,seed,meituan.com,true,200,ok
+mastercard,Mastercard,万事达卡,mastercard.com,金融商业,美国,5,payment_wallets,true,pending,true,brandfetch,支付/银行卡组,mastercard.com,seed,mastercard.com,true,200,ok
+paypal,PayPal,PayPal,paypal.com,金融商业,美国,5,payment_wallets,true,pending,true,brandfetch,支付钱包组,paypal.com,seed,paypal.com,true,200,ok
+alipay,Alipay,支付宝,alipay.com,金融商业,中国,5,payment_wallets,true,pending,true,brandfetch/svglogo,中国支付钱包组,alipay.com,seed,alipay.com,true,200,ok
+wechat_pay,WeChat Pay,微信支付,pay.weixin.qq.com,金融商业,中国,5,payment_wallets,true,pending,true,brandfetch/svglogo,中国支付钱包组,pay.weixin.qq.com,seed,wechatpay.com,false,200,ok
+bank_of_china,Bank of China,中国银行,boc.cn,金融商业,中国,5,bank_china,true,pending,true,brandfetch/svglogo,中国银行组,boc.cn,seed,psbc.com,false,200,ok
+icbc,ICBC,中国工商银行,icbc.com.cn,金融商业,中国,5,bank_china,true,pending,true,brandfetch/svglogo,中国银行组,icbc.com.cn,seed,icbc-ltd.com,false,200,ok
+china_construction_bank,China Construction Bank,中国建设银行,ccb.com,金融商业,中国,5,bank_china,true,pending,true,brandfetch/svglogo,中国银行组,ccb.com,seed,ccb.com,true,200,ok
+agricultural_bank_of_china,Agricultural Bank of China,中国农业银行,abchina.com,金融商业,中国,5,bank_china,true,pending,true,brandfetch/svglogo,中国银行组,abchina.com,seed,abchina.com,true,200,ok
+hsbc,HSBC,汇丰银行,hsbc.com,金融商业,英国,5,bank_global,true,pending,true,brandfetch,国际银行组,hsbc.com,seed,hsbc.com,true,200,ok
+citibank,Citibank,花旗银行,citi.com,金融商业,美国,4,bank_global,true,pending,true,brandfetch,国际银行组,citi.com,seed,citientertainment.com,false,200,ok
+chase,Chase,大通银行,chase.com,金融商业,美国,4,bank_global,true,pending,true,brandfetch,国际银行组,chase.com,seed,chase.com,true,200,ok
+deutsche_bank,Deutsche Bank,德意志银行,db.com,金融商业,德国,4,bank_global,true,pending,true,brandfetch,国际银行组,db.com,seed,db.com,true,200,ok
+chanel,Chanel,香奈儿,chanel.com,服装时尚,法国,5,luxury_fashion,true,pending,true,brandfetch,奢侈品牌组,chanel.com,seed,chanel.com,true,200,ok
+gucci,Gucci,古驰,gucci.com,服装时尚,意大利,5,luxury_fashion,true,pending,true,brandfetch,奢侈品牌组,gucci.com,seed,gucci.com,true,200,ok
+louis_vuitton,Louis Vuitton,路易威登,louisvuitton.com,服装时尚,法国,5,luxury_fashion,true,pending,true,brandfetch,奢侈品牌组，LV 字母符号仍可用于辨识,louisvuitton.com,seed,louisvuitton.com,true,200,ok
+hermes,Hermès,爱马仕,hermes.com,服装时尚,法国,5,luxury_fashion,true,pending,true,brandfetch,奢侈品牌组,hermes.com,seed,hermes.com,true,200,ok
+air_china,Air China,中国国际航空,airchina.com,汽车交通,中国,5,airline_china,true,pending,true,brandfetch/svglogo,中国航空公司组,airchina.com,seed,airchina.com,true,200,ok
+china_southern_airlines,China Southern Airlines,中国南方航空,csair.com,汽车交通,中国,5,airline_china,true,pending,true,brandfetch/svglogo,中国航空公司组,csair.com,seed,csair.com,true,200,ok
+china_eastern_airlines,China Eastern Airlines,中国东方航空,ceair.com,汽车交通,中国,5,airline_china,true,pending,true,brandfetch/svglogo,中国航空公司组,ceair.com,seed,ceair.com,true,200,ok
+hainan_airlines,Hainan Airlines,海南航空,hainanairlines.com,汽车交通,中国,4,airline_china,true,pending,true,brandfetch/svglogo,中国航空公司组,hainanairlines.com,seed,hainanairlines.com,true,200,ok
+emirates,Emirates,阿联酋航空,emirates.com,汽车交通,阿联酋,5,airline_global,true,pending,true,brandfetch,国际航空公司组,emirates.com,seed,emirates.com,true,200,ok
+qatar_airways,Qatar Airways,卡塔尔航空,qatarairways.com,汽车交通,卡塔尔,5,airline_global,true,pending,true,brandfetch,国际航空公司组,qatarairways.com,seed,qatarairways.com,true,200,ok
+singapore_airlines,Singapore Airlines,新加坡航空,singaporeair.com,汽车交通,新加坡,5,airline_global,true,pending,true,brandfetch,国际航空公司组,singaporeair.com,seed,singaporeair.com,true,200,ok
+delta_air_lines,Delta Air Lines,达美航空,delta.com,汽车交通,美国,4,airline_global,true,pending,true,brandfetch,国际航空公司组,delta.com,seed,dalm.ec,false,200,ok
+united_nations,United Nations,联合国,un.org,公共机构/教育,国际组织,5,public_orgs,true,pending,true,brandfetch,公共机构组,un.org,seed,unfoundation.org,false,200,ok
+world_health_organization,World Health Organization,世界卫生组织,who.int,公共机构/教育,国际组织,5,public_orgs,true,pending,true,brandfetch,公共机构组,who.int,seed,who.int,true,200,ok
+olympics,Olympics,奥林匹克,olympics.com,公共机构/教育,国际组织,5,public_orgs,true,pending,true,brandfetch,公共/体育组织组,olympics.com,seed,olympics.com,true,200,ok
+red_cross,Red Cross,红十字会,redcross.org,公共机构/教育,国际组织,5,public_orgs,true,pending,true,brandfetch,公共机构组,redcross.org,seed,redcross.org,true,200,ok
+tsinghua_university,Tsinghua University,清华大学,tsinghua.edu.cn,公共机构/教育,中国,5,education_china,unknown,pending,true,svglogo/official,高校组，校徽复杂，需确认是否适合题库,tsinghua.edu.cn,seed,thebodyshopspringfield.com,false,200,ok
+peking_university,Peking University,北京大学,pku.edu.cn,公共机构/教育,中国,5,education_china,unknown,pending,true,svglogo/official,高校组，校徽复杂，需确认是否适合题库,pku.edu.cn,seed,pkusz.edu.cn,false,200,ok
+fudan_university,Fudan University,复旦大学,fudan.edu.cn,公共机构/教育,中国,4,education_china,unknown,pending,true,svglogo/official,高校组，校徽复杂，需确认是否适合题库,fudan.edu.cn,seed,fudantoronto.ca,false,200,ok
+zhejiang_university,Zhejiang University,浙江大学,zju.edu.cn,公共机构/教育,中国,4,education_china,unknown,pending,true,svglogo/official,高校组，校徽复杂，需确认是否适合题库,zju.edu.cn,seed,zufe.edu.cn,false,200,ok

@@ -1,0 +1,58 @@
+{
+  "fetched_at": "2026-06-06T12:08:27.495Z",
+  "brand_id": "qatar_airways",
+  "query": "Qatar Airways",
+  "http_status": 200,
+  "search_status": "ok",
+  "results": [
+    {
+      "brandId": "idZKewuK9S",
+      "claimed": false,
+      "domain": "qatarairways.com",
+      "name": "Qatar Airways",
+      "icon": "https://cdn.brandfetch.io/idZKewuK9S/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834106320bfumLaCV7mq6GPCA3n",
+      "_score": 33.161613,
+      "qualityScore": 0.9611839422190626,
+      "verified": true
+    },
+    {
+      "brandId": "id5u-oKKj3",
+      "claimed": false,
+      "domain": "qatarairwaysholidays.com",
+      "name": "Qatar Airways Holidays",
+      "icon": "https://cdn.brandfetch.io/id5u-oKKj3/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834106320bfumLaCV7mq6GPCA3n",
+      "_score": 31.12825,
+      "qualityScore": 0.7414209930475558
+    },
+    {
+      "brandId": "id5xtVM9zf",
+      "claimed": false,
+      "domain": "qatarairways-emirate.com",
+      "name": "Qatar Airways",
+      "icon": "https://cdn.brandfetch.io/id5xtVM9zf/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834106320bfumLaCV7mq6GPCA3n",
+      "_score": 33.743435,
+      "qualityScore": 0.5,
+      "verified": false
+    },
+    {
+      "brandId": "idH9Q_wfu7",
+      "claimed": false,
+      "domain": "qatarairwaysupplier.com",
+      "name": "Qatar Airways",
+      "icon": "https://cdn.brandfetch.io/idH9Q_wfu7/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834106320bfumLaCV7mq6GPCA3n",
+      "_score": 31.830156,
+      "qualityScore": 0.5,
+      "verified": false
+    },
+    {
+      "brandId": "idiY4Y41sG",
+      "claimed": false,
+      "domain": "register-qatarairways.com",
+      "name": "Qatar Airways",
+      "icon": "https://cdn.brandfetch.io/idiY4Y41sG/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834106320bfumLaCV7mq6GPCA3n",
+      "_score": 31.12825,
+      "qualityScore": 0.5,
+      "verified": false
+    }
+  ]
+}

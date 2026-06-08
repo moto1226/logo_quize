@@ -1,0 +1,56 @@
+{
+  "fetched_at": "2026-06-06T12:07:50.807Z",
+  "brand_id": "honda",
+  "query": "Honda",
+  "http_status": 200,
+  "search_status": "ok",
+  "results": [
+    {
+      "brandId": "id9e9dg7ak",
+      "claimed": false,
+      "domain": "honda.com",
+      "name": "Honda",
+      "icon": "https://cdn.brandfetch.io/id9e9dg7ak/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834069617bfumLaCV7mYRTkrl4c",
+      "_score": 15.480463,
+      "qualityScore": 0.9611908652977164,
+      "verified": true
+    },
+    {
+      "brandId": "idw0iHKAxA",
+      "claimed": false,
+      "domain": "honda.co.jp",
+      "name": "Honda",
+      "icon": "https://cdn.brandfetch.io/idw0iHKAxA/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834069617bfumLaCV7mYRTkrl4c",
+      "_score": 15.607075,
+      "qualityScore": 0.8071500575567452,
+      "verified": true
+    },
+    {
+      "brandId": "idzJ8kiK0V",
+      "claimed": false,
+      "domain": "honda2wheelersindia.com",
+      "name": "Honda 2 Wheelers India",
+      "icon": "https://cdn.brandfetch.io/idzJ8kiK0V/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834069617bfumLaCV7mYRTkrl4c",
+      "_score": 14.851049,
+      "qualityScore": 0.7657027106564468
+    },
+    {
+      "brandId": "id1_IbM-2V",
+      "claimed": false,
+      "domain": "hondacarindia.com",
+      "name": "Honda Car India",
+      "icon": "https://cdn.brandfetch.io/id1_IbM-2V/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834069617bfumLaCV7mYRTkrl4c",
+      "_score": 10.473248,
+      "qualityScore": 0.7649862297080959
+    },
+    {
+      "brandId": "idkZWAiROm",
+      "claimed": false,
+      "domain": "hondaph.com",
+      "name": "Honda Philippines",
+      "icon": "https://cdn.brandfetch.io/idkZWAiROm/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834069617bfumLaCV7mYRTkrl4c",
+      "_score": 12.491641,
+      "qualityScore": 0.7595194206490858
+    }
+  ]
+}

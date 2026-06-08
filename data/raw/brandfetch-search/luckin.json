@@ -1,0 +1,18 @@
+{
+  "fetched_at": "2026-06-06T12:07:42.342Z",
+  "brand_id": "luckin",
+  "query": "Luckin Coffee",
+  "http_status": 200,
+  "search_status": "ok",
+  "results": [
+    {
+      "brandId": "idxLvdbLnU",
+      "claimed": false,
+      "domain": "luckincoffee.com",
+      "name": "luckin coffee Singapore",
+      "icon": "https://cdn.brandfetch.io/idxLvdbLnU/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834061183bfumLaCV7mHq7KZ4Gg",
+      "_score": 30.308126,
+      "qualityScore": 0.7453302247940947
+    }
+  ]
+}

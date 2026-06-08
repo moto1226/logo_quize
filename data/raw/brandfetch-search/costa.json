@@ -1,0 +1,37 @@
+{
+  "fetched_at": "2026-06-06T12:07:41.786Z",
+  "brand_id": "costa",
+  "query": "Costa Coffee",
+  "http_status": 200,
+  "search_status": "ok",
+  "results": [
+    {
+      "brandId": "idwtkNpDbG",
+      "claimed": false,
+      "domain": "costacoffee.com",
+      "name": "Costa Coffee",
+      "icon": "https://cdn.brandfetch.io/idwtkNpDbG/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834060616bfumLaCV7mhetv3IeL",
+      "_score": 29.635256,
+      "qualityScore": 0.8181937045484262,
+      "verified": true
+    },
+    {
+      "brandId": "idZn2Tw7Oj",
+      "claimed": false,
+      "domain": "costa.co.uk",
+      "name": "Costa Coffee",
+      "icon": "https://cdn.brandfetch.io/idZn2Tw7Oj/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834060616bfumLaCV7mhetv3IeL",
+      "_score": 29.635256,
+      "qualityScore": 0.7281510378069902
+    },
+    {
+      "brandId": "idiDnv8C9T",
+      "claimed": false,
+      "domain": "costa-coffee.ch",
+      "name": "Costa Coffee",
+      "icon": "https://cdn.brandfetch.io/idiDnv8C9T/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834060616bfumLaCV7mhetv3IeL",
+      "_score": 29.635256,
+      "qualityScore": 0.6375895343973835
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+<view class="quiz-page" wx:if="{{!isEmpty && currentQuestion}}">
+  <view class="top-bar" style="height: {{navBarHeight}}px; padding-top: {{statusBarHeight}}px; padding-right: {{menuRightSpace}}px;">
+    <view class="exit-icon" bindtap="handleExit">×</view>
+    <view class="progress-track">
+      <view class="progress-fill" style="width: {{progressPercent}}%;"></view>
+    </view>
+  </view>
+
+  <view class="stage-card">
+    <view class="type-pill">{{typeLabel}}</view>
+    <view class="stage-title">{{stagePrompt}}</view>
+
+    <block wx:if="{{currentQuestion.type === 'logo_to_brand'}}">
+      <image class="logo-question-image" mode="aspectFit" src="{{currentQuestion.logo}}"></image>
+    </block>
+
+    <block wx:elif="{{currentQuestion.type === 'brand_to_logo'}}">
+      <view class="brand-question-name">{{currentQuestion.brand_name}}</view>
+    </block>
+
+    <block wx:else>
+      <view class="brand-question-name">{{currentQuestion.prompt || '请选择正确答案'}}</view>
+    </block>
+  </view>
+
+  <view class="round-meta">
+    <text>第 {{currentIndex + 1}} / {{totalQuestions}} 题</text>
+    <text>{{elapsedText}}</text>
+  </view>
+
+  <view class="options-area">
+    <view wx:if="{{currentQuestion.type === 'logo_to_brand'}}" class="text-options">
+      <button
+        wx:for="{{options}}"
+        wx:key="brand_id"
+        class="option-btn {{item.className}}"
+        hover-class="{{answerState === 'correct' || answerState === 'wrong' ? 'none' : 'option-active'}}"
+        data-id="{{item.brand_id}}"
+        data-index="{{index}}"
+        bindtap="handleOptionTap"
+      >
+        <view class="option-letter">{{item.letter}}</view>
+        <text>{{item.text}}</text>
+      </button>
+    </view>
+
+    <view wx:else class="logo-options">
+      <button
+        wx:for="{{options}}"
+        wx:key="brand_id"
+        class="logo-option-btn {{item.className}}"
+        hover-class="{{answerState === 'correct' || answerState === 'wrong' ? 'none' : 'option-active'}}"
+        data-id="{{item.brand_id}}"
+        data-index="{{index}}"
+        bindtap="handleOptionTap"
+      >
+        <view class="logo-option-letter">{{item.letter}}</view>
+        <image mode="aspectFit" src="{{item.image}}"></image>
+      </button>
+    </view>
+  </view>
+
+  <view class="answer-footer {{answerState === 'correct' ? 'footer-correct' : ''}} {{answerState === 'wrong' ? 'footer-wrong' : ''}}">
+    <view wx:if="{{answerState === 'correct'}}" class="feedback-content">
+      <view>
+        <view class="feedback-title">太棒了！</view>
+        <view class="feedback-desc">你认出了这个品牌</view>
+      </view>
+      <button class="footer-btn continue-btn" bindtap="handleContinue">{{isLast ? '查看结果' : '继续'}}</button>
+    </view>
+
+    <view wx:elif="{{answerState === 'wrong'}}" class="feedback-content">
+      <view>
+        <view class="feedback-title">答错了</view>
+        <view class="feedback-desc">正确答案是：{{correctAnswerTip}}</view>
+      </view>
+      <button class="footer-btn wrong-btn" bindtap="handleContinue">{{isLast ? '查看结果' : '知道了'}}</button>
+    </view>
+
+    <button wx:else class="check-btn {{answerState === 'selected' ? 'is-ready' : ''}}" hover-class="{{answerState === 'selected' ? 'check-active' : 'none'}}" bindtap="handleCheckAnswer">
+      检查答案
+    </button>
+  </view>
+</view>
+
+<view class="empty-page" wx:else>
+  <view class="top-bar empty-top" style="height: {{navBarHeight}}px; padding-top: {{statusBarHeight}}px; padding-right: {{menuRightSpace}}px;">
+    <view class="exit-icon" bindtap="goHome">×</view>
+  </view>
+  <view class="empty-card">
+    <view class="empty-title">暂无可用题目</view>
+    <view class="empty-desc">当前模式还没有可用题目，请返回首页选择其他模式。</view>
+    <button bindtap="goHome">返回首页</button>
+  </view>
+</view>

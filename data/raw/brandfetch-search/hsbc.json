@@ -1,0 +1,48 @@
+{
+  "fetched_at": "2026-06-06T12:08:20.300Z",
+  "brand_id": "hsbc",
+  "query": "HSBC",
+  "http_status": 200,
+  "search_status": "ok",
+  "results": [
+    {
+      "brandId": "idQWSx-Tfz",
+      "claimed": true,
+      "domain": "hsbc.com",
+      "name": "HSBC",
+      "icon": "https://cdn.brandfetch.io/idQWSx-Tfz/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834099133bfumLaCV7ml2sZVlNe",
+      "_score": 21.25755,
+      "qualityScore": 0.9995703075848846,
+      "verified": true
+    },
+    {
+      "brandId": "iduuDE90jY",
+      "claimed": false,
+      "domain": "hsbc.co.uk",
+      "name": "HSBC UK",
+      "icon": "https://cdn.brandfetch.io/iduuDE90jY/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834099133bfumLaCV7ml2sZVlNe",
+      "_score": 17.158749,
+      "qualityScore": 0.9221667113109085,
+      "verified": true
+    },
+    {
+      "brandId": "idhCOgv9G1",
+      "claimed": false,
+      "domain": "svns.com",
+      "name": "HSBC SVNS",
+      "icon": "https://cdn.brandfetch.io/idhCOgv9G1/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834099133bfumLaCV7ml2sZVlNe",
+      "_score": 17.395767,
+      "qualityScore": 0.764465844962615
+    },
+    {
+      "brandId": "id_d3UlkqR",
+      "claimed": false,
+      "domain": "canarahsbclife.com",
+      "name": "Canara HSBC Life Insurance",
+      "icon": "https://cdn.brandfetch.io/id_d3UlkqR/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834099133bfumLaCV7ml2sZVlNe",
+      "_score": 12.543835,
+      "qualityScore": 0.752007707232696,
+      "verified": false
+    }
+  ]
+}

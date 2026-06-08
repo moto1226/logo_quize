@@ -1,0 +1,56 @@
+{
+  "fetched_at": "2026-06-06T12:07:54.392Z",
+  "brand_id": "lexus",
+  "query": "Lexus",
+  "http_status": 200,
+  "search_status": "ok",
+  "results": [
+    {
+      "brandId": "idKxfDnw2E",
+      "claimed": false,
+      "domain": "lexus.com",
+      "name": "Lexus",
+      "icon": "https://cdn.brandfetch.io/idKxfDnw2E/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834073207bfumLaCV7mdJy0K-N9",
+      "_score": 18.284622,
+      "qualityScore": 0.9090124484069583,
+      "verified": true
+    },
+    {
+      "brandId": "idsM0dwrum",
+      "claimed": false,
+      "domain": "lexusfinancial.com",
+      "name": "Lexus Financial Services",
+      "icon": "https://cdn.brandfetch.io/idsM0dwrum/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834073207bfumLaCV7mdJy0K-N9",
+      "_score": 12.366352,
+      "qualityScore": 0.8634349081664193,
+      "verified": true
+    },
+    {
+      "brandId": "idUNfc_h6v",
+      "claimed": false,
+      "domain": "lexus-int.com",
+      "name": "Lexus",
+      "icon": "https://cdn.brandfetch.io/idUNfc_h6v/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834073207bfumLaCV7mdJy0K-N9",
+      "_score": 18.100582,
+      "qualityScore": 0.766678230131096
+    },
+    {
+      "brandId": "idu-VVMoRk",
+      "claimed": false,
+      "domain": "southcountylexus.com",
+      "name": "South County Lexus",
+      "icon": "https://cdn.brandfetch.io/idu-VVMoRk/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834073207bfumLaCV7mdJy0K-N9",
+      "_score": 12.248737,
+      "qualityScore": 0.7514573801720373
+    },
+    {
+      "brandId": "id3al9F5dd",
+      "claimed": false,
+      "domain": "longolexus.com",
+      "name": "Longo Lexus",
+      "icon": "https://cdn.brandfetch.io/id3al9F5dd/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834073207bfumLaCV7mdJy0K-N9",
+      "_score": 14.748392,
+      "qualityScore": 0.7437665897878012
+    }
+  ]
+}

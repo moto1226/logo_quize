@@ -1,0 +1,56 @@
+{
+  "fetched_at": "2026-06-06T12:08:01.223Z",
+  "brand_id": "nvidia",
+  "query": "NVIDIA",
+  "http_status": 200,
+  "search_status": "ok",
+  "results": [
+    {
+      "brandId": "idXoj5DuCE",
+      "claimed": true,
+      "domain": "nvidia.com",
+      "name": "NVIDIA",
+      "icon": "https://cdn.brandfetch.io/idXoj5DuCE/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834080057bfumLaCV7mTdadFpb1",
+      "_score": 19.684364,
+      "qualityScore": 0.9999770384557981,
+      "verified": true
+    },
+    {
+      "brandId": "id31XIfRsJ",
+      "claimed": false,
+      "domain": "geforce.com",
+      "name": "NVIDIA GeForce",
+      "icon": "https://cdn.brandfetch.io/id31XIfRsJ/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834080057bfumLaCV7mTdadFpb1",
+      "_score": 16.11924,
+      "qualityScore": 0.9613286345629278,
+      "verified": true
+    },
+    {
+      "brandId": "idS7W6-9Zb",
+      "claimed": false,
+      "domain": "geforcenow.com",
+      "name": "️ NVIDIA GeForce NOW",
+      "icon": "https://cdn.brandfetch.io/idS7W6-9Zb/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834080058bfumLaCV7m2fU-ZWG9",
+      "_score": 13.493095,
+      "qualityScore": 0.7680671150937018
+    },
+    {
+      "brandId": "idx52Q5Vtm",
+      "claimed": false,
+      "domain": "mellanox.com",
+      "name": "NVIDIA Networking",
+      "icon": "https://cdn.brandfetch.io/idx52Q5Vtm/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834080058bfumLaCV7m2fU-ZWG9",
+      "_score": 15.989691,
+      "qualityScore": 0.7629693638192641
+    },
+    {
+      "brandId": "idGIZFrVYp",
+      "claimed": false,
+      "domain": "cumulusnetworks.com",
+      "name": "NVIDIA Networking",
+      "icon": "https://cdn.brandfetch.io/idGIZFrVYp/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834080058bfumLaCV7m2fU-ZWG9",
+      "_score": 15.877426,
+      "qualityScore": 0.7522554380638595
+    }
+  ]
+}

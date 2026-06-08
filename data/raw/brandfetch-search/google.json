@@ -1,0 +1,57 @@
+{
+  "fetched_at": "2026-06-06T12:07:59.526Z",
+  "brand_id": "google",
+  "query": "Google",
+  "http_status": 200,
+  "search_status": "ok",
+  "results": [
+    {
+      "brandId": "id6O2oGzv-",
+      "claimed": true,
+      "domain": "google.com",
+      "name": "Google",
+      "icon": "https://cdn.brandfetch.io/id6O2oGzv-/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834078373bfumLaCV7mBmyHLSHW",
+      "_score": 16.961708,
+      "qualityScore": 1,
+      "verified": true
+    },
+    {
+      "brandId": "id56-cuGty",
+      "claimed": false,
+      "domain": "thinkwithgoogle.com",
+      "name": "Think with Google",
+      "icon": "https://cdn.brandfetch.io/id56-cuGty/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834078373bfumLaCV7mBmyHLSHW",
+      "_score": 11.456928,
+      "qualityScore": 0.9227813076184039,
+      "verified": true
+    },
+    {
+      "brandId": "idNeclL_om",
+      "claimed": false,
+      "domain": "googlesource.com",
+      "name": "Google Open Source",
+      "icon": "https://cdn.brandfetch.io/idNeclL_om/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834078373bfumLaCV7mBmyHLSHW",
+      "_score": 11.478056,
+      "qualityScore": 0.7688930960694278
+    },
+    {
+      "brandId": "idqwPsNkb7",
+      "claimed": false,
+      "domain": "apigee.com",
+      "name": "Google Cloud",
+      "icon": "https://cdn.brandfetch.io/idqwPsNkb7/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834078373bfumLaCV7mBmyHLSHW",
+      "_score": 13.691214,
+      "qualityScore": 0.7663095185004565
+    },
+    {
+      "brandId": "idmrO6R9oP",
+      "claimed": false,
+      "domain": "googleplus.com",
+      "name": "Google Workspace",
+      "icon": "https://cdn.brandfetch.io/idmrO6R9oP/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834078373bfumLaCV7mBmyHLSHW",
+      "_score": 13.25093,
+      "qualityScore": 0.7537215057380687,
+      "verified": false
+    }
+  ]
+}

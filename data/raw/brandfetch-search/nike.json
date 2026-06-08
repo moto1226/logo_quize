@@ -1,0 +1,29 @@
+{
+  "fetched_at": "2026-06-06T12:07:36.661Z",
+  "brand_id": "nike",
+  "query": "Nike",
+  "http_status": 200,
+  "search_status": "ok",
+  "results": [
+    {
+      "brandId": "id_0dwKPKT",
+      "claimed": true,
+      "domain": "nike.com",
+      "name": "Nike",
+      "icon": "https://cdn.brandfetch.io/id_0dwKPKT/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834055493bfumLaCV7mnSWgK8pC",
+      "_score": 19.35315,
+      "qualityScore": 0.9999656153760192,
+      "verified": true
+    },
+    {
+      "brandId": "id8sMhtbTc",
+      "claimed": false,
+      "domain": "nikesb.com",
+      "name": "NIKE SB",
+      "icon": "https://cdn.brandfetch.io/id8sMhtbTc/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834055493bfumLaCV7mnSWgK8pC",
+      "_score": 15.559305,
+      "qualityScore": 0.7190135259072276,
+      "verified": false
+    }
+  ]
+}

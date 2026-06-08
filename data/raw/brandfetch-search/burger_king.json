@@ -1,0 +1,38 @@
+{
+  "fetched_at": "2026-06-06T12:07:44.628Z",
+  "brand_id": "burger_king",
+  "query": "Burger King",
+  "http_status": 200,
+  "search_status": "ok",
+  "results": [
+    {
+      "brandId": "id54Osj5fe",
+      "claimed": false,
+      "domain": "bk.com",
+      "name": "Burger King",
+      "icon": "https://cdn.brandfetch.io/id54Osj5fe/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834063457bfumLaCV7mCTN0oY1H",
+      "_score": 27.530375,
+      "qualityScore": 0.9604556343446778,
+      "verified": true
+    },
+    {
+      "brandId": "idAi9BunV2",
+      "claimed": false,
+      "domain": "burgerking.de",
+      "name": "Burger King",
+      "icon": "https://cdn.brandfetch.io/idAi9BunV2/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834063457bfumLaCV7mCTN0oY1H",
+      "_score": 27.530375,
+      "qualityScore": 0.8738311896116435,
+      "verified": true
+    },
+    {
+      "brandId": "idzSOMT5WJ",
+      "claimed": false,
+      "domain": "burgerking.com.br",
+      "name": "Burger King BR",
+      "icon": "https://cdn.brandfetch.io/idzSOMT5WJ/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834063457bfumLaCV7mCTN0oY1H",
+      "_score": 26.864689,
+      "qualityScore": 0.7243716714775332
+    }
+  ]
+}

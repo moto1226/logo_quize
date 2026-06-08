@@ -1,0 +1,7 @@
+.env
+node_modules/
+.tools/
+vendor/
+/assets/
+reports/*.log
+project.private.config.json

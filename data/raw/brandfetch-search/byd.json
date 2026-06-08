@@ -1,0 +1,48 @@
+{
+  "fetched_at": "2026-06-06T12:07:48.409Z",
+  "brand_id": "byd",
+  "query": "BYD",
+  "http_status": 200,
+  "search_status": "ok",
+  "results": [
+    {
+      "brandId": "idLmxqpO1F",
+      "claimed": false,
+      "domain": "byd.com",
+      "name": "BYD",
+      "icon": "https://cdn.brandfetch.io/idLmxqpO1F/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834067243bfumLaCV7mfnNkbLV4",
+      "_score": null,
+      "qualityScore": 0.9223580767433653,
+      "verified": true
+    },
+    {
+      "brandId": "idvncfjuLk",
+      "claimed": false,
+      "domain": "bydeluxe.com",
+      "name": "Deluxe",
+      "icon": "https://cdn.brandfetch.io/idvncfjuLk/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834067243bfumLaCV7mfnNkbLV4",
+      "_score": null,
+      "qualityScore": 0.9153214019072736,
+      "verified": true
+    },
+    {
+      "brandId": "iddo6jNnQ5",
+      "claimed": false,
+      "domain": "bydauto.com.cn",
+      "name": "BYD",
+      "icon": "https://cdn.brandfetch.io/iddo6jNnQ5/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834067243bfumLaCV7mfnNkbLV4",
+      "_score": null,
+      "qualityScore": 0.875415420776932,
+      "verified": true
+    },
+    {
+      "brandId": "idLUUr-r9z",
+      "claimed": true,
+      "domain": "bydas.com",
+      "name": "Bydas",
+      "icon": "https://cdn.brandfetch.io/idLUUr-r9z/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834067243bfumLaCV7mfnNkbLV4",
+      "_score": null,
+      "qualityScore": 0.5769230769230769
+    }
+  ]
+}

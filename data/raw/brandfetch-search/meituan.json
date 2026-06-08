@@ -1,0 +1,38 @@
+{
+  "fetched_at": "2026-06-06T12:08:15.123Z",
+  "brand_id": "meituan",
+  "query": "Meituan",
+  "http_status": 200,
+  "search_status": "ok",
+  "results": [
+    {
+      "brandId": "idV9esIGVd",
+      "claimed": false,
+      "domain": "meituan.com",
+      "name": "Meituan",
+      "icon": "https://cdn.brandfetch.io/idV9esIGVd/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834093967bfumLaCV7mfTMz2peo",
+      "_score": 25.724443,
+      "qualityScore": 0.8973292820246284,
+      "verified": true
+    },
+    {
+      "brandId": "id2tdgUiNO",
+      "claimed": false,
+      "domain": "mobike.com",
+      "name": "Meituan Bike",
+      "icon": "https://cdn.brandfetch.io/id2tdgUiNO/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834093967bfumLaCV7mfTMz2peo",
+      "_score": 22.024265,
+      "qualityScore": 0.5870125698300656
+    },
+    {
+      "brandId": "ideL7OOq88",
+      "claimed": false,
+      "domain": "longcat.pro",
+      "name": "Meituan LongCat",
+      "icon": "https://cdn.brandfetch.io/ideL7OOq88/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834093967bfumLaCV7mfTMz2peo",
+      "_score": 21.874762,
+      "qualityScore": 0.358974358974359,
+      "verified": false
+    }
+  ]
+}

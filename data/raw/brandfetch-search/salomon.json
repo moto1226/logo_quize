@@ -1,0 +1,39 @@
+{
+  "fetched_at": "2026-06-06T12:07:40.258Z",
+  "brand_id": "salomon",
+  "query": "Salomon",
+  "http_status": 200,
+  "search_status": "ok",
+  "results": [
+    {
+      "brandId": "idk5z-ovbW",
+      "claimed": false,
+      "domain": "salomon.com",
+      "name": "SALOMON",
+      "icon": "https://cdn.brandfetch.io/idk5z-ovbW/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834059081bfumLaCV7m0TKHWDdc",
+      "_score": 20.173275,
+      "qualityScore": 0.9218785958542643,
+      "verified": true
+    },
+    {
+      "brandId": "idqOpoNhmM",
+      "claimed": false,
+      "domain": "ash-berlin.eu",
+      "name": "Alice Salomon Hochschule Berlin",
+      "icon": "https://cdn.brandfetch.io/idqOpoNhmM/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834059081bfumLaCV7m0TKHWDdc",
+      "_score": 11.93906,
+      "qualityScore": 0.715660823145975,
+      "verified": false
+    },
+    {
+      "brandId": "idexlreCGF",
+      "claimed": false,
+      "domain": "ash-berlin.eu",
+      "name": "Alice Salomon Hochschule Berlin",
+      "icon": "https://cdn.brandfetch.io/idexlreCGF/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834059081bfumLaCV7m0TKHWDdc",
+      "_score": 11.751699,
+      "qualityScore": 0.715660823145975,
+      "verified": false
+    }
+  ]
+}

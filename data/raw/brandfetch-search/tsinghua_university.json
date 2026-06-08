@@ -1,0 +1,19 @@
+{
+  "fetched_at": "2026-06-06T12:08:31.385Z",
+  "brand_id": "tsinghua_university",
+  "query": "Tsinghua University",
+  "http_status": 200,
+  "search_status": "ok",
+  "results": [
+    {
+      "brandId": "idejB1heZk",
+      "claimed": false,
+      "domain": "thebodyshopspringfield.com",
+      "name": "Tsinghua University",
+      "icon": "https://cdn.brandfetch.io/idejB1heZk/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834110216bfumLaCV7mHhkO3J1V",
+      "_score": 34.893356,
+      "qualityScore": 0.3076923076923077,
+      "verified": true
+    }
+  ]
+}

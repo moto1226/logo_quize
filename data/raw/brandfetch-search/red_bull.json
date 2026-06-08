@@ -1,0 +1,55 @@
+{
+  "fetched_at": "2026-06-06T12:07:46.413Z",
+  "brand_id": "red_bull",
+  "query": "Red Bull",
+  "http_status": 200,
+  "search_status": "ok",
+  "results": [
+    {
+      "brandId": "iddByYpFsc",
+      "claimed": true,
+      "domain": "redbull.com",
+      "name": "Red Bull",
+      "icon": "https://cdn.brandfetch.io/iddByYpFsc/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834065230bfumLaCV7mQBC0l5Vo",
+      "_score": 25.357851,
+      "qualityScore": 0.9998311922654903,
+      "verified": true
+    },
+    {
+      "brandId": "idiwk9hSch",
+      "claimed": false,
+      "domain": "newyorkredbulls.com",
+      "name": "New York Red Bull",
+      "icon": "https://cdn.brandfetch.io/idiwk9hSch/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834065230bfumLaCV7mQBC0l5Vo",
+      "_score": 25.076366,
+      "qualityScore": 0.7592539205827109
+    },
+    {
+      "brandId": "idxkEnUljf",
+      "claimed": false,
+      "domain": "projekt-spielberg.com",
+      "name": "Red Bull Ring",
+      "icon": "https://cdn.brandfetch.io/idxkEnUljf/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834065230bfumLaCV7mQBC0l5Vo",
+      "_score": 25.357851,
+      "qualityScore": 0.7277966627183965
+    },
+    {
+      "brandId": "id7l3ihPij",
+      "claimed": false,
+      "domain": "redbullrecords.com",
+      "name": "Red Bull Records",
+      "icon": "https://cdn.brandfetch.io/id7l3ihPij/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834065230bfumLaCV7mQBC0l5Vo",
+      "_score": 24.550983,
+      "qualityScore": 0.7136272553298908
+    },
+    {
+      "brandId": "idxgjaeRKn",
+      "claimed": false,
+      "domain": "redbulls.com",
+      "name": "Red Bulls",
+      "icon": "https://cdn.brandfetch.io/idxgjaeRKn/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834065230bfumLaCV7mQBC0l5Vo",
+      "_score": 24.550983,
+      "qualityScore": 0.7079616673750322
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "fetched_at": "2026-06-06T12:08:16.908Z",
+  "brand_id": "alipay",
+  "query": "Alipay",
+  "http_status": 200,
+  "search_status": "ok",
+  "results": [
+    {
+      "brandId": "idTglJWN-B",
+      "claimed": false,
+      "domain": "alipay.com",
+      "name": "Alipay",
+      "icon": "https://cdn.brandfetch.io/idTglJWN-B/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834095732bfumLaCV7mhSze-bXy",
+      "_score": 25.17775,
+      "qualityScore": 0.8717126025435353,
+      "verified": true
+    },
+    {
+      "brandId": "idIVG54GAF",
+      "claimed": false,
+      "domain": "alipayplus.com",
+      "name": "Alipay+",
+      "icon": "https://cdn.brandfetch.io/idIVG54GAF/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834095732bfumLaCV7mhSze-bXy",
+      "_score": 25.17775,
+      "qualityScore": 0.7683648651681394
+    },
+    {
+      "brandId": "idaOcdN79r",
+      "claimed": false,
+      "domain": "alipayhk.com",
+      "name": "AlipayHK",
+      "icon": "https://cdn.brandfetch.io/idaOcdN79r/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834095732bfumLaCV7mhSze-bXy",
+      "_score": 27.21191,
+      "qualityScore": 0.6296371285631283
+    },
+    {
+      "brandId": "idzcVuFkqt",
+      "claimed": false,
+      "domain": "clifehack.com",
+      "name": "中華ライフハッカー＠中国VPN微信WeChat支付宝Alipay小紅書RED抖音TikTok",
+      "icon": "https://cdn.brandfetch.io/idzcVuFkqt/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834095732bfumLaCV7mhSze-bXy",
+      "_score": 4.5086517,
+      "qualityScore": 0.5256410256410257,
+      "verified": false
+    }
+  ]
+}

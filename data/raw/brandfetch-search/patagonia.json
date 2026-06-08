@@ -1,0 +1,55 @@
+{
+  "fetched_at": "2026-06-06T12:07:39.677Z",
+  "brand_id": "patagonia",
+  "query": "Patagonia",
+  "http_status": 200,
+  "search_status": "ok",
+  "results": [
+    {
+      "brandId": "idT2bxoSQR",
+      "claimed": false,
+      "domain": "patagonia.com",
+      "name": "Patagonia",
+      "icon": "https://cdn.brandfetch.io/idT2bxoSQR/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834058515bfumLaCV7mafhARozU",
+      "_score": 18.172039,
+      "qualityScore": 0.9611398652849663,
+      "verified": true
+    },
+    {
+      "brandId": "idxCmNkcXb",
+      "claimed": false,
+      "domain": "patagoniaprovisions.com",
+      "name": "Patagonia Provisions",
+      "icon": "https://cdn.brandfetch.io/idxCmNkcXb/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834058515bfumLaCV7mafhARozU",
+      "_score": 14.95553,
+      "qualityScore": 0.7456846287288494
+    },
+    {
+      "brandId": "idP1AQ4V9a",
+      "claimed": false,
+      "domain": "lastorres.com",
+      "name": "Reserva Las Torres Patagonia",
+      "icon": "https://cdn.brandfetch.io/idP1AQ4V9a/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834058515bfumLaCV7mafhARozU",
+      "_score": 10.707209,
+      "qualityScore": 0.7338386065365747
+    },
+    {
+      "brandId": "id3fGi-WvQ",
+      "claimed": false,
+      "domain": "catedralaltapatagonia.com",
+      "name": "Catedral Alta Patagonia",
+      "icon": "https://cdn.brandfetch.io/id3fGi-WvQ/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834058515bfumLaCV7mafhARozU",
+      "_score": 12.282213,
+      "qualityScore": 0.726202970012281
+    },
+    {
+      "brandId": "idmwBUDt-4",
+      "claimed": false,
+      "domain": "bancopatagonia.com.ar",
+      "name": "Banco Patagonia",
+      "icon": "https://cdn.brandfetch.io/idmwBUDt-4/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834058515bfumLaCV7mafhARozU",
+      "_score": 14.657583,
+      "qualityScore": 0.7261025565256392
+    }
+  ]
+}

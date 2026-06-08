@@ -1,0 +1,23 @@
+{
+  "generated_at": "2026-06-07T01:03:44.767Z",
+  "delay_ms": {
+    "min": 5000,
+    "max": 7000
+  },
+  "url_template": "https://brandfetch.com/{domain}",
+  "headless": true,
+  "total_targets": 1,
+  "converted_count": 0,
+  "failed_count": 1,
+  "entries": [
+    {
+      "brand_id": "nike",
+      "name_en": "Nike",
+      "name_zh": "耐克",
+      "domain": "nike.com",
+      "source_reason": "missing_svglogo_non_wordmark",
+      "status": "failed",
+      "error": "page http 403 https://brandfetch.com/nike.com"
+    }
+  ]
+}

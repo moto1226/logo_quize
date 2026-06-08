@@ -1,0 +1,55 @@
+{
+  "fetched_at": "2026-06-06T12:08:09.333Z",
+  "brand_id": "netflix",
+  "query": "Netflix",
+  "http_status": 200,
+  "search_status": "ok",
+  "results": [
+    {
+      "brandId": "ideQwN5lBE",
+      "claimed": true,
+      "domain": "netflix.com",
+      "name": "Netflix",
+      "icon": "https://cdn.brandfetch.io/ideQwN5lBE/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834088169bfumLaCV7mhf6dLeGW",
+      "_score": 17.772682,
+      "qualityScore": 0.9999977499994375,
+      "verified": true
+    },
+    {
+      "brandId": "idzAOs1_NN",
+      "claimed": false,
+      "domain": "whats-on-netflix.com",
+      "name": "What's on Netflix",
+      "icon": "https://cdn.brandfetch.io/idzAOs1_NN/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834088169bfumLaCV7mhf6dLeGW",
+      "_score": 12.175772,
+      "qualityScore": 0.767107691776923
+    },
+    {
+      "brandId": "idAxAlWfXL",
+      "claimed": false,
+      "domain": "netflixlife.com",
+      "name": "Netflix Life",
+      "icon": "https://cdn.brandfetch.io/idAxAlWfXL/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834088169bfumLaCV7mhf6dLeGW",
+      "_score": 14.85105,
+      "qualityScore": 0.7597505360914801
+    },
+    {
+      "brandId": "idu_p3YzM7",
+      "claimed": false,
+      "domain": "netflixinvestor.com",
+      "name": "Netflix",
+      "icon": "https://cdn.brandfetch.io/idu_p3YzM7/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834088169bfumLaCV7mhf6dLeGW",
+      "_score": 17.983673,
+      "qualityScore": 0.7585738434896148
+    },
+    {
+      "brandId": "id2bMPe_rX",
+      "claimed": false,
+      "domain": "netflixjunkie.com",
+      "name": "Netflix Junkie",
+      "icon": "https://cdn.brandfetch.io/id2bMPe_rX/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834088169bfumLaCV7mhf6dLeGW",
+      "_score": 14.415649,
+      "qualityScore": 0.7502486106390757
+    }
+  ]
+}

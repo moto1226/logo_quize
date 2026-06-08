@@ -1,0 +1,56 @@
+{
+  "fetched_at": "2026-06-06T12:08:05.262Z",
+  "brand_id": "douyin",
+  "query": "Douyin",
+  "http_status": 200,
+  "search_status": "ok",
+  "results": [
+    {
+      "brandId": "idKQ-rJFp7",
+      "claimed": false,
+      "domain": "douyin.com",
+      "name": "深圳市思托睿人力资源有限公司",
+      "icon": "https://cdn.brandfetch.io/idKQ-rJFp7/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834084101bfumLaCV7mVeA6XZMb",
+      "_score": 14.874212,
+      "qualityScore": 0.5383471345867836
+    },
+    {
+      "brandId": "idd7rZccVC",
+      "claimed": false,
+      "domain": "douyinmusicpromotion.com",
+      "name": null,
+      "icon": "https://cdn.brandfetch.io/idd7rZccVC/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834084101bfumLaCV7mVeA6XZMb",
+      "_score": 14.874212,
+      "qualityScore": 0.5316327867543506,
+      "verified": false
+    },
+    {
+      "brandId": "id0svN4MC9",
+      "claimed": false,
+      "domain": "douyinec.com",
+      "name": null,
+      "icon": "https://cdn.brandfetch.io/id0svN4MC9/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834084101bfumLaCV7mVeA6XZMb",
+      "_score": 14.284906,
+      "qualityScore": 0.520983822553648
+    },
+    {
+      "brandId": "id_TPQOrqV",
+      "claimed": false,
+      "domain": "douyinxs.com",
+      "name": null,
+      "icon": "https://cdn.brandfetch.io/id_TPQOrqV/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834084101bfumLaCV7mVeA6XZMb",
+      "_score": 13.589558,
+      "qualityScore": 0.5134373206670225,
+      "verified": false
+    },
+    {
+      "brandId": "idB37DSMW7",
+      "claimed": false,
+      "domain": "open-douyin.com",
+      "name": null,
+      "icon": "https://cdn.brandfetch.io/idB37DSMW7/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834084101bfumLaCV7mVeA6XZMb",
+      "_score": 10.2564125,
+      "qualityScore": 0.49293667131109087
+    }
+  ]
+}

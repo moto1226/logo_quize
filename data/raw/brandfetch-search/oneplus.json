@@ -1,0 +1,48 @@
+{
+  "fetched_at": "2026-06-06T12:07:58.971Z",
+  "brand_id": "oneplus",
+  "query": "OnePlus",
+  "http_status": 200,
+  "search_status": "ok",
+  "results": [
+    {
+      "brandId": "idi46coDvW",
+      "claimed": false,
+      "domain": "oneplus.com",
+      "name": "OnePlus",
+      "icon": "https://cdn.brandfetch.io/idi46coDvW/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834077809bfumLaCV7mAXQJ5c6e",
+      "_score": 22.896528,
+      "qualityScore": 0.9224067690632307,
+      "verified": true
+    },
+    {
+      "brandId": "id7WFHkrAN",
+      "claimed": false,
+      "domain": "oneplusone.org.uk",
+      "name": "OnePlusOne",
+      "icon": "https://cdn.brandfetch.io/id7WFHkrAN/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834077809bfumLaCV7mAXQJ5c6e",
+      "_score": 23.918352,
+      "qualityScore": 0.6174061831976997
+    },
+    {
+      "brandId": "idJrC7WZPM",
+      "claimed": false,
+      "domain": "oneplus789.com",
+      "name": "ONEPLUS789",
+      "icon": "https://cdn.brandfetch.io/idJrC7WZPM/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834077809bfumLaCV7mAXQJ5c6e",
+      "_score": 26.408854,
+      "qualityScore": 0.5646411892372204,
+      "verified": false
+    },
+    {
+      "brandId": "idApvHL5T9",
+      "claimed": false,
+      "domain": "oneplusonecreative.com",
+      "name": "OnePlusOne",
+      "icon": "https://cdn.brandfetch.io/idApvHL5T9/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834077809bfumLaCV7mAXQJ5c6e",
+      "_score": 27.106638,
+      "qualityScore": 0.5384615384615384,
+      "verified": false
+    }
+  ]
+}

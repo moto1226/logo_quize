@@ -1,0 +1,101 @@
+brand_id,name_en,name_zh,domain,industry,country_region,fame_level,similar_group,has_pure_symbol,symbol_review_status,logo_review_status,selected_logo_type,selected_logo_file,selected_logo_size_bytes,preferred_source,notes
+nike,Nike,耐克,nike.com,服装时尚,美国,5,sportswear,true,pending,missing,,assets/logos/nike.webp,0,brandfetch,运动品牌组，适合题型3真实相似干扰
+adidas,Adidas,阿迪达斯,adidas.com,服装时尚,德国,5,sportswear,true,pending,missing,,assets/logos/adidas.webp,0,brandfetch,运动品牌组，优先取三叶草/三条纹 symbol
+puma,Puma,彪马,puma.com,服装时尚,德国,4,sportswear,true,pending,missing,,assets/logos/puma.webp,0,brandfetch,运动品牌组
+reebok,Reebok,锐步,reebok.com,服装时尚,美国,4,sportswear,true,pending,missing,,assets/logos/reebok.webp,0,brandfetch,运动品牌组
+the_north_face,The North Face,北面,thenorthface.com,服装时尚,美国,4,outdoor_sports,true,pending,missing,,assets/logos/the_north_face.webp,0,brandfetch,户外运动品牌组
+patagonia,Patagonia,巴塔哥尼亚,patagonia.com,服装时尚,美国,4,outdoor_sports,unknown,pending,missing,,assets/logos/patagonia.webp,0,brandfetch,可能抓到带文字版本，需人工确认纯图形
+salomon,Salomon,萨洛蒙,salomon.com,服装时尚,法国,4,outdoor_sports,true,pending,missing,,assets/logos/salomon.webp,0,brandfetch,户外运动品牌组
+under_armour,Under Armour,安德玛,underarmour.com,服装时尚,美国,4,outdoor_sports,true,pending,missing,,assets/logos/under_armour.webp,0,brandfetch,户外/运动品牌组
+starbucks,Starbucks,星巴克,starbucks.com,餐饮食品,美国,5,coffee_chain,true,pending,missing,,assets/logos/starbucks.webp,0,brandfetch,咖啡连锁组
+costa,Costa Coffee,Costa 咖啡,costa.co.uk,餐饮食品,英国,4,coffee_chain,unknown,pending,missing,,assets/logos/costa.webp,0,brandfetch,可能抓到字标，需确认是否有纯图形
+luckin,Luckin Coffee,瑞幸咖啡,luckincoffee.com,餐饮食品,中国,5,coffee_chain,true,pending,missing,,assets/logos/luckin.webp,0,brandfetch/svglogo,中国咖啡品牌，可用 SVGLOGO 补充
+tim_hortons,Tim Hortons,Tim Hortons,timhortons.com,餐饮食品,加拿大,4,coffee_chain,unknown,pending,missing,,assets/logos/tim_hortons.webp,0,brandfetch,可能抓到字标，需确认是否有纯图形
+mcdonalds,McDonald's,麦当劳,mcdonalds.com,餐饮食品,美国,5,fast_food,true,pending,missing,,assets/logos/mcdonalds.webp,0,brandfetch,快餐组
+kfc,KFC,肯德基,kfc.com,餐饮食品,美国,5,fast_food,true,pending,missing,,assets/logos/kfc.webp,0,brandfetch,快餐组
+burger_king,Burger King,汉堡王,burgerking.com,餐饮食品,美国,5,fast_food,unknown,pending,missing,,assets/logos/burger_king.webp,0,brandfetch,可能是组合标，需确认是否适合出题
+pizza_hut,Pizza Hut,必胜客,pizzahut.com,餐饮食品,美国,4,fast_food,true,pending,missing,,assets/logos/pizza_hut.webp,0,brandfetch,快餐组
+pepsi,Pepsi,百事,pepsi.com,餐饮食品,美国,5,beverage_energy,true,pending,missing,,assets/logos/pepsi.webp,0,brandfetch,饮料组
+red_bull,Red Bull,红牛,redbull.com,餐饮食品,奥地利,5,beverage_energy,true,pending,missing,,assets/logos/red_bull.webp,0,brandfetch,饮料/能量饮料组
+monster_energy,Monster Energy,魔爪能量,monsterenergy.com,餐饮食品,美国,4,beverage_energy,true,pending,missing,,assets/logos/monster_energy.webp,0,brandfetch,能量饮料组
+gatorade,Gatorade,佳得乐,gatorade.com,餐饮食品,美国,4,beverage_energy,true,pending,missing,,assets/logos/gatorade.webp,0,brandfetch,运动饮料组
+tesla,Tesla,特斯拉,tesla.com,汽车交通,美国,5,ev_cars,true,pending,missing,,assets/logos/tesla.webp,0,brandfetch,新能源车组
+byd,BYD,比亚迪,byd.com,汽车交通,中国,5,ev_cars,true,pending,missing,,assets/logos/byd.webp,0,brandfetch/svglogo,新能源车组，中国品牌
+nio,NIO,蔚来,nio.com,汽车交通,中国,4,ev_cars,true,pending,missing,,assets/logos/nio.webp,0,brandfetch/svglogo,新能源车组，中国品牌
+geely,Geely,吉利,geely.com,汽车交通,中国,4,ev_cars,true,pending,missing,,assets/logos/geely.webp,0,brandfetch/svglogo,新能源/汽车组，中国品牌
+toyota,Toyota,丰田,toyota.com,汽车交通,日本,5,mass_auto_asia,true,pending,missing,,assets/logos/toyota.webp,0,brandfetch,大众汽车品牌组
+honda,Honda,本田,honda.com,汽车交通,日本,5,mass_auto_asia,true,pending,missing,,assets/logos/honda.webp,0,brandfetch,大众汽车品牌组
+nissan,Nissan,日产,nissan-global.com,汽车交通,日本,4,mass_auto_asia,true,pending,missing,,assets/logos/nissan.webp,0,brandfetch,大众汽车品牌组
+hyundai,Hyundai,现代,hyundai.com,汽车交通,韩国,4,mass_auto_asia,true,pending,missing,,assets/logos/hyundai.webp,0,brandfetch,大众汽车品牌组
+bmw,BMW,宝马,bmw.com,汽车交通,德国,5,premium_auto,true,pending,missing,,assets/logos/bmw.webp,0,brandfetch,豪华汽车品牌组
+mercedes_benz,Mercedes-Benz,梅赛德斯-奔驰,mercedes-benz.com,汽车交通,德国,5,premium_auto,true,pending,missing,,assets/logos/mercedes_benz.webp,0,brandfetch,豪华汽车品牌组
+audi,Audi,奥迪,audi.com,汽车交通,德国,5,premium_auto,true,pending,missing,,assets/logos/audi.webp,0,brandfetch,豪华汽车品牌组
+lexus,Lexus,雷克萨斯,lexus.com,汽车交通,日本,4,premium_auto,true,pending,missing,,assets/logos/lexus.webp,0,brandfetch,豪华汽车品牌组
+porsche,Porsche,保时捷,porsche.com,汽车交通,德国,5,sports_luxury_auto,true,pending,missing,,assets/logos/porsche.webp,0,brandfetch,跑车/豪华汽车组
+ferrari,Ferrari,法拉利,ferrari.com,汽车交通,意大利,5,sports_luxury_auto,true,pending,missing,,assets/logos/ferrari.webp,0,brandfetch,跑车/豪华汽车组
+lamborghini,Lamborghini,兰博基尼,lamborghini.com,汽车交通,意大利,5,sports_luxury_auto,true,pending,missing,,assets/logos/lamborghini.webp,0,brandfetch,跑车/豪华汽车组
+maserati,Maserati,玛莎拉蒂,maserati.com,汽车交通,意大利,4,sports_luxury_auto,true,pending,missing,,assets/logos/maserati.webp,0,brandfetch,跑车/豪华汽车组
+apple,Apple,苹果,apple.com,科技互联网,美国,5,mobile_device,true,pending,missing,,assets/logos/apple.webp,0,brandfetch,手机/硬件组
+huawei,Huawei,华为,huawei.com,科技互联网,中国,5,mobile_device,true,pending,missing,,assets/logos/huawei.webp,0,brandfetch/svglogo,手机/硬件组，中国品牌
+xiaomi,Xiaomi,小米,mi.com,科技互联网,中国,5,mobile_device,true,pending,missing,,assets/logos/xiaomi.webp,0,brandfetch/svglogo,手机/硬件组，中国品牌
+oneplus,OnePlus,一加,oneplus.com,科技互联网,中国,4,mobile_device,true,pending,missing,,assets/logos/oneplus.webp,0,brandfetch/svglogo,手机/硬件组，中国品牌
+google,Google,谷歌,google.com,科技互联网,美国,5,tech_platforms,true,pending,missing,,assets/logos/google.webp,0,brandfetch,科技平台组，优先取 G symbol
+microsoft,Microsoft,微软,microsoft.com,科技互联网,美国,5,tech_platforms,true,pending,missing,,assets/logos/microsoft.webp,0,brandfetch,科技平台组，优先取四色窗 symbol
+adobe,Adobe,Adobe,adobe.com,科技互联网,美国,5,tech_platforms,true,pending,missing,,assets/logos/adobe.webp,0,brandfetch,设计/软件平台组
+nvidia,NVIDIA,英伟达,nvidia.com,科技互联网,美国,5,tech_platforms,true,pending,missing,,assets/logos/nvidia.webp,0,brandfetch,科技/芯片品牌组
+instagram,Instagram,Instagram,instagram.com,文化媒体,美国,5,social_global,true,pending,missing,,assets/logos/instagram.webp,0,brandfetch,全球社交媒体组
+tiktok,TikTok,TikTok,tiktok.com,文化媒体,中国/国际,5,social_global,true,pending,missing,,assets/logos/tiktok.webp,0,brandfetch,全球短视频社交组
+snapchat,Snapchat,Snapchat,snapchat.com,文化媒体,美国,4,social_global,true,pending,missing,,assets/logos/snapchat.webp,0,brandfetch,全球社交媒体组
+pinterest,Pinterest,Pinterest,pinterest.com,文化媒体,美国,4,social_global,true,pending,missing,,assets/logos/pinterest.webp,0,brandfetch,全球社交/图片平台组
+wechat,WeChat,微信,wechat.com,文化媒体,中国,5,social_china,true,pending,missing,,assets/logos/wechat.webp,0,brandfetch/svglogo,中国社交媒体组
+qq,QQ,QQ,qq.com,文化媒体,中国,5,social_china,true,pending,missing,,assets/logos/qq.webp,0,brandfetch/svglogo,中国社交媒体组
+douyin,Douyin,抖音,douyin.com,文化媒体,中国,5,social_china,true,pending,missing,,assets/logos/douyin.webp,0,brandfetch/svglogo,中国短视频平台组
+xiaohongshu,Xiaohongshu,小红书,xiaohongshu.com,文化媒体,中国,5,social_china,true,pending,missing,,assets/logos/xiaohongshu.webp,0,brandfetch/svglogo,中国社交/生活方式平台组
+whatsapp,WhatsApp,WhatsApp,whatsapp.com,文化媒体,美国,5,messaging_community,true,pending,missing,,assets/logos/whatsapp.webp,0,brandfetch,通讯社群组
+telegram,Telegram,Telegram,telegram.org,文化媒体,阿联酋/国际,4,messaging_community,true,pending,missing,,assets/logos/telegram.webp,0,brandfetch,通讯社群组
+line,LINE,LINE,line.me,文化媒体,日本,4,messaging_community,true,pending,missing,,assets/logos/line.webp,0,brandfetch,通讯社群组
+discord,Discord,Discord,discord.com,文化媒体,美国,4,messaging_community,true,pending,missing,,assets/logos/discord.webp,0,brandfetch,通讯/社区平台组
+youtube,YouTube,YouTube,youtube.com,文化媒体,美国,5,video_platforms,true,pending,missing,,assets/logos/youtube.webp,0,brandfetch,视频平台组
+netflix,Netflix,Netflix,netflix.com,文化媒体,美国,5,video_platforms,true,pending,missing,,assets/logos/netflix.webp,0,brandfetch,视频/流媒体组，优先取 N icon
+bilibili,Bilibili,哔哩哔哩,bilibili.com,文化媒体,中国,5,video_platforms,true,pending,missing,,assets/logos/bilibili.webp,0,brandfetch/svglogo,中国视频平台组
+tencent_video,Tencent Video,腾讯视频,v.qq.com,文化媒体,中国,5,video_platforms,true,pending,missing,,assets/logos/tencent_video.webp,0,brandfetch/svglogo,中国视频平台组
+playstation,PlayStation,PlayStation,playstation.com,文化媒体,日本,5,game_platforms,true,pending,missing,,assets/logos/playstation.webp,0,brandfetch,游戏平台组
+xbox,Xbox,Xbox,xbox.com,文化媒体,美国,5,game_platforms,true,pending,missing,,assets/logos/xbox.webp,0,brandfetch,游戏平台组
+steam,Steam,Steam,steampowered.com,文化媒体,美国,4,game_platforms,true,pending,missing,,assets/logos/steam.webp,0,brandfetch,游戏平台组
+roblox,Roblox,Roblox,roblox.com,文化媒体,美国,4,game_platforms,true,pending,missing,,assets/logos/roblox.webp,0,brandfetch,游戏平台/UGC 组
+jd,JD.com,京东,jd.com,生活消费,中国,5,ecommerce_china,true,pending,missing,,assets/logos/jd.webp,0,brandfetch/svglogo,中国电商组
+tmall,Tmall,天猫,tmall.com,生活消费,中国,5,ecommerce_china,true,pending,missing,,assets/logos/tmall.webp,0,brandfetch/svglogo,中国电商组
+pinduoduo,Pinduoduo,拼多多,pinduoduo.com,生活消费,中国,5,ecommerce_china,true,pending,missing,,assets/logos/pinduoduo.webp,0,brandfetch/svglogo,中国电商组
+meituan,Meituan,美团,meituan.com,生活消费,中国,5,ecommerce_china,true,pending,missing,,assets/logos/meituan.webp,0,brandfetch/svglogo,中国本地生活组
+mastercard,Mastercard,万事达卡,mastercard.com,金融商业,美国,5,payment_wallets,true,pending,missing,,assets/logos/mastercard.webp,0,brandfetch,支付/银行卡组
+paypal,PayPal,PayPal,paypal.com,金融商业,美国,5,payment_wallets,true,pending,missing,,assets/logos/paypal.webp,0,brandfetch,支付钱包组
+alipay,Alipay,支付宝,alipay.com,金融商业,中国,5,payment_wallets,true,pending,missing,,assets/logos/alipay.webp,0,brandfetch/svglogo,中国支付钱包组
+wechat_pay,WeChat Pay,微信支付,pay.weixin.qq.com,金融商业,中国,5,payment_wallets,true,pending,missing,,assets/logos/wechat_pay.webp,0,brandfetch/svglogo,中国支付钱包组
+bank_of_china,Bank of China,中国银行,boc.cn,金融商业,中国,5,bank_china,true,pending,missing,,assets/logos/bank_of_china.webp,0,brandfetch/svglogo,中国银行组
+icbc,ICBC,中国工商银行,icbc.com.cn,金融商业,中国,5,bank_china,true,pending,missing,,assets/logos/icbc.webp,0,brandfetch/svglogo,中国银行组
+china_construction_bank,China Construction Bank,中国建设银行,ccb.com,金融商业,中国,5,bank_china,true,pending,missing,,assets/logos/china_construction_bank.webp,0,brandfetch/svglogo,中国银行组
+agricultural_bank_of_china,Agricultural Bank of China,中国农业银行,abchina.com,金融商业,中国,5,bank_china,true,pending,missing,,assets/logos/agricultural_bank_of_china.webp,0,brandfetch/svglogo,中国银行组
+hsbc,HSBC,汇丰银行,hsbc.com,金融商业,英国,5,bank_global,true,pending,missing,,assets/logos/hsbc.webp,0,brandfetch,国际银行组
+citibank,Citibank,花旗银行,citi.com,金融商业,美国,4,bank_global,true,pending,missing,,assets/logos/citibank.webp,0,brandfetch,国际银行组
+chase,Chase,大通银行,chase.com,金融商业,美国,4,bank_global,true,pending,missing,,assets/logos/chase.webp,0,brandfetch,国际银行组
+deutsche_bank,Deutsche Bank,德意志银行,db.com,金融商业,德国,4,bank_global,true,pending,missing,,assets/logos/deutsche_bank.webp,0,brandfetch,国际银行组
+chanel,Chanel,香奈儿,chanel.com,服装时尚,法国,5,luxury_fashion,true,pending,missing,,assets/logos/chanel.webp,0,brandfetch,奢侈品牌组
+gucci,Gucci,古驰,gucci.com,服装时尚,意大利,5,luxury_fashion,true,pending,missing,,assets/logos/gucci.webp,0,brandfetch,奢侈品牌组
+louis_vuitton,Louis Vuitton,路易威登,louisvuitton.com,服装时尚,法国,5,luxury_fashion,true,pending,missing,,assets/logos/louis_vuitton.webp,0,brandfetch,奢侈品牌组，LV 字母符号仍可用于辨识
+hermes,Hermès,爱马仕,hermes.com,服装时尚,法国,5,luxury_fashion,true,pending,missing,,assets/logos/hermes.webp,0,brandfetch,奢侈品牌组
+air_china,Air China,中国国际航空,airchina.com,汽车交通,中国,5,airline_china,true,pending,missing,,assets/logos/air_china.webp,0,brandfetch/svglogo,中国航空公司组
+china_southern_airlines,China Southern Airlines,中国南方航空,csair.com,汽车交通,中国,5,airline_china,true,pending,missing,,assets/logos/china_southern_airlines.webp,0,brandfetch/svglogo,中国航空公司组
+china_eastern_airlines,China Eastern Airlines,中国东方航空,ceair.com,汽车交通,中国,5,airline_china,true,pending,missing,,assets/logos/china_eastern_airlines.webp,0,brandfetch/svglogo,中国航空公司组
+hainan_airlines,Hainan Airlines,海南航空,hainanairlines.com,汽车交通,中国,4,airline_china,true,pending,missing,,assets/logos/hainan_airlines.webp,0,brandfetch/svglogo,中国航空公司组
+emirates,Emirates,阿联酋航空,emirates.com,汽车交通,阿联酋,5,airline_global,true,pending,missing,,assets/logos/emirates.webp,0,brandfetch,国际航空公司组
+qatar_airways,Qatar Airways,卡塔尔航空,qatarairways.com,汽车交通,卡塔尔,5,airline_global,true,pending,missing,,assets/logos/qatar_airways.webp,0,brandfetch,国际航空公司组
+singapore_airlines,Singapore Airlines,新加坡航空,singaporeair.com,汽车交通,新加坡,5,airline_global,true,pending,missing,,assets/logos/singapore_airlines.webp,0,brandfetch,国际航空公司组
+delta_air_lines,Delta Air Lines,达美航空,delta.com,汽车交通,美国,4,airline_global,true,pending,missing,,assets/logos/delta_air_lines.webp,0,brandfetch,国际航空公司组
+united_nations,United Nations,联合国,un.org,公共机构/教育,国际组织,5,public_orgs,true,pending,missing,,assets/logos/united_nations.webp,0,brandfetch,公共机构组
+world_health_organization,World Health Organization,世界卫生组织,who.int,公共机构/教育,国际组织,5,public_orgs,true,pending,missing,,assets/logos/world_health_organization.webp,0,brandfetch,公共机构组
+olympics,Olympics,奥林匹克,olympics.com,公共机构/教育,国际组织,5,public_orgs,true,pending,missing,,assets/logos/olympics.webp,0,brandfetch,公共/体育组织组
+red_cross,Red Cross,红十字会,redcross.org,公共机构/教育,国际组织,5,public_orgs,true,pending,missing,,assets/logos/red_cross.webp,0,brandfetch,公共机构组
+tsinghua_university,Tsinghua University,清华大学,tsinghua.edu.cn,公共机构/教育,中国,5,education_china,unknown,pending,missing,,assets/logos/tsinghua_university.webp,0,svglogo/official,高校组，校徽复杂，需确认是否适合题库
+peking_university,Peking University,北京大学,pku.edu.cn,公共机构/教育,中国,5,education_china,unknown,pending,missing,,assets/logos/peking_university.webp,0,svglogo/official,高校组，校徽复杂，需确认是否适合题库
+fudan_university,Fudan University,复旦大学,fudan.edu.cn,公共机构/教育,中国,4,education_china,unknown,pending,missing,,assets/logos/fudan_university.webp,0,svglogo/official,高校组，校徽复杂，需确认是否适合题库
+zhejiang_university,Zhejiang University,浙江大学,zju.edu.cn,公共机构/教育,中国,4,education_china,unknown,pending,missing,,assets/logos/zhejiang_university.webp,0,svglogo/official,高校组，校徽复杂，需确认是否适合题库

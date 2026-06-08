@@ -1,0 +1,19 @@
+{
+  "fetched_at": "2026-06-06T12:08:24.593Z",
+  "brand_id": "air_china",
+  "query": "Air China",
+  "http_status": 200,
+  "search_status": "ok",
+  "results": [
+    {
+      "brandId": "idFTjsLMbV",
+      "claimed": false,
+      "domain": "airchina.com",
+      "name": "Air China",
+      "icon": "https://cdn.brandfetch.io/idFTjsLMbV/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834103429bfumLaCV7mkI0vQ9PD",
+      "_score": 31.255169,
+      "qualityScore": 0.859646830296323,
+      "verified": true
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "fetched_at": "2026-06-06T12:08:21.189Z",
+  "brand_id": "chase",
+  "query": "Chase",
+  "http_status": 200,
+  "search_status": "ok",
+  "results": [
+    {
+      "brandId": "idudVYts5w",
+      "claimed": true,
+      "domain": "chase.com",
+      "name": "Chase",
+      "icon": "https://cdn.brandfetch.io/idudVYts5w/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834100023bfumLaCV7m4tMRmPGj",
+      "_score": 16.18407,
+      "qualityScore": 0.9998255384179231,
+      "verified": true
+    },
+    {
+      "brandId": "idB8rdGiLv",
+      "claimed": false,
+      "domain": "jpmorganchase.com",
+      "name": "JPMorgan Chase & Co.",
+      "icon": "https://cdn.brandfetch.io/idB8rdGiLv/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834100023bfumLaCV7m4tMRmPGj",
+      "_score": 10.823996,
+      "qualityScore": 0.961063192188875,
+      "verified": true
+    },
+    {
+      "brandId": "idQ_4f7ncC",
+      "claimed": false,
+      "domain": "theweatherchaser.com",
+      "name": "The Weather Chaser",
+      "icon": "https://cdn.brandfetch.io/idQ_4f7ncC/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834100023bfumLaCV7m4tMRmPGj",
+      "_score": 13.65119,
+      "qualityScore": 0.7617918058325668,
+      "verified": false
+    },
+    {
+      "brandId": "idqNMaP2Ua",
+      "claimed": false,
+      "domain": "chasejarvis.com",
+      "name": "Chase Jarvis",
+      "icon": "https://cdn.brandfetch.io/idqNMaP2Ua/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834100023bfumLaCV7m4tMRmPGj",
+      "_score": 13.066621,
+      "qualityScore": 0.7486085909983016
+    },
+    {
+      "brandId": "idWJNxphjt",
+      "claimed": false,
+      "domain": "girlschase.com",
+      "name": "Girls Chase ️",
+      "icon": "https://cdn.brandfetch.io/idWJNxphjt/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834100023bfumLaCV7m4tMRmPGj",
+      "_score": 13.142104,
+      "qualityScore": 0.7471398021695659
+    }
+  ]
+}

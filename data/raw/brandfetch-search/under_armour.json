@@ -1,0 +1,29 @@
+{
+  "fetched_at": "2026-06-06T12:07:40.924Z",
+  "brand_id": "under_armour",
+  "query": "Under Armour",
+  "http_status": 200,
+  "search_status": "ok",
+  "results": [
+    {
+      "brandId": "idu8xi0DFE",
+      "claimed": false,
+      "domain": "underarmour.com",
+      "name": "Under Armour",
+      "icon": "https://cdn.brandfetch.io/idu8xi0DFE/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834059672bfumLaCV7m7o1fksXi",
+      "_score": 28.249687,
+      "qualityScore": 0.9483334870833716,
+      "verified": true
+    },
+    {
+      "brandId": "idprwEZb8W",
+      "claimed": false,
+      "domain": "ua.com",
+      "name": "Under Armour",
+      "icon": "https://cdn.brandfetch.io/idprwEZb8W/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834059672bfumLaCV7m7o1fksXi",
+      "_score": 28.485447,
+      "qualityScore": 0.7671022686986441,
+      "verified": false
+    }
+  ]
+}

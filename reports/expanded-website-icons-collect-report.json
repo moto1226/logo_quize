@@ -1,0 +1,1036 @@
+{
+  "generated_at": "2026-06-07T08:15:12.737Z",
+  "candidate_count": 97,
+  "entries": [
+    {
+      "brand_id": "stanford_university",
+      "candidate_count": 0,
+      "errors": [
+        "apple-touch-icon https://www-media.stanford.edu/assets/favicon/apple-touch-icon-57x57.png: fetch failed",
+        "apple-touch-icon https://www-media.stanford.edu/assets/favicon/apple-touch-icon-60x60.png: fetch failed"
+      ]
+    },
+    {
+      "brand_id": "university_of_cambridge",
+      "candidate_count": 0,
+      "errors": [
+        "icon https://cam.ac.uk/themes/upstream/cambridge_theme/favicon.ico: unsupported ico"
+      ]
+    },
+    {
+      "brand_id": "university_of_oxford",
+      "candidate_count": 0,
+      "errors": [
+        "homepage http 403"
+      ]
+    },
+    {
+      "brand_id": "university_of_tokyo",
+      "candidate_count": 0,
+      "errors": [
+        "fetch failed"
+      ]
+    },
+    {
+      "brand_id": "world_wildlife_fund",
+      "candidate_count": 0,
+      "errors": [
+        "icon https://wwf.org/favicon.ico: unsupported ico"
+      ]
+    },
+    {
+      "brand_id": "unesco",
+      "candidate_count": 0,
+      "errors": [
+        "manifest https://unesco.org/en/manifest.json: Unexpected token '<', \"<html><hea\"... is not valid JSON",
+        "apple-touch-icon https://unesco.org/themes/custom/bunesco8/apple-touch-icon.png: http 403",
+        "icon https://unesco.org/themes/custom/bunesco8/icon.svg: Input buffer contains unsupported image format"
+      ]
+    },
+    {
+      "brand_id": "unicef",
+      "candidate_count": 0,
+      "errors": [
+        "homepage http 403"
+      ]
+    },
+    {
+      "brand_id": "iqiyi",
+      "candidate_count": 1,
+      "errors": [
+        "icon https://www.iqiyi.com/favicon.ico: unsupported ico"
+      ]
+    },
+    {
+      "brand_id": "mango_tv",
+      "candidate_count": 2,
+      "errors": []
+    },
+    {
+      "brand_id": "mafengwo",
+      "candidate_count": 0,
+      "errors": [
+        "fetch failed"
+      ]
+    },
+    {
+      "brand_id": "blizzard",
+      "candidate_count": 1,
+      "errors": [
+        "icon https://d3ukkjpihy42k4.cloudfront.net/images/favicon.b50a2b7ffcd4631c52d2b61e5d6fec8757e5b81a.ico: unsupported ico"
+      ]
+    },
+    {
+      "brand_id": "hoyoverse",
+      "candidate_count": 0,
+      "errors": [
+        "icon https://hoyoverse.com/favicon.ico: unsupported ico",
+        "icon https://hoyoverse.com/favicon-256.ico: unsupported ico"
+      ]
+    },
+    {
+      "brand_id": "netease_games",
+      "candidate_count": 0,
+      "errors": [
+        "fetch failed"
+      ]
+    },
+    {
+      "brand_id": "tencent_games",
+      "candidate_count": 0,
+      "errors": []
+    },
+    {
+      "brand_id": "qq_music",
+      "candidate_count": 0,
+      "errors": [
+        "icon https://y.qq.com/favicon.ico?max_age=2592000: unsupported ico"
+      ]
+    },
+    {
+      "brand_id": "kugou_music",
+      "candidate_count": 0,
+      "errors": [
+        "icon https://www.kugou.com/root/favicon.ico: unsupported ico"
+      ]
+    },
+    {
+      "brand_id": "x_twitter",
+      "candidate_count": 2,
+      "errors": []
+    },
+    {
+      "brand_id": "formula_1",
+      "candidate_count": 0,
+      "errors": [
+        "manifest https://formula1.com/assets/home/_next/static/media/icon36x36.9fab9254.png: http 404",
+        "manifest https://formula1.com/assets/home/_next/static/media/icon48x48.5b8020a2.png: http 404"
+      ]
+    },
+    {
+      "brand_id": "nfl",
+      "candidate_count": 2,
+      "errors": []
+    },
+    {
+      "brand_id": "uefa",
+      "candidate_count": 2,
+      "errors": []
+    },
+    {
+      "brand_id": "accor",
+      "candidate_count": 0,
+      "errors": [
+        "manifest https://accor.com/manifest.json: Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON",
+        "apple-touch-icon https://accor.com/apple-icon.png?b8c8e59058e288fa: Input buffer has corrupt header: glib: XML parse error: Error domain 1 code 23 on line 1 column 14801 of data: EntityRef: expecting ';'",
+        "icon https://accor.com/favicon.ico: unsupported ico"
+      ]
+    },
+    {
+      "brand_id": "four_seasons",
+      "candidate_count": 2,
+      "errors": []
+    },
+    {
+      "brand_id": "hyatt",
+      "candidate_count": 0,
+      "errors": [
+        "homepage http 429"
+      ]
+    },
+    {
+      "brand_id": "ihg",
+      "candidate_count": 0,
+      "errors": [
+        "icon https://digital.ihg.com/is/image/ihg/app-web-chiclet-ihg?fmt=png-alpha: unsupported bin",
+        "og:image https://digital.ihg.com/is/image/ihg/ihg-open-graph-1200X627: unsupported bin"
+      ]
+    },
+    {
+      "brand_id": "shangri_la",
+      "candidate_count": 0,
+      "errors": [
+        "icon https://s.shangri-la.com/sl-fe-public/imgs/favicon/favicon_shangrila2022.ico: unsupported ico"
+      ]
+    },
+    {
+      "brand_id": "ctrip",
+      "candidate_count": 0,
+      "errors": []
+    },
+    {
+      "brand_id": "skyscanner",
+      "candidate_count": 0,
+      "errors": [
+        "fetch failed"
+      ]
+    },
+    {
+      "brand_id": "trip_com",
+      "candidate_count": 2,
+      "errors": []
+    },
+    {
+      "brand_id": "agoda",
+      "candidate_count": 0,
+      "errors": [
+        "icon https://agoda.com/favicon.ico: unsupported ico"
+      ]
+    },
+    {
+      "brand_id": "gap",
+      "candidate_count": 0,
+      "errors": [
+        "icon https://gap.com/static_content/onesitecategory/components/mfe/_next/static/media/icon3.916435c9.ico: unsupported ico"
+      ]
+    },
+    {
+      "brand_id": "gu",
+      "candidate_count": 2,
+      "errors": [
+        "manifest https://gu-global.com/jp/ja/manifest.json: Unexpected token '<', \"<!doctype \"... is not valid JSON"
+      ]
+    },
+    {
+      "brand_id": "bershka",
+      "candidate_count": 0,
+      "errors": []
+    },
+    {
+      "brand_id": "old_navy",
+      "candidate_count": 0,
+      "errors": [
+        "icon https://oldnavy.com/static_content/onesitecategory/components/mfe/_next/static/media/on-favicon-2025.9d3ad95f.ico: unsupported ico"
+      ]
+    },
+    {
+      "brand_id": "pull_and_bear",
+      "candidate_count": 0,
+      "errors": []
+    },
+    {
+      "brand_id": "prada",
+      "candidate_count": 1,
+      "errors": [
+        "icon https://www.prada.com/favicon.ico: unsupported ico"
+      ]
+    },
+    {
+      "brand_id": "burberry",
+      "candidate_count": 2,
+      "errors": []
+    },
+    {
+      "brand_id": "versace",
+      "candidate_count": 0,
+      "errors": [
+        "The operation was aborted due to timeout"
+      ]
+    },
+    {
+      "brand_id": "arcteryx",
+      "candidate_count": 0,
+      "errors": [
+        "fetch failed"
+      ]
+    },
+    {
+      "brand_id": "columbia",
+      "candidate_count": 0,
+      "errors": [
+        "og:image https://media.columbia.com/i/columbiasprtswr/0907-launch_UShomepageOG?$img-cache$&fmt=auto: unsupported bin"
+      ]
+    },
+    {
+      "brand_id": "decathlon",
+      "candidate_count": 2,
+      "errors": []
+    },
+    {
+      "brand_id": "timberland",
+      "candidate_count": 2,
+      "errors": []
+    },
+    {
+      "brand_id": "mammut",
+      "candidate_count": 0,
+      "errors": [
+        "apple-touch-icon https://mammut.com/images/web_clip.png?id=c5f6112165c22b063334: Input buffer contains unsupported image format",
+        "icon https://mammut.com/favicon.ico: unsupported ico"
+      ]
+    },
+    {
+      "brand_id": "asics",
+      "candidate_count": 0,
+      "errors": [
+        "fetch failed"
+      ]
+    },
+    {
+      "brand_id": "mizuno",
+      "candidate_count": 0,
+      "errors": [
+        "fetch failed"
+      ]
+    },
+    {
+      "brand_id": "cartier",
+      "candidate_count": 1,
+      "errors": [
+        "icon https://cartier.com/etc.clientlibs/richemont-car/ui/clientlibs/libs/resources/images/favicon/favicon.ico: unsupported ico"
+      ]
+    },
+    {
+      "brand_id": "omega",
+      "candidate_count": 0,
+      "errors": [
+        "manifest https://www.omegawatches.jp/web-app-manifest-512x512.png: http 404",
+        "manifest https://www.omegawatches.jp/web-app-manifest-192x192.png: http 404"
+      ]
+    },
+    {
+      "brand_id": "rolex",
+      "candidate_count": 1,
+      "errors": [
+        "icon https://rolex.org/dist/rolex-org/favicon.ico: unsupported ico"
+      ]
+    },
+    {
+      "brand_id": "casio",
+      "candidate_count": 0,
+      "errors": [
+        "apple-touch-icon https://casio.com/etc.clientlibs/casio/clientlibs/clientlib-resources/casio/resources/apple-touch-icon-180x180.png: http 403",
+        "apple-touch-icon https://casio.com/etc.clientlibs/casio/clientlibs/clientlib-resources/casio/resources/apple-touch-icon-167x167.png: http 403"
+      ]
+    },
+    {
+      "brand_id": "seiko",
+      "candidate_count": 1,
+      "errors": [
+        "icon https://seikowatches.com/-/media/Images/GlobalEn/Seiko/Home/common/SeikoLogo/favicon.ico: unsupported ico"
+      ]
+    },
+    {
+      "brand_id": "swatch",
+      "candidate_count": 2,
+      "errors": []
+    },
+    {
+      "brand_id": "tag_heuer",
+      "candidate_count": 0,
+      "errors": [
+        "fetch failed"
+      ]
+    },
+    {
+      "brand_id": "tissot",
+      "candidate_count": 0,
+      "errors": [
+        "icon https://tissotwatches.com/on/demandware.static/Sites-APAC-Site/-/default/dw34e90017/images/favicon.ico: unsupported ico"
+      ]
+    },
+    {
+      "brand_id": "thai_airways",
+      "candidate_count": 0,
+      "errors": [
+        "manifest https://thaiairways.com/osci/manifest.json: Expected ',' or ']' after array element in JSON at position 196 (line 10 column 5)",
+        "icon https://thaiairways.com/osci/favicon.ico: fetch failed",
+        "icon https://thaiairways.com/favicon.ico: http 403"
+      ]
+    },
+    {
+      "brand_id": "great_wall_motor",
+      "candidate_count": 0,
+      "errors": [
+        "The operation was aborted due to timeout"
+      ]
+    },
+    {
+      "brand_id": "baic",
+      "candidate_count": 0,
+      "errors": [
+        "The operation was aborted due to timeout"
+      ]
+    },
+    {
+      "brand_id": "aito",
+      "candidate_count": 1,
+      "errors": []
+    },
+    {
+      "brand_id": "michelin",
+      "candidate_count": 1,
+      "errors": []
+    },
+    {
+      "brand_id": "bridgestone",
+      "candidate_count": 2,
+      "errors": []
+    },
+    {
+      "brand_id": "continental",
+      "candidate_count": 2,
+      "errors": []
+    },
+    {
+      "brand_id": "goodyear",
+      "candidate_count": 2,
+      "errors": []
+    },
+    {
+      "brand_id": "pirelli",
+      "candidate_count": 0,
+      "errors": [
+        "fetch failed"
+      ]
+    },
+    {
+      "brand_id": "dunlop",
+      "candidate_count": 2,
+      "errors": []
+    },
+    {
+      "brand_id": "hankook",
+      "candidate_count": 0,
+      "errors": [
+        "fetch failed"
+      ]
+    },
+    {
+      "brand_id": "yokohama",
+      "candidate_count": 1,
+      "errors": []
+    },
+    {
+      "brand_id": "pop_mart",
+      "candidate_count": 0,
+      "errors": [
+        "icon https://cdn-global.popmart.com/favicon.ico: unsupported ico"
+      ]
+    },
+    {
+      "brand_id": "361_degrees",
+      "candidate_count": 2,
+      "errors": []
+    },
+    {
+      "brand_id": "florasis",
+      "candidate_count": 2,
+      "errors": []
+    },
+    {
+      "brand_id": "perfect_diary",
+      "candidate_count": 2,
+      "errors": []
+    },
+    {
+      "brand_id": "xtep",
+      "candidate_count": 0,
+      "errors": [
+        "icon https://xtep.com/favicon.ico: unsupported ico"
+      ]
+    },
+    {
+      "brand_id": "nestl",
+      "candidate_count": 0,
+      "errors": [
+        "homepage http 403"
+      ]
+    },
+    {
+      "brand_id": "danone",
+      "candidate_count": 0,
+      "errors": [
+        "icon https://danone.com/content/dam/corp/global/danonecom/danone-renew/assets/favicon.ico: unsupported ico"
+      ]
+    },
+    {
+      "brand_id": "kraft_heinz",
+      "candidate_count": 0,
+      "errors": []
+    },
+    {
+      "brand_id": "mondelez",
+      "candidate_count": 2,
+      "errors": []
+    },
+    {
+      "brand_id": "7_eleven",
+      "candidate_count": 1,
+      "errors": [
+        "icon https://7-eleven.com/favicon/favicon-us.ico: unsupported ico"
+      ]
+    },
+    {
+      "brand_id": "familymart",
+      "candidate_count": 0,
+      "errors": [
+        "The operation was aborted due to timeout"
+      ]
+    },
+    {
+      "brand_id": "circle_k",
+      "candidate_count": 0,
+      "errors": [
+        "icon https://circlek.com/profiles/custom/ck/themes/circlek/favicon.ico: unsupported ico"
+      ]
+    },
+    {
+      "brand_id": "lawson",
+      "candidate_count": 0,
+      "errors": [
+        "fetch failed"
+      ]
+    },
+    {
+      "brand_id": "buc_ees",
+      "candidate_count": 2,
+      "errors": []
+    },
+    {
+      "brand_id": "oxxo",
+      "candidate_count": 0,
+      "errors": [
+        "homepage http 403"
+      ]
+    },
+    {
+      "brand_id": "wawa",
+      "candidate_count": 1,
+      "errors": []
+    },
+    {
+      "brand_id": "jd",
+      "candidate_count": 0,
+      "errors": [
+        "icon https://storage.360buyimg.com/retail-mall/mall-common-component/favicon.ico: unsupported ico"
+      ]
+    },
+    {
+      "brand_id": "dianping",
+      "candidate_count": 0,
+      "errors": []
+    },
+    {
+      "brand_id": "ele_me",
+      "candidate_count": 1,
+      "errors": []
+    },
+    {
+      "brand_id": "xianyu",
+      "candidate_count": 1,
+      "errors": []
+    },
+    {
+      "brand_id": "temu",
+      "candidate_count": 0,
+      "errors": []
+    },
+    {
+      "brand_id": "lazada",
+      "candidate_count": 1,
+      "errors": []
+    },
+    {
+      "brand_id": "muji",
+      "candidate_count": 0,
+      "errors": [
+        "fetch failed"
+      ]
+    },
+    {
+      "brand_id": "aldi",
+      "candidate_count": 0,
+      "errors": []
+    },
+    {
+      "brand_id": "miniso",
+      "candidate_count": 1,
+      "errors": []
+    },
+    {
+      "brand_id": "dyson",
+      "candidate_count": 0,
+      "errors": [
+        "icon https://dyson.com/apps/settings/wcm/designs/dyson-design/dyson-fav.ico: unsupported ico"
+      ]
+    },
+    {
+      "brand_id": "gree",
+      "candidate_count": 0,
+      "errors": [
+        "homepage http 503"
+      ]
+    },
+    {
+      "brand_id": "electrolux",
+      "candidate_count": 1,
+      "errors": []
+    },
+    {
+      "brand_id": "kitchenaid",
+      "candidate_count": 0,
+      "errors": [
+        "manifest https://kitchenaid.com/android-chrome-512x512.png: http 404",
+        "manifest https://kitchenaid.com/android-chrome-192x192.png: http 404"
+      ]
+    },
+    {
+      "brand_id": "tefal",
+      "candidate_count": 0,
+      "errors": [
+        "icon https://tefal.com/favicon.ico: unsupported ico"
+      ]
+    },
+    {
+      "brand_id": "sf_express",
+      "candidate_count": 0,
+      "errors": [
+        "fetch failed"
+      ]
+    },
+    {
+      "brand_id": "cainiao",
+      "candidate_count": 1,
+      "errors": []
+    },
+    {
+      "brand_id": "japan_post",
+      "candidate_count": 0,
+      "errors": [
+        "fetch failed"
+      ]
+    },
+    {
+      "brand_id": "royal_mail",
+      "candidate_count": 1,
+      "errors": [
+        "icon https://royalmail.com/themes/custom/rmlcwr/favicon.ico: unsupported ico"
+      ]
+    },
+    {
+      "brand_id": "didi",
+      "candidate_count": 0,
+      "errors": [
+        "icon https://website.didiglobal.com/DDlogo.ico: unsupported ico"
+      ]
+    },
+    {
+      "brand_id": "chatgpt",
+      "candidate_count": 0,
+      "errors": [
+        "homepage http 403"
+      ]
+    },
+    {
+      "brand_id": "marshall",
+      "candidate_count": 2,
+      "errors": []
+    },
+    {
+      "brand_id": "amap",
+      "candidate_count": 0,
+      "errors": [
+        "icon https://a.amap.com/pc/static/favicon.ico: unsupported ico"
+      ]
+    },
+    {
+      "brand_id": "baidu_maps",
+      "candidate_count": 0,
+      "errors": []
+    },
+    {
+      "brand_id": "logitech",
+      "candidate_count": 0,
+      "errors": [
+        "fetch failed"
+      ]
+    },
+    {
+      "brand_id": "canon",
+      "candidate_count": 0,
+      "errors": [
+        "The operation was aborted due to timeout"
+      ]
+    },
+    {
+      "brand_id": "gopro",
+      "candidate_count": 0,
+      "errors": [
+        "homepage http 403"
+      ]
+    },
+    {
+      "brand_id": "philips",
+      "candidate_count": 2,
+      "errors": []
+    },
+    {
+      "brand_id": "kddi",
+      "candidate_count": 1,
+      "errors": []
+    },
+    {
+      "brand_id": "singtel",
+      "candidate_count": 1,
+      "errors": [
+        "icon https://cdn1.singteldigital.com/content/dam/singtel/personal/products-services/mobile/phones/singtel-favicon.svg: fetch failed"
+      ]
+    },
+    {
+      "brand_id": "sk_telecom",
+      "candidate_count": 1,
+      "errors": [
+        "icon https://sktelecom.com/favicon1.ico: unsupported ico"
+      ]
+    },
+    {
+      "brand_id": "t_mobile",
+      "candidate_count": 1,
+      "errors": []
+    },
+    {
+      "brand_id": "yves_saint_laurent_beauty",
+      "candidate_count": 2,
+      "errors": []
+    },
+    {
+      "brand_id": "clinique",
+      "candidate_count": 0,
+      "errors": [
+        "icon https://clinique.com/sites/clinique/themes/cl_base/favicon.ico: unsupported ico"
+      ]
+    },
+    {
+      "brand_id": "dove",
+      "candidate_count": 1,
+      "errors": [
+        "icon https://www.dove.com/static/1c873ea6c4352966b6571e182548afe3581d9555e54a770411e2c577b76da732/resources/icons/favicon.ico: unsupported ico"
+      ]
+    },
+    {
+      "brand_id": "maybelline",
+      "candidate_count": 2,
+      "errors": []
+    },
+    {
+      "brand_id": "neutrogena",
+      "candidate_count": 0,
+      "errors": [
+        "icon https://neutrogena.com/favicon.ico: unsupported ico"
+      ]
+    },
+    {
+      "brand_id": "nivea",
+      "candidate_count": 2,
+      "errors": []
+    },
+    {
+      "brand_id": "petrochina",
+      "candidate_count": 0,
+      "errors": [
+        "fetch failed"
+      ]
+    },
+    {
+      "brand_id": "aramco",
+      "candidate_count": 2,
+      "errors": []
+    },
+    {
+      "brand_id": "bp",
+      "candidate_count": 0,
+      "errors": [
+        "apple-touch-icon https://bp.com/apps/settings/wcm/designs/refresh/bp/apple-touch-icon.png: http 403",
+        "og:image https://www.bp.com/content/dam/bp/business-sites/en/global/corporate/images-jpg-png/news-and-insights/bp-magazine/bp-argos-production.png: http 403"
+      ]
+    },
+    {
+      "brand_id": "chevron",
+      "candidate_count": 0,
+      "errors": [
+        "homepage http 403"
+      ]
+    },
+    {
+      "brand_id": "exxonmobil",
+      "candidate_count": 1,
+      "errors": [
+        "icon https://exxonmobil.com/-/media/global/icons/xx-favicon.ico: http 404"
+      ]
+    },
+    {
+      "brand_id": "totalenergies",
+      "candidate_count": 2,
+      "errors": []
+    },
+    {
+      "brand_id": "cloud_quickpass",
+      "candidate_count": 0,
+      "errors": []
+    },
+    {
+      "brand_id": "du_xiaoman",
+      "candidate_count": 0,
+      "errors": [
+        "The operation was aborted due to timeout"
+      ]
+    },
+    {
+      "brand_id": "jd_pay",
+      "candidate_count": 0,
+      "errors": [
+        "icon https://www.jd.com/favicon.ico: unsupported ico"
+      ]
+    },
+    {
+      "brand_id": "tenpay",
+      "candidate_count": 0,
+      "errors": [
+        "fetch failed"
+      ]
+    },
+    {
+      "brand_id": "7up",
+      "candidate_count": 0,
+      "errors": [
+        "homepage http 403"
+      ]
+    },
+    {
+      "brand_id": "dr_pepper",
+      "candidate_count": 0,
+      "errors": [
+        "homepage http 403"
+      ]
+    },
+    {
+      "brand_id": "sprite",
+      "candidate_count": 2,
+      "errors": [
+        "manifest https://sprite.com/manifest-us-en.json: Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON"
+      ]
+    },
+    {
+      "brand_id": "haidilao",
+      "candidate_count": 0,
+      "errors": [
+        "icon https://haidilao.com/favicon.ico: unsupported ico"
+      ]
+    },
+    {
+      "brand_id": "heytea",
+      "candidate_count": 2,
+      "errors": []
+    },
+    {
+      "brand_id": "mixue",
+      "candidate_count": 0,
+      "errors": [
+        "The operation was aborted due to timeout"
+      ]
+    },
+    {
+      "brand_id": "chagee",
+      "candidate_count": 1,
+      "errors": [
+        "icon https://chagee.com/favicon.ico: unsupported ico"
+      ]
+    },
+    {
+      "brand_id": "coco_fresh_tea",
+      "candidate_count": 0,
+      "errors": []
+    },
+    {
+      "brand_id": "gong_cha",
+      "candidate_count": 0,
+      "errors": [
+        "fetch failed"
+      ]
+    },
+    {
+      "brand_id": "manner_coffee",
+      "candidate_count": 0,
+      "errors": [
+        "fetch failed"
+      ]
+    },
+    {
+      "brand_id": "luckin_coffee",
+      "candidate_count": 0,
+      "errors": [
+        "icon https://web.luckincdn.com/favicon.ico: unsupported ico"
+      ]
+    },
+    {
+      "brand_id": "dunkin",
+      "candidate_count": 2,
+      "errors": []
+    },
+    {
+      "brand_id": "tim_hortons",
+      "candidate_count": 0,
+      "errors": [
+        "icon https://timhortons.com/assets/th/favicon.ico: unsupported ico",
+        "og:image https://cdn.sanity.io/images/czqk28jt/prod_th/9a9f5534893f0681e4d77d5d80d7014bd747e529-2880x1658.png: http 404"
+      ]
+    },
+    {
+      "brand_id": "blue_bottle_coffee",
+      "candidate_count": 0,
+      "errors": [
+        "homepage http 403"
+      ]
+    },
+    {
+      "brand_id": "lavazza",
+      "candidate_count": 0,
+      "errors": [
+        "manifest https://lavazza.com/android-chrome-512x512.png: http 404",
+        "manifest https://lavazza.com/android-chrome-192x192.png: http 404"
+      ]
+    },
+    {
+      "brand_id": "peets_coffee",
+      "candidate_count": 2,
+      "errors": []
+    },
+    {
+      "brand_id": "evian",
+      "candidate_count": 1,
+      "errors": [
+        "icon https://www.evian.com/_assets/af7dc473c9de279d395f914f7cd9cad1/favicon/favicon.ico: unsupported ico"
+      ]
+    },
+    {
+      "brand_id": "gatorade",
+      "candidate_count": 0,
+      "errors": [
+        "homepage http 403"
+      ]
+    },
+    {
+      "brand_id": "monster_energy",
+      "candidate_count": 0,
+      "errors": [
+        "homepage http 403"
+      ]
+    },
+    {
+      "brand_id": "perrier",
+      "candidate_count": 1,
+      "errors": [
+        "icon https://perrier.com/sites/g/files/xknfdk331/files/favicon-perrier.ico: unsupported ico"
+      ]
+    },
+    {
+      "brand_id": "pocari_sweat",
+      "candidate_count": 0,
+      "errors": [
+        "fetch failed"
+      ]
+    },
+    {
+      "brand_id": "vitaminwater",
+      "candidate_count": 2,
+      "errors": [
+        "manifest https://vitaminwater.com/manifest-us-en.json: Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON"
+      ]
+    },
+    {
+      "brand_id": "shake_shack",
+      "candidate_count": 0,
+      "errors": [
+        "homepage http 403"
+      ]
+    },
+    {
+      "brand_id": "chipotle",
+      "candidate_count": 2,
+      "errors": []
+    },
+    {
+      "brand_id": "dairy_queen",
+      "candidate_count": 0,
+      "errors": [
+        "homepage http 403"
+      ]
+    },
+    {
+      "brand_id": "jollibee",
+      "candidate_count": 0,
+      "errors": [
+        "homepage http 403"
+      ]
+    },
+    {
+      "brand_id": "little_caesars",
+      "candidate_count": 2,
+      "errors": []
+    },
+    {
+      "brand_id": "papa_johns",
+      "candidate_count": 0,
+      "errors": [
+        "manifest https://papajohns.com/manifest.json: Unexpected token '<', \"<!doctype \"... is not valid JSON",
+        "apple-touch-icon https://papajohns.com/assets/favicons/apple-touch-icon.png: Input buffer has corrupt header: glib: XML parse error: Error domain 1 code 68 on line 1 column 2 of data: StartTag: invalid element name",
+        "mask-icon https://papajohns.com/safari-pinned-tab.svg: Input buffer has corrupt header: glib: XML parse error: Error domain 1 code 68 on line 1 column 2 of data: StartTag: invalid element name"
+      ]
+    },
+    {
+      "brand_id": "lays",
+      "candidate_count": 0,
+      "errors": []
+    },
+    {
+      "brand_id": "oreo",
+      "candidate_count": 1,
+      "errors": []
+    },
+    {
+      "brand_id": "cheetos",
+      "candidate_count": 0,
+      "errors": []
+    },
+    {
+      "brand_id": "doritos",
+      "candidate_count": 0,
+      "errors": []
+    },
+    {
+      "brand_id": "pringles",
+      "candidate_count": 0,
+      "errors": [
+        "icon https://pringles.com/content/dam/pringles/ja_JP/pringles_favicon.png: http 403"
+      ]
+    },
+    {
+      "brand_id": "snickers",
+      "candidate_count": 1,
+      "errors": [
+        "icon https://snickers.com/sites/g/files/fnmzdf616/files/snickers-favicon-3.png: http 403"
+      ]
+    }
+  ]
+}

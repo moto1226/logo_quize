@@ -1,0 +1,58 @@
+{
+  "fetched_at": "2026-06-06T12:07:51.391Z",
+  "brand_id": "nissan",
+  "query": "Nissan",
+  "http_status": 200,
+  "search_status": "ok",
+  "results": [
+    {
+      "brandId": "id0M1vHFtm",
+      "claimed": false,
+      "domain": "nissanusa.com",
+      "name": "Nissan USA",
+      "icon": "https://cdn.brandfetch.io/id0M1vHFtm/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834070214bfumLaCV7mUu0WLfdF",
+      "_score": 13.12042,
+      "qualityScore": 0.9603851343270529,
+      "verified": true
+    },
+    {
+      "brandId": "idOY1utEQq",
+      "claimed": false,
+      "domain": "nissan-global.com",
+      "name": "Nissan Motor",
+      "icon": "https://cdn.brandfetch.io/idOY1utEQq/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834070214bfumLaCV7mUu0WLfdF",
+      "_score": 13.085815,
+      "qualityScore": 0.9078337942661409,
+      "verified": true
+    },
+    {
+      "brandId": "idjeHxG20v",
+      "claimed": false,
+      "domain": "nissan.co.jp",
+      "name": "Nissan",
+      "icon": "https://cdn.brandfetch.io/idjeHxG20v/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834070214bfumLaCV7mUu0WLfdF",
+      "_score": 16.322216,
+      "qualityScore": 0.8832269611913557,
+      "verified": true
+    },
+    {
+      "brandId": "idCY_xkk5G",
+      "claimed": false,
+      "domain": "nissannews.com",
+      "name": "Nissan Motor",
+      "icon": "https://cdn.brandfetch.io/idCY_xkk5G/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834070214bfumLaCV7mUu0WLfdF",
+      "_score": 13.085815,
+      "qualityScore": 0.7664724416181105,
+      "verified": false
+    },
+    {
+      "brandId": "idYBD2x7wg",
+      "claimed": false,
+      "domain": "nissan-dubai.com",
+      "name": "Nissan Dubai",
+      "icon": "https://cdn.brandfetch.io/idYBD2x7wg/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834070214bfumLaCV7mUu0WLfdF",
+      "_score": 13.164985,
+      "qualityScore": 0.7455585710050273
+    }
+  ]
+}

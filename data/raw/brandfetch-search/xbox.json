@@ -1,0 +1,56 @@
+{
+  "fetched_at": "2026-06-06T12:08:11.633Z",
+  "brand_id": "xbox",
+  "query": "Xbox",
+  "http_status": 200,
+  "search_status": "ok",
+  "results": [
+    {
+      "brandId": "idGE1UVbiU",
+      "claimed": false,
+      "domain": "xbox.com",
+      "name": "Xbox",
+      "icon": "https://cdn.brandfetch.io/idGE1UVbiU/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834090471bfumLaCV7mI3JKrsba",
+      "_score": 19.870682,
+      "qualityScore": 0.9614344422816875,
+      "verified": true
+    },
+    {
+      "brandId": "idMoRLs60U",
+      "claimed": false,
+      "domain": "xboxygen.com",
+      "name": "Xboxygen",
+      "icon": "https://cdn.brandfetch.io/idMoRLs60U/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834090471bfumLaCV7mI3JKrsba",
+      "_score": 25.724442,
+      "qualityScore": 0.9574939412965622,
+      "verified": true
+    },
+    {
+      "brandId": "idq7zt288q",
+      "claimed": false,
+      "domain": "purexbox.com",
+      "name": "Pure Xbox",
+      "icon": "https://cdn.brandfetch.io/idq7zt288q/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834090471bfumLaCV7mI3JKrsba",
+      "_score": 16.027065,
+      "qualityScore": 0.7669174801909086
+    },
+    {
+      "brandId": "idJHaw5ZMb",
+      "claimed": false,
+      "domain": "generacionxbox.com",
+      "name": "Generación Xbox",
+      "icon": "https://cdn.brandfetch.io/idJHaw5ZMb/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834090471bfumLaCV7mI3JKrsba",
+      "_score": 16.2329,
+      "qualityScore": 0.764735729645471
+    },
+    {
+      "brandId": "idcdeMqImH",
+      "claimed": false,
+      "domain": "horizonchase.com",
+      "name": "Horizon Chase 2 is OUT on PlayStation and Xbox",
+      "icon": "https://cdn.brandfetch.io/idcdeMqImH/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834090471bfumLaCV7mI3JKrsba",
+      "_score": 6.9084587,
+      "qualityScore": 0.7370992035055701
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "fetched_at": "2026-06-06T12:08:09.898Z",
+  "brand_id": "bilibili",
+  "query": "Bilibili",
+  "http_status": 200,
+  "search_status": "ok",
+  "results": [
+    {
+      "brandId": "idJarLS8mp",
+      "claimed": false,
+      "domain": "bilibili.com",
+      "name": "Bilibili",
+      "icon": "https://cdn.brandfetch.io/idJarLS8mp/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834088729bfumLaCV7mf_R9iL66",
+      "_score": 26.314692,
+      "qualityScore": 0.9230540192250433,
+      "verified": true
+    },
+    {
+      "brandId": "idBanOzr4M",
+      "claimed": false,
+      "domain": "bilibilihelper.com",
+      "name": null,
+      "icon": "https://cdn.brandfetch.io/idBanOzr4M/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834088729bfumLaCV7mf_R9iL66",
+      "_score": 14.811328,
+      "qualityScore": 0.4028472834041285
+    },
+    {
+      "brandId": "idAKHqsLVR",
+      "claimed": false,
+      "domain": "bilibiliq.com",
+      "name": "Bilibili",
+      "icon": "https://cdn.brandfetch.io/idAKHqsLVR/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834088729bfumLaCV7mf_R9iL66",
+      "_score": 24.75965,
+      "qualityScore": 0.3549323098869236,
+      "verified": false
+    }
+  ]
+}

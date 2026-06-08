@@ -1,0 +1,376 @@
+{
+  "generated_at": "2026-06-07T02:19:20.419Z",
+  "total_brands": 100,
+  "brands_with_at_least_1_candidate": 95,
+  "missing_brands": [
+    "tim_hortons",
+    "burger_king",
+    "monster_energy",
+    "oneplus",
+    "united_nations"
+  ],
+  "priority_review_brands": [
+    {
+      "brand_id": "microsoft",
+      "candidate_count": 14,
+      "similar_group": "tech_platforms"
+    },
+    {
+      "brand_id": "line",
+      "candidate_count": 13,
+      "similar_group": "messaging_community"
+    },
+    {
+      "brand_id": "instagram",
+      "candidate_count": 10,
+      "similar_group": "social_global"
+    },
+    {
+      "brand_id": "nio",
+      "candidate_count": 9,
+      "similar_group": "ev_cars"
+    },
+    {
+      "brand_id": "adobe",
+      "candidate_count": 9,
+      "similar_group": "tech_platforms"
+    },
+    {
+      "brand_id": "tiktok",
+      "candidate_count": 9,
+      "similar_group": "social_global"
+    },
+    {
+      "brand_id": "whatsapp",
+      "candidate_count": 9,
+      "similar_group": "messaging_community"
+    },
+    {
+      "brand_id": "discord",
+      "candidate_count": 9,
+      "similar_group": "messaging_community"
+    },
+    {
+      "brand_id": "youtube",
+      "candidate_count": 9,
+      "similar_group": "video_platforms"
+    },
+    {
+      "brand_id": "starbucks",
+      "candidate_count": 8,
+      "similar_group": "coffee_chain"
+    },
+    {
+      "brand_id": "tesla",
+      "candidate_count": 8,
+      "similar_group": "ev_cars"
+    },
+    {
+      "brand_id": "toyota",
+      "candidate_count": 8,
+      "similar_group": "mass_auto_asia"
+    },
+    {
+      "brand_id": "audi",
+      "candidate_count": 8,
+      "similar_group": "premium_auto"
+    },
+    {
+      "brand_id": "apple",
+      "candidate_count": 8,
+      "similar_group": "mobile_device"
+    },
+    {
+      "brand_id": "huawei",
+      "candidate_count": 8,
+      "similar_group": "mobile_device"
+    },
+    {
+      "brand_id": "google",
+      "candidate_count": 8,
+      "similar_group": "tech_platforms"
+    },
+    {
+      "brand_id": "pinterest",
+      "candidate_count": 8,
+      "similar_group": "social_global"
+    },
+    {
+      "brand_id": "telegram",
+      "candidate_count": 8,
+      "similar_group": "messaging_community"
+    },
+    {
+      "brand_id": "snapchat",
+      "candidate_count": 7,
+      "similar_group": "social_global"
+    },
+    {
+      "brand_id": "wechat",
+      "candidate_count": 7,
+      "similar_group": "social_china"
+    },
+    {
+      "brand_id": "xiaohongshu",
+      "candidate_count": 7,
+      "similar_group": "social_china"
+    },
+    {
+      "brand_id": "netflix",
+      "candidate_count": 7,
+      "similar_group": "video_platforms"
+    },
+    {
+      "brand_id": "xbox",
+      "candidate_count": 7,
+      "similar_group": "game_platforms"
+    },
+    {
+      "brand_id": "the_north_face",
+      "candidate_count": 6,
+      "similar_group": "outdoor_sports"
+    },
+    {
+      "brand_id": "mercedes_benz",
+      "candidate_count": 6,
+      "similar_group": "premium_auto"
+    }
+  ],
+  "groups": {
+    "sportswear": {
+      "total_brands": 4,
+      "brands_with_at_least_1_candidate": 4,
+      "brands_with_approved_candidate": 0,
+      "brands_missing_candidates": [],
+      "playable_if_approved": true,
+      "notes": "",
+      "coverage_ratio": 1
+    },
+    "outdoor_sports": {
+      "total_brands": 4,
+      "brands_with_at_least_1_candidate": 4,
+      "brands_with_approved_candidate": 0,
+      "brands_missing_candidates": [],
+      "playable_if_approved": true,
+      "notes": "",
+      "coverage_ratio": 1
+    },
+    "coffee_chain": {
+      "total_brands": 4,
+      "brands_with_at_least_1_candidate": 3,
+      "brands_with_approved_candidate": 0,
+      "brands_missing_candidates": [
+        "tim_hortons"
+      ],
+      "playable_if_approved": false,
+      "notes": "",
+      "coverage_ratio": 0.75
+    },
+    "fast_food": {
+      "total_brands": 4,
+      "brands_with_at_least_1_candidate": 3,
+      "brands_with_approved_candidate": 0,
+      "brands_missing_candidates": [
+        "burger_king"
+      ],
+      "playable_if_approved": false,
+      "notes": "",
+      "coverage_ratio": 0.75
+    },
+    "beverage_energy": {
+      "total_brands": 4,
+      "brands_with_at_least_1_candidate": 3,
+      "brands_with_approved_candidate": 0,
+      "brands_missing_candidates": [
+        "monster_energy"
+      ],
+      "playable_if_approved": false,
+      "notes": "",
+      "coverage_ratio": 0.75
+    },
+    "ev_cars": {
+      "total_brands": 4,
+      "brands_with_at_least_1_candidate": 4,
+      "brands_with_approved_candidate": 0,
+      "brands_missing_candidates": [],
+      "playable_if_approved": true,
+      "notes": "",
+      "coverage_ratio": 1
+    },
+    "mass_auto_asia": {
+      "total_brands": 4,
+      "brands_with_at_least_1_candidate": 4,
+      "brands_with_approved_candidate": 0,
+      "brands_missing_candidates": [],
+      "playable_if_approved": true,
+      "notes": "",
+      "coverage_ratio": 1
+    },
+    "premium_auto": {
+      "total_brands": 4,
+      "brands_with_at_least_1_candidate": 4,
+      "brands_with_approved_candidate": 0,
+      "brands_missing_candidates": [],
+      "playable_if_approved": true,
+      "notes": "",
+      "coverage_ratio": 1
+    },
+    "sports_luxury_auto": {
+      "total_brands": 4,
+      "brands_with_at_least_1_candidate": 4,
+      "brands_with_approved_candidate": 0,
+      "brands_missing_candidates": [],
+      "playable_if_approved": true,
+      "notes": "",
+      "coverage_ratio": 1
+    },
+    "mobile_device": {
+      "total_brands": 4,
+      "brands_with_at_least_1_candidate": 3,
+      "brands_with_approved_candidate": 0,
+      "brands_missing_candidates": [
+        "oneplus"
+      ],
+      "playable_if_approved": false,
+      "notes": "",
+      "coverage_ratio": 0.75
+    },
+    "tech_platforms": {
+      "total_brands": 4,
+      "brands_with_at_least_1_candidate": 4,
+      "brands_with_approved_candidate": 0,
+      "brands_missing_candidates": [],
+      "playable_if_approved": true,
+      "notes": "",
+      "coverage_ratio": 1
+    },
+    "social_global": {
+      "total_brands": 4,
+      "brands_with_at_least_1_candidate": 4,
+      "brands_with_approved_candidate": 0,
+      "brands_missing_candidates": [],
+      "playable_if_approved": true,
+      "notes": "",
+      "coverage_ratio": 1
+    },
+    "social_china": {
+      "total_brands": 4,
+      "brands_with_at_least_1_candidate": 4,
+      "brands_with_approved_candidate": 0,
+      "brands_missing_candidates": [],
+      "playable_if_approved": true,
+      "notes": "",
+      "coverage_ratio": 1
+    },
+    "messaging_community": {
+      "total_brands": 4,
+      "brands_with_at_least_1_candidate": 4,
+      "brands_with_approved_candidate": 0,
+      "brands_missing_candidates": [],
+      "playable_if_approved": true,
+      "notes": "",
+      "coverage_ratio": 1
+    },
+    "video_platforms": {
+      "total_brands": 4,
+      "brands_with_at_least_1_candidate": 4,
+      "brands_with_approved_candidate": 0,
+      "brands_missing_candidates": [],
+      "playable_if_approved": true,
+      "notes": "",
+      "coverage_ratio": 1
+    },
+    "game_platforms": {
+      "total_brands": 4,
+      "brands_with_at_least_1_candidate": 4,
+      "brands_with_approved_candidate": 0,
+      "brands_missing_candidates": [],
+      "playable_if_approved": true,
+      "notes": "",
+      "coverage_ratio": 1
+    },
+    "ecommerce_china": {
+      "total_brands": 4,
+      "brands_with_at_least_1_candidate": 4,
+      "brands_with_approved_candidate": 0,
+      "brands_missing_candidates": [],
+      "playable_if_approved": true,
+      "notes": "",
+      "coverage_ratio": 1
+    },
+    "payment_wallets": {
+      "total_brands": 4,
+      "brands_with_at_least_1_candidate": 4,
+      "brands_with_approved_candidate": 0,
+      "brands_missing_candidates": [],
+      "playable_if_approved": true,
+      "notes": "",
+      "coverage_ratio": 1
+    },
+    "bank_china": {
+      "total_brands": 4,
+      "brands_with_at_least_1_candidate": 4,
+      "brands_with_approved_candidate": 0,
+      "brands_missing_candidates": [],
+      "playable_if_approved": true,
+      "notes": "",
+      "coverage_ratio": 1
+    },
+    "bank_global": {
+      "total_brands": 4,
+      "brands_with_at_least_1_candidate": 4,
+      "brands_with_approved_candidate": 0,
+      "brands_missing_candidates": [],
+      "playable_if_approved": true,
+      "notes": "",
+      "coverage_ratio": 1
+    },
+    "luxury_fashion": {
+      "total_brands": 4,
+      "brands_with_at_least_1_candidate": 4,
+      "brands_with_approved_candidate": 0,
+      "brands_missing_candidates": [],
+      "playable_if_approved": true,
+      "notes": "",
+      "coverage_ratio": 1
+    },
+    "airline_china": {
+      "total_brands": 4,
+      "brands_with_at_least_1_candidate": 4,
+      "brands_with_approved_candidate": 0,
+      "brands_missing_candidates": [],
+      "playable_if_approved": true,
+      "notes": "",
+      "coverage_ratio": 1
+    },
+    "airline_global": {
+      "total_brands": 4,
+      "brands_with_at_least_1_candidate": 4,
+      "brands_with_approved_candidate": 0,
+      "brands_missing_candidates": [],
+      "playable_if_approved": true,
+      "notes": "",
+      "coverage_ratio": 1
+    },
+    "public_orgs": {
+      "total_brands": 4,
+      "brands_with_at_least_1_candidate": 3,
+      "brands_with_approved_candidate": 0,
+      "brands_missing_candidates": [
+        "united_nations"
+      ],
+      "playable_if_approved": false,
+      "notes": "",
+      "coverage_ratio": 0.75
+    },
+    "education_china": {
+      "total_brands": 4,
+      "brands_with_at_least_1_candidate": 4,
+      "brands_with_approved_candidate": 0,
+      "brands_missing_candidates": [],
+      "playable_if_approved": true,
+      "notes": "",
+      "coverage_ratio": 1
+    }
+  }
+}

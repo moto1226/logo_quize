@@ -1,0 +1,57 @@
+{
+  "fetched_at": "2026-06-06T12:08:02.349Z",
+  "brand_id": "tiktok",
+  "query": "TikTok",
+  "http_status": 200,
+  "search_status": "ok",
+  "results": [
+    {
+      "brandId": "id-0D6OFrq",
+      "claimed": false,
+      "domain": "tiktok.com",
+      "name": "TikTok",
+      "icon": "https://cdn.brandfetch.io/id-0D6OFrq/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834081180bfumLaCV7mWg3kSjYJ",
+      "_score": 19.826628,
+      "qualityScore": 0.9615347692298462,
+      "verified": true
+    },
+    {
+      "brandId": "idlHxWQOs8",
+      "claimed": false,
+      "domain": "tiktokio.com",
+      "name": "TikTokio",
+      "icon": "https://cdn.brandfetch.io/idlHxWQOs8/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834081180bfumLaCV7mWg3kSjYJ",
+      "_score": 23.022228,
+      "qualityScore": 0.7046463588538974
+    },
+    {
+      "brandId": "ideT9ijS7F",
+      "claimed": false,
+      "domain": "tiktokoa.com",
+      "name": "Tiktokio",
+      "icon": "https://cdn.brandfetch.io/ideT9ijS7F/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834081180bfumLaCV7mWg3kSjYJ",
+      "_score": 23.022228,
+      "qualityScore": 0.7004195308741135,
+      "verified": false
+    },
+    {
+      "brandId": "id4eFW3kDs",
+      "claimed": false,
+      "domain": "tikgo.me",
+      "name": "TikGo — TikTok Downloader",
+      "icon": "https://cdn.brandfetch.io/id4eFW3kDs/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834081180bfumLaCV7mWg3kSjYJ",
+      "_score": 13.423048,
+      "qualityScore": 0.6573662893415724,
+      "verified": false
+    },
+    {
+      "brandId": "idRd3aCFDF",
+      "claimed": false,
+      "domain": "tiktok-for-business.co.jp",
+      "name": "TikTok for Business Japan",
+      "icon": "https://cdn.brandfetch.io/idRd3aCFDF/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834081180bfumLaCV7mWg3kSjYJ",
+      "_score": 11.809677,
+      "qualityScore": 0.6184455680729305
+    }
+  ]
+}

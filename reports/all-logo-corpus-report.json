@@ -1,0 +1,65 @@
+{
+  "generated_at": "2026-06-07T08:40:52.226Z",
+  "conversion_mode": "raw_preview_index",
+  "local_repo_input": 19769,
+  "total_input": 20071,
+  "converted_count": 7525,
+  "raw_preview_count": 12546,
+  "failed_count": 0,
+  "duplicate_count": 575,
+  "canonical_duplicate_count": 534,
+  "visual_duplicate_count": 41,
+  "by_source": {
+    "svglogo": {
+      "input": 1096,
+      "converted": 1096,
+      "failed": 0
+    },
+    "gilbarbara": {
+      "input": 1863,
+      "converted": 1863,
+      "failed": 0
+    },
+    "vectorlogozone": {
+      "input": 3808,
+      "converted": 3808,
+      "failed": 0
+    },
+    "thesvg": {
+      "input": 11837,
+      "converted": 456,
+      "failed": 0,
+      "raw_preview": 11381
+    },
+    "car-logos": {
+      "input": 1165,
+      "converted": 0,
+      "failed": 0,
+      "raw_preview": 1165
+    },
+    "website-icons": {
+      "input": 155,
+      "converted": 155,
+      "failed": 0,
+      "raw_preview": 0
+    },
+    "wikimedia": {
+      "input": 13,
+      "converted": 13,
+      "failed": 0,
+      "raw_preview": 0
+    },
+    "expanded-wikimedia": {
+      "input": 37,
+      "converted": 37,
+      "failed": 0,
+      "raw_preview": 0
+    },
+    "expanded-website-icons": {
+      "input": 97,
+      "converted": 97,
+      "failed": 0,
+      "raw_preview": 0
+    }
+  }
+}

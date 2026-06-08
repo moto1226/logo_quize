@@ -1,0 +1,57 @@
+{
+  "fetched_at": "2026-06-06T12:08:22.337Z",
+  "brand_id": "chanel",
+  "query": "Chanel",
+  "http_status": 200,
+  "search_status": "ok",
+  "results": [
+    {
+      "brandId": "idBUm3gJdJ",
+      "claimed": true,
+      "domain": "chanel.com",
+      "name": "CHANEL",
+      "icon": "https://cdn.brandfetch.io/idBUm3gJdJ/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834101169bfumLaCV7m4Ck8vv38",
+      "_score": 20.434536,
+      "qualityScore": 0.9869261601930785,
+      "verified": true
+    },
+    {
+      "brandId": "idly7EzA7q",
+      "claimed": false,
+      "domain": "chanelmuslim.com",
+      "name": "Chanel Muslim",
+      "icon": "https://cdn.brandfetch.io/idly7EzA7q/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834101169bfumLaCV7m4Ck8vv38",
+      "_score": 17.12431,
+      "qualityScore": 0.7078104846449288
+    },
+    {
+      "brandId": "idyy5B02UL",
+      "claimed": false,
+      "domain": "theboatrace.org",
+      "name": "The CHANEL J12 Boat Race",
+      "icon": "https://cdn.brandfetch.io/idyy5B02UL/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834101169bfumLaCV7m4Ck8vv38",
+      "_score": 10.429609,
+      "qualityScore": 0.6920634518620168
+    },
+    {
+      "brandId": "idzeXukbku",
+      "claimed": false,
+      "domain": "chanelmovingforward.com",
+      "name": "Chanel van Reenen",
+      "icon": "https://cdn.brandfetch.io/idzeXukbku/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834101169bfumLaCV7m4Ck8vv38",
+      "_score": 14.511892,
+      "qualityScore": 0.6532571344681297,
+      "verified": false
+    },
+    {
+      "brandId": "idzzOJG9IK",
+      "claimed": false,
+      "domain": "clairechanelle.com",
+      "name": "Claire Chanelle",
+      "icon": "https://cdn.brandfetch.io/idzzOJG9IK/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834101169bfumLaCV7m4Ck8vv38",
+      "_score": 19.291786,
+      "qualityScore": 0.6442113341297565,
+      "verified": false
+    }
+  ]
+}

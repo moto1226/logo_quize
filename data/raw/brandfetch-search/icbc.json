@@ -1,0 +1,47 @@
+{
+  "fetched_at": "2026-06-06T12:08:18.589Z",
+  "brand_id": "icbc",
+  "query": "ICBC",
+  "http_status": 200,
+  "search_status": "ok",
+  "results": [
+    {
+      "brandId": "ids62JF1FQ",
+      "claimed": false,
+      "domain": "icbc-ltd.com",
+      "name": "ICBC",
+      "icon": "https://cdn.brandfetch.io/ids62JF1FQ/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834097434bfumLaCV7mQThAbnNT",
+      "_score": 22.801456,
+      "qualityScore": 0.9543370751227302,
+      "verified": true
+    },
+    {
+      "brandId": "idZRVsxgPR",
+      "claimed": false,
+      "domain": "icbc.com",
+      "name": "Insurance Corporation of British Columbia",
+      "icon": "https://cdn.brandfetch.io/idZRVsxgPR/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834097434bfumLaCV7mQThAbnNT",
+      "_score": 14.874212,
+      "qualityScore": 0.9192685952017642,
+      "verified": true
+    },
+    {
+      "brandId": "idF7BzDRnL",
+      "claimed": false,
+      "domain": "internationalcbc.com",
+      "name": "ICBC",
+      "icon": "https://cdn.brandfetch.io/idF7BzDRnL/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834097434bfumLaCV7mQThAbnNT",
+      "_score": 22.66111,
+      "qualityScore": 0.7189540451231267
+    },
+    {
+      "brandId": "idi_fiqCfV",
+      "claimed": false,
+      "domain": "ieee-icbc.org",
+      "name": "IEEE ComSoc",
+      "icon": "https://cdn.brandfetch.io/idi_fiqCfV/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834097434bfumLaCV7mQThAbnNT",
+      "_score": 10.274935,
+      "qualityScore": 0.5983064476535349
+    }
+  ]
+}

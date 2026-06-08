@@ -1,0 +1,58 @@
+{
+  "fetched_at": "2026-06-06T12:08:23.482Z",
+  "brand_id": "louis_vuitton",
+  "query": "Louis Vuitton",
+  "http_status": 200,
+  "search_status": "ok",
+  "results": [
+    {
+      "brandId": "idQH6e1xMu",
+      "claimed": false,
+      "domain": "louisvuitton.com",
+      "name": "Louis Vuitton",
+      "icon": "https://cdn.brandfetch.io/idQH6e1xMu/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834102311bfumLaCV7mHTQ4Uec-",
+      "_score": 29.771013,
+      "qualityScore": 0.9484413140334055,
+      "verified": true
+    },
+    {
+      "brandId": "iddrXpo5Ld",
+      "claimed": false,
+      "domain": "cheaplouisvuittonoutlets.com",
+      "name": "Cheap Louis Vuitton Outlets",
+      "icon": "https://cdn.brandfetch.io/iddrXpo5Ld/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834102311bfumLaCV7mHTQ4Uec-",
+      "_score": 30.3745,
+      "qualityScore": 0.44266075489595796,
+      "verified": false
+    },
+    {
+      "brandId": "idGvkjnYuy",
+      "claimed": false,
+      "domain": "louisvuittonsoutlet.com",
+      "name": "Louis Vuittons Outlet",
+      "icon": "https://cdn.brandfetch.io/idGvkjnYuy/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834102311bfumLaCV7mHTQ4Uec-",
+      "_score": 29.947184,
+      "qualityScore": 0.42798959738201475
+    },
+    {
+      "brandId": "idl4imRkFl",
+      "claimed": false,
+      "domain": "louis-vuittonoutlet.net",
+      "name": "LOUIS VUITTON OUTLET",
+      "icon": "https://cdn.brandfetch.io/idl4imRkFl/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834102311bfumLaCV7mHTQ4Uec-",
+      "_score": 29.771013,
+      "qualityScore": 0.41684456574960294,
+      "verified": false
+    },
+    {
+      "brandId": "idJihrxUiK",
+      "claimed": false,
+      "domain": "affordablelouisvuittonoutlet.com",
+      "name": "Affordable Louis Vuitton Outlet",
+      "icon": "https://cdn.brandfetch.io/idJihrxUiK/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834102311bfumLaCV7mHTQ4Uec-",
+      "_score": 30.447853,
+      "qualityScore": 0.38461538461538464,
+      "verified": false
+    }
+  ]
+}

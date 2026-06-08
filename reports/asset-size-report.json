@@ -1,0 +1,209 @@
+{
+  "generated_at": "2026-06-07T00:52:39.662Z",
+  "asset_budget_mb": 20,
+  "excluded_categories": [
+    "other",
+    "weather"
+  ],
+  "svglogo_candidates_size_bytes": 9816520,
+  "svglogo_raw_size_bytes": 11466266,
+  "svglogo_total_candidate_library_size_bytes": 21282786,
+  "category_sizes": {
+    "aigc": {
+      "webp_size_bytes": 1538642,
+      "webp_count": 235,
+      "raw_size_bytes": 1019206,
+      "raw_count": 231
+    },
+    "airline": {
+      "webp_size_bytes": 724086,
+      "webp_count": 63,
+      "raw_size_bytes": 842239,
+      "raw_count": 63
+    },
+    "automotive": {
+      "webp_size_bytes": 60548,
+      "webp_count": 10,
+      "raw_size_bytes": 35021,
+      "raw_count": 10
+    },
+    "company": {
+      "webp_size_bytes": 713592,
+      "webp_count": 88,
+      "raw_size_bytes": 532355,
+      "raw_count": 88
+    },
+    "consumerBrands": {
+      "webp_size_bytes": 87756,
+      "webp_count": 8,
+      "raw_size_bytes": 317056,
+      "raw_count": 8
+    },
+    "cosmetic": {
+      "webp_size_bytes": 293746,
+      "webp_count": 44,
+      "raw_size_bytes": 251581,
+      "raw_count": 43
+    },
+    "goldJewelry": {
+      "webp_size_bytes": 215104,
+      "webp_count": 17,
+      "raw_size_bytes": 331466,
+      "raw_count": 17
+    },
+    "pay": {
+      "webp_size_bytes": 2183016,
+      "webp_count": 310,
+      "raw_size_bytes": 2451974,
+      "raw_count": 310
+    },
+    "school": {
+      "webp_size_bytes": 3349774,
+      "webp_count": 224,
+      "raw_size_bytes": 5457745,
+      "raw_count": 224
+    },
+    "social": {
+      "webp_size_bytes": 217504,
+      "webp_count": 34,
+      "raw_size_bytes": 41553,
+      "raw_count": 34
+    },
+    "tools": {
+      "webp_size_bytes": 432752,
+      "webp_count": 63,
+      "raw_size_bytes": 186070,
+      "raw_count": 63
+    }
+  },
+  "largest_30_webp": [
+    {
+      "file": "assets/_candidates/svglogo/school/school_shanghaikejidaxue.webp",
+      "size_bytes": 37818
+    },
+    {
+      "file": "assets/_candidates/svglogo/school/school_thu.webp",
+      "size_bytes": 37584
+    },
+    {
+      "file": "assets/_candidates/svglogo/company/company_stategrid.webp",
+      "size_bytes": 36448
+    },
+    {
+      "file": "assets/_candidates/svglogo/aigc/aigc_adobefirefly.webp",
+      "size_bytes": 31986
+    },
+    {
+      "file": "assets/_candidates/svglogo/airline/airline_hainanairlines.webp",
+      "size_bytes": 31160
+    },
+    {
+      "file": "assets/_candidates/svglogo/school/school_nwpu.webp",
+      "size_bytes": 31036
+    },
+    {
+      "file": "assets/_candidates/svglogo/aigc/aigc_aionlabs.webp",
+      "size_bytes": 30838
+    },
+    {
+      "file": "assets/_candidates/svglogo/school/school_beijingshifandaxue.webp",
+      "size_bytes": 29612
+    },
+    {
+      "file": "assets/_candidates/svglogo/school/school_gxu.webp",
+      "size_bytes": 28866
+    },
+    {
+      "file": "assets/_candidates/svglogo/goldJewelry/goldjewelry_zhongguozhubao.webp",
+      "size_bytes": 28640
+    },
+    {
+      "file": "assets/_candidates/svglogo/school/school_hust.webp",
+      "size_bytes": 28530
+    },
+    {
+      "file": "assets/_candidates/svglogo/school/school_xmu.webp",
+      "size_bytes": 28460
+    },
+    {
+      "file": "assets/_candidates/svglogo/school/school_ruc.webp",
+      "size_bytes": 28420
+    },
+    {
+      "file": "assets/_candidates/svglogo/school/school_sjtu.webp",
+      "size_bytes": 28106
+    },
+    {
+      "file": "assets/_candidates/svglogo/school/school_tongjidaxue.webp",
+      "size_bytes": 27830
+    },
+    {
+      "file": "assets/_candidates/svglogo/school/school_xjtu.webp",
+      "size_bytes": 27728
+    },
+    {
+      "file": "assets/_candidates/svglogo/school/school_cau.webp",
+      "size_bytes": 27682
+    },
+    {
+      "file": "assets/_candidates/svglogo/school/school_ecnu.webp",
+      "size_bytes": 27376
+    },
+    {
+      "file": "assets/_candidates/svglogo/school/school_beihua_university.webp",
+      "size_bytes": 27184
+    },
+    {
+      "file": "assets/_candidates/svglogo/school/school_csu.webp",
+      "size_bytes": 26946
+    },
+    {
+      "file": "assets/_candidates/svglogo/school/school_swun.webp",
+      "size_bytes": 26796
+    },
+    {
+      "file": "assets/_candidates/svglogo/school/school_tju.webp",
+      "size_bytes": 26658
+    },
+    {
+      "file": "assets/_candidates/svglogo/school/school_hnu.webp",
+      "size_bytes": 26580
+    },
+    {
+      "file": "assets/_candidates/svglogo/school/school_nwu.webp",
+      "size_bytes": 26508
+    },
+    {
+      "file": "assets/_candidates/svglogo/school/school_lit.webp",
+      "size_bytes": 26104
+    },
+    {
+      "file": "assets/_candidates/svglogo/school/school_cug.webp",
+      "size_bytes": 25750
+    },
+    {
+      "file": "assets/_candidates/svglogo/school/school_cqu.webp",
+      "size_bytes": 25482
+    },
+    {
+      "file": "assets/_candidates/svglogo/school/school_nudt.webp",
+      "size_bytes": 25438
+    },
+    {
+      "file": "assets/_candidates/svglogo/school/school_ustc.webp",
+      "size_bytes": 25248
+    },
+    {
+      "file": "assets/_candidates/svglogo/school/school_sysu.webp",
+      "size_bytes": 24814
+    }
+  ],
+  "conversion_failures": [],
+  "recommended_seed_matches_count": 26,
+  "recommended_seed_matches_estimated_size_bytes": 310356,
+  "full_svglogo_webp_pack_estimated_size_bytes": 9816520,
+  "full_svglogo_with_raw_estimated_size_bytes": 21282786,
+  "recommended_over_budget": false,
+  "full_webp_over_budget": false,
+  "full_with_raw_over_budget": true
+}

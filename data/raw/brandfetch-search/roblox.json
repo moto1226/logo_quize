@@ -1,0 +1,56 @@
+{
+  "fetched_at": "2026-06-06T12:08:12.836Z",
+  "brand_id": "roblox",
+  "query": "Roblox",
+  "http_status": 200,
+  "search_status": "ok",
+  "results": [
+    {
+      "brandId": "id1oKmlNbs",
+      "claimed": false,
+      "domain": "roblox.com",
+      "name": "Roblox",
+      "icon": "https://cdn.brandfetch.io/id1oKmlNbs/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834091615bfumLaCV7mJ40014ds",
+      "_score": 20.302074,
+      "qualityScore": 0.9615340769219808,
+      "verified": true
+    },
+    {
+      "brandId": "idmlTZS43f",
+      "claimed": false,
+      "domain": "rolimons.com",
+      "name": "Roblox Trading News",
+      "icon": "https://cdn.brandfetch.io/idmlTZS43f/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834091615bfumLaCV7mJ40014ds",
+      "_score": 13.729933,
+      "qualityScore": 0.7687934614291346
+    },
+    {
+      "brandId": "id9n0ko91t",
+      "claimed": false,
+      "domain": "robloxsong.com",
+      "name": "RobloxSong",
+      "icon": "https://cdn.brandfetch.io/id9n0ko91t/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834091615bfumLaCV7mJ40014ds",
+      "_score": 26.43586,
+      "qualityScore": 0.7396854733829069
+    },
+    {
+      "brandId": "idtdSxcwdR",
+      "claimed": false,
+      "domain": "blox.com",
+      "name": "Roblox",
+      "icon": "https://cdn.brandfetch.io/idtdSxcwdR/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834091615bfumLaCV7mJ40014ds",
+      "_score": 20.581959,
+      "qualityScore": 0.7381037229874692
+    },
+    {
+      "brandId": "idFRSL-cE3",
+      "claimed": false,
+      "domain": "roproxy.com",
+      "name": "Roblox",
+      "icon": "https://cdn.brandfetch.io/idFRSL-cE3/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834091615bfumLaCV7mJ40014ds",
+      "_score": 20.581959,
+      "qualityScore": 0.728650893701185,
+      "verified": false
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "fetched_at": "2026-06-06T12:08:04.706Z",
+  "brand_id": "qq",
+  "query": "QQ",
+  "http_status": 200,
+  "search_status": "ok",
+  "results": [
+    {
+      "brandId": "idqRRqfkK8",
+      "claimed": false,
+      "domain": "qualifax.ie",
+      "name": "QQI",
+      "icon": "https://cdn.brandfetch.io/idqRRqfkK8/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834083536bfumLaCV7m8aIUK9rX",
+      "_score": 23.022228,
+      "qualityScore": 0.699564319121849,
+      "verified": false
+    },
+    {
+      "brandId": "id6VkIQOaH",
+      "claimed": false,
+      "domain": "qq88pk.com",
+      "name": "QQ88PK",
+      "icon": "https://cdn.brandfetch.io/id6VkIQOaH/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834083536bfumLaCV7m8aIUK9rX",
+      "_score": 25.724442,
+      "qualityScore": 0.657815693300077,
+      "verified": false
+    },
+    {
+      "brandId": "idVilacgrl",
+      "claimed": false,
+      "domain": "qqnailsupply.com",
+      "name": "QQ Nail Supply",
+      "icon": "https://cdn.brandfetch.io/idVilacgrl/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834083536bfumLaCV7m8aIUK9rX",
+      "_score": 14.326588,
+      "qualityScore": 0.6431856127194802
+    },
+    {
+      "brandId": "idMefood9T",
+      "claimed": false,
+      "domain": "qqcitations.com",
+      "name": "QQ Citations",
+      "icon": "https://cdn.brandfetch.io/idMefood9T/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834083536bfumLaCV7m8aIUK9rX",
+      "_score": 16.948835,
+      "qualityScore": 0.6422729105682277
+    },
+    {
+      "brandId": "id2qw_DhOE",
+      "claimed": false,
+      "domain": "qq88gg.net",
+      "name": "QQ88",
+      "icon": "https://cdn.brandfetch.io/id2qw_DhOE/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834083536bfumLaCV7m8aIUK9rX",
+      "_score": 23.634258,
+      "qualityScore": 0.636960726547874,
+      "verified": false
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "fetched_at": "2026-06-06T12:07:44.037Z",
+  "brand_id": "kfc",
+  "query": "KFC",
+  "http_status": 200,
+  "search_status": "ok",
+  "results": [
+    {
+      "brandId": "idd6YXWdqJ",
+      "claimed": false,
+      "domain": "kfc.com",
+      "name": "KFC",
+      "icon": "https://cdn.brandfetch.io/idd6YXWdqJ/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834062872bfumLaCV7mTL8AI8gv",
+      "_score": null,
+      "qualityScore": 0.921634441947072,
+      "verified": true
+    },
+    {
+      "brandId": "idUg6r-YZU",
+      "claimed": false,
+      "domain": "kfcu.org",
+      "name": "Keesler Federal Credit Union",
+      "icon": "https://cdn.brandfetch.io/idUg6r-YZU/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834062872bfumLaCV7mTL8AI8gv",
+      "_score": null,
+      "qualityScore": 0.8721301891863935,
+      "verified": true
+    }
+  ]
+}

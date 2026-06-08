@@ -1,0 +1,48 @@
+{
+  "fetched_at": "2026-06-06T12:08:03.529Z",
+  "brand_id": "pinterest",
+  "query": "Pinterest",
+  "http_status": 200,
+  "search_status": "ok",
+  "results": [
+    {
+      "brandId": "idGP0S1Jjj",
+      "claimed": true,
+      "domain": "pinterest.com",
+      "name": "Pinterest",
+      "icon": "https://cdn.brandfetch.io/idGP0S1Jjj/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834082354bfumLaCV7mbtieMvwl",
+      "_score": 21.51484,
+      "qualityScore": 0.9999971153838942,
+      "verified": true
+    },
+    {
+      "brandId": "id2XJ7WkX_",
+      "claimed": true,
+      "domain": "klickpin.com",
+      "name": "KlickPin- Pinterest Downloader",
+      "icon": "https://cdn.brandfetch.io/id2XJ7WkX_/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834082354bfumLaCV7mbtieMvwl",
+      "_score": 13.567684,
+      "qualityScore": 0.7967801511181147,
+      "verified": false
+    },
+    {
+      "brandId": "idHS-C9HTX",
+      "claimed": false,
+      "domain": "pintrest.com",
+      "name": "Pinterest",
+      "icon": "https://cdn.brandfetch.io/idHS-C9HTX/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834082354bfumLaCV7mbtieMvwl",
+      "_score": 21.51484,
+      "qualityScore": 0.7507649473066215
+    },
+    {
+      "brandId": "idAMxhrIYA",
+      "claimed": true,
+      "domain": "pintdownloader.com",
+      "name": "PintDownloader - Pinterest Downloader",
+      "icon": "https://cdn.brandfetch.io/idAMxhrIYA/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834082354bfumLaCV7mbtieMvwl",
+      "_score": 14.412079,
+      "qualityScore": 0.726782460541769,
+      "verified": false
+    }
+  ]
+}

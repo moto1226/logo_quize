@@ -1,0 +1,28 @@
+{
+  "fetched_at": "2026-06-06T12:07:41.201Z",
+  "brand_id": "starbucks",
+  "query": "Starbucks",
+  "http_status": 200,
+  "search_status": "ok",
+  "results": [
+    {
+      "brandId": "idwBSkfVb3",
+      "claimed": true,
+      "domain": "starbucks.com",
+      "name": "Starbucks",
+      "icon": "https://cdn.brandfetch.io/idwBSkfVb3/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834060034bfumLaCV7mIvBNH7Az",
+      "_score": 20.093754,
+      "qualityScore": 0.999816019184774,
+      "verified": true
+    },
+    {
+      "brandId": "id1mMPFPGV",
+      "claimed": false,
+      "domain": "starbucksathome.com",
+      "name": "Starbucks",
+      "icon": "https://cdn.brandfetch.io/id1mMPFPGV/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834060034bfumLaCV7mIvBNH7Az",
+      "_score": 20.283089,
+      "qualityScore": 0.7578903048571917
+    }
+  ]
+}

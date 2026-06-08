@@ -1,0 +1,46 @@
+{
+  "fetched_at": "2026-06-06T12:08:24.023Z",
+  "brand_id": "hermes",
+  "query": "Hermès",
+  "http_status": 200,
+  "search_status": "ok",
+  "results": [
+    {
+      "brandId": "idc3ljIBN0",
+      "claimed": false,
+      "domain": "hermes.com",
+      "name": "Hermès",
+      "icon": "https://cdn.brandfetch.io/idc3ljIBN0/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834102864bfumLaCV7mW9Fk4f5S",
+      "_score": 22.105534,
+      "qualityScore": 0.9609092113811489,
+      "verified": true
+    },
+    {
+      "brandId": "iddnhwTY1W",
+      "claimed": false,
+      "domain": "sauthermes.com",
+      "name": "Hermès",
+      "icon": "https://cdn.brandfetch.io/iddnhwTY1W/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834102864bfumLaCV7mW9Fk4f5S",
+      "_score": 23.000166,
+      "qualityScore": 0.7093401388734962
+    },
+    {
+      "brandId": "idsgQs6mzK",
+      "claimed": false,
+      "domain": "nic.hermes",
+      "name": "Hermès",
+      "icon": "https://cdn.brandfetch.io/idsgQs6mzK/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834102864bfumLaCV7mW9Fk4f5S",
+      "_score": 23.000166,
+      "qualityScore": 0.7057549360541185
+    },
+    {
+      "brandId": "idmA0-KaPR",
+      "claimed": false,
+      "domain": "fondationdentreprisehermes.org",
+      "name": "Fondation d'entreprise Hermès",
+      "icon": "https://cdn.brandfetch.io/idmA0-KaPR/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834102864bfumLaCV7mW9Fk4f5S",
+      "_score": 14.951006,
+      "qualityScore": 0.6888146818190551
+    }
+  ]
+}

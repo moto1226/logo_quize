@@ -1,0 +1,59 @@
+{
+  "fetched_at": "2026-06-06T12:08:00.083Z",
+  "brand_id": "microsoft",
+  "query": "Microsoft",
+  "http_status": 200,
+  "search_status": "ok",
+  "results": [
+    {
+      "brandId": "idchmboHEZ",
+      "claimed": true,
+      "domain": "microsoft.com",
+      "name": "Microsoft",
+      "icon": "https://cdn.brandfetch.io/idchmboHEZ/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834078925bfumLaCV7mIGU_PZh0",
+      "_score": 17.820368,
+      "qualityScore": 0.9999998846153558,
+      "verified": true
+    },
+    {
+      "brandId": "idsWBrtc_i",
+      "claimed": false,
+      "domain": "office.com",
+      "name": "Microsoft 365",
+      "icon": "https://cdn.brandfetch.io/idsWBrtc_i/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834078925bfumLaCV7mIGU_PZh0",
+      "_score": 14.373348,
+      "qualityScore": 0.9615376538459519,
+      "verified": true
+    },
+    {
+      "brandId": "idgS27aNck",
+      "claimed": false,
+      "domain": "azure.com",
+      "name": "Microsoft Azure Portal",
+      "icon": "https://cdn.brandfetch.io/idgS27aNck/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834078925bfumLaCV7mIGU_PZh0",
+      "_score": 12.043715,
+      "qualityScore": 0.9615369038457644,
+      "verified": true
+    },
+    {
+      "brandId": "idosUKQbqO",
+      "claimed": false,
+      "domain": "outlook.com",
+      "name": "Microsoft Outlook",
+      "icon": "https://cdn.brandfetch.io/idosUKQbqO/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834078925bfumLaCV7mIGU_PZh0",
+      "_score": 14.0388365,
+      "qualityScore": 0.9615309615365866,
+      "verified": true
+    },
+    {
+      "brandId": "idK_cDhf_x",
+      "claimed": false,
+      "domain": "playfab.com",
+      "name": "Microsoft Azure PlayFab",
+      "icon": "https://cdn.brandfetch.io/idK_cDhf_x/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834078925bfumLaCV7mIGU_PZh0",
+      "_score": 12.646627,
+      "qualityScore": 0.9216047304011826,
+      "verified": true
+    }
+  ]
+}

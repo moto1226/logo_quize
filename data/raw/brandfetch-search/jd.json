@@ -1,0 +1,38 @@
+{
+  "fetched_at": "2026-06-06T12:08:13.405Z",
+  "brand_id": "jd",
+  "query": "JD.com",
+  "http_status": 200,
+  "search_status": "ok",
+  "results": [
+    {
+      "brandId": "id8PjUiayu",
+      "claimed": false,
+      "domain": "jd.com",
+      "name": "JD.com, Inc.",
+      "icon": "https://cdn.brandfetch.io/id8PjUiayu/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834092241bfumLaCV7m_VbhHrqf",
+      "_score": 19.569664,
+      "qualityScore": 0.9614683653670913,
+      "verified": true
+    },
+    {
+      "brandId": "idgDUjYncX",
+      "claimed": false,
+      "domain": "jdcorporateblog.com",
+      "name": "JD.com",
+      "icon": "https://cdn.brandfetch.io/idgDUjYncX/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834092241bfumLaCV7m_VbhHrqf",
+      "_score": 22.924742,
+      "qualityScore": 0.9398298214959169,
+      "verified": true
+    },
+    {
+      "brandId": "idlLMJknnO",
+      "claimed": false,
+      "domain": "3.cn",
+      "name": "JD.com",
+      "icon": "https://cdn.brandfetch.io/idlLMJknnO/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834092241bfumLaCV7m_VbhHrqf",
+      "_score": 24.26189,
+      "qualityScore": 0.6118615760423171
+    }
+  ]
+}

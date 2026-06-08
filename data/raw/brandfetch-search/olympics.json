@@ -1,0 +1,46 @@
+{
+  "fetched_at": "2026-06-06T12:08:30.266Z",
+  "brand_id": "olympics",
+  "query": "Olympics",
+  "http_status": 200,
+  "search_status": "ok",
+  "results": [
+    {
+      "brandId": "idKZ2ZM45m",
+      "claimed": false,
+      "domain": "olympics.com",
+      "name": "Olympics",
+      "icon": "https://cdn.brandfetch.io/idKZ2ZM45m/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834109104bfumLaCV7mfs70gkh_",
+      "_score": 20.178917,
+      "qualityScore": 0.8844644615007307,
+      "verified": true
+    },
+    {
+      "brandId": "idBmwYs4a5",
+      "claimed": false,
+      "domain": "nbcolympics.com",
+      "name": "NBC Olympics & Paralympics",
+      "icon": "https://cdn.brandfetch.io/idBmwYs4a5/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834109104bfumLaCV7mfs70gkh_",
+      "_score": 13.832527,
+      "qualityScore": 0.7681407881890432
+    },
+    {
+      "brandId": "idWn27w3Z3",
+      "claimed": false,
+      "domain": "specialolympics.org",
+      "name": "Special Olympics",
+      "icon": "https://cdn.brandfetch.io/idWn27w3Z3/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834109104bfumLaCV7mfs70gkh_",
+      "_score": 16.502354,
+      "qualityScore": 0.7287740571935143
+    },
+    {
+      "brandId": "idVdEUvdN8",
+      "claimed": false,
+      "domain": "plungemn.org",
+      "name": "Polar Plunge for Special Olympics Minnesota",
+      "icon": "https://cdn.brandfetch.io/idVdEUvdN8/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834109104bfumLaCV7mfs70gkh_",
+      "_score": 9.1759815,
+      "qualityScore": 0.6891008357367473
+    }
+  ]
+}

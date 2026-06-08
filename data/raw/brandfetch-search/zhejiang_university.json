@@ -1,0 +1,48 @@
+{
+  "fetched_at": "2026-06-06T12:08:33.126Z",
+  "brand_id": "zhejiang_university",
+  "query": "Zhejiang University",
+  "http_status": 200,
+  "search_status": "ok",
+  "results": [
+    {
+      "brandId": "idbGC5Bwxv",
+      "claimed": false,
+      "domain": "zufe.edu.cn",
+      "name": "Zhejiang University of Finance & Economics",
+      "icon": "https://cdn.brandfetch.io/idbGC5Bwxv/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834111886bfumLaCV7mmnjvTZtS",
+      "_score": 31.96854,
+      "qualityScore": 0.491352267068836,
+      "verified": false
+    },
+    {
+      "brandId": "idwUUx7IAB",
+      "claimed": false,
+      "domain": "zeitounoliveoil.com",
+      "name": "School of Management at Zhejiang University",
+      "icon": "https://cdn.brandfetch.io/idwUUx7IAB/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834111886bfumLaCV7mmnjvTZtS",
+      "_score": 33.882828,
+      "qualityScore": 0.34615384615384615,
+      "verified": false
+    },
+    {
+      "brandId": "idvLGecKM1",
+      "claimed": false,
+      "domain": "uad.com.cn",
+      "name": "UAD 浙江大学建筑设计研究院有限公司 The Architectural Design & Research Institute Of Zhejiang University Co. Ltd.",
+      "icon": "https://cdn.brandfetch.io/idvLGecKM1/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834111886bfumLaCV7mmnjvTZtS",
+      "_score": 32.2819,
+      "qualityScore": 0.29659194914798725,
+      "verified": false
+    },
+    {
+      "brandId": "id-90m1bz0",
+      "claimed": false,
+      "domain": "zhedaqiushi.com",
+      "name": "Qiushi Educational Service Company of Zhejiang University",
+      "icon": "https://cdn.brandfetch.io/id-90m1bz0/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834111886bfumLaCV7mmnjvTZtS",
+      "_score": 31.96854,
+      "qualityScore": 0.2435897435897436
+    }
+  ]
+}

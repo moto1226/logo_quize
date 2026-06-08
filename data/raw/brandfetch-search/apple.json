@@ -1,0 +1,57 @@
+{
+  "fetched_at": "2026-06-06T12:07:57.239Z",
+  "brand_id": "apple",
+  "query": "Apple",
+  "http_status": 200,
+  "search_status": "ok",
+  "results": [
+    {
+      "brandId": "idnrCPuv87",
+      "claimed": true,
+      "domain": "apple.com",
+      "name": "Apple",
+      "icon": "https://cdn.brandfetch.io/idnrCPuv87/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834076074bfumLaCV7mHEtgW2Cj",
+      "_score": 15.382116,
+      "qualityScore": 0.999999480769101,
+      "verified": true
+    },
+    {
+      "brandId": "id_yBTuraI",
+      "claimed": false,
+      "domain": "applemusic.com",
+      "name": "Apple Music",
+      "icon": "https://cdn.brandfetch.io/id_yBTuraI/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834076074bfumLaCV7mHEtgW2Cj",
+      "_score": 12.321309,
+      "qualityScore": 0.9530947286582976,
+      "verified": true
+    },
+    {
+      "brandId": "idQ1NfTkrZ",
+      "claimed": false,
+      "domain": "applefcu.org",
+      "name": "Apple Federal Credit Union",
+      "icon": "https://cdn.brandfetch.io/idQ1NfTkrZ/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834076074bfumLaCV7mHEtgW2Cj",
+      "_score": 8.892189,
+      "qualityScore": 0.8343628047445473,
+      "verified": true
+    },
+    {
+      "brandId": "idF_xxipqa",
+      "claimed": true,
+      "domain": "cec.com",
+      "name": "C&C Apple Premium Partner",
+      "icon": "https://cdn.brandfetch.io/idF_xxipqa/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834076074bfumLaCV7mHEtgW2Cj",
+      "_score": 7.756798,
+      "qualityScore": 0.7856888021914313
+    },
+    {
+      "brandId": "idcXH4DNLc",
+      "claimed": false,
+      "domain": "appleinsider.com",
+      "name": "AppleInsider",
+      "icon": "https://cdn.brandfetch.io/idcXH4DNLc/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834076074bfumLaCV7mHEtgW2Cj",
+      "_score": 25.724445,
+      "qualityScore": 0.7688028075853173
+    }
+  ]
+}

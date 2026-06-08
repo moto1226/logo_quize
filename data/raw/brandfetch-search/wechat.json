@@ -1,0 +1,57 @@
+{
+  "fetched_at": "2026-06-06T12:08:04.090Z",
+  "brand_id": "wechat",
+  "query": "WeChat",
+  "http_status": 200,
+  "search_status": "ok",
+  "results": [
+    {
+      "brandId": "idhIQQJ7ix",
+      "claimed": false,
+      "domain": "wechat.com",
+      "name": "WeChat",
+      "icon": "https://cdn.brandfetch.io/idhIQQJ7ix/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834082923bfumLaCV7m6uun8SSe",
+      "_score": 24.385036,
+      "qualityScore": 0.8845021345870722,
+      "verified": true
+    },
+    {
+      "brandId": "idqRoRMW-v",
+      "claimed": false,
+      "domain": "wechatbiz.com",
+      "name": "Wechatbiz",
+      "icon": "https://cdn.brandfetch.io/idqRoRMW-v/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834082923bfumLaCV7m6uun8SSe",
+      "_score": 26.314688,
+      "qualityScore": 0.5844278095684908
+    },
+    {
+      "brandId": "idqRS4H0Nt",
+      "claimed": false,
+      "domain": "wechatpay.com",
+      "name": "WeChat Pay",
+      "icon": "https://cdn.brandfetch.io/idqRS4H0Nt/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834082923bfumLaCV7m6uun8SSe",
+      "_score": 19.117657,
+      "qualityScore": 0.5261059488341796,
+      "verified": false
+    },
+    {
+      "brandId": "idVS9oW_mi",
+      "claimed": false,
+      "domain": "wechatwiki.com",
+      "name": "WeChat Wiki",
+      "icon": "https://cdn.brandfetch.io/idVS9oW_mi/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834082923bfumLaCV7m6uun8SSe",
+      "_score": 18.490377,
+      "qualityScore": 0.5256410256410257
+    },
+    {
+      "brandId": "idzcVuFkqt",
+      "claimed": false,
+      "domain": "clifehack.com",
+      "name": "中華ライフハッカー＠中国VPN微信WeChat支付宝Alipay小紅書RED抖音TikTok",
+      "icon": "https://cdn.brandfetch.io/idzcVuFkqt/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834082923bfumLaCV7m6uun8SSe",
+      "_score": 4.1256905,
+      "qualityScore": 0.5256410256410257,
+      "verified": false
+    }
+  ]
+}

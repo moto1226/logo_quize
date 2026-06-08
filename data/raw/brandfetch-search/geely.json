@@ -1,0 +1,48 @@
+{
+  "fetched_at": "2026-06-06T12:07:49.605Z",
+  "brand_id": "geely",
+  "query": "Geely",
+  "http_status": 200,
+  "search_status": "ok",
+  "results": [
+    {
+      "brandId": "idatoDC6-X",
+      "claimed": false,
+      "domain": "geely.com",
+      "name": "Geely",
+      "icon": "https://cdn.brandfetch.io/idatoDC6-X/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834068392bfumLaCV7mQthOcgpd",
+      "_score": 21.991096,
+      "qualityScore": 0.9586463454308171,
+      "verified": true
+    },
+    {
+      "brandId": "idFa9ekloS",
+      "claimed": false,
+      "domain": "zgh.com",
+      "name": "Zhejiang Geely Holding Group",
+      "icon": "https://cdn.brandfetch.io/idFa9ekloS/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834068392bfumLaCV7mQthOcgpd",
+      "_score": 13.081118,
+      "qualityScore": 0.8919989345381952,
+      "verified": true
+    },
+    {
+      "brandId": "idPG5N6Z6_",
+      "claimed": false,
+      "domain": "geelybrasil.com.br",
+      "name": "Geely Brasil",
+      "icon": "https://cdn.brandfetch.io/idPG5N6Z6_/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834068392bfumLaCV7mQthOcgpd",
+      "_score": 17.558025,
+      "qualityScore": 0.7269516144302113,
+      "verified": false
+    },
+    {
+      "brandId": "idxSUcWGH-",
+      "claimed": false,
+      "domain": "geelyksa.com",
+      "name": "شركة الوعلان للتجارة",
+      "icon": "https://cdn.brandfetch.io/idxSUcWGH-/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834068392bfumLaCV7mQthOcgpd",
+      "_score": 14.811328,
+      "qualityScore": 0.6922142884381876
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "fetched_at": "2026-06-06T12:08:20.615Z",
+  "brand_id": "citibank",
+  "query": "Citibank",
+  "http_status": 200,
+  "search_status": "ok",
+  "results": [
+    {
+      "brandId": "id5D8Mhy2O",
+      "claimed": false,
+      "domain": "citientertainment.com",
+      "name": "Citibank",
+      "icon": "https://cdn.brandfetch.io/id5D8Mhy2O/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834099406bfumLaCV7mrG9S_tZP",
+      "_score": 23.0063,
+      "qualityScore": 0.7541971885492972
+    },
+    {
+      "brandId": "id9zsdU_Cz",
+      "claimed": false,
+      "domain": "citibank.pl",
+      "name": "Citi Handlowy",
+      "icon": "https://cdn.brandfetch.io/id9zsdU_Cz/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834099407bfumLaCV7mfUr6hWPa",
+      "_score": 13.696589,
+      "qualityScore": 0.7205527282151052
+    },
+    {
+      "brandId": "idc_pDpzid",
+      "claimed": false,
+      "domain": "mortgage.com",
+      "name": "Citibank",
+      "icon": "https://cdn.brandfetch.io/idc_pDpzid/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834099407bfumLaCV7mfUr6hWPa",
+      "_score": 22.994993,
+      "qualityScore": 0.6413658911107036
+    },
+    {
+      "brandId": "id6LWoOt_X",
+      "claimed": false,
+      "domain": "citibank.co.id",
+      "name": "Citibank",
+      "icon": "https://cdn.brandfetch.io/id6LWoOt_X/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834099407bfumLaCV7mfUr6hWPa",
+      "_score": 22.896814,
+      "qualityScore": 0.4848853616059558
+    }
+  ]
+}

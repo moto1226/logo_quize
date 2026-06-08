@@ -1,0 +1,47 @@
+{
+  "fetched_at": "2026-06-06T12:07:56.107Z",
+  "brand_id": "lamborghini",
+  "query": "Lamborghini",
+  "http_status": 200,
+  "search_status": "ok",
+  "results": [
+    {
+      "brandId": "idPo-rq5rw",
+      "claimed": false,
+      "domain": "lamborghini.com",
+      "name": "Lamborghini",
+      "icon": "https://cdn.brandfetch.io/idPo-rq5rw/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834074933bfumLaCV7mcq8uC9gT",
+      "_score": 20.009022,
+      "qualityScore": 0.9218773843154999,
+      "verified": true
+    },
+    {
+      "brandId": "idgbppTo3-",
+      "claimed": false,
+      "domain": "lamborghinistore.com",
+      "name": "Lamborghini",
+      "icon": "https://cdn.brandfetch.io/idgbppTo3-/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834074933bfumLaCV7mcq8uC9gT",
+      "_score": 20.009022,
+      "qualityScore": 0.7289476245445984
+    },
+    {
+      "brandId": "iduMM-S_Gy",
+      "claimed": false,
+      "domain": "nic.lamborghini",
+      "name": "Lamborghini",
+      "icon": "https://cdn.brandfetch.io/iduMM-S_Gy/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834074933bfumLaCV7mcq8uC9gT",
+      "_score": 20.841448,
+      "qualityScore": 0.6745045051645879,
+      "verified": false
+    },
+    {
+      "brandId": "idxHRSobwj",
+      "claimed": false,
+      "domain": "theultimatemotors.com",
+      "name": "Lamborghini Abu Dhabi & Dubai",
+      "icon": "https://cdn.brandfetch.io/idxHRSobwj/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834074933bfumLaCV7mcq8uC9gT",
+      "_score": 12.360588,
+      "qualityScore": 0.5692945557851774
+    }
+  ]
+}

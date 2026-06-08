@@ -1,0 +1,38 @@
+{
+  "fetched_at": "2026-06-06T12:07:42.918Z",
+  "brand_id": "tim_hortons",
+  "query": "Tim Hortons",
+  "http_status": 200,
+  "search_status": "ok",
+  "results": [
+    {
+      "brandId": "idxMs8w51W",
+      "claimed": false,
+      "domain": "timhortons.com",
+      "name": "Tim Hortons",
+      "icon": "https://cdn.brandfetch.io/idxMs8w51W/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834061749bfumLaCV7mnFCgeU9q",
+      "_score": 30.374496,
+      "qualityScore": 0.9067757170785448,
+      "verified": true
+    },
+    {
+      "brandId": "id6_woboIT",
+      "claimed": false,
+      "domain": "timhortons.ca",
+      "name": "Tim Hortons",
+      "icon": "https://cdn.brandfetch.io/id6_woboIT/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834061749bfumLaCV7mnFCgeU9q",
+      "_score": 31.577328,
+      "qualityScore": 0.8809503067760382,
+      "verified": true
+    },
+    {
+      "brandId": "idW_jJX-pZ",
+      "claimed": false,
+      "domain": "timhortonsgcc.com",
+      "name": "Tim Hortons Middle East",
+      "icon": "https://cdn.brandfetch.io/idW_jJX-pZ/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834061749bfumLaCV7mnFCgeU9q",
+      "_score": 31.577328,
+      "qualityScore": 0.5384615384615384
+    }
+  ]
+}

@@ -1,0 +1,639 @@
+{
+  "generated_at": "2026-06-07T01:57:25.130Z",
+  "candidate_count": 155,
+  "entries": [
+    {
+      "brand_id": "nike",
+      "candidate_count": 0,
+      "errors": [
+        "fetch failed"
+      ]
+    },
+    {
+      "brand_id": "adidas",
+      "candidate_count": 0,
+      "errors": [
+        "homepage http 403"
+      ]
+    },
+    {
+      "brand_id": "puma",
+      "candidate_count": 0,
+      "errors": [
+        "homepage http 403"
+      ]
+    },
+    {
+      "brand_id": "reebok",
+      "candidate_count": 2,
+      "errors": []
+    },
+    {
+      "brand_id": "the_north_face",
+      "candidate_count": 4,
+      "errors": []
+    },
+    {
+      "brand_id": "patagonia",
+      "candidate_count": 2,
+      "errors": []
+    },
+    {
+      "brand_id": "salomon",
+      "candidate_count": 3,
+      "errors": [
+        "icon https://salomon.com/favicons/favicon.ico: unsupported ico"
+      ]
+    },
+    {
+      "brand_id": "under_armour",
+      "candidate_count": 1,
+      "errors": []
+    },
+    {
+      "brand_id": "starbucks",
+      "candidate_count": 4,
+      "errors": []
+    },
+    {
+      "brand_id": "costa",
+      "candidate_count": 4,
+      "errors": []
+    },
+    {
+      "brand_id": "luckin",
+      "candidate_count": 0,
+      "errors": [
+        "icon https://web.luckincdn.com/favicon.ico: unsupported ico"
+      ]
+    },
+    {
+      "brand_id": "tim_hortons",
+      "candidate_count": 0,
+      "errors": [
+        "icon https://timhortons.com/assets/th/favicon.ico: unsupported ico",
+        "og:image https://cdn.sanity.io/images/czqk28jt/prod_th/9a9f5534893f0681e4d77d5d80d7014bd747e529-2880x1658.png: http 404"
+      ]
+    },
+    {
+      "brand_id": "mcdonalds",
+      "candidate_count": 1,
+      "errors": [
+        "icon https://mcdonalds.com/content/dam/sites/usa/nfl/icons/favicon.ico: unsupported ico"
+      ]
+    },
+    {
+      "brand_id": "kfc",
+      "candidate_count": 0,
+      "errors": [
+        "apple-touch-icon https://www.kfc.com/assets/apple-touch-icon-57x57.png: http 404",
+        "apple-touch-icon https://www.kfc.com/assets/apple-touch-icon-60x60.png: http 404",
+        "apple-touch-icon https://www.kfc.com/assets/apple-touch-icon-72x72.png: http 404",
+        "apple-touch-icon https://www.kfc.com/assets/apple-touch-icon-76x76.png: http 404"
+      ]
+    },
+    {
+      "brand_id": "burger_king",
+      "candidate_count": 0,
+      "errors": [
+        "icon https://burgerking.com/favicon.ico: unsupported ico"
+      ]
+    },
+    {
+      "brand_id": "pizza_hut",
+      "candidate_count": 1,
+      "errors": []
+    },
+    {
+      "brand_id": "pepsi",
+      "candidate_count": 0,
+      "errors": []
+    },
+    {
+      "brand_id": "red_bull",
+      "candidate_count": 4,
+      "errors": []
+    },
+    {
+      "brand_id": "monster_energy",
+      "candidate_count": 0,
+      "errors": [
+        "homepage http 403"
+      ]
+    },
+    {
+      "brand_id": "gatorade",
+      "candidate_count": 0,
+      "errors": [
+        "homepage http 403"
+      ]
+    },
+    {
+      "brand_id": "tesla",
+      "candidate_count": 4,
+      "errors": []
+    },
+    {
+      "brand_id": "byd",
+      "candidate_count": 0,
+      "errors": [
+        "icon https://byd.com/static_material/byd/asia_pacific/images/favicon.ico: unsupported ico",
+        "og:image https://byd.com/: Input buffer contains unsupported image format"
+      ]
+    },
+    {
+      "brand_id": "nio",
+      "candidate_count": 0,
+      "errors": [
+        "fetch failed"
+      ]
+    },
+    {
+      "brand_id": "geely",
+      "candidate_count": 0,
+      "errors": [
+        "icon https://geely.com/dist/web-portal/favicon.ico: unsupported ico",
+        "og:image https://www.geely.comundefined/: fetch failed"
+      ]
+    },
+    {
+      "brand_id": "toyota",
+      "candidate_count": 1,
+      "errors": [
+        "icon https://toyota.com/favicon.ico: unsupported ico",
+        "icon https://toyota.com/icon.ico: unsupported ico",
+        "og:image https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/relative/home/en/base.png?wid=1140&hei=600&fmt=jpg&fit=crop: http 403"
+      ]
+    },
+    {
+      "brand_id": "honda",
+      "candidate_count": 4,
+      "errors": []
+    },
+    {
+      "brand_id": "nissan",
+      "candidate_count": 1,
+      "errors": [
+        "apple-touch-icon https://nissan-global.com/library/assets/img/apple-touch-icon.png: http 404",
+        "icon https://nissan-global.com/favicon.ico?dummy=1680499982: http 404"
+      ]
+    },
+    {
+      "brand_id": "hyundai",
+      "candidate_count": 3,
+      "errors": []
+    },
+    {
+      "brand_id": "bmw",
+      "candidate_count": 0,
+      "errors": [
+        "og:image https://www.bmw.co.jp/: Input buffer has corrupt header: glib: XML parse error: Error domain 1 code 76 on line 9919 column 8 of data: Opening and ending tag mismatch: link line 182 and html"
+      ]
+    },
+    {
+      "brand_id": "mercedes_benz",
+      "candidate_count": 4,
+      "errors": []
+    },
+    {
+      "brand_id": "audi",
+      "candidate_count": 1,
+      "errors": [
+        "icon https://audi.com/assets/favicon/favicon.ico: unsupported ico"
+      ]
+    },
+    {
+      "brand_id": "lexus",
+      "candidate_count": 0,
+      "errors": [
+        "fetch failed"
+      ]
+    },
+    {
+      "brand_id": "porsche",
+      "candidate_count": 3,
+      "errors": [
+        "icon https://cdn.ui.porsche.com/porsche-design-system/meta-icons/favicon.ed9a926.ico: unsupported ico"
+      ]
+    },
+    {
+      "brand_id": "ferrari",
+      "candidate_count": 0,
+      "errors": [
+        "fetch failed"
+      ]
+    },
+    {
+      "brand_id": "lamborghini",
+      "candidate_count": 4,
+      "errors": []
+    },
+    {
+      "brand_id": "maserati",
+      "candidate_count": 0,
+      "errors": [
+        "icon https://maserati.com/content/dam/maserati/international/favicon/favicon_redesign.ico: unsupported ico"
+      ]
+    },
+    {
+      "brand_id": "apple",
+      "candidate_count": 1,
+      "errors": []
+    },
+    {
+      "brand_id": "huawei",
+      "candidate_count": 4,
+      "errors": []
+    },
+    {
+      "brand_id": "xiaomi",
+      "candidate_count": 4,
+      "errors": []
+    },
+    {
+      "brand_id": "oneplus",
+      "candidate_count": 0,
+      "errors": [
+        "icon https://oasis.opstatics.com/content/dam/oasis/oneplus.ico: unsupported ico"
+      ]
+    },
+    {
+      "brand_id": "google",
+      "candidate_count": 0,
+      "errors": []
+    },
+    {
+      "brand_id": "microsoft",
+      "candidate_count": 0,
+      "errors": [
+        "icon https://microsoft.com/favicon.ico?v2: unsupported ico"
+      ]
+    },
+    {
+      "brand_id": "adobe",
+      "candidate_count": 1,
+      "errors": [
+        "icon data:,: http 200"
+      ]
+    },
+    {
+      "brand_id": "nvidia",
+      "candidate_count": 0,
+      "errors": []
+    },
+    {
+      "brand_id": "instagram",
+      "candidate_count": 4,
+      "errors": []
+    },
+    {
+      "brand_id": "tiktok",
+      "candidate_count": 4,
+      "errors": []
+    },
+    {
+      "brand_id": "snapchat",
+      "candidate_count": 3,
+      "errors": [
+        "icon https://static.snapchat.com/favicon.ico: unsupported ico"
+      ]
+    },
+    {
+      "brand_id": "pinterest",
+      "candidate_count": 4,
+      "errors": []
+    },
+    {
+      "brand_id": "wechat",
+      "candidate_count": 2,
+      "errors": [
+        "icon https://newres.wechat.com/t/fed_upload/25d133b0-63d9-4102-857c-5cc84c752232/NTI4MWU5.ico: unsupported ico"
+      ]
+    },
+    {
+      "brand_id": "qq",
+      "candidate_count": 0,
+      "errors": [
+        "icon https://mat1.gtimg.com/qqcdn/qqindex2021/favicon.ico: unsupported ico"
+      ]
+    },
+    {
+      "brand_id": "douyin",
+      "candidate_count": 0,
+      "errors": []
+    },
+    {
+      "brand_id": "xiaohongshu",
+      "candidate_count": 4,
+      "errors": []
+    },
+    {
+      "brand_id": "whatsapp",
+      "candidate_count": 2,
+      "errors": []
+    },
+    {
+      "brand_id": "telegram",
+      "candidate_count": 4,
+      "errors": []
+    },
+    {
+      "brand_id": "line",
+      "candidate_count": 4,
+      "errors": []
+    },
+    {
+      "brand_id": "discord",
+      "candidate_count": 2,
+      "errors": [
+        "apple-touch-icon https://cdn.prod.website-files.com/6257adef93867e50d84d30e2/6266bc493fb42d4e27bb8393_847541504914fd33810e70a0ea73177e.ico: unsupported ico"
+      ]
+    },
+    {
+      "brand_id": "youtube",
+      "candidate_count": 4,
+      "errors": []
+    },
+    {
+      "brand_id": "netflix",
+      "candidate_count": 1,
+      "errors": [
+        "icon https://assets.nflxext.com/us/ffe/siteui/common/icons/nficon2023.ico: unsupported ico"
+      ]
+    },
+    {
+      "brand_id": "bilibili",
+      "candidate_count": 1,
+      "errors": [
+        "icon https://i0.hdslb.com/bfs/static/jinkela/long/images/favicon.ico: unsupported ico"
+      ]
+    },
+    {
+      "brand_id": "tencent_video",
+      "candidate_count": 1,
+      "errors": [
+        "icon https://v.qq.com/favicon.ico: unsupported ico"
+      ]
+    },
+    {
+      "brand_id": "playstation",
+      "candidate_count": 4,
+      "errors": []
+    },
+    {
+      "brand_id": "xbox",
+      "candidate_count": 3,
+      "errors": [
+        "icon https://www.xbox.com/favicon.ico: unsupported ico"
+      ]
+    },
+    {
+      "brand_id": "steam",
+      "candidate_count": 1,
+      "errors": [
+        "icon https://steampowered.com/favicon.ico: unsupported ico"
+      ]
+    },
+    {
+      "brand_id": "roblox",
+      "candidate_count": 2,
+      "errors": [
+        "icon https://images.rbxcdn.com/e854eb7b2951ac03edba9a2681032bba.ico: unsupported ico"
+      ]
+    },
+    {
+      "brand_id": "jd",
+      "candidate_count": 0,
+      "errors": [
+        "icon https://storage.360buyimg.com/retail-mall/mall-common-component/favicon.ico: unsupported ico"
+      ]
+    },
+    {
+      "brand_id": "tmall",
+      "candidate_count": 2,
+      "errors": []
+    },
+    {
+      "brand_id": "pinduoduo",
+      "candidate_count": 1,
+      "errors": []
+    },
+    {
+      "brand_id": "meituan",
+      "candidate_count": 1,
+      "errors": [
+        "manifest https://meituan.com/site.webmanifest: Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON",
+        "icon https://s3plus.meituan.net/v1/mss_e2821d7f0cfe4ac1bf9202ecf9590e67/cdn-prod/file:1040877d/favicon-mt.ico: unsupported ico"
+      ]
+    },
+    {
+      "brand_id": "mastercard",
+      "candidate_count": 3,
+      "errors": [
+        "icon https://mastercard.com/content/dam/dxp/favicon/mastercardfavicon.ico: unsupported ico"
+      ]
+    },
+    {
+      "brand_id": "paypal",
+      "candidate_count": 0,
+      "errors": [
+        "fetch failed"
+      ]
+    },
+    {
+      "brand_id": "alipay",
+      "candidate_count": 1,
+      "errors": [
+        "icon https://img.alicdn.com/tfs/TB1qEwuzrj1gK0jSZFOXXc7GpXa-32-32.ico: unsupported ico"
+      ]
+    },
+    {
+      "brand_id": "wechat_pay",
+      "candidate_count": 0,
+      "errors": [
+        "icon https://gtimg.wechatpay.cn/core/favicon.ico: unsupported ico"
+      ]
+    },
+    {
+      "brand_id": "bank_of_china",
+      "candidate_count": 0,
+      "errors": [
+        "fetch failed"
+      ]
+    },
+    {
+      "brand_id": "icbc",
+      "candidate_count": 0,
+      "errors": [
+        "fetch failed"
+      ]
+    },
+    {
+      "brand_id": "china_construction_bank",
+      "candidate_count": 0,
+      "errors": [
+        "fetch failed"
+      ]
+    },
+    {
+      "brand_id": "agricultural_bank_of_china",
+      "candidate_count": 0,
+      "errors": [
+        "fetch failed"
+      ]
+    },
+    {
+      "brand_id": "hsbc",
+      "candidate_count": 3,
+      "errors": [
+        "icon https://hsbc.com/assets/basekit.features/favicon/images/favicon.ico: unsupported ico"
+      ]
+    },
+    {
+      "brand_id": "citibank",
+      "candidate_count": 0,
+      "errors": [
+        "icon https://citi.com/cbol-hp-static-assets/assets/favicon.ico: unsupported ico"
+      ]
+    },
+    {
+      "brand_id": "chase",
+      "candidate_count": 4,
+      "errors": []
+    },
+    {
+      "brand_id": "deutsche_bank",
+      "candidate_count": 4,
+      "errors": []
+    },
+    {
+      "brand_id": "chanel",
+      "candidate_count": 4,
+      "errors": []
+    },
+    {
+      "brand_id": "gucci",
+      "candidate_count": 2,
+      "errors": []
+    },
+    {
+      "brand_id": "louis_vuitton",
+      "candidate_count": 2,
+      "errors": [
+        "manifest https://louisvuitton.com/static/21.06.0-revamp-315/assets/favicons/site.webmanifest: Unexpected token '<', \"<h1>Not Found</h1>\" is not valid JSON",
+        "apple-touch-icon https://louisvuitton.com/static/21.06.0-revamp-315/assets/favicons/apple-touch-icon.png: http 404",
+        "mask-icon https://louisvuitton.com/assets/icon.svg: http 404"
+      ]
+    },
+    {
+      "brand_id": "hermes",
+      "candidate_count": 0,
+      "errors": [
+        "homepage http 403"
+      ]
+    },
+    {
+      "brand_id": "air_china",
+      "candidate_count": 0,
+      "errors": [
+        "fetch failed"
+      ]
+    },
+    {
+      "brand_id": "china_southern_airlines",
+      "candidate_count": 0,
+      "errors": []
+    },
+    {
+      "brand_id": "china_eastern_airlines",
+      "candidate_count": 0,
+      "errors": [
+        "icon https://ceair.com/favicon.ico: unsupported ico"
+      ]
+    },
+    {
+      "brand_id": "hainan_airlines",
+      "candidate_count": 0,
+      "errors": []
+    },
+    {
+      "brand_id": "emirates",
+      "candidate_count": 4,
+      "errors": []
+    },
+    {
+      "brand_id": "qatar_airways",
+      "candidate_count": 1,
+      "errors": [
+        "icon https://qatarairways.com/favicon.ico: unsupported ico",
+        "og:image https://www.qatarairways.comhttps//dmassets.qatarairways.com/adobe/assets/urn:aaid:aem:b4033f16-48ab-443e-a5a3-dcea1d56a526/as/hn-recovery-aircraft-maldives.jpg?quality=95: fetch failed"
+      ]
+    },
+    {
+      "brand_id": "singapore_airlines",
+      "candidate_count": 3,
+      "errors": [
+        "icon https://singaporeair.com/favicon.ico?v=1: unsupported ico"
+      ]
+    },
+    {
+      "brand_id": "delta_air_lines",
+      "candidate_count": 0,
+      "errors": [
+        "fetch failed"
+      ]
+    },
+    {
+      "brand_id": "united_nations",
+      "candidate_count": 0,
+      "errors": [
+        "homepage http 403"
+      ]
+    },
+    {
+      "brand_id": "world_health_organization",
+      "candidate_count": 4,
+      "errors": []
+    },
+    {
+      "brand_id": "olympics",
+      "candidate_count": 4,
+      "errors": []
+    },
+    {
+      "brand_id": "red_cross",
+      "candidate_count": 1,
+      "errors": [
+        "icon https://redcross.org/etc/designs/redcross/shared/favicon.ico: unsupported ico"
+      ]
+    },
+    {
+      "brand_id": "tsinghua_university",
+      "candidate_count": 0,
+      "errors": [
+        "fetch failed"
+      ]
+    },
+    {
+      "brand_id": "peking_university",
+      "candidate_count": 0,
+      "errors": [
+        "fetch failed"
+      ]
+    },
+    {
+      "brand_id": "fudan_university",
+      "candidate_count": 0,
+      "errors": [
+        "icon https://fudan.edu.cn/_upload/tpl/00/0e/14/template14/images/favicon.ico: unsupported ico"
+      ]
+    },
+    {
+      "brand_id": "zhejiang_university",
+      "candidate_count": 0,
+      "errors": [
+        "fetch failed"
+      ]
+    }
+  ]
+}

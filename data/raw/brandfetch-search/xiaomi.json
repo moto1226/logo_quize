@@ -1,0 +1,56 @@
+{
+  "fetched_at": "2026-06-06T12:07:58.409Z",
+  "brand_id": "xiaomi",
+  "query": "Xiaomi",
+  "http_status": 200,
+  "search_status": "ok",
+  "results": [
+    {
+      "brandId": "id3IaEYtG_",
+      "claimed": false,
+      "domain": "mi.com",
+      "name": "Xiaomi",
+      "icon": "https://cdn.brandfetch.io/id3IaEYtG_/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834077246bfumLaCV7mf20VimZq",
+      "_score": 20.332531,
+      "qualityScore": 0.9230576538413365,
+      "verified": true
+    },
+    {
+      "brandId": "idwtD2YHNm",
+      "claimed": false,
+      "domain": "xiaomi.com",
+      "name": "Xiaomi Support",
+      "icon": "https://cdn.brandfetch.io/idwtD2YHNm/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834077246bfumLaCV7mf20VimZq",
+      "_score": 16.406918,
+      "qualityScore": 0.7692227499979952
+    },
+    {
+      "brandId": "idZ7WhywHE",
+      "claimed": false,
+      "domain": "xiaomitime.com",
+      "name": "XiaomiTime",
+      "icon": "https://cdn.brandfetch.io/idZ7WhywHE/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834077246bfumLaCV7mf20VimZq",
+      "_score": 25.818554,
+      "qualityScore": 0.7600290169303311,
+      "verified": false
+    },
+    {
+      "brandId": "idUucwmxTM",
+      "claimed": false,
+      "domain": "mundoxiaomi.com",
+      "name": "Mundo Xiaomi",
+      "icon": "https://cdn.brandfetch.io/idUucwmxTM/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834077246bfumLaCV7mf20VimZq",
+      "_score": 16.428152,
+      "qualityScore": 0.7586456704306485
+    },
+    {
+      "brandId": "id7Y6pvrOS",
+      "claimed": false,
+      "domain": "xiaomiadictos.com",
+      "name": "XIAOMIADICTOS",
+      "icon": "https://cdn.brandfetch.io/id7Y6pvrOS/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834077246bfumLaCV7mf20VimZq",
+      "_score": 26.315136,
+      "qualityScore": 0.7451021093524505
+    }
+  ]
+}

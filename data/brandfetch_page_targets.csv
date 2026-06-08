@@ -1,0 +1,75 @@
+brand_id,name_en,name_zh,domain,source_reason
+nike,Nike,耐克,nike.com,missing_svglogo_non_wordmark
+adidas,Adidas,阿迪达斯,adidas.com,missing_svglogo_non_wordmark
+puma,Puma,彪马,puma.com,missing_svglogo_non_wordmark
+reebok,Reebok,锐步,reebok.com,missing_svglogo_non_wordmark
+the_north_face,The North Face,北面,thenorthface.com,missing_svglogo_non_wordmark
+patagonia,Patagonia,巴塔哥尼亚,patagonia.com,missing_svglogo_non_wordmark
+salomon,Salomon,萨洛蒙,salomon.com,missing_svglogo_non_wordmark
+under_armour,Under Armour,安德玛,underarmour.com,missing_svglogo_non_wordmark
+starbucks,Starbucks,星巴克,starbucks.com,missing_svglogo_non_wordmark
+costa,Costa Coffee,Costa 咖啡,costa.co.uk,missing_svglogo_non_wordmark
+luckin,Luckin Coffee,瑞幸咖啡,luckincoffee.com,missing_svglogo_non_wordmark
+tim_hortons,Tim Hortons,Tim Hortons,timhortons.com,missing_svglogo_non_wordmark
+mcdonalds,McDonald's,麦当劳,mcdonalds.com,missing_svglogo_non_wordmark
+kfc,KFC,肯德基,kfc.com,missing_svglogo_non_wordmark
+burger_king,Burger King,汉堡王,burgerking.com,missing_svglogo_non_wordmark
+pizza_hut,Pizza Hut,必胜客,pizzahut.com,missing_svglogo_non_wordmark
+pepsi,Pepsi,百事,pepsi.com,missing_svglogo_non_wordmark
+red_bull,Red Bull,红牛,redbull.com,missing_svglogo_non_wordmark
+monster_energy,Monster Energy,魔爪能量,monsterenergy.com,missing_svglogo_non_wordmark
+gatorade,Gatorade,佳得乐,gatorade.com,missing_svglogo_non_wordmark
+tesla,Tesla,特斯拉,tesla.com,missing_svglogo_non_wordmark
+geely,Geely,吉利,geely.com,missing_svglogo_non_wordmark
+toyota,Toyota,丰田,toyota.com,missing_svglogo_non_wordmark
+honda,Honda,本田,honda.com,missing_svglogo_non_wordmark
+nissan,Nissan,日产,nissan-global.com,missing_svglogo_non_wordmark
+hyundai,Hyundai,现代,hyundai.com,missing_svglogo_non_wordmark
+bmw,BMW,宝马,bmw.com,missing_svglogo_non_wordmark
+mercedes_benz,Mercedes-Benz,梅赛德斯-奔驰,mercedes-benz.com,missing_svglogo_non_wordmark
+audi,Audi,奥迪,audi.com,missing_svglogo_non_wordmark
+lexus,Lexus,雷克萨斯,lexus.com,missing_svglogo_non_wordmark
+porsche,Porsche,保时捷,porsche.com,missing_svglogo_non_wordmark
+ferrari,Ferrari,法拉利,ferrari.com,missing_svglogo_non_wordmark
+lamborghini,Lamborghini,兰博基尼,lamborghini.com,missing_svglogo_non_wordmark
+maserati,Maserati,玛莎拉蒂,maserati.com,missing_svglogo_non_wordmark
+apple,Apple,苹果,apple.com,missing_svglogo_non_wordmark
+oneplus,OnePlus,一加,oneplus.com,missing_svglogo_non_wordmark
+google,Google,谷歌,google.com,missing_svglogo_non_wordmark
+adobe,Adobe,Adobe,adobe.com,missing_svglogo_non_wordmark
+nvidia,NVIDIA,英伟达,nvidia.com,missing_svglogo_non_wordmark
+instagram,Instagram,Instagram,instagram.com,missing_svglogo_non_wordmark
+snapchat,Snapchat,Snapchat,snapchat.com,missing_svglogo_non_wordmark
+pinterest,Pinterest,Pinterest,pinterest.com,missing_svglogo_non_wordmark
+whatsapp,WhatsApp,WhatsApp,whatsapp.com,missing_svglogo_non_wordmark
+telegram,Telegram,Telegram,telegram.org,missing_svglogo_non_wordmark
+line,LINE,LINE,line.me,missing_svglogo_non_wordmark
+discord,Discord,Discord,discord.com,missing_svglogo_non_wordmark
+youtube,YouTube,YouTube,youtube.com,missing_svglogo_non_wordmark
+netflix,Netflix,Netflix,netflix.com,missing_svglogo_non_wordmark
+tencent_video,Tencent Video,腾讯视频,v.qq.com,missing_svglogo_non_wordmark
+playstation,PlayStation,PlayStation,playstation.com,missing_svglogo_non_wordmark
+xbox,Xbox,Xbox,xbox.com,missing_svglogo_non_wordmark
+steam,Steam,Steam,steampowered.com,missing_svglogo_non_wordmark
+roblox,Roblox,Roblox,roblox.com,missing_svglogo_non_wordmark
+jd,JD.com,京东,jd.com,missing_svglogo_non_wordmark
+tmall,Tmall,天猫,tmall.com,missing_svglogo_non_wordmark
+pinduoduo,Pinduoduo,拼多多,pinduoduo.com,missing_svglogo_non_wordmark
+meituan,Meituan,美团,meituan.com,missing_svglogo_non_wordmark
+mastercard,Mastercard,万事达卡,mastercard.com,missing_svglogo_non_wordmark
+paypal,PayPal,PayPal,paypal.com,missing_svglogo_non_wordmark
+hsbc,HSBC,汇丰银行,hsbc.com,missing_svglogo_non_wordmark
+citibank,Citibank,花旗银行,citi.com,missing_svglogo_non_wordmark
+chase,Chase,大通银行,chase.com,missing_svglogo_non_wordmark
+deutsche_bank,Deutsche Bank,德意志银行,db.com,missing_svglogo_non_wordmark
+gucci,Gucci,古驰,gucci.com,missing_svglogo_non_wordmark
+louis_vuitton,Louis Vuitton,路易威登,louisvuitton.com,missing_svglogo_non_wordmark
+hermes,Hermès,爱马仕,hermes.com,missing_svglogo_non_wordmark
+emirates,Emirates,阿联酋航空,emirates.com,missing_svglogo_non_wordmark
+qatar_airways,Qatar Airways,卡塔尔航空,qatarairways.com,missing_svglogo_non_wordmark
+singapore_airlines,Singapore Airlines,新加坡航空,singaporeair.com,missing_svglogo_non_wordmark
+delta_air_lines,Delta Air Lines,达美航空,delta.com,missing_svglogo_non_wordmark
+united_nations,United Nations,联合国,un.org,missing_svglogo_non_wordmark
+world_health_organization,World Health Organization,世界卫生组织,who.int,missing_svglogo_non_wordmark
+olympics,Olympics,奥林匹克,olympics.com,missing_svglogo_non_wordmark
+red_cross,Red Cross,红十字会,redcross.org,missing_svglogo_non_wordmark

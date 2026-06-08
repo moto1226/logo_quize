@@ -1,0 +1,55 @@
+{
+  "fetched_at": "2026-06-06T12:08:12.208Z",
+  "brand_id": "steam",
+  "query": "Steam",
+  "http_status": 200,
+  "search_status": "ok",
+  "results": [
+    {
+      "brandId": "idMpZmhn_O",
+      "claimed": false,
+      "domain": "steampowered.com",
+      "name": "Steam",
+      "icon": "https://cdn.brandfetch.io/idMpZmhn_O/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834091040bfumLaCV7mCS2fSkxj",
+      "_score": 16.636072,
+      "qualityScore": 0.9615213846111155,
+      "verified": true
+    },
+    {
+      "brandId": "id6JGBYehh",
+      "claimed": false,
+      "domain": "steamboatpilot.com",
+      "name": "Steamboat Pilot & Today",
+      "icon": "https://cdn.brandfetch.io/id6JGBYehh/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834091041bfumLaCV7mUnpLXmTb",
+      "_score": 13.115425,
+      "qualityScore": 0.7602724785296581
+    },
+    {
+      "brandId": "idgQHgRDuj",
+      "claimed": false,
+      "domain": "steamshipauthority.com",
+      "name": "The Steamship Authority",
+      "icon": "https://cdn.brandfetch.io/idgQHgRDuj/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834091041bfumLaCV7mUnpLXmTb",
+      "_score": 15.371746,
+      "qualityScore": 0.7572588046993165
+    },
+    {
+      "brandId": "idQxtjm-ry",
+      "claimed": false,
+      "domain": "steam-packet.com",
+      "name": "Steam Packet",
+      "icon": "https://cdn.brandfetch.io/idQxtjm-ry/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834091041bfumLaCV7mUnpLXmTb",
+      "_score": 13.425129,
+      "qualityScore": 0.7527578228048403
+    },
+    {
+      "brandId": "idUjuTDj5G",
+      "claimed": false,
+      "domain": "steam250.com",
+      "name": "Steam 250",
+      "icon": "https://cdn.brandfetch.io/idUjuTDj5G/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834091041bfumLaCV7mUnpLXmTb",
+      "_score": 13.425129,
+      "qualityScore": 0.7470484079159482
+    }
+  ]
+}

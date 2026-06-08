@@ -1,0 +1,1632 @@
+{
+  "generated_at": "2026-06-07T08:39:45.848Z",
+  "input_count": 963,
+  "present_count": 983,
+  "collected_count": 37,
+  "missing_count": 93,
+  "error_count": 213,
+  "entries": [
+    {
+      "brand_id": "stanford_university",
+      "status": "collected",
+      "candidate_id": "expanded-wikimedia_stanford_university_q41506_stanford_wordmark_2012_svg"
+    },
+    {
+      "brand_id": "university_of_cambridge",
+      "status": "collected",
+      "candidate_id": "expanded-wikimedia_university_of_cambridge_q35794_university_of_cambridge_logo_png"
+    },
+    {
+      "brand_id": "university_of_oxford",
+      "status": "collected",
+      "candidate_id": "expanded-wikimedia_university_of_oxford_q34433_university_of_oxford_svg"
+    },
+    {
+      "brand_id": "university_of_tokyo",
+      "status": "collected",
+      "candidate_id": "expanded-wikimedia_university_of_tokyo_q7842_university_of_tokyo_logo_2024_svg"
+    },
+    {
+      "brand_id": "doctors_without_borders",
+      "status": "missing"
+    },
+    {
+      "brand_id": "world_food_programme",
+      "status": "collected",
+      "candidate_id": "expanded-wikimedia_world_food_programme_q204344_world_food_programme_logo_simple_svg"
+    },
+    {
+      "brand_id": "wwf",
+      "status": "missing"
+    },
+    {
+      "brand_id": "british_museum",
+      "status": "collected",
+      "candidate_id": "expanded-wikimedia_british_museum_q6373_british_museum_logo_svg"
+    },
+    {
+      "brand_id": "centre_pompidou",
+      "status": "missing"
+    },
+    {
+      "brand_id": "guggenheim_museum",
+      "status": "collected",
+      "candidate_id": "expanded-wikimedia_guggenheim_museum_q179199_guggenheim_museum_bilbao_logo_svg"
+    },
+    {
+      "brand_id": "louvre",
+      "status": "error",
+      "error": "429 You are making too many requests to the API.\nPlease follow the best practices at"
+    },
+    {
+      "brand_id": "moma",
+      "status": "error",
+      "error": "429 You are making too many requests to the API.\nPlease follow the best practices at"
+    },
+    {
+      "brand_id": "smithsonian",
+      "status": "error",
+      "error": "429 You are making too many requests to the API.\nPlease follow the best practices at"
+    },
+    {
+      "brand_id": "tate",
+      "status": "error",
+      "error": "429 You are making too many requests to the API.\nPlease follow the best practices at"
+    },
+    {
+      "brand_id": "the_met",
+      "status": "error",
+      "error": "429 You are making too many requests to the API.\nPlease follow the best practices at"
+    },
+    {
+      "brand_id": "world_wildlife_fund",
+      "status": "error",
+      "error": "429 You are making too many requests to the API.\nPlease follow the best practices at"
+    },
+    {
+      "brand_id": "unesco",
+      "status": "error",
+      "error": "429 You are making too many requests to the API.\nPlease follow the best practices at"
+    },
+    {
+      "brand_id": "unicef",
+      "status": "error",
+      "error": "429 You are making too many requests to the API.\nPlease follow the best practices at"
+    },
+    {
+      "brand_id": "cern",
+      "status": "error",
+      "error": "429 You are making too many requests to the API.\nPlease follow the best practices at"
+    },
+    {
+      "brand_id": "cnsa",
+      "status": "missing"
+    },
+    {
+      "brand_id": "esa",
+      "status": "missing"
+    },
+    {
+      "brand_id": "jaxa",
+      "status": "missing"
+    },
+    {
+      "brand_id": "national_geographic",
+      "status": "collected",
+      "candidate_id": "expanded-wikimedia_national_geographic_q5973845_natgeologo_svg"
+    },
+    {
+      "brand_id": "noaa",
+      "status": "missing"
+    },
+    {
+      "brand_id": "royal_society",
+      "status": "collected",
+      "candidate_id": "expanded-wikimedia_royal_society_q123885_coat_of_arms_of_the_royal_society_svg"
+    },
+    {
+      "brand_id": "hokkaido_university",
+      "status": "collected",
+      "candidate_id": "expanded-wikimedia_hokkaido_university_q1057199_hokkaido_university_logo_2_svg"
+    },
+    {
+      "brand_id": "keio_university",
+      "status": "error",
+      "error": "429 You are making too many requests to the API.\nPlease follow the best practices at"
+    },
+    {
+      "brand_id": "kyoto_university",
+      "status": "error",
+      "error": "429 You are making too many requests to the API.\nPlease follow the best practices at"
+    },
+    {
+      "brand_id": "nagoya_university",
+      "status": "error",
+      "error": "429 You are making too many requests to the API.\nPlease follow the best practices at"
+    },
+    {
+      "brand_id": "osaka_university",
+      "status": "error",
+      "error": "429 You are making too many requests to the API.\nPlease follow the best practices at"
+    },
+    {
+      "brand_id": "waseda_university",
+      "status": "error",
+      "error": "429 You are making too many requests to the API.\nPlease follow the best practices at"
+    },
+    {
+      "brand_id": "imperial_college_london",
+      "status": "error",
+      "error": "429 You are making too many requests to the API.\nPlease follow the best practices at"
+    },
+    {
+      "brand_id": "kings_college_london",
+      "status": "error",
+      "error": "429 You are making too many requests to the API.\nPlease follow the best practices at"
+    },
+    {
+      "brand_id": "london_school_of_economics",
+      "status": "error",
+      "error": "429 You are making too many requests to the API.\nPlease follow the best practices at"
+    },
+    {
+      "brand_id": "ucl",
+      "status": "error",
+      "error": "429 You are making too many requests to the API.\nPlease follow the best practices at"
+    },
+    {
+      "brand_id": "university_of_edinburgh",
+      "status": "collected",
+      "candidate_id": "expanded-wikimedia_university_of_edinburgh_q160302_university_of_edinburgh_coat_of_arms_jpg"
+    },
+    {
+      "brand_id": "university_of_manchester",
+      "status": "collected",
+      "candidate_id": "expanded-wikimedia_university_of_manchester_q230899_manchester_university_logo_2_png"
+    },
+    {
+      "brand_id": "columbia_university",
+      "status": "collected",
+      "candidate_id": "expanded-wikimedia_columbia_university_q49088_coat_of_arms_of_columbia_university_svg"
+    },
+    {
+      "brand_id": "uc_berkeley",
+      "status": "missing"
+    },
+    {
+      "brand_id": "ucla",
+      "status": "collected",
+      "candidate_id": "expanded-wikimedia_ucla_q1753811_ucla_bruins_primary_logo_svg"
+    },
+    {
+      "brand_id": "boston_celtics",
+      "status": "error",
+      "error": "429 You are making too many requests to the API.\nPlease follow the best practices at"
+    },
+    {
+      "brand_id": "brooklyn_nets",
+      "status": "error",
+      "error": "429 You are making too many requests to the API.\nPlease follow the best practices at"
+    },
+    {
+      "brand_id": "chicago_bulls",
+      "status": "error",
+      "error": "429 You are making too many requests to the API.\nPlease follow the best practices at"
+    },
+    {
+      "brand_id": "dallas_mavericks",
+      "status": "error",
+      "error": "429 You are making too many requests to the API.\nPlease follow the best practices at"
+    },
+    {
+      "brand_id": "golden_state_warriors",
+      "status": "error",
+      "error": "429 You are making too many requests to the API.\nPlease follow the best practices at"
+    },
+    {
+      "brand_id": "los_angeles_lakers",
+      "status": "error",
+      "error": "429 You are making too many requests to the API.\nPlease follow the best practices at"
+    },
+    {
+      "brand_id": "miami_heat",
+      "status": "error",
+      "error": "429 You are making too many requests to the API.\nPlease follow the best practices at"
+    },
+    {
+      "brand_id": "new_york_knicks",
+      "status": "error",
+      "error": "429 You are making too many requests to the API.\nPlease follow the best practices at"
+    },
+    {
+      "brand_id": "mafengwo",
+      "status": "error",
+      "error": "429 You are making too many requests to the API.\nPlease follow the best practices at"
+    },
+    {
+      "brand_id": "36kr",
+      "status": "error",
+      "error": "429 You are making too many requests to the API.\nPlease follow the best practices at"
+    },
+    {
+      "brand_id": "caixin",
+      "status": "error",
+      "error": "429 You are making too many requests to the API.\nPlease follow the best practices at"
+    },
+    {
+      "brand_id": "cctv",
+      "status": "error",
+      "error": "429 You are making too many requests to the API.\nPlease follow the best practices at"
+    },
+    {
+      "brand_id": "huxiu",
+      "status": "missing"
+    },
+    {
+      "brand_id": "jiemian",
+      "status": "missing"
+    },
+    {
+      "brand_id": "peoples_daily",
+      "status": "collected",
+      "candidate_id": "expanded-wikimedia_peoples_daily_q54340_people_s_daily_logo_svg"
+    },
+    {
+      "brand_id": "the_paper",
+      "status": "missing"
+    },
+    {
+      "brand_id": "xinhua_news_agency",
+      "status": "missing"
+    },
+    {
+      "brand_id": "apex_legends",
+      "status": "collected",
+      "candidate_id": "expanded-wikimedia_apex_legends_q61478103_apex_legends_logo_svg"
+    },
+    {
+      "brand_id": "overwatch",
+      "status": "collected",
+      "candidate_id": "expanded-wikimedia_overwatch_q18515944_overwatch_text_logo_svg"
+    },
+    {
+      "brand_id": "20th_century_studios",
+      "status": "error",
+      "error": "429 You are making too many requests to the API.\nPlease follow the best practices at"
+    },
+    {
+      "brand_id": "pixar",
+      "status": "error",
+      "error": "429 You are making too many requests to the API.\nPlease follow the best practices at"
+    },
+    {
+      "brand_id": "sony_pictures",
+      "status": "error",
+      "error": "429 You are making too many requests to the API.\nPlease follow the best practices at"
+    },
+    {
+      "brand_id": "universal_pictures",
+      "status": "error",
+      "error": "429 You are making too many requests to the API.\nPlease follow the best practices at"
+    },
+    {
+      "brand_id": "arsenal_fc",
+      "status": "error",
+      "error": "429 You are making too many requests to the API.\nPlease follow the best practices at"
+    },
+    {
+      "brand_id": "bayern_munich",
+      "status": "error",
+      "error": "429 You are making too many requests to the API.\nPlease follow the best practices at"
+    },
+    {
+      "brand_id": "chelsea_fc",
+      "status": "error",
+      "error": "429 You are making too many requests to the API.\nPlease follow the best practices at"
+    },
+    {
+      "brand_id": "fc_barcelona",
+      "status": "error",
+      "error": "429 You are making too many requests to the API.\nPlease follow the best practices at"
+    },
+    {
+      "brand_id": "liverpool_fc",
+      "status": "error",
+      "error": "429 You are making too many requests to the API.\nPlease follow the best practices at"
+    },
+    {
+      "brand_id": "manchester_united",
+      "status": "missing"
+    },
+    {
+      "brand_id": "paris_saint_germain",
+      "status": "missing"
+    },
+    {
+      "brand_id": "real_madrid",
+      "status": "collected",
+      "candidate_id": "expanded-wikimedia_real_madrid_q54922_realmadrid_baloncesto_png"
+    },
+    {
+      "brand_id": "hoyoverse",
+      "status": "missing"
+    },
+    {
+      "brand_id": "netease_games",
+      "status": "missing"
+    },
+    {
+      "brand_id": "tencent_games",
+      "status": "missing"
+    },
+    {
+      "brand_id": "bandai_namco",
+      "status": "collected",
+      "candidate_id": "expanded-wikimedia_bandai_namco_q1194689_bandai_namco_logo_2022_svg"
+    },
+    {
+      "brand_id": "capcom",
+      "status": "error",
+      "error": "429 You are making too many requests to the API.\nPlease follow the best practices at"
+    },
+    {
+      "brand_id": "fromsoftware",
+      "status": "error",
+      "error": "429 You are making too many requests to the API.\nPlease follow the best practices at"
+    },
+    {
+      "brand_id": "koei_tecmo",
+      "status": "error",
+      "error": "429 You are making too many requests to the API.\nPlease follow the best practices at"
+    },
+    {
+      "brand_id": "qq_music",
+      "status": "error",
+      "error": "429 You are making too many requests to the API.\nPlease follow the best practices at"
+    },
+    {
+      "brand_id": "kugou_music",
+      "status": "error",
+      "error": "429 You are making too many requests to the API.\nPlease follow the best practices at"
+    },
+    {
+      "brand_id": "financial_times",
+      "status": "error",
+      "error": "429 You are making too many requests to the API.\nPlease follow the best practices at"
+    },
+    {
+      "brand_id": "the_new_york_times",
+      "status": "error",
+      "error": "429 You are making too many requests to the API.\nPlease follow the best practices at"
+    },
+    {
+      "brand_id": "formula_1",
+      "status": "error",
+      "error": "429 You are making too many requests to the API.\nPlease follow the best practices at"
+    },
+    {
+      "brand_id": "swiss_international_air_lines",
+      "status": "error",
+      "error": "429 You are making too many requests to the API.\nPlease follow the best practices at"
+    },
+    {
+      "brand_id": "frontier_airlines",
+      "status": "collected",
+      "candidate_id": "expanded-wikimedia_frontier_airlines_q1139541_frontier_airlines_logo_svg"
+    },
+    {
+      "brand_id": "spirit_airlines",
+      "status": "collected",
+      "candidate_id": "expanded-wikimedia_spirit_airlines_q1190598_spirit_airlines_logo_svg"
+    },
+    {
+      "brand_id": "accor",
+      "status": "missing"
+    },
+    {
+      "brand_id": "hyatt",
+      "status": "missing"
+    },
+    {
+      "brand_id": "ihg",
+      "status": "missing"
+    },
+    {
+      "brand_id": "shangri_la",
+      "status": "missing"
+    },
+    {
+      "brand_id": "chimelong",
+      "status": "error",
+      "error": "429 You are making too many requests to the API.\nPlease follow the best practices at"
+    },
+    {
+      "brand_id": "disneyland",
+      "status": "error",
+      "error": "429 You are making too many requests to the API.\nPlease follow the best practices at"
+    },
+    {
+      "brand_id": "everland",
+      "status": "error",
+      "error": "429 You are making too many requests to the API.\nPlease follow the best practices at"
+    },
+    {
+      "brand_id": "fuji_q_highland",
+      "status": "error",
+      "error": "429 You are making too many requests to the API.\nPlease follow the best practices at"
+    },
+    {
+      "brand_id": "legoland",
+      "status": "error",
+      "error": "429 You are making too many requests to the API.\nPlease follow the best practices at"
+    },
+    {
+      "brand_id": "seaworld",
+      "status": "error",
+      "error": "429 You are making too many requests to the API.\nPlease follow the best practices at"
+    },
+    {
+      "brand_id": "six_flags",
+      "status": "error",
+      "error": "429 You are making too many requests to the API.\nPlease follow the best practices at"
+    },
+    {
+      "brand_id": "universal_studios",
+      "status": "error",
+      "error": "429 You are making too many requests to the API.\nPlease follow the best practices at"
+    },
+    {
+      "brand_id": "ctrip",
+      "status": "error",
+      "error": "429 You are making too many requests to the API.\nPlease follow the best practices at"
+    },
+    {
+      "brand_id": "skyscanner",
+      "status": "error",
+      "error": "429 You are making too many requests to the API.\nPlease follow the best practices at"
+    },
+    {
+      "brand_id": "agoda",
+      "status": "error",
+      "error": "429 You are making too many requests to the API.\nPlease follow the best practices at"
+    },
+    {
+      "brand_id": "hotels_com",
+      "status": "missing"
+    },
+    {
+      "brand_id": "hm",
+      "status": "collected",
+      "candidate_id": "expanded-wikimedia_hm_q188326_h_m_logo_svg"
+    },
+    {
+      "brand_id": "mango",
+      "status": "missing"
+    },
+    {
+      "brand_id": "stradivarius",
+      "status": "missing"
+    },
+    {
+      "brand_id": "carhartt",
+      "status": "missing"
+    },
+    {
+      "brand_id": "dickies",
+      "status": "error",
+      "error": "429 You are making too many requests to the API.\nPlease follow the best practices at"
+    },
+    {
+      "brand_id": "diesel",
+      "status": "error",
+      "error": "429 You are making too many requests to the API.\nPlease follow the best practices at"
+    },
+    {
+      "brand_id": "g_star_raw",
+      "status": "error",
+      "error": "429 You are making too many requests to the API.\nPlease follow the best practices at"
+    },
+    {
+      "brand_id": "lee",
+      "status": "error",
+      "error": "429 You are making too many requests to the API.\nPlease follow the best practices at"
+    },
+    {
+      "brand_id": "levis",
+      "status": "error",
+      "error": "429 You are making too many requests to the API.\nPlease follow the best practices at"
+    },
+    {
+      "brand_id": "wrangler",
+      "status": "error",
+      "error": "429 You are making too many requests to the API.\nPlease follow the best practices at"
+    },
+    {
+      "brand_id": "gap",
+      "status": "error",
+      "error": "429 You are making too many requests to the API.\nPlease follow the best practices at"
+    },
+    {
+      "brand_id": "bershka",
+      "status": "missing"
+    },
+    {
+      "brand_id": "old_navy",
+      "status": "missing"
+    },
+    {
+      "brand_id": "pull_and_bear",
+      "status": "missing"
+    },
+    {
+      "brand_id": "beams",
+      "status": "missing"
+    },
+    {
+      "brand_id": "comme_des_garc_ons",
+      "status": "missing"
+    },
+    {
+      "brand_id": "onitsuka_tiger",
+      "status": "error",
+      "error": "429 You are making too many requests to the API.\nPlease follow the best practices at"
+    },
+    {
+      "brand_id": "united_arrows",
+      "status": "error",
+      "error": "429 You are making too many requests to the API.\nPlease follow the best practices at"
+    },
+    {
+      "brand_id": "versace",
+      "status": "error",
+      "error": "429 You are making too many requests to the API.\nPlease follow the best practices at"
+    },
+    {
+      "brand_id": "bvlgari",
+      "status": "error",
+      "error": "429 You are making too many requests to the API.\nPlease follow the best practices at"
+    },
+    {
+      "brand_id": "chaumet",
+      "status": "error",
+      "error": "429 You are making too many requests to the API.\nPlease follow the best practices at"
+    },
+    {
+      "brand_id": "chopard",
+      "status": "error",
+      "error": "429 You are making too many requests to the API.\nPlease follow the best practices at"
+    },
+    {
+      "brand_id": "harry_winston",
+      "status": "error",
+      "error": "429 You are making too many requests to the API.\nPlease follow the best practices at"
+    },
+    {
+      "brand_id": "tiffany_and_co",
+      "status": "error",
+      "error": "429 You are making too many requests to the API.\nPlease follow the best practices at"
+    },
+    {
+      "brand_id": "van_cleef_and_arpels",
+      "status": "error",
+      "error": "429 You are making too many requests to the API.\nPlease follow the best practices at"
+    },
+    {
+      "brand_id": "arcteryx",
+      "status": "missing"
+    },
+    {
+      "brand_id": "columbia",
+      "status": "missing"
+    },
+    {
+      "brand_id": "mammut",
+      "status": "missing"
+    },
+    {
+      "brand_id": "crocs",
+      "status": "missing"
+    },
+    {
+      "brand_id": "hoka",
+      "status": "missing"
+    },
+    {
+      "brand_id": "on_running",
+      "status": "collected",
+      "candidate_id": "expanded-wikimedia_on_running_q116431350_on_cloud_logo_white_background_svg"
+    },
+    {
+      "brand_id": "vans",
+      "status": "error",
+      "error": "429 You are making too many requests to the API.\nPlease follow the best practices at"
+    },
+    {
+      "brand_id": "asics",
+      "status": "error",
+      "error": "429 You are making too many requests to the API.\nPlease follow the best practices at"
+    },
+    {
+      "brand_id": "mizuno",
+      "status": "error",
+      "error": "429 You are making too many requests to the API.\nPlease follow the best practices at"
+    },
+    {
+      "brand_id": "bape",
+      "status": "error",
+      "error": "429 You are making too many requests to the API.\nPlease follow the best practices at"
+    },
+    {
+      "brand_id": "fear_of_god",
+      "status": "error",
+      "error": "429 You are making too many requests to the API.\nPlease follow the best practices at"
+    },
+    {
+      "brand_id": "human_made",
+      "status": "error",
+      "error": "429 You are making too many requests to the API.\nPlease follow the best practices at"
+    },
+    {
+      "brand_id": "kith",
+      "status": "error",
+      "error": "429 You are making too many requests to the API.\nPlease follow the best practices at"
+    },
+    {
+      "brand_id": "off_white",
+      "status": "error",
+      "error": "429 You are making too many requests to the API.\nPlease follow the best practices at"
+    },
+    {
+      "brand_id": "palace",
+      "status": "error",
+      "error": "429 You are making too many requests to the API.\nPlease follow the best practices at"
+    },
+    {
+      "brand_id": "stu_ssy",
+      "status": "error",
+      "error": "429 You are making too many requests to the API.\nPlease follow the best practices at"
+    },
+    {
+      "brand_id": "supreme",
+      "status": "missing"
+    },
+    {
+      "brand_id": "citizen",
+      "status": "missing"
+    },
+    {
+      "brand_id": "longines",
+      "status": "collected",
+      "candidate_id": "expanded-wikimedia_longines_q603698_longines_wordmark_logo_svg"
+    },
+    {
+      "brand_id": "omega",
+      "status": "missing"
+    },
+    {
+      "brand_id": "casio",
+      "status": "collected",
+      "candidate_id": "expanded-wikimedia_casio_q217338_casio_logo_svg"
+    },
+    {
+      "brand_id": "tag_heuer",
+      "status": "error",
+      "error": "429 You are making too many requests to the API.\nPlease follow the best practices at"
+    },
+    {
+      "brand_id": "tissot",
+      "status": "error",
+      "error": "429 You are making too many requests to the API.\nPlease follow the best practices at"
+    },
+    {
+      "brand_id": "thai_airways",
+      "status": "error",
+      "error": "429 You are making too many requests to the API.\nPlease follow the best practices at"
+    },
+    {
+      "brand_id": "great_wall_motors",
+      "status": "error",
+      "error": "429 You are making too many requests to the API.\nPlease follow the best practices at"
+    },
+    {
+      "brand_id": "great_wall_motor",
+      "status": "error",
+      "error": "429 You are making too many requests to the API.\nPlease follow the best practices at"
+    },
+    {
+      "brand_id": "baic",
+      "status": "error",
+      "error": "429 You are making too many requests to the API.\nPlease follow the best practices at"
+    },
+    {
+      "brand_id": "denza",
+      "status": "error",
+      "error": "429 You are making too many requests to the API.\nPlease follow the best practices at"
+    },
+    {
+      "brand_id": "voyah",
+      "status": "error",
+      "error": "429 You are making too many requests to the API.\nPlease follow the best practices at"
+    },
+    {
+      "brand_id": "chargepoint",
+      "status": "error",
+      "error": "429 You are making too many requests to the API.\nPlease follow the best practices at"
+    },
+    {
+      "brand_id": "electrify_america",
+      "status": "error",
+      "error": "429 You are making too many requests to the API.\nPlease follow the best practices at"
+    },
+    {
+      "brand_id": "evgo",
+      "status": "missing"
+    },
+    {
+      "brand_id": "ionity",
+      "status": "missing"
+    },
+    {
+      "brand_id": "naas",
+      "status": "missing"
+    },
+    {
+      "brand_id": "star_charge",
+      "status": "missing"
+    },
+    {
+      "brand_id": "teld",
+      "status": "missing"
+    },
+    {
+      "brand_id": "tesla_supercharger",
+      "status": "error",
+      "error": "429 You are making too many requests to the API.\nPlease follow the best practices at"
+    },
+    {
+      "brand_id": "bird",
+      "status": "error",
+      "error": "429 You are making too many requests to the API.\nPlease follow the best practices at"
+    },
+    {
+      "brand_id": "lime",
+      "status": "error",
+      "error": "429 You are making too many requests to the API.\nPlease follow the best practices at"
+    },
+    {
+      "brand_id": "turo",
+      "status": "error",
+      "error": "429 You are making too many requests to the API.\nPlease follow the best practices at"
+    },
+    {
+      "brand_id": "harley_davidson",
+      "status": "error",
+      "error": "429 You are making too many requests to the API.\nPlease follow the best practices at"
+    },
+    {
+      "brand_id": "kawasaki",
+      "status": "error",
+      "error": "429 You are making too many requests to the API.\nPlease follow the best practices at"
+    },
+    {
+      "brand_id": "royal_enfield",
+      "status": "error",
+      "error": "429 You are making too many requests to the API.\nPlease follow the best practices at"
+    },
+    {
+      "brand_id": "yamaha",
+      "status": "error",
+      "error": "429 You are making too many requests to the API.\nPlease follow the best practices at"
+    },
+    {
+      "brand_id": "pirelli",
+      "status": "error",
+      "error": "429 You are making too many requests to the API.\nPlease follow the best practices at"
+    },
+    {
+      "brand_id": "hankook",
+      "status": "error",
+      "error": "429 You are making too many requests to the API.\nPlease follow the best practices at"
+    },
+    {
+      "brand_id": "denso",
+      "status": "error",
+      "error": "429 You are making too many requests to the API.\nPlease follow the best practices at"
+    },
+    {
+      "brand_id": "pop_mart",
+      "status": "error",
+      "error": "429 You are making too many requests to the API.\nPlease follow the best practices at"
+    },
+    {
+      "brand_id": "xtep",
+      "status": "collected",
+      "candidate_id": "expanded-wikimedia_xtep_q4021859_xtep_company_logo_png"
+    },
+    {
+      "brand_id": "gome",
+      "status": "missing"
+    },
+    {
+      "brand_id": "rt_mart",
+      "status": "missing"
+    },
+    {
+      "brand_id": "sams_club_china",
+      "status": "missing"
+    },
+    {
+      "brand_id": "suning",
+      "status": "missing"
+    },
+    {
+      "brand_id": "yonghui",
+      "status": "missing"
+    },
+    {
+      "brand_id": "nestl",
+      "status": "collected",
+      "candidate_id": "expanded-wikimedia_nestl_q160746_nestl_textlogo_svg"
+    },
+    {
+      "brand_id": "danone",
+      "status": "error",
+      "error": "429 You are making too many requests to the API.\nPlease follow the best practices at"
+    },
+    {
+      "brand_id": "kraft_heinz",
+      "status": "error",
+      "error": "429 You are making too many requests to the API.\nPlease follow the best practices at"
+    },
+    {
+      "brand_id": "familymart",
+      "status": "error",
+      "error": "429 You are making too many requests to the API.\nPlease follow the best practices at"
+    },
+    {
+      "brand_id": "circle_k",
+      "status": "error",
+      "error": "429 You are making too many requests to the API.\nPlease follow the best practices at"
+    },
+    {
+      "brand_id": "lawson",
+      "status": "error",
+      "error": "429 You are making too many requests to the API.\nPlease follow the best practices at"
+    },
+    {
+      "brand_id": "oxxo",
+      "status": "error",
+      "error": "429 You are making too many requests to the API.\nPlease follow the best practices at"
+    },
+    {
+      "brand_id": "cu",
+      "status": "error",
+      "error": "429 You are making too many requests to the API.\nPlease follow the best practices at"
+    },
+    {
+      "brand_id": "daily_yamazaki",
+      "status": "error",
+      "error": "429 You are making too many requests to the API.\nPlease follow the best practices at"
+    },
+    {
+      "brand_id": "gs25",
+      "status": "error",
+      "error": "429 You are making too many requests to the API.\nPlease follow the best practices at"
+    },
+    {
+      "brand_id": "ministop",
+      "status": "error",
+      "error": "429 You are making too many requests to the API.\nPlease follow the best practices at"
+    },
+    {
+      "brand_id": "jd",
+      "status": "error",
+      "error": "429 You are making too many requests to the API.\nPlease follow the best practices at"
+    },
+    {
+      "brand_id": "dianping",
+      "status": "missing"
+    },
+    {
+      "brand_id": "temu",
+      "status": "missing"
+    },
+    {
+      "brand_id": "muji",
+      "status": "missing"
+    },
+    {
+      "brand_id": "aldi",
+      "status": "missing"
+    },
+    {
+      "brand_id": "dyson",
+      "status": "missing"
+    },
+    {
+      "brand_id": "gree",
+      "status": "collected",
+      "candidate_id": "expanded-wikimedia_gree_q41_coat_of_arms_of_greece_svg"
+    },
+    {
+      "brand_id": "kitchenaid",
+      "status": "error",
+      "error": "429 You are making too many requests to the API.\nPlease follow the best practices at"
+    },
+    {
+      "brand_id": "tefal",
+      "status": "error",
+      "error": "429 You are making too many requests to the API.\nPlease follow the best practices at"
+    },
+    {
+      "brand_id": "ashley_furniture",
+      "status": "error",
+      "error": "429 You are making too many requests to the API.\nPlease follow the best practices at"
+    },
+    {
+      "brand_id": "crate_and_barrel",
+      "status": "error",
+      "error": "429 You are making too many requests to the API.\nPlease follow the best practices at"
+    },
+    {
+      "brand_id": "muuto",
+      "status": "error",
+      "error": "429 You are making too many requests to the API.\nPlease follow the best practices at"
+    },
+    {
+      "brand_id": "nitori",
+      "status": "error",
+      "error": "429 You are making too many requests to the API.\nPlease follow the best practices at"
+    },
+    {
+      "brand_id": "pottery_barn",
+      "status": "error",
+      "error": "429 You are making too many requests to the API.\nPlease follow the best practices at"
+    },
+    {
+      "brand_id": "wayfair",
+      "status": "error",
+      "error": "429 You are making too many requests to the API.\nPlease follow the best practices at"
+    },
+    {
+      "brand_id": "west_elm",
+      "status": "missing"
+    },
+    {
+      "brand_id": "ace_hardware",
+      "status": "missing"
+    },
+    {
+      "brand_id": "b_and_q",
+      "status": "missing"
+    },
+    {
+      "brand_id": "kingfisher",
+      "status": "missing"
+    },
+    {
+      "brand_id": "menards",
+      "status": "error",
+      "error": "429 You are making too many requests to the API.\nPlease follow the best practices at"
+    },
+    {
+      "brand_id": "obi",
+      "status": "error",
+      "error": "429 You are making too many requests to the API.\nPlease follow the best practices at"
+    },
+    {
+      "brand_id": "the_home_depot",
+      "status": "error",
+      "error": "429 You are making too many requests to the API.\nPlease follow the best practices at"
+    },
+    {
+      "brand_id": "bosch_home",
+      "status": "error",
+      "error": "429 You are making too many requests to the API.\nPlease follow the best practices at"
+    },
+    {
+      "brand_id": "hisense",
+      "status": "error",
+      "error": "429 You are making too many requests to the API.\nPlease follow the best practices at"
+    },
+    {
+      "brand_id": "miele",
+      "status": "error",
+      "error": "429 You are making too many requests to the API.\nPlease follow the best practices at"
+    },
+    {
+      "brand_id": "siemens_home",
+      "status": "error",
+      "error": "429 You are making too many requests to the API.\nPlease follow the best practices at"
+    },
+    {
+      "brand_id": "china_post",
+      "status": "error",
+      "error": "429 You are making too many requests to the API.\nPlease follow the best practices at"
+    },
+    {
+      "brand_id": "jd_logistics",
+      "status": "error",
+      "error": "429 You are making too many requests to the API.\nPlease follow the best practices at"
+    },
+    {
+      "brand_id": "sto_express",
+      "status": "error",
+      "error": "429 You are making too many requests to the API.\nPlease follow the best practices at"
+    },
+    {
+      "brand_id": "yto_express",
+      "status": "error",
+      "error": "429 You are making too many requests to the API.\nPlease follow the best practices at"
+    },
+    {
+      "brand_id": "yunda_express",
+      "status": "missing"
+    },
+    {
+      "brand_id": "zto_express",
+      "status": "missing"
+    },
+    {
+      "brand_id": "sf_express",
+      "status": "missing"
+    },
+    {
+      "brand_id": "japan_post",
+      "status": "collected",
+      "candidate_id": "expanded-wikimedia_japan_post_q1372543_japan_post_public_corporation_png"
+    },
+    {
+      "brand_id": "la_poste",
+      "status": "collected",
+      "candidate_id": "expanded-wikimedia_la_poste_q373724_la_poste_frankreich_logo_svg"
+    },
+    {
+      "brand_id": "tnt",
+      "status": "collected",
+      "candidate_id": "expanded-wikimedia_tnt_q688333_tnt_logo_2016_svg"
+    },
+    {
+      "brand_id": "yamato_transport",
+      "status": "error",
+      "error": "429 You are making too many requests to the API.\nPlease follow the best practices at"
+    },
+    {
+      "brand_id": "didi",
+      "status": "error",
+      "error": "429 You are making too many requests to the API.\nPlease follow the best practices at"
+    },
+    {
+      "brand_id": "sainsburys",
+      "status": "error",
+      "error": "429 You are making too many requests to the API.\nPlease follow the best practices at"
+    },
+    {
+      "brand_id": "woolworths",
+      "status": "error",
+      "error": "429 You are making too many requests to the API.\nPlease follow the best practices at"
+    },
+    {
+      "brand_id": "chatgpt",
+      "status": "error",
+      "error": "429 You are making too many requests to the API.\nPlease follow the best practices at"
+    },
+    {
+      "brand_id": "wenxin_yiyan",
+      "status": "missing"
+    },
+    {
+      "brand_id": "zhipu_ai",
+      "status": "missing"
+    },
+    {
+      "brand_id": "hasselblad",
+      "status": "missing"
+    },
+    {
+      "brand_id": "polaroid",
+      "status": "missing"
+    },
+    {
+      "brand_id": "amap",
+      "status": "missing"
+    },
+    {
+      "brand_id": "baidu_maps",
+      "status": "error",
+      "error": "429 You are making too many requests to the API.\nPlease follow the best practices at"
+    },
+    {
+      "brand_id": "logitech",
+      "status": "error",
+      "error": "429 You are making too many requests to the API.\nPlease follow the best practices at"
+    },
+    {
+      "brand_id": "bang_and_olufsen",
+      "status": "error",
+      "error": "429 You are making too many requests to the API.\nPlease follow the best practices at"
+    },
+    {
+      "brand_id": "sony_audio",
+      "status": "error",
+      "error": "429 You are making too many requests to the API.\nPlease follow the best practices at"
+    },
+    {
+      "brand_id": "canon",
+      "status": "error",
+      "error": "429 You are making too many requests to the API.\nPlease follow the best practices at"
+    },
+    {
+      "brand_id": "gopro",
+      "status": "error",
+      "error": "429 You are making too many requests to the API.\nPlease follow the best practices at"
+    },
+    {
+      "brand_id": "procreate",
+      "status": "error",
+      "error": "429 You are making too many requests to the API.\nPlease follow the best practices at"
+    },
+    {
+      "brand_id": "asml",
+      "status": "error",
+      "error": "429 You are making too many requests to the API.\nPlease follow the best practices at"
+    },
+    {
+      "brand_id": "china_broadnet",
+      "status": "error",
+      "error": "429 You are making too many requests to the API.\nPlease follow the best practices at"
+    },
+    {
+      "brand_id": "h3c",
+      "status": "error",
+      "error": "429 You are making too many requests to the API.\nPlease follow the best practices at"
+    },
+    {
+      "brand_id": "ruijie",
+      "status": "error",
+      "error": "429 You are making too many requests to the API.\nPlease follow the best practices at"
+    },
+    {
+      "brand_id": "charlotte_tilbury",
+      "status": "error",
+      "error": "429 You are making too many requests to the API.\nPlease follow the best practices at"
+    },
+    {
+      "brand_id": "fenty_beauty",
+      "status": "missing"
+    },
+    {
+      "brand_id": "mac_cosmetics",
+      "status": "missing"
+    },
+    {
+      "brand_id": "nars",
+      "status": "missing"
+    },
+    {
+      "brand_id": "rare_beauty",
+      "status": "collected",
+      "candidate_id": "expanded-wikimedia_rare_beauty_q116030556_rare_beauty_webp"
+    },
+    {
+      "brand_id": "urban_decay",
+      "status": "missing"
+    },
+    {
+      "brand_id": "clinique",
+      "status": "missing"
+    },
+    {
+      "brand_id": "neutrogena",
+      "status": "error",
+      "error": "429 You are making too many requests to the API.\nPlease follow the best practices at"
+    },
+    {
+      "brand_id": "chando",
+      "status": "error",
+      "error": "429 You are making too many requests to the API.\nPlease follow the best practices at"
+    },
+    {
+      "brand_id": "herborist",
+      "status": "error",
+      "error": "429 You are making too many requests to the API.\nPlease follow the best practices at"
+    },
+    {
+      "brand_id": "pechoin",
+      "status": "error",
+      "error": "429 You are making too many requests to the API.\nPlease follow the best practices at"
+    },
+    {
+      "brand_id": "winona",
+      "status": "error",
+      "error": "429 You are making too many requests to the API.\nPlease follow the best practices at"
+    },
+    {
+      "brand_id": "la_roche_posay",
+      "status": "error",
+      "error": "429 You are making too many requests to the API.\nPlease follow the best practices at"
+    },
+    {
+      "brand_id": "head_and_shoulders",
+      "status": "error",
+      "error": "429 You are making too many requests to the API.\nPlease follow the best practices at"
+    },
+    {
+      "brand_id": "oral_b",
+      "status": "error",
+      "error": "429 You are making too many requests to the API.\nPlease follow the best practices at"
+    },
+    {
+      "brand_id": "pantene",
+      "status": "error",
+      "error": "429 You are making too many requests to the API.\nPlease follow the best practices at"
+    },
+    {
+      "brand_id": "vaseline",
+      "status": "error",
+      "error": "429 You are making too many requests to the API.\nPlease follow the best practices at"
+    },
+    {
+      "brand_id": "catl",
+      "status": "error",
+      "error": "429 You are making too many requests to the API.\nPlease follow the best practices at"
+    },
+    {
+      "brand_id": "china_southern_power_grid",
+      "status": "error",
+      "error": "429 You are making too many requests to the API.\nPlease follow the best practices at"
+    },
+    {
+      "brand_id": "cnooc",
+      "status": "missing"
+    },
+    {
+      "brand_id": "longi",
+      "status": "missing"
+    },
+    {
+      "brand_id": "petrochina",
+      "status": "missing"
+    },
+    {
+      "brand_id": "bp",
+      "status": "missing"
+    },
+    {
+      "brand_id": "chevron",
+      "status": "collected",
+      "candidate_id": "expanded-wikimedia_chevron_q319642_chevron_logo_svg"
+    },
+    {
+      "brand_id": "becton_dickinson",
+      "status": "missing"
+    },
+    {
+      "brand_id": "ge_healthcare",
+      "status": "error",
+      "error": "429 You are making too many requests to the API.\nPlease follow the best practices at"
+    },
+    {
+      "brand_id": "medtronic",
+      "status": "error",
+      "error": "429 You are making too many requests to the API.\nPlease follow the best practices at"
+    },
+    {
+      "brand_id": "olympus",
+      "status": "error",
+      "error": "429 You are making too many requests to the API.\nPlease follow the best practices at"
+    },
+    {
+      "brand_id": "philips_healthcare",
+      "status": "error",
+      "error": "429 You are making too many requests to the API.\nPlease follow the best practices at"
+    },
+    {
+      "brand_id": "siemens_healthineers",
+      "status": "error",
+      "error": "429 You are making too many requests to the API.\nPlease follow the best practices at"
+    },
+    {
+      "brand_id": "daikin",
+      "status": "error",
+      "error": "429 You are making too many requests to the API.\nPlease follow the best practices at"
+    },
+    {
+      "brand_id": "fuji_electric",
+      "status": "error",
+      "error": "429 You are making too many requests to the API.\nPlease follow the best practices at"
+    },
+    {
+      "brand_id": "komatsu",
+      "status": "error",
+      "error": "429 You are making too many requests to the API.\nPlease follow the best practices at"
+    },
+    {
+      "brand_id": "mitsubishi_electric",
+      "status": "collected",
+      "candidate_id": "expanded-wikimedia_mitsubishi_electric_q53257_mitsubishi_electric_logo_svg"
+    },
+    {
+      "brand_id": "yaskawa",
+      "status": "missing"
+    },
+    {
+      "brand_id": "eni",
+      "status": "missing"
+    },
+    {
+      "brand_id": "equinor",
+      "status": "missing"
+    },
+    {
+      "brand_id": "saudi_aramco",
+      "status": "missing"
+    },
+    {
+      "brand_id": "moderna",
+      "status": "error",
+      "error": "429 You are making too many requests to the API.\nPlease follow the best practices at"
+    },
+    {
+      "brand_id": "roche",
+      "status": "error",
+      "error": "429 You are making too many requests to the API.\nPlease follow the best practices at"
+    },
+    {
+      "brand_id": "sanofi",
+      "status": "error",
+      "error": "429 You are making too many requests to the API.\nPlease follow the best practices at"
+    },
+    {
+      "brand_id": "dbs_bank",
+      "status": "error",
+      "error": "429 You are making too many requests to the API.\nPlease follow the best practices at"
+    },
+    {
+      "brand_id": "mizuho_bank",
+      "status": "error",
+      "error": "429 You are making too many requests to the API.\nPlease follow the best practices at"
+    },
+    {
+      "brand_id": "mufg",
+      "status": "error",
+      "error": "429 You are making too many requests to the API.\nPlease follow the best practices at"
+    },
+    {
+      "brand_id": "ocbc_bank",
+      "status": "error",
+      "error": "429 You are making too many requests to the API.\nPlease follow the best practices at"
+    },
+    {
+      "brand_id": "smbc",
+      "status": "error",
+      "error": "429 You are making too many requests to the API.\nPlease follow the best practices at"
+    },
+    {
+      "brand_id": "uob",
+      "status": "error",
+      "error": "429 You are making too many requests to the API.\nPlease follow the best practices at"
+    },
+    {
+      "brand_id": "citigroup",
+      "status": "error",
+      "error": "429 You are making too many requests to the API.\nPlease follow the best practices at"
+    },
+    {
+      "brand_id": "jpmorgan_chase",
+      "status": "error",
+      "error": "429 You are making too many requests to the API.\nPlease follow the best practices at"
+    },
+    {
+      "brand_id": "crypto_com",
+      "status": "missing"
+    },
+    {
+      "brand_id": "ledger",
+      "status": "collected",
+      "candidate_id": "expanded-wikimedia_ledger_q65770312_ledger_logo_long_svg"
+    },
+    {
+      "brand_id": "aia",
+      "status": "missing"
+    },
+    {
+      "brand_id": "aig",
+      "status": "missing"
+    },
+    {
+      "brand_id": "allianz",
+      "status": "missing"
+    },
+    {
+      "brand_id": "ping_an",
+      "status": "missing"
+    },
+    {
+      "brand_id": "prudential",
+      "status": "error",
+      "error": "429 You are making too many requests to the API.\nPlease follow the best practices at"
+    },
+    {
+      "brand_id": "cloud_quickpass",
+      "status": "error",
+      "error": "429 You are making too many requests to the API.\nPlease follow the best practices at"
+    },
+    {
+      "brand_id": "du_xiaoman",
+      "status": "error",
+      "error": "429 You are making too many requests to the API.\nPlease follow the best practices at"
+    },
+    {
+      "brand_id": "jd_pay",
+      "status": "error",
+      "error": "429 You are making too many requests to the API.\nPlease follow the best practices at"
+    },
+    {
+      "brand_id": "tenpay",
+      "status": "error",
+      "error": "429 You are making too many requests to the API.\nPlease follow the best practices at"
+    },
+    {
+      "brand_id": "7up",
+      "status": "error",
+      "error": "429 You are making too many requests to the API.\nPlease follow the best practices at"
+    },
+    {
+      "brand_id": "dr_pepper",
+      "status": "error",
+      "error": "429 You are making too many requests to the API.\nPlease follow the best practices at"
+    },
+    {
+      "brand_id": "mirinda",
+      "status": "error",
+      "error": "429 You are making too many requests to the API.\nPlease follow the best practices at"
+    },
+    {
+      "brand_id": "schweppes",
+      "status": "error",
+      "error": "429 You are making too many requests to the API.\nPlease follow the best practices at"
+    },
+    {
+      "brand_id": "fiji_water",
+      "status": "error",
+      "error": "429 You are making too many requests to the API.\nPlease follow the best practices at"
+    },
+    {
+      "brand_id": "nongfu_spring",
+      "status": "missing"
+    },
+    {
+      "brand_id": "san_pellegrino",
+      "status": "missing"
+    },
+    {
+      "brand_id": "volvic",
+      "status": "missing"
+    },
+    {
+      "brand_id": "voss",
+      "status": "missing"
+    },
+    {
+      "brand_id": "wahaha",
+      "status": "error",
+      "error": "429 You are making too many requests to the API.\nPlease follow the best practices at"
+    },
+    {
+      "brand_id": "haidilao",
+      "status": "error",
+      "error": "429 You are making too many requests to the API.\nPlease follow the best practices at"
+    },
+    {
+      "brand_id": "mixue",
+      "status": "error",
+      "error": "429 You are making too many requests to the API.\nPlease follow the best practices at"
+    },
+    {
+      "brand_id": "coco_fresh_tea",
+      "status": "error",
+      "error": "429 You are making too many requests to the API.\nPlease follow the best practices at"
+    },
+    {
+      "brand_id": "gong_cha",
+      "status": "error",
+      "error": "429 You are making too many requests to the API.\nPlease follow the best practices at"
+    },
+    {
+      "brand_id": "manner_coffee",
+      "status": "error",
+      "error": "429 You are making too many requests to the API.\nPlease follow the best practices at"
+    },
+    {
+      "brand_id": "dicos",
+      "status": "error",
+      "error": "429 You are making too many requests to the API.\nPlease follow the best practices at"
+    },
+    {
+      "brand_id": "home_original_chicken",
+      "status": "error",
+      "error": "429 You are making too many requests to the API.\nPlease follow the best practices at"
+    },
+    {
+      "brand_id": "mr_rice",
+      "status": "error",
+      "error": "429 You are making too many requests to the API.\nPlease follow the best practices at"
+    },
+    {
+      "brand_id": "real_kungfu",
+      "status": "error",
+      "error": "429 You are making too many requests to the API.\nPlease follow the best practices at"
+    },
+    {
+      "brand_id": "wallace",
+      "status": "error",
+      "error": "429 You are making too many requests to the API.\nPlease follow the best practices at"
+    },
+    {
+      "brand_id": "xibei",
+      "status": "missing"
+    },
+    {
+      "brand_id": "yangs_dumpling",
+      "status": "missing"
+    },
+    {
+      "brand_id": "yonghe_king",
+      "status": "missing"
+    },
+    {
+      "brand_id": "cadbury",
+      "status": "missing"
+    },
+    {
+      "brand_id": "ferrero_rocher",
+      "status": "missing"
+    },
+    {
+      "brand_id": "hersheys",
+      "status": "collected",
+      "candidate_id": "expanded-wikimedia_hersheys_q2893738_hershey_kisses_logo_png"
+    },
+    {
+      "brand_id": "lindt",
+      "status": "collected",
+      "candidate_id": "expanded-wikimedia_lindt_q152822_lindt_sprungli_textlogo_png"
+    },
+    {
+      "brand_id": "twix",
+      "status": "error",
+      "error": "429 You are making too many requests to the API.\nPlease follow the best practices at"
+    },
+    {
+      "brand_id": "luckin_coffee",
+      "status": "error",
+      "error": "429 You are making too many requests to the API.\nPlease follow the best practices at"
+    },
+    {
+      "brand_id": "tim_hortons",
+      "status": "error",
+      "error": "429 You are making too many requests to the API.\nPlease follow the best practices at"
+    },
+    {
+      "brand_id": "blue_bottle_coffee",
+      "status": "error",
+      "error": "429 You are making too many requests to the API.\nPlease follow the best practices at"
+    },
+    {
+      "brand_id": "lavazza",
+      "status": "error",
+      "error": "429 You are making too many requests to the API.\nPlease follow the best practices at"
+    },
+    {
+      "brand_id": "illy",
+      "status": "error",
+      "error": "429 You are making too many requests to the API.\nPlease follow the best practices at"
+    },
+    {
+      "brand_id": "nespresso",
+      "status": "error",
+      "error": "429 You are making too many requests to the API.\nPlease follow the best practices at"
+    }
+  ]
+}

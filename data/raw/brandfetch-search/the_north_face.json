@@ -1,0 +1,38 @@
+{
+  "fetched_at": "2026-06-06T12:07:39.095Z",
+  "brand_id": "the_north_face",
+  "query": "The North Face",
+  "http_status": 200,
+  "search_status": "ok",
+  "results": [
+    {
+      "brandId": "idJcrF2oAV",
+      "claimed": false,
+      "domain": "thenorthface.com",
+      "name": "The North Face®",
+      "icon": "https://cdn.brandfetch.io/idJcrF2oAV/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834057927bfumLaCV7ma8YSYFwu",
+      "_score": 29.224548,
+      "qualityScore": 0.9608257882833702,
+      "verified": true
+    },
+    {
+      "brandId": "idazNn9SFb",
+      "claimed": false,
+      "domain": "thenorthfacerenewed.com",
+      "name": "The North Face",
+      "icon": "https://cdn.brandfetch.io/idazNn9SFb/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834057927bfumLaCV7ma8YSYFwu",
+      "_score": 28.899601,
+      "qualityScore": 0.7182625449502515
+    },
+    {
+      "brandId": "idY2wIDpYt",
+      "claimed": false,
+      "domain": "transgrancanaria.net",
+      "name": "The North Face Transgrancanaria",
+      "icon": "https://cdn.brandfetch.io/idY2wIDpYt/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834057927bfumLaCV7ma8YSYFwu",
+      "_score": 28.899601,
+      "qualityScore": 0.6747649859989389,
+      "verified": false
+    }
+  ]
+}

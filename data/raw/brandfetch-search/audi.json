@@ -1,0 +1,57 @@
+{
+  "fetched_at": "2026-06-06T12:07:53.800Z",
+  "brand_id": "audi",
+  "query": "Audi",
+  "http_status": 200,
+  "search_status": "ok",
+  "results": [
+    {
+      "brandId": "idT82q9yNb",
+      "claimed": false,
+      "domain": "audible.com",
+      "name": "Audible",
+      "icon": "https://cdn.brandfetch.io/idT82q9yNb/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834072611bfumLaCV7mbQrqq_2T",
+      "_score": 20.780378,
+      "qualityScore": 0.9613961922721249,
+      "verified": true
+    },
+    {
+      "brandId": "id_cYFNbjY",
+      "claimed": false,
+      "domain": "audi.com",
+      "name": "Audi",
+      "icon": "https://cdn.brandfetch.io/id_cYFNbjY/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834072611bfumLaCV7mbQrqq_2T",
+      "_score": 16.192917,
+      "qualityScore": 0.9477702946348814,
+      "verified": true
+    },
+    {
+      "brandId": "id-dWIA7BK",
+      "claimed": false,
+      "domain": "sauber-group.com",
+      "name": "Audi Revolut F1 Team",
+      "icon": "https://cdn.brandfetch.io/id-dWIA7BK/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834072611bfumLaCV7mbQrqq_2T",
+      "_score": 9.415258,
+      "qualityScore": 0.9463908808284895,
+      "verified": true
+    },
+    {
+      "brandId": "idNhDEJS3q",
+      "claimed": false,
+      "domain": "audi-mediacenter.com",
+      "name": "AUDI AG",
+      "icon": "https://cdn.brandfetch.io/idNhDEJS3q/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834072611bfumLaCV7mbQrqq_2T",
+      "_score": 13.049752,
+      "qualityScore": 0.7652947105544469
+    },
+    {
+      "brandId": "iduH-NdEct",
+      "claimed": false,
+      "domain": "audiblecareers.com",
+      "name": "News from Audible",
+      "icon": "https://cdn.brandfetch.io/iduH-NdEct/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834072611bfumLaCV7mbQrqq_2T",
+      "_score": 14.019985,
+      "qualityScore": 0.7555639773525328
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "fetched_at": "2026-06-06T12:08:17.456Z",
+  "brand_id": "wechat_pay",
+  "query": "WeChat Pay",
+  "http_status": 200,
+  "search_status": "ok",
+  "results": [
+    {
+      "brandId": "idqRS4H0Nt",
+      "claimed": false,
+      "domain": "wechatpay.com",
+      "name": "WeChat Pay",
+      "icon": "https://cdn.brandfetch.io/idqRS4H0Nt/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834096287bfumLaCV7mU_QeH0Bi",
+      "_score": 33.6051,
+      "qualityScore": 0.5261059488341796,
+      "verified": false
+    },
+    {
+      "brandId": "idz3PE7p4W",
+      "claimed": false,
+      "domain": "alipay-wechatpay.com",
+      "name": "ALIPAY-WeChat Pay",
+      "icon": "https://cdn.brandfetch.io/idz3PE7p4W/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834096287bfumLaCV7mU_QeH0Bi",
+      "_score": 32.595947,
+      "qualityScore": 0.34615384615384615,
+      "verified": false
+    },
+    {
+      "brandId": "idQ2oIVWWJ",
+      "claimed": false,
+      "domain": "wechat-pay.my",
+      "name": "WeChat Pay",
+      "icon": "https://cdn.brandfetch.io/idQ2oIVWWJ/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834096287bfumLaCV7mU_QeH0Bi",
+      "_score": 32.595947,
+      "qualityScore": 0.3076923076923077,
+      "verified": false
+    }
+  ]
+}

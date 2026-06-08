@@ -1,0 +1,27 @@
+{
+  "generated_at": "2026-06-06T23:45:03.030Z",
+  "source_repo": "HeyHuazi/SVGLOGO",
+  "source_commit": "7816f0f503f1974c34ce8580adb4ad16c9c8fc37",
+  "total_resources": 1341,
+  "categories": [
+    "aigc",
+    "airline",
+    "automotive",
+    "company",
+    "consumerBrands",
+    "cosmetic",
+    "goldJewelry",
+    "other",
+    "pay",
+    "school",
+    "social",
+    "tools",
+    "weather"
+  ],
+  "category_count": 13,
+  "wordmark_count": 430,
+  "non_wordmark_count": 911,
+  "orphan_count": 1,
+  "missing_file_count": 9,
+  "warnings": []
+}

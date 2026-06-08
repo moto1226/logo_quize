@@ -1,0 +1,59 @@
+{
+  "fetched_at": "2026-06-06T12:08:07.610Z",
+  "brand_id": "line",
+  "query": "LINE",
+  "http_status": 200,
+  "search_status": "ok",
+  "results": [
+    {
+      "brandId": "idBRIKG72U",
+      "claimed": false,
+      "domain": "finishline.com",
+      "name": "Finish Line",
+      "icon": "https://cdn.brandfetch.io/idBRIKG72U/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834086442bfumLaCV7mnQQ-TyVO",
+      "_score": 10.836517,
+      "qualityScore": 0.9599915573055817,
+      "verified": true
+    },
+    {
+      "brandId": "idceVKSUEz",
+      "claimed": false,
+      "domain": "hollandamerica.com",
+      "name": "Holland America Line",
+      "icon": "https://cdn.brandfetch.io/idceVKSUEz/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834086442bfumLaCV7mnQQ-TyVO",
+      "_score": 9.080133,
+      "qualityScore": 0.9216401534869614,
+      "verified": true
+    },
+    {
+      "brandId": "idzG7Cc71S",
+      "claimed": false,
+      "domain": "odfl.com",
+      "name": "Old Dominion Freight Line",
+      "icon": "https://cdn.brandfetch.io/idzG7Cc71S/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834086442bfumLaCV7mnQQ-TyVO",
+      "_score": 7.8133287,
+      "qualityScore": 0.9191611720979853,
+      "verified": true
+    },
+    {
+      "brandId": "iduDa181eM",
+      "claimed": false,
+      "domain": "linear.app",
+      "name": "Linear",
+      "icon": "https://cdn.brandfetch.io/iduDa181eM/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834086442bfumLaCV7mnQQ-TyVO",
+      "_score": 19.252209,
+      "qualityScore": 0.9092630061619054,
+      "verified": true
+    },
+    {
+      "brandId": "idrYnEb6Cq",
+      "claimed": false,
+      "domain": "line.me",
+      "name": "LINE Global",
+      "icon": "https://cdn.brandfetch.io/idrYnEb6Cq/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834086442bfumLaCV7mnQQ-TyVO",
+      "_score": 10.83551,
+      "qualityScore": 0.8845868269159376,
+      "verified": true
+    }
+  ]
+}

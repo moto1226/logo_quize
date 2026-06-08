@@ -1,0 +1,5491 @@
+{
+  "generated_at": "2026-06-07T00:51:16.943Z",
+  "excluded_categories": [
+    "other",
+    "weather"
+  ],
+  "skipped_excluded_count": 236,
+  "copied_count": 1096,
+  "entries": [
+    {
+      "svglogo_id": "aigc_openai",
+      "source_file": "aigc/OpenAI.svg",
+      "output_file": "assets/_raw/svglogo/aigc/OpenAI.svg"
+    },
+    {
+      "svglogo_id": "aigc_openai_wordmark",
+      "source_file": "aigc/OpenAI_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/aigc/OpenAI_wordmark.svg"
+    },
+    {
+      "svglogo_id": "aigc_claude",
+      "source_file": "aigc/Claude.svg",
+      "output_file": "assets/_raw/svglogo/aigc/Claude.svg"
+    },
+    {
+      "svglogo_id": "aigc_claude_wordmark",
+      "source_file": "aigc/Claude_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/aigc/Claude_wordmark.svg"
+    },
+    {
+      "svglogo_id": "aigc_anthropic",
+      "source_file": "aigc/Anthropic.svg",
+      "output_file": "assets/_raw/svglogo/aigc/Anthropic.svg"
+    },
+    {
+      "svglogo_id": "aigc_anthropic_wordmark",
+      "source_file": "aigc/Anthropic_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/aigc/Anthropic_wordmark.svg"
+    },
+    {
+      "svglogo_id": "aigc_gemini",
+      "source_file": "aigc/Gemini.svg",
+      "output_file": "assets/_raw/svglogo/aigc/Gemini.svg"
+    },
+    {
+      "svglogo_id": "aigc_gemini_wordmark",
+      "source_file": "aigc/Gemini_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/aigc/Gemini_wordmark.svg"
+    },
+    {
+      "svglogo_id": "aigc_ollama",
+      "source_file": "aigc/Ollama.svg",
+      "output_file": "assets/_raw/svglogo/aigc/Ollama.svg"
+    },
+    {
+      "svglogo_id": "aigc_ollama_wordmark",
+      "source_file": "aigc/Ollama_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/aigc/Ollama_wordmark.svg"
+    },
+    {
+      "svglogo_id": "aigc_meta",
+      "source_file": "aigc/Meta.svg",
+      "output_file": "assets/_raw/svglogo/aigc/Meta.svg"
+    },
+    {
+      "svglogo_id": "aigc_meta_wordmark",
+      "source_file": "aigc/Meta_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/aigc/Meta_wordmark.svg"
+    },
+    {
+      "svglogo_id": "aigc_midjourney",
+      "source_file": "aigc/Midjourney.svg",
+      "output_file": "assets/_raw/svglogo/aigc/Midjourney.svg"
+    },
+    {
+      "svglogo_id": "aigc_midjourney_wordmark",
+      "source_file": "aigc/Midjourney_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/aigc/Midjourney_wordmark.svg"
+    },
+    {
+      "svglogo_id": "aigc_mistral",
+      "source_file": "aigc/Mistral.svg",
+      "output_file": "assets/_raw/svglogo/aigc/Mistral.svg"
+    },
+    {
+      "svglogo_id": "aigc_mistral_wordmark",
+      "source_file": "aigc/Mistral_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/aigc/Mistral_wordmark.svg"
+    },
+    {
+      "svglogo_id": "aigc_stability",
+      "source_file": "aigc/Stability.svg",
+      "output_file": "assets/_raw/svglogo/aigc/Stability.svg"
+    },
+    {
+      "svglogo_id": "aigc_stability_wordmark",
+      "source_file": "aigc/Stability_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/aigc/Stability_wordmark.svg"
+    },
+    {
+      "svglogo_id": "aigc_huggingface",
+      "source_file": "aigc/HuggingFace.svg",
+      "output_file": "assets/_raw/svglogo/aigc/HuggingFace.svg"
+    },
+    {
+      "svglogo_id": "aigc_huggingface_wordmark",
+      "source_file": "aigc/HuggingFace_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/aigc/HuggingFace_wordmark.svg"
+    },
+    {
+      "svglogo_id": "aigc_dall_e",
+      "source_file": "aigc/DALL·E.svg",
+      "output_file": "assets/_raw/svglogo/aigc/DALL·E.svg"
+    },
+    {
+      "svglogo_id": "aigc_dall_e_wordmark",
+      "source_file": "aigc/DALL·E_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/aigc/DALL·E_wordmark.svg"
+    },
+    {
+      "svglogo_id": "aigc_openrouter",
+      "source_file": "aigc/OpenRouter.svg",
+      "output_file": "assets/_raw/svglogo/aigc/OpenRouter.svg"
+    },
+    {
+      "svglogo_id": "aigc_openrouter_wordmark",
+      "source_file": "aigc/OpenRouter_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/aigc/OpenRouter_wordmark.svg"
+    },
+    {
+      "svglogo_id": "aigc_cohere",
+      "source_file": "aigc/Cohere.svg",
+      "output_file": "assets/_raw/svglogo/aigc/Cohere.svg"
+    },
+    {
+      "svglogo_id": "aigc_cohere_wordmark",
+      "source_file": "aigc/Cohere_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/aigc/Cohere_wordmark.svg"
+    },
+    {
+      "svglogo_id": "aigc_replicate",
+      "source_file": "aigc/Replicate.svg",
+      "output_file": "assets/_raw/svglogo/aigc/Replicate.svg"
+    },
+    {
+      "svglogo_id": "aigc_replicate_wordmark",
+      "source_file": "aigc/Replicate_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/aigc/Replicate_wordmark.svg"
+    },
+    {
+      "svglogo_id": "aigc_zhipu",
+      "source_file": "aigc/Zhipu.svg",
+      "output_file": "assets/_raw/svglogo/aigc/Zhipu.svg"
+    },
+    {
+      "svglogo_id": "aigc_zhipu_wordmark",
+      "source_file": "aigc/Zhipu_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/aigc/Zhipu_wordmark.svg"
+    },
+    {
+      "svglogo_id": "aigc_runway",
+      "source_file": "aigc/Runway.svg",
+      "output_file": "assets/_raw/svglogo/aigc/Runway.svg"
+    },
+    {
+      "svglogo_id": "aigc_runway_wordmark",
+      "source_file": "aigc/Runway_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/aigc/Runway_wordmark.svg"
+    },
+    {
+      "svglogo_id": "aigc_perplexity",
+      "source_file": "aigc/Perplexity.svg",
+      "output_file": "assets/_raw/svglogo/aigc/Perplexity.svg"
+    },
+    {
+      "svglogo_id": "aigc_perplexity_wordmark",
+      "source_file": "aigc/Perplexity_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/aigc/Perplexity_wordmark.svg"
+    },
+    {
+      "svglogo_id": "aigc_gemma",
+      "source_file": "aigc/Gemma.svg",
+      "output_file": "assets/_raw/svglogo/aigc/Gemma.svg"
+    },
+    {
+      "svglogo_id": "aigc_gemma_wordmark",
+      "source_file": "aigc/Gemma_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/aigc/Gemma_wordmark.svg"
+    },
+    {
+      "svglogo_id": "aigc_chatglm",
+      "source_file": "aigc/ChatGLM.svg",
+      "output_file": "assets/_raw/svglogo/aigc/ChatGLM.svg"
+    },
+    {
+      "svglogo_id": "aigc_chatglm_wordmark",
+      "source_file": "aigc/ChatGLM_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/aigc/ChatGLM_wordmark.svg"
+    },
+    {
+      "svglogo_id": "aigc_flux",
+      "source_file": "aigc/Flux.svg",
+      "output_file": "assets/_raw/svglogo/aigc/Flux.svg"
+    },
+    {
+      "svglogo_id": "aigc_flux_wordmark",
+      "source_file": "aigc/Flux_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/aigc/Flux_wordmark.svg"
+    },
+    {
+      "svglogo_id": "aigc_grok",
+      "source_file": "aigc/Grok.svg",
+      "output_file": "assets/_raw/svglogo/aigc/Grok.svg"
+    },
+    {
+      "svglogo_id": "aigc_grok_wordmark",
+      "source_file": "aigc/Grok_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/aigc/Grok_wordmark.svg"
+    },
+    {
+      "svglogo_id": "aigc_suno",
+      "source_file": "aigc/Suno.svg",
+      "output_file": "assets/_raw/svglogo/aigc/Suno.svg"
+    },
+    {
+      "svglogo_id": "aigc_suno_wordmark",
+      "source_file": "aigc/Suno_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/aigc/Suno_wordmark.svg"
+    },
+    {
+      "svglogo_id": "aigc_groq",
+      "source_file": "aigc/Groq.svg",
+      "output_file": "assets/_raw/svglogo/aigc/Groq.svg"
+    },
+    {
+      "svglogo_id": "aigc_groq_wordmark",
+      "source_file": "aigc/Groq_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/aigc/Groq_wordmark.svg"
+    },
+    {
+      "svglogo_id": "aigc_qwen",
+      "source_file": "aigc/Qwen.svg",
+      "output_file": "assets/_raw/svglogo/aigc/Qwen.svg"
+    },
+    {
+      "svglogo_id": "aigc_qwen_wordmark",
+      "source_file": "aigc/Qwen_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/aigc/Qwen_wordmark.svg"
+    },
+    {
+      "svglogo_id": "aigc_togetherai",
+      "source_file": "aigc/TogetherAI.svg",
+      "output_file": "assets/_raw/svglogo/aigc/TogetherAI.svg"
+    },
+    {
+      "svglogo_id": "aigc_togetherai_wordmark",
+      "source_file": "aigc/TogetherAI_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/aigc/TogetherAI_wordmark.svg"
+    },
+    {
+      "svglogo_id": "aigc_fireworks",
+      "source_file": "aigc/Fireworks.svg",
+      "output_file": "assets/_raw/svglogo/aigc/Fireworks.svg"
+    },
+    {
+      "svglogo_id": "aigc_fireworks_wordmark",
+      "source_file": "aigc/Fireworks_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/aigc/Fireworks_wordmark.svg"
+    },
+    {
+      "svglogo_id": "aigc_doubao",
+      "source_file": "aigc/Doubao.svg",
+      "output_file": "assets/_raw/svglogo/aigc/Doubao.svg"
+    },
+    {
+      "svglogo_id": "aigc_doubao_wordmark",
+      "source_file": "aigc/Doubao_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/aigc/Doubao_wordmark.svg"
+    },
+    {
+      "svglogo_id": "aigc_azureai",
+      "source_file": "aigc/AzureAI.svg",
+      "output_file": "assets/_raw/svglogo/aigc/AzureAI.svg"
+    },
+    {
+      "svglogo_id": "aigc_azureai_wordmark",
+      "source_file": "aigc/AzureAI_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/aigc/AzureAI_wordmark.svg"
+    },
+    {
+      "svglogo_id": "aigc_vertexai",
+      "source_file": "aigc/VertexAI.svg",
+      "output_file": "assets/_raw/svglogo/aigc/VertexAI.svg"
+    },
+    {
+      "svglogo_id": "aigc_vertexai_wordmark",
+      "source_file": "aigc/VertexAI_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/aigc/VertexAI_wordmark.svg"
+    },
+    {
+      "svglogo_id": "aigc_bedrockaws",
+      "source_file": "aigc/BedrockAWS.svg",
+      "output_file": "assets/_raw/svglogo/aigc/BedrockAWS.svg"
+    },
+    {
+      "svglogo_id": "aigc_bedrockaws_wordmark",
+      "source_file": "aigc/BedrockAWS_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/aigc/BedrockAWS_wordmark.svg"
+    },
+    {
+      "svglogo_id": "aigc_luma",
+      "source_file": "aigc/Luma.svg",
+      "output_file": "assets/_raw/svglogo/aigc/Luma.svg"
+    },
+    {
+      "svglogo_id": "aigc_luma_wordmark",
+      "source_file": "aigc/Luma_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/aigc/Luma_wordmark.svg"
+    },
+    {
+      "svglogo_id": "aigc_kling",
+      "source_file": "aigc/Kling.svg",
+      "output_file": "assets/_raw/svglogo/aigc/Kling.svg"
+    },
+    {
+      "svglogo_id": "aigc_kling_wordmark",
+      "source_file": "aigc/Kling_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/aigc/Kling_wordmark.svg"
+    },
+    {
+      "svglogo_id": "aigc_alephalpha",
+      "source_file": "aigc/AlephAlpha.svg",
+      "output_file": "assets/_raw/svglogo/aigc/AlephAlpha.svg"
+    },
+    {
+      "svglogo_id": "aigc_alephalpha_wordmark",
+      "source_file": "aigc/AlephAlpha_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/aigc/AlephAlpha_wordmark.svg"
+    },
+    {
+      "svglogo_id": "aigc_aionlabs",
+      "source_file": "aigc/AionLabs.svg",
+      "output_file": "assets/_raw/svglogo/aigc/AionLabs.svg"
+    },
+    {
+      "svglogo_id": "aigc_aionlabs_wordmark",
+      "source_file": "aigc/AionLabs_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/aigc/AionLabs_wordmark.svg"
+    },
+    {
+      "svglogo_id": "aigc_aistudio",
+      "source_file": "aigc/AIStudio.svg",
+      "output_file": "assets/_raw/svglogo/aigc/AIStudio.svg"
+    },
+    {
+      "svglogo_id": "aigc_aistudio_wordmark",
+      "source_file": "aigc/AIStudio_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/aigc/AIStudio_wordmark.svg"
+    },
+    {
+      "svglogo_id": "aigc_deepmind",
+      "source_file": "aigc/Deepmind.svg",
+      "output_file": "assets/_raw/svglogo/aigc/Deepmind.svg"
+    },
+    {
+      "svglogo_id": "aigc_deepmind_wordmark",
+      "source_file": "aigc/Deepmind_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/aigc/Deepmind_wordmark.svg"
+    },
+    {
+      "svglogo_id": "aigc_aimass",
+      "source_file": "aigc/AiMass.svg",
+      "output_file": "assets/_raw/svglogo/aigc/AiMass.svg"
+    },
+    {
+      "svglogo_id": "aigc_aimass_wordmark",
+      "source_file": "aigc/AiMass_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/aigc/AiMass_wordmark.svg"
+    },
+    {
+      "svglogo_id": "aigc_aihubmix",
+      "source_file": "aigc/AiHubMix.svg",
+      "output_file": "assets/_raw/svglogo/aigc/AiHubMix.svg"
+    },
+    {
+      "svglogo_id": "aigc_aihubmix_wordmark",
+      "source_file": "aigc/AiHubMix_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/aigc/AiHubMix_wordmark.svg"
+    },
+    {
+      "svglogo_id": "aigc_ai360",
+      "source_file": "aigc/Ai360.svg",
+      "output_file": "assets/_raw/svglogo/aigc/Ai360.svg"
+    },
+    {
+      "svglogo_id": "aigc_ai360_wordmark",
+      "source_file": "aigc/Ai360_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/aigc/Ai360_wordmark.svg"
+    },
+    {
+      "svglogo_id": "aigc_302ai",
+      "source_file": "aigc/302AI.svg",
+      "output_file": "assets/_raw/svglogo/aigc/302AI.svg"
+    },
+    {
+      "svglogo_id": "aigc_302ai_wordmark",
+      "source_file": "aigc/302AI_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/aigc/302AI_wordmark.svg"
+    },
+    {
+      "svglogo_id": "aigc_ai21labs",
+      "source_file": "aigc/Ai21Labs.svg",
+      "output_file": "assets/_raw/svglogo/aigc/Ai21Labs.svg"
+    },
+    {
+      "svglogo_id": "aigc_ai21labs_wordmark",
+      "source_file": "aigc/Ai21Labs_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/aigc/Ai21Labs_wordmark.svg"
+    },
+    {
+      "svglogo_id": "aigc_agui",
+      "source_file": "aigc/AGUI.svg",
+      "output_file": "assets/_raw/svglogo/aigc/AGUI.svg"
+    },
+    {
+      "svglogo_id": "aigc_agui_wordmark",
+      "source_file": "aigc/AGUI_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/aigc/AGUI_wordmark.svg"
+    },
+    {
+      "svglogo_id": "aigc_adobefirefly",
+      "source_file": "aigc/AdobeFirefly.svg",
+      "output_file": "assets/_raw/svglogo/aigc/AdobeFirefly.svg"
+    },
+    {
+      "svglogo_id": "aigc_adobefirefly_wordmark",
+      "source_file": "aigc/AdobeFirefly_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/aigc/AdobeFirefly_wordmark.svg"
+    },
+    {
+      "svglogo_id": "aigc_baiducloud",
+      "source_file": "aigc/BaiduCloud.svg",
+      "output_file": "assets/_raw/svglogo/aigc/BaiduCloud.svg"
+    },
+    {
+      "svglogo_id": "aigc_baiducloud_wordmark",
+      "source_file": "aigc/BaiduCloud_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/aigc/BaiduCloud_wordmark.svg"
+    },
+    {
+      "svglogo_id": "aigc_baichuan",
+      "source_file": "aigc/Baichuan.svg",
+      "output_file": "assets/_raw/svglogo/aigc/Baichuan.svg"
+    },
+    {
+      "svglogo_id": "aigc_baichuan_wordmark",
+      "source_file": "aigc/Baichuan_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/aigc/Baichuan_wordmark.svg"
+    },
+    {
+      "svglogo_id": "aigc_baai",
+      "source_file": "aigc/BAAI.svg",
+      "output_file": "assets/_raw/svglogo/aigc/BAAI.svg"
+    },
+    {
+      "svglogo_id": "aigc_baai_wordmark",
+      "source_file": "aigc/BAAI_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/aigc/BAAI_wordmark.svg"
+    },
+    {
+      "svglogo_id": "aigc_microsoftazure",
+      "source_file": "aigc/MicrosoftAzure.svg",
+      "output_file": "assets/_raw/svglogo/aigc/MicrosoftAzure.svg"
+    },
+    {
+      "svglogo_id": "aigc_microsoftazure_wordmark",
+      "source_file": "aigc/MicrosoftAzure_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/aigc/MicrosoftAzure_wordmark.svg"
+    },
+    {
+      "svglogo_id": "aigc_aya",
+      "source_file": "aigc/Aya.svg",
+      "output_file": "assets/_raw/svglogo/aigc/Aya.svg"
+    },
+    {
+      "svglogo_id": "aigc_aya_wordmark",
+      "source_file": "aigc/Aya_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/aigc/Aya_wordmark.svg"
+    },
+    {
+      "svglogo_id": "aigc_automatic1111",
+      "source_file": "aigc/Automatic1111.svg",
+      "output_file": "assets/_raw/svglogo/aigc/Automatic1111.svg"
+    },
+    {
+      "svglogo_id": "aigc_automatic1111_wordmark",
+      "source_file": "aigc/Automatic1111_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/aigc/Automatic1111_wordmark.svg"
+    },
+    {
+      "svglogo_id": "aigc_assemblyai",
+      "source_file": "aigc/AssemblyAI.svg",
+      "output_file": "assets/_raw/svglogo/aigc/AssemblyAI.svg"
+    },
+    {
+      "svglogo_id": "aigc_assemblyai_wordmark",
+      "source_file": "aigc/AssemblyAI_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/aigc/AssemblyAI_wordmark.svg"
+    },
+    {
+      "svglogo_id": "aigc_anyscale",
+      "source_file": "aigc/Anyscale.svg",
+      "output_file": "assets/_raw/svglogo/aigc/Anyscale.svg"
+    },
+    {
+      "svglogo_id": "aigc_anyscale_wordmark",
+      "source_file": "aigc/Anyscale_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/aigc/Anyscale_wordmark.svg"
+    },
+    {
+      "svglogo_id": "aigc_openai_2",
+      "source_file": "aigc/OpenAI.svg",
+      "output_file": "assets/_raw/svglogo/aigc/OpenAI.svg"
+    },
+    {
+      "svglogo_id": "aigc_openai_wordmark_2",
+      "source_file": "aigc/OpenAI_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/aigc/OpenAI_wordmark.svg"
+    },
+    {
+      "svglogo_id": "aigc_baseten",
+      "source_file": "aigc/Baseten.svg",
+      "output_file": "assets/_raw/svglogo/aigc/Baseten.svg"
+    },
+    {
+      "svglogo_id": "aigc_baseten_wordmark",
+      "source_file": "aigc/Baseten_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/aigc/Baseten_wordmark.svg"
+    },
+    {
+      "svglogo_id": "aigc_bing",
+      "source_file": "aigc/Bing.svg",
+      "output_file": "assets/_raw/svglogo/aigc/Bing.svg"
+    },
+    {
+      "svglogo_id": "aigc_bing_wordmark",
+      "source_file": "aigc/Bing_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/aigc/Bing_wordmark.svg"
+    },
+    {
+      "svglogo_id": "aigc_burncloud",
+      "source_file": "aigc/BurnCloud.svg",
+      "output_file": "assets/_raw/svglogo/aigc/BurnCloud.svg"
+    },
+    {
+      "svglogo_id": "aigc_burncloud_wordmark",
+      "source_file": "aigc/BurnCloud_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/aigc/BurnCloud_wordmark.svg"
+    },
+    {
+      "svglogo_id": "aigc_centml",
+      "source_file": "aigc/CentML.svg",
+      "output_file": "assets/_raw/svglogo/aigc/CentML.svg"
+    },
+    {
+      "svglogo_id": "aigc_centml_wordmark",
+      "source_file": "aigc/CentML_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/aigc/CentML_wordmark.svg"
+    },
+    {
+      "svglogo_id": "aigc_cerebras",
+      "source_file": "aigc/Cerebras.svg",
+      "output_file": "assets/_raw/svglogo/aigc/Cerebras.svg"
+    },
+    {
+      "svglogo_id": "aigc_cerebras_wordmark",
+      "source_file": "aigc/Cerebras_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/aigc/Cerebras_wordmark.svg"
+    },
+    {
+      "svglogo_id": "aigc_civitai",
+      "source_file": "aigc/Civitai.svg",
+      "output_file": "assets/_raw/svglogo/aigc/Civitai.svg"
+    },
+    {
+      "svglogo_id": "aigc_civitai_wordmark",
+      "source_file": "aigc/Civitai_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/aigc/Civitai_wordmark.svg"
+    },
+    {
+      "svglogo_id": "aigc_cline",
+      "source_file": "aigc/Cline.svg",
+      "output_file": "assets/_raw/svglogo/aigc/Cline.svg"
+    },
+    {
+      "svglogo_id": "aigc_cline_wordmark",
+      "source_file": "aigc/Cline_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/aigc/Cline_wordmark.svg"
+    },
+    {
+      "svglogo_id": "aigc_coze",
+      "source_file": "aigc/Coze.svg",
+      "output_file": "assets/_raw/svglogo/aigc/Coze.svg"
+    },
+    {
+      "svglogo_id": "aigc_coze_wordmark",
+      "source_file": "aigc/Coze_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/aigc/Coze_wordmark.svg"
+    },
+    {
+      "svglogo_id": "aigc_coqui",
+      "source_file": "aigc/Coqui.svg",
+      "output_file": "assets/_raw/svglogo/aigc/Coqui.svg"
+    },
+    {
+      "svglogo_id": "aigc_coqui_wordmark",
+      "source_file": "aigc/Coqui_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/aigc/Coqui_wordmark.svg"
+    },
+    {
+      "svglogo_id": "aigc_copilotkit",
+      "source_file": "aigc/CopilotKit.svg",
+      "output_file": "assets/_raw/svglogo/aigc/CopilotKit.svg"
+    },
+    {
+      "svglogo_id": "aigc_copilotkit_wordmark",
+      "source_file": "aigc/CopilotKit_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/aigc/CopilotKit_wordmark.svg"
+    },
+    {
+      "svglogo_id": "aigc_comfyui",
+      "source_file": "aigc/ComfyUI.svg",
+      "output_file": "assets/_raw/svglogo/aigc/ComfyUI.svg"
+    },
+    {
+      "svglogo_id": "aigc_comfyui_wordmark",
+      "source_file": "aigc/ComfyUI_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/aigc/ComfyUI_wordmark.svg"
+    },
+    {
+      "svglogo_id": "aigc_colab",
+      "source_file": "aigc/Colab.svg",
+      "output_file": "assets/_raw/svglogo/aigc/Colab.svg"
+    },
+    {
+      "svglogo_id": "aigc_colab_wordmark",
+      "source_file": "aigc/Colab_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/aigc/Colab_wordmark.svg"
+    },
+    {
+      "svglogo_id": "aigc_cogview",
+      "source_file": "aigc/CogView.svg",
+      "output_file": "assets/_raw/svglogo/aigc/CogView.svg"
+    },
+    {
+      "svglogo_id": "aigc_cogview_wordmark",
+      "source_file": "aigc/CogView_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/aigc/CogView_wordmark.svg"
+    },
+    {
+      "svglogo_id": "aigc_cogvideo",
+      "source_file": "aigc/CogVideo.svg",
+      "output_file": "assets/_raw/svglogo/aigc/CogVideo.svg"
+    },
+    {
+      "svglogo_id": "aigc_cogvideo_wordmark",
+      "source_file": "aigc/CogVideo_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/aigc/CogVideo_wordmark.svg"
+    },
+    {
+      "svglogo_id": "aigc_codegeex",
+      "source_file": "aigc/CodeGeeX.svg",
+      "output_file": "assets/_raw/svglogo/aigc/CodeGeeX.svg"
+    },
+    {
+      "svglogo_id": "aigc_codegeex_wordmark",
+      "source_file": "aigc/CodeGeeX_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/aigc/CodeGeeX_wordmark.svg"
+    },
+    {
+      "svglogo_id": "aigc_cloudflare",
+      "source_file": "aigc/Cloudflare.svg",
+      "output_file": "assets/_raw/svglogo/aigc/Cloudflare.svg"
+    },
+    {
+      "svglogo_id": "aigc_cloudflare_wordmark",
+      "source_file": "aigc/Cloudflare_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/aigc/Cloudflare_wordmark.svg"
+    },
+    {
+      "svglogo_id": "aigc_clipdrop",
+      "source_file": "aigc/Clipdrop.svg",
+      "output_file": "assets/_raw/svglogo/aigc/Clipdrop.svg"
+    },
+    {
+      "svglogo_id": "aigc_clipdrop_wordmark",
+      "source_file": "aigc/Clipdrop_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/aigc/Clipdrop_wordmark.svg"
+    },
+    {
+      "svglogo_id": "aigc_dreammachine",
+      "source_file": "aigc/DreamMachine.svg",
+      "output_file": "assets/_raw/svglogo/aigc/DreamMachine.svg"
+    },
+    {
+      "svglogo_id": "aigc_dreammachine_wordmark",
+      "source_file": "aigc/DreamMachine_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/aigc/DreamMachine_wordmark.svg"
+    },
+    {
+      "svglogo_id": "aigc_docsearch",
+      "source_file": "aigc/DocSearch.svg",
+      "output_file": "assets/_raw/svglogo/aigc/DocSearch.svg"
+    },
+    {
+      "svglogo_id": "aigc_docsearch_wordmark",
+      "source_file": "aigc/DocSearch_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/aigc/DocSearch_wordmark.svg"
+    },
+    {
+      "svglogo_id": "aigc_doc2x",
+      "source_file": "aigc/Doc2X.svg",
+      "output_file": "assets/_raw/svglogo/aigc/Doc2X.svg"
+    },
+    {
+      "svglogo_id": "aigc_doc2x_wordmark",
+      "source_file": "aigc/Doc2X_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/aigc/Doc2X_wordmark.svg"
+    },
+    {
+      "svglogo_id": "aigc_dify",
+      "source_file": "aigc/Dify.svg",
+      "output_file": "assets/_raw/svglogo/aigc/Dify.svg"
+    },
+    {
+      "svglogo_id": "aigc_dify_wordmark",
+      "source_file": "aigc/Dify_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/aigc/Dify_wordmark.svg"
+    },
+    {
+      "svglogo_id": "aigc_deepmind_2",
+      "source_file": "aigc/DeepMind.svg",
+      "output_file": "assets/_raw/svglogo/aigc/DeepMind.svg"
+    },
+    {
+      "svglogo_id": "aigc_deepmind_wordmark_2",
+      "source_file": "aigc/DeepMind_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/aigc/DeepMind_wordmark.svg"
+    },
+    {
+      "svglogo_id": "aigc_deepinfra",
+      "source_file": "aigc/DeepInfra.svg",
+      "output_file": "assets/_raw/svglogo/aigc/DeepInfra.svg"
+    },
+    {
+      "svglogo_id": "aigc_deepinfra_wordmark",
+      "source_file": "aigc/DeepInfra_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/aigc/DeepInfra_wordmark.svg"
+    },
+    {
+      "svglogo_id": "aigc_deepai",
+      "source_file": "aigc/DeepAI.svg",
+      "output_file": "assets/_raw/svglogo/aigc/DeepAI.svg"
+    },
+    {
+      "svglogo_id": "aigc_deepai_wordmark",
+      "source_file": "aigc/DeepAI_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/aigc/DeepAI_wordmark.svg"
+    },
+    {
+      "svglogo_id": "aigc_dbrx",
+      "source_file": "aigc/DBRX.svg",
+      "output_file": "assets/_raw/svglogo/aigc/DBRX.svg"
+    },
+    {
+      "svglogo_id": "aigc_dbrx_wordmark",
+      "source_file": "aigc/DBRX_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/aigc/DBRX_wordmark.svg"
+    },
+    {
+      "svglogo_id": "aigc_cursor",
+      "source_file": "aigc/Cursor.svg",
+      "output_file": "assets/_raw/svglogo/aigc/Cursor.svg"
+    },
+    {
+      "svglogo_id": "aigc_cursor_wordmark",
+      "source_file": "aigc/Cursor_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/aigc/Cursor_wordmark.svg"
+    },
+    {
+      "svglogo_id": "aigc_crusoe",
+      "source_file": "aigc/Crusoe.svg",
+      "output_file": "assets/_raw/svglogo/aigc/Crusoe.svg"
+    },
+    {
+      "svglogo_id": "aigc_crusoe_wordmark",
+      "source_file": "aigc/Crusoe_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/aigc/Crusoe_wordmark.svg"
+    },
+    {
+      "svglogo_id": "aigc_crewai",
+      "source_file": "aigc/CrewAI.svg",
+      "output_file": "assets/_raw/svglogo/aigc/CrewAI.svg"
+    },
+    {
+      "svglogo_id": "aigc_crewai_wordmark",
+      "source_file": "aigc/CrewAI_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/aigc/CrewAI_wordmark.svg"
+    },
+    {
+      "svglogo_id": "aigc_elevenlabs",
+      "source_file": "aigc/ElevenLabs.svg",
+      "output_file": "assets/_raw/svglogo/aigc/ElevenLabs.svg"
+    },
+    {
+      "svglogo_id": "aigc_elevenlabs_wordmark",
+      "source_file": "aigc/ElevenLabs_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/aigc/ElevenLabs_wordmark.svg"
+    },
+    {
+      "svglogo_id": "aigc_11x",
+      "source_file": "aigc/11x.svg",
+      "output_file": "assets/_raw/svglogo/aigc/11x.svg"
+    },
+    {
+      "svglogo_id": "aigc_11x_wordmark",
+      "source_file": "aigc/11x_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/aigc/11x_wordmark.svg"
+    },
+    {
+      "svglogo_id": "aigc_exa",
+      "source_file": "aigc/Exa.svg",
+      "output_file": "assets/_raw/svglogo/aigc/Exa.svg"
+    },
+    {
+      "svglogo_id": "aigc_exa_wordmark",
+      "source_file": "aigc/Exa_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/aigc/Exa_wordmark.svg"
+    },
+    {
+      "svglogo_id": "aigc_fal",
+      "source_file": "aigc/Fal.svg",
+      "output_file": "assets/_raw/svglogo/aigc/Fal.svg"
+    },
+    {
+      "svglogo_id": "aigc_fal_wordmark",
+      "source_file": "aigc/Fal_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/aigc/Fal_wordmark.svg"
+    },
+    {
+      "svglogo_id": "aigc_fastgpt",
+      "source_file": "aigc/FastGPT.svg",
+      "output_file": "assets/_raw/svglogo/aigc/FastGPT.svg"
+    },
+    {
+      "svglogo_id": "aigc_fastgpt_wordmark",
+      "source_file": "aigc/FastGPT_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/aigc/FastGPT_wordmark.svg"
+    },
+    {
+      "svglogo_id": "aigc_featherlessai",
+      "source_file": "aigc/FeatherlessAI.svg",
+      "output_file": "assets/_raw/svglogo/aigc/FeatherlessAI.svg"
+    },
+    {
+      "svglogo_id": "aigc_featherlessai_wordmark",
+      "source_file": "aigc/FeatherlessAI_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/aigc/FeatherlessAI_wordmark.svg"
+    },
+    {
+      "svglogo_id": "aigc_fishaudio",
+      "source_file": "aigc/FishAudio.svg",
+      "output_file": "assets/_raw/svglogo/aigc/FishAudio.svg"
+    },
+    {
+      "svglogo_id": "aigc_fishaudio_wordmark",
+      "source_file": "aigc/FishAudio_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/aigc/FishAudio_wordmark.svg"
+    },
+    {
+      "svglogo_id": "aigc_flora",
+      "source_file": "aigc/Flora.svg",
+      "output_file": "assets/_raw/svglogo/aigc/Flora.svg"
+    },
+    {
+      "svglogo_id": "aigc_flora_wordmark",
+      "source_file": "aigc/Flora_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/aigc/Flora_wordmark.svg"
+    },
+    {
+      "svglogo_id": "aigc_flowith",
+      "source_file": "aigc/Flowith.svg",
+      "output_file": "assets/_raw/svglogo/aigc/Flowith.svg"
+    },
+    {
+      "svglogo_id": "aigc_flowith_wordmark",
+      "source_file": "aigc/Flowith_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/aigc/Flowith_wordmark.svg"
+    },
+    {
+      "svglogo_id": "aigc_gradio",
+      "source_file": "aigc/Gradio.svg",
+      "output_file": "assets/_raw/svglogo/aigc/Gradio.svg"
+    },
+    {
+      "svglogo_id": "aigc_gradio_wordmark",
+      "source_file": "aigc/Gradio_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/aigc/Gradio_wordmark.svg"
+    },
+    {
+      "svglogo_id": "aigc_goose",
+      "source_file": "aigc/Goose.svg",
+      "output_file": "assets/_raw/svglogo/aigc/Goose.svg"
+    },
+    {
+      "svglogo_id": "aigc_goose_wordmark",
+      "source_file": "aigc/Goose_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/aigc/Goose_wordmark.svg"
+    },
+    {
+      "svglogo_id": "aigc_glif",
+      "source_file": "aigc/Glif.svg",
+      "output_file": "assets/_raw/svglogo/aigc/Glif.svg"
+    },
+    {
+      "svglogo_id": "aigc_glif_wordmark",
+      "source_file": "aigc/Glif_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/aigc/Glif_wordmark.svg"
+    },
+    {
+      "svglogo_id": "aigc_glama",
+      "source_file": "aigc/Glama.svg",
+      "output_file": "assets/_raw/svglogo/aigc/Glama.svg"
+    },
+    {
+      "svglogo_id": "aigc_glama_wordmark",
+      "source_file": "aigc/Glama_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/aigc/Glama_wordmark.svg"
+    },
+    {
+      "svglogo_id": "aigc_githubcopilot",
+      "source_file": "aigc/GithubCopilot.svg",
+      "output_file": "assets/_raw/svglogo/aigc/GithubCopilot.svg"
+    },
+    {
+      "svglogo_id": "aigc_githubcopilot_wordmark",
+      "source_file": "aigc/GithubCopilot_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/aigc/GithubCopilot_wordmark.svg"
+    },
+    {
+      "svglogo_id": "aigc_giteeai",
+      "source_file": "aigc/GiteeAI.svg",
+      "output_file": "assets/_raw/svglogo/aigc/GiteeAI.svg"
+    },
+    {
+      "svglogo_id": "aigc_giteeai_wordmark",
+      "source_file": "aigc/GiteeAI_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/aigc/GiteeAI_wordmark.svg"
+    },
+    {
+      "svglogo_id": "aigc_friendli",
+      "source_file": "aigc/Friendli.svg",
+      "output_file": "assets/_raw/svglogo/aigc/Friendli.svg"
+    },
+    {
+      "svglogo_id": "aigc_friendli_wordmark",
+      "source_file": "aigc/Friendli_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/aigc/Friendli_wordmark.svg"
+    },
+    {
+      "svglogo_id": "aigc_kimi",
+      "source_file": "aigc/Kimi.svg",
+      "output_file": "assets/_raw/svglogo/aigc/Kimi.svg"
+    },
+    {
+      "svglogo_id": "aigc_kimi_wordmark",
+      "source_file": "aigc/Kimi_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/aigc/Kimi_wordmark.svg"
+    },
+    {
+      "svglogo_id": "aigc_kera",
+      "source_file": "aigc/Kera.svg",
+      "output_file": "assets/_raw/svglogo/aigc/Kera.svg"
+    },
+    {
+      "svglogo_id": "aigc_kera_wordmark",
+      "source_file": "aigc/Kera_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/aigc/Kera_wordmark.svg"
+    },
+    {
+      "svglogo_id": "aigc_jinaai",
+      "source_file": "aigc/JinaAI.svg",
+      "output_file": "assets/_raw/svglogo/aigc/JinaAI.svg"
+    },
+    {
+      "svglogo_id": "aigc_jinaai_wordmark",
+      "source_file": "aigc/JinaAI_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/aigc/JinaAI_wordmark.svg"
+    },
+    {
+      "svglogo_id": "aigc_jimeng",
+      "source_file": "aigc/Jimeng.svg",
+      "output_file": "assets/_raw/svglogo/aigc/Jimeng.svg"
+    },
+    {
+      "svglogo_id": "aigc_jimeng_wordmark",
+      "source_file": "aigc/Jimeng_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/aigc/Jimeng_wordmark.svg"
+    },
+    {
+      "svglogo_id": "aigc_internlm",
+      "source_file": "aigc/InternLM.svg",
+      "output_file": "assets/_raw/svglogo/aigc/InternLM.svg"
+    },
+    {
+      "svglogo_id": "aigc_internlm_wordmark",
+      "source_file": "aigc/InternLM_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/aigc/InternLM_wordmark.svg"
+    },
+    {
+      "svglogo_id": "aigc_inflection",
+      "source_file": "aigc/Inflection.svg",
+      "output_file": "assets/_raw/svglogo/aigc/Inflection.svg"
+    },
+    {
+      "svglogo_id": "aigc_inflection_wordmark",
+      "source_file": "aigc/Inflection_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/aigc/Inflection_wordmark.svg"
+    },
+    {
+      "svglogo_id": "aigc_infinigence",
+      "source_file": "aigc/Infinigence.svg",
+      "output_file": "assets/_raw/svglogo/aigc/Infinigence.svg"
+    },
+    {
+      "svglogo_id": "aigc_infinigence_wordmark",
+      "source_file": "aigc/Infinigence_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/aigc/Infinigence_wordmark.svg"
+    },
+    {
+      "svglogo_id": "aigc_infermatic",
+      "source_file": "aigc/Infermatic.svg",
+      "output_file": "assets/_raw/svglogo/aigc/Infermatic.svg"
+    },
+    {
+      "svglogo_id": "aigc_infermatic_wordmark",
+      "source_file": "aigc/Infermatic_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/aigc/Infermatic_wordmark.svg"
+    },
+    {
+      "svglogo_id": "aigc_inference",
+      "source_file": "aigc/Inference.svg",
+      "output_file": "assets/_raw/svglogo/aigc/Inference.svg"
+    },
+    {
+      "svglogo_id": "aigc_inference_wordmark",
+      "source_file": "aigc/Inference_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/aigc/Inference_wordmark.svg"
+    },
+    {
+      "svglogo_id": "aigc_ideogram",
+      "source_file": "aigc/Ideogram.svg",
+      "output_file": "assets/_raw/svglogo/aigc/Ideogram.svg"
+    },
+    {
+      "svglogo_id": "aigc_ideogram_wordmark",
+      "source_file": "aigc/Ideogram_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/aigc/Ideogram_wordmark.svg"
+    },
+    {
+      "svglogo_id": "aigc_iflytekcloud",
+      "source_file": "aigc/IFlyTekCloud.svg",
+      "output_file": "assets/_raw/svglogo/aigc/IFlyTekCloud.svg"
+    },
+    {
+      "svglogo_id": "aigc_iflytekcloud_wordmark",
+      "source_file": "aigc/IFlyTekCloud_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/aigc/IFlyTekCloud_wordmark.svg"
+    },
+    {
+      "svglogo_id": "aigc_hyperbolic",
+      "source_file": "aigc/Hyperbolic.svg",
+      "output_file": "assets/_raw/svglogo/aigc/Hyperbolic.svg"
+    },
+    {
+      "svglogo_id": "aigc_hyperbolic_wordmark",
+      "source_file": "aigc/Hyperbolic_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/aigc/Hyperbolic_wordmark.svg"
+    },
+    {
+      "svglogo_id": "aigc_hunyuan",
+      "source_file": "aigc/Hunyuan.svg",
+      "output_file": "assets/_raw/svglogo/aigc/Hunyuan.svg"
+    },
+    {
+      "svglogo_id": "aigc_hunyuan_wordmark",
+      "source_file": "aigc/Hunyuan_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/aigc/Hunyuan_wordmark.svg"
+    },
+    {
+      "svglogo_id": "aigc_higress",
+      "source_file": "aigc/Higress.svg",
+      "output_file": "assets/_raw/svglogo/aigc/Higress.svg"
+    },
+    {
+      "svglogo_id": "aigc_higress_wordmark",
+      "source_file": "aigc/Higress_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/aigc/Higress_wordmark.svg"
+    },
+    {
+      "svglogo_id": "aigc_hedra",
+      "source_file": "aigc/Hedra.svg",
+      "output_file": "assets/_raw/svglogo/aigc/Hedra.svg"
+    },
+    {
+      "svglogo_id": "aigc_hedra_wordmark",
+      "source_file": "aigc/Hedra_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/aigc/Hedra_wordmark.svg"
+    },
+    {
+      "svglogo_id": "aigc_haiper",
+      "source_file": "aigc/Haiper.svg",
+      "output_file": "assets/_raw/svglogo/aigc/Haiper.svg"
+    },
+    {
+      "svglogo_id": "aigc_haiper_wordmark",
+      "source_file": "aigc/Haiper_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/aigc/Haiper_wordmark.svg"
+    },
+    {
+      "svglogo_id": "aigc_hailuo",
+      "source_file": "aigc/Hailuo.svg",
+      "output_file": "assets/_raw/svglogo/aigc/Hailuo.svg"
+    },
+    {
+      "svglogo_id": "aigc_hailuo_wordmark",
+      "source_file": "aigc/Hailuo_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/aigc/Hailuo_wordmark.svg"
+    },
+    {
+      "svglogo_id": "aigc_greptile",
+      "source_file": "aigc/Greptile.svg",
+      "output_file": "assets/_raw/svglogo/aigc/Greptile.svg"
+    },
+    {
+      "svglogo_id": "aigc_greptile_wordmark",
+      "source_file": "aigc/Greptile_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/aigc/Greptile_wordmark.svg"
+    },
+    {
+      "svglogo_id": "aigc_antling",
+      "source_file": "aigc/AntLing.svg",
+      "output_file": "assets/_raw/svglogo/aigc/AntLing.svg"
+    },
+    {
+      "svglogo_id": "aigc_antling_wordmark",
+      "source_file": "aigc/AntLing_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/aigc/AntLing_wordmark.svg"
+    },
+    {
+      "svglogo_id": "aigc_wenxin",
+      "source_file": "aigc/wenxin.svg",
+      "output_file": "assets/_raw/svglogo/aigc/wenxin.svg"
+    },
+    {
+      "svglogo_id": "aigc_qoder",
+      "source_file": "aigc/Qoder.svg",
+      "output_file": "assets/_raw/svglogo/aigc/Qoder.svg"
+    },
+    {
+      "svglogo_id": "aigc_qoder_wordmark",
+      "source_file": "aigc/Qoder_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/aigc/Qoder_wordmark.svg"
+    },
+    {
+      "svglogo_id": "aigc_qianwenai",
+      "source_file": "aigc/qianwenai.svg",
+      "output_file": "assets/_raw/svglogo/aigc/qianwenai.svg"
+    },
+    {
+      "svglogo_id": "aigc_qianwenai_wordmark",
+      "source_file": "aigc/qianwenai_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/aigc/qianwenai_wordmark.svg"
+    },
+    {
+      "svglogo_id": "airline_chinaunitedairlines",
+      "source_file": "airline/ChinaUnitedAirlines.svg",
+      "output_file": "assets/_raw/svglogo/airline/ChinaUnitedAirlines.svg"
+    },
+    {
+      "svglogo_id": "airline_okayairways",
+      "source_file": "airline/OkayAirways.svg",
+      "output_file": "assets/_raw/svglogo/airline/OkayAirways.svg"
+    },
+    {
+      "svglogo_id": "airline_loongair",
+      "source_file": "airline/LoongAir.svg",
+      "output_file": "assets/_raw/svglogo/airline/LoongAir.svg"
+    },
+    {
+      "svglogo_id": "airline_airchangan",
+      "source_file": "airline/AirChangan.svg",
+      "output_file": "assets/_raw/svglogo/airline/AirChangan.svg"
+    },
+    {
+      "svglogo_id": "airline_joyair",
+      "source_file": "airline/JoyAir.svg",
+      "output_file": "assets/_raw/svglogo/airline/JoyAir.svg"
+    },
+    {
+      "svglogo_id": "airline_hongkongairlines",
+      "source_file": "airline/HongKongAirlines.svg",
+      "output_file": "assets/_raw/svglogo/airline/HongKongAirlines.svg"
+    },
+    {
+      "svglogo_id": "airline_genghiskhanairlines",
+      "source_file": "airline/GenghisKhanAirlines.svg",
+      "output_file": "assets/_raw/svglogo/airline/GenghisKhanAirlines.svg"
+    },
+    {
+      "svglogo_id": "airline_ruiliairlines",
+      "source_file": "airline/RuiliAirlines.svg",
+      "output_file": "assets/_raw/svglogo/airline/RuiliAirlines.svg"
+    },
+    {
+      "svglogo_id": "airline_qingdaoairlines",
+      "source_file": "airline/QingdaoAirlines.svg",
+      "output_file": "assets/_raw/svglogo/airline/QingdaoAirlines.svg"
+    },
+    {
+      "svglogo_id": "airline_hebeiairlines",
+      "source_file": "airline/HebeiAirlines.svg",
+      "output_file": "assets/_raw/svglogo/airline/HebeiAirlines.svg"
+    },
+    {
+      "svglogo_id": "airline_chongqingairlines",
+      "source_file": "airline/ChongqingAirlines.svg",
+      "output_file": "assets/_raw/svglogo/airline/ChongqingAirlines.svg"
+    },
+    {
+      "svglogo_id": "airline_grandchinaair",
+      "source_file": "airline/GrandChinaAir.svg",
+      "output_file": "assets/_raw/svglogo/airline/GrandChinaAir.svg"
+    },
+    {
+      "svglogo_id": "airline_jiangxiair",
+      "source_file": "airline/JiangxiAir.svg",
+      "output_file": "assets/_raw/svglogo/airline/JiangxiAir.svg"
+    },
+    {
+      "svglogo_id": "airline_fuzhouairlines",
+      "source_file": "airline/FuzhouAirlines.svg",
+      "output_file": "assets/_raw/svglogo/airline/FuzhouAirlines.svg"
+    },
+    {
+      "svglogo_id": "airline_kunmingairlines",
+      "source_file": "airline/KunmingAirlines.svg",
+      "output_file": "assets/_raw/svglogo/airline/KunmingAirlines.svg"
+    },
+    {
+      "svglogo_id": "airline_chinapostalairlines_wordmark",
+      "source_file": "airline/ChinaPostalAirlines_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/airline/ChinaPostalAirlines_wordmark.svg"
+    },
+    {
+      "svglogo_id": "airline_chinaairlines_wordmark",
+      "source_file": "airline/ChinaAirlines_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/airline/ChinaAirlines_wordmark.svg"
+    },
+    {
+      "svglogo_id": "airline_chinasouthernairlines",
+      "source_file": "airline/ChinaSouthernAirlines.svg",
+      "output_file": "assets/_raw/svglogo/airline/ChinaSouthernAirlines.svg"
+    },
+    {
+      "svglogo_id": "airline_airchinacargo",
+      "source_file": "airline/AirChinaCargo.svg",
+      "output_file": "assets/_raw/svglogo/airline/AirChinaCargo.svg"
+    },
+    {
+      "svglogo_id": "airline_airchina",
+      "source_file": "airline/AirChina.svg",
+      "output_file": "assets/_raw/svglogo/airline/AirChina.svg"
+    },
+    {
+      "svglogo_id": "airline_chinaeasternairlines",
+      "source_file": "airline/ChinaEasternAirlines.svg",
+      "output_file": "assets/_raw/svglogo/airline/ChinaEasternAirlines.svg"
+    },
+    {
+      "svglogo_id": "airline_chengduairlines",
+      "source_file": "airline/CHENGDUAIRLINES.svg",
+      "output_file": "assets/_raw/svglogo/airline/CHENGDUAIRLINES.svg"
+    },
+    {
+      "svglogo_id": "airline_gxairlines",
+      "source_file": "airline/GXAirlines.svg",
+      "output_file": "assets/_raw/svglogo/airline/GXAirlines.svg"
+    },
+    {
+      "svglogo_id": "airline_airmacau",
+      "source_file": "airline/AirMacau.svg",
+      "output_file": "assets/_raw/svglogo/airline/AirMacau.svg"
+    },
+    {
+      "svglogo_id": "airline_evaairways",
+      "source_file": "airline/EVAAirways.svg",
+      "output_file": "assets/_raw/svglogo/airline/EVAAirways.svg"
+    },
+    {
+      "svglogo_id": "airline_starluxairlines",
+      "source_file": "airline/StarLuxAirlines.svg",
+      "output_file": "assets/_raw/svglogo/airline/StarLuxAirlines.svg"
+    },
+    {
+      "svglogo_id": "airline_luckyair",
+      "source_file": "airline/LuckyAir.svg",
+      "output_file": "assets/_raw/svglogo/airline/LuckyAir.svg"
+    },
+    {
+      "svglogo_id": "airline_hkexpress",
+      "source_file": "airline/HKExpress.svg",
+      "output_file": "assets/_raw/svglogo/airline/HKExpress.svg"
+    },
+    {
+      "svglogo_id": "airline_tibetairlines",
+      "source_file": "airline/TibetAirlines.svg",
+      "output_file": "assets/_raw/svglogo/airline/TibetAirlines.svg"
+    },
+    {
+      "svglogo_id": "airline_tibetairlines_wordmark",
+      "source_file": "airline/TibetAirlines_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/airline/TibetAirlines_wordmark.svg"
+    },
+    {
+      "svglogo_id": "airline_westair",
+      "source_file": "airline/WestAir.svg",
+      "output_file": "assets/_raw/svglogo/airline/WestAir.svg"
+    },
+    {
+      "svglogo_id": "airline_urumqiair",
+      "source_file": "airline/UrumqiAir.svg",
+      "output_file": "assets/_raw/svglogo/airline/UrumqiAir.svg"
+    },
+    {
+      "svglogo_id": "airline_tianjinairlines",
+      "source_file": "airline/TianjinAirlines.svg",
+      "output_file": "assets/_raw/svglogo/airline/TianjinAirlines.svg"
+    },
+    {
+      "svglogo_id": "airline_tianjinairlines_wordmark",
+      "source_file": "airline/TianjinAirlines_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/airline/TianjinAirlines_wordmark.svg"
+    },
+    {
+      "svglogo_id": "airline_tigerairtaiwan",
+      "source_file": "airline/TigerairTaiwan.svg",
+      "output_file": "assets/_raw/svglogo/airline/TigerairTaiwan.svg"
+    },
+    {
+      "svglogo_id": "airline_sichuanairlines",
+      "source_file": "airline/SichuanAirlines.svg",
+      "output_file": "assets/_raw/svglogo/airline/SichuanAirlines.svg"
+    },
+    {
+      "svglogo_id": "airline_sfairlines",
+      "source_file": "airline/SFAirlines.svg",
+      "output_file": "assets/_raw/svglogo/airline/SFAirlines.svg"
+    },
+    {
+      "svglogo_id": "airline_capitalairlines",
+      "source_file": "airline/CapitalAirlines.svg",
+      "output_file": "assets/_raw/svglogo/airline/CapitalAirlines.svg"
+    },
+    {
+      "svglogo_id": "airline_capitalairlines_wordmark",
+      "source_file": "airline/CapitalAirlines_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/airline/CapitalAirlines_wordmark.svg"
+    },
+    {
+      "svglogo_id": "airline_shenzhenairlines",
+      "source_file": "airline/ShenzhenAirlines.svg",
+      "output_file": "assets/_raw/svglogo/airline/ShenzhenAirlines.svg"
+    },
+    {
+      "svglogo_id": "airline_shanghaiairlines",
+      "source_file": "airline/ShanghaiAirlines.svg",
+      "output_file": "assets/_raw/svglogo/airline/ShanghaiAirlines.svg"
+    },
+    {
+      "svglogo_id": "airline_shandongairlines",
+      "source_file": "airline/ShandongAirlines.svg",
+      "output_file": "assets/_raw/svglogo/airline/ShandongAirlines.svg"
+    },
+    {
+      "svglogo_id": "airline_xiamenair",
+      "source_file": "airline/XiamenAir.svg",
+      "output_file": "assets/_raw/svglogo/airline/XiamenAir.svg"
+    },
+    {
+      "svglogo_id": "airline_xiamenair_wordmark",
+      "source_file": "airline/XiamenAir_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/airline/XiamenAir_wordmark.svg"
+    },
+    {
+      "svglogo_id": "airline_ljair",
+      "source_file": "airline/LJAir.svg",
+      "output_file": "assets/_raw/svglogo/airline/LJAir.svg"
+    },
+    {
+      "svglogo_id": "airline_uniair",
+      "source_file": "airline/UNIAir.svg",
+      "output_file": "assets/_raw/svglogo/airline/UNIAir.svg"
+    },
+    {
+      "svglogo_id": "airline_9air",
+      "source_file": "airline/9Air.svg",
+      "output_file": "assets/_raw/svglogo/airline/9Air.svg"
+    },
+    {
+      "svglogo_id": "airline_9air_wordmark",
+      "source_file": "airline/9Air_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/airline/9Air_wordmark.svg"
+    },
+    {
+      "svglogo_id": "airline_suparnaairlines",
+      "source_file": "airline/SuparnaAirlines.svg",
+      "output_file": "assets/_raw/svglogo/airline/SuparnaAirlines.svg"
+    },
+    {
+      "svglogo_id": "airline_juneyaoair",
+      "source_file": "airline/JuneyaoAir.svg",
+      "output_file": "assets/_raw/svglogo/airline/JuneyaoAir.svg"
+    },
+    {
+      "svglogo_id": "airline_mandarinairlines",
+      "source_file": "airline/MandarinAirlines.svg",
+      "output_file": "assets/_raw/svglogo/airline/MandarinAirlines.svg"
+    },
+    {
+      "svglogo_id": "airline_chinaexpress",
+      "source_file": "airline/ChinaExpress.svg",
+      "output_file": "assets/_raw/svglogo/airline/ChinaExpress.svg"
+    },
+    {
+      "svglogo_id": "airline_airtravel",
+      "source_file": "airline/AirTravel.svg",
+      "output_file": "assets/_raw/svglogo/airline/AirTravel.svg"
+    },
+    {
+      "svglogo_id": "airline_hainanairlines",
+      "source_file": "airline/HainanAirlines.svg",
+      "output_file": "assets/_raw/svglogo/airline/HainanAirlines.svg"
+    },
+    {
+      "svglogo_id": "airline_hainanairlines_wordmark",
+      "source_file": "airline/HainanAirlines_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/airline/HainanAirlines_wordmark.svg"
+    },
+    {
+      "svglogo_id": "airline_cathaypacific",
+      "source_file": "airline/CathayPacific.svg",
+      "output_file": "assets/_raw/svglogo/airline/CathayPacific.svg"
+    },
+    {
+      "svglogo_id": "airline_cathaypacific_wordmark",
+      "source_file": "airline/CathayPacific_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/airline/CathayPacific_wordmark.svg"
+    },
+    {
+      "svglogo_id": "airline_airguilin",
+      "source_file": "airline/AirGuilin.svg",
+      "output_file": "assets/_raw/svglogo/airline/AirGuilin.svg"
+    },
+    {
+      "svglogo_id": "airline_colorfulguizhouairlines",
+      "source_file": "airline/ColorfulGuizhouAirlines.svg",
+      "output_file": "assets/_raw/svglogo/airline/ColorfulGuizhouAirlines.svg"
+    },
+    {
+      "svglogo_id": "airline_donghaiairlines",
+      "source_file": "airline/DonghaiAirlines.svg",
+      "output_file": "assets/_raw/svglogo/airline/DonghaiAirlines.svg"
+    },
+    {
+      "svglogo_id": "airline_greaterbayairlines",
+      "source_file": "airline/GreaterBayAirlines.svg",
+      "output_file": "assets/_raw/svglogo/airline/GreaterBayAirlines.svg"
+    },
+    {
+      "svglogo_id": "airline_dalianairlines",
+      "source_file": "airline/DalianAirlines.svg",
+      "output_file": "assets/_raw/svglogo/airline/DalianAirlines.svg"
+    },
+    {
+      "svglogo_id": "airline_springairlines",
+      "source_file": "airline/SpringAirlines.svg",
+      "output_file": "assets/_raw/svglogo/airline/SpringAirlines.svg"
+    },
+    {
+      "svglogo_id": "automotive_avatr",
+      "source_file": "automotive/avatr.svg",
+      "output_file": "assets/_raw/svglogo/automotive/avatr.svg"
+    },
+    {
+      "svglogo_id": "automotive_byd",
+      "source_file": "automotive/byd.svg",
+      "output_file": "assets/_raw/svglogo/automotive/byd.svg"
+    },
+    {
+      "svglogo_id": "automotive_chanan",
+      "source_file": "automotive/chanan.svg",
+      "output_file": "assets/_raw/svglogo/automotive/chanan.svg"
+    },
+    {
+      "svglogo_id": "automotive_chery",
+      "source_file": "automotive/chery.svg",
+      "output_file": "assets/_raw/svglogo/automotive/chery.svg"
+    },
+    {
+      "svglogo_id": "automotive_saicmotor",
+      "source_file": "automotive/saicMotor.svg",
+      "output_file": "assets/_raw/svglogo/automotive/saicMotor.svg"
+    },
+    {
+      "svglogo_id": "automotive_xpeng",
+      "source_file": "automotive/xpeng.svg",
+      "output_file": "assets/_raw/svglogo/automotive/xpeng.svg"
+    },
+    {
+      "svglogo_id": "automotive_zeekr",
+      "source_file": "automotive/zeekr.svg",
+      "output_file": "assets/_raw/svglogo/automotive/zeekr.svg"
+    },
+    {
+      "svglogo_id": "automotive_firefly",
+      "source_file": "automotive/Firefly.svg",
+      "output_file": "assets/_raw/svglogo/automotive/Firefly.svg"
+    },
+    {
+      "svglogo_id": "automotive_nio",
+      "source_file": "automotive/Nio.svg",
+      "output_file": "assets/_raw/svglogo/automotive/Nio.svg"
+    },
+    {
+      "svglogo_id": "automotive_arcfox",
+      "source_file": "automotive/arcfox.svg",
+      "output_file": "assets/_raw/svglogo/automotive/arcfox.svg"
+    },
+    {
+      "svglogo_id": "company_kamyangtechnology",
+      "source_file": "company/KamyangTechnology.svg",
+      "output_file": "assets/_raw/svglogo/company/KamyangTechnology.svg"
+    },
+    {
+      "svglogo_id": "company_kamyangtechnology_wordmark",
+      "source_file": "company/KamyangTechnology_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/company/KamyangTechnology_wordmark.svg"
+    },
+    {
+      "svglogo_id": "company_szprd",
+      "source_file": "company/SZPRD.svg",
+      "output_file": "assets/_raw/svglogo/company/SZPRD.svg"
+    },
+    {
+      "svglogo_id": "company_szprd_wordmark",
+      "source_file": "company/SZPRD_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/company/SZPRD_wordmark.svg"
+    },
+    {
+      "svglogo_id": "company_xiaomi",
+      "source_file": "company/xiaomi.svg",
+      "output_file": "assets/_raw/svglogo/company/xiaomi.svg"
+    },
+    {
+      "svglogo_id": "company_sinopec",
+      "source_file": "company/Sinopec.svg",
+      "output_file": "assets/_raw/svglogo/company/Sinopec.svg"
+    },
+    {
+      "svglogo_id": "company_wuliangye",
+      "source_file": "company/Wuliangye.svg",
+      "output_file": "assets/_raw/svglogo/company/Wuliangye.svg"
+    },
+    {
+      "svglogo_id": "company_wuliangye_wordmark",
+      "source_file": "company/Wuliangye_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/company/Wuliangye_wordmark.svg"
+    },
+    {
+      "svglogo_id": "company_inspur",
+      "source_file": "company/inspur.svg",
+      "output_file": "assets/_raw/svglogo/company/inspur.svg"
+    },
+    {
+      "svglogo_id": "company_bytedance",
+      "source_file": "company/bytedance.svg",
+      "output_file": "assets/_raw/svglogo/company/bytedance.svg"
+    },
+    {
+      "svglogo_id": "company_bytedance_wordmark",
+      "source_file": "company/bytedance_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/company/bytedance_wordmark.svg"
+    },
+    {
+      "svglogo_id": "company_tencent",
+      "source_file": "company/Tencent.svg",
+      "output_file": "assets/_raw/svglogo/company/Tencent.svg"
+    },
+    {
+      "svglogo_id": "company_chinamobile",
+      "source_file": "company/chinaMobile.svg",
+      "output_file": "assets/_raw/svglogo/company/chinaMobile.svg"
+    },
+    {
+      "svglogo_id": "company_chinamobile_wordmark",
+      "source_file": "company/chinaMobile_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/company/chinaMobile_wordmark.svg"
+    },
+    {
+      "svglogo_id": "company_chinalife",
+      "source_file": "company/chinaLife.svg",
+      "output_file": "assets/_raw/svglogo/company/chinaLife.svg"
+    },
+    {
+      "svglogo_id": "company_chinalife_wordmark",
+      "source_file": "company/chinaLife_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/company/chinaLife_wordmark.svg"
+    },
+    {
+      "svglogo_id": "company_stategrid",
+      "source_file": "company/stateGrid.svg",
+      "output_file": "assets/_raw/svglogo/company/stateGrid.svg"
+    },
+    {
+      "svglogo_id": "company_stategrid_wordmark",
+      "source_file": "company/stateGrid_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/company/stateGrid_wordmark.svg"
+    },
+    {
+      "svglogo_id": "company_naixuedecha",
+      "source_file": "company/NaiXueDeCha.svg",
+      "output_file": "assets/_raw/svglogo/company/NaiXueDeCha.svg"
+    },
+    {
+      "svglogo_id": "company_chinatelecom",
+      "source_file": "company/chinatelecom.svg",
+      "output_file": "assets/_raw/svglogo/company/chinatelecom.svg"
+    },
+    {
+      "svglogo_id": "company_chinaunicom",
+      "source_file": "company/chinaunicom.svg",
+      "output_file": "assets/_raw/svglogo/company/chinaunicom.svg"
+    },
+    {
+      "svglogo_id": "company_zengzhangchaoren",
+      "source_file": "company/zengzhangchaoren.svg",
+      "output_file": "assets/_raw/svglogo/company/zengzhangchaoren.svg"
+    },
+    {
+      "svglogo_id": "company_zengzhangchaoren_wordmark",
+      "source_file": "company/zengzhangchaoren_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/company/zengzhangchaoren_wordmark.svg"
+    },
+    {
+      "svglogo_id": "company_fankehudong",
+      "source_file": "company/fankehudong.svg",
+      "output_file": "assets/_raw/svglogo/company/fankehudong.svg"
+    },
+    {
+      "svglogo_id": "company_fankehudong_wordmark",
+      "source_file": "company/fankehudong_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/company/fankehudong_wordmark.svg"
+    },
+    {
+      "svglogo_id": "company_huawei",
+      "source_file": "company/huawei.svg",
+      "output_file": "assets/_raw/svglogo/company/huawei.svg"
+    },
+    {
+      "svglogo_id": "company_huawei_wordmark",
+      "source_file": "company/huawei_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/company/huawei_wordmark.svg"
+    },
+    {
+      "svglogo_id": "company_antgroup",
+      "source_file": "company/AntGroup.svg",
+      "output_file": "assets/_raw/svglogo/company/AntGroup.svg"
+    },
+    {
+      "svglogo_id": "company_antgroup_wordmark",
+      "source_file": "company/AntGroup_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/company/AntGroup_wordmark.svg"
+    },
+    {
+      "svglogo_id": "company_antfoundation",
+      "source_file": "company/AntFoundation.svg",
+      "output_file": "assets/_raw/svglogo/company/AntFoundation.svg"
+    },
+    {
+      "svglogo_id": "company_antfoundation_wordmark",
+      "source_file": "company/AntFoundation_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/company/AntFoundation_wordmark.svg"
+    },
+    {
+      "svglogo_id": "company_jdt",
+      "source_file": "company/JDT.svg",
+      "output_file": "assets/_raw/svglogo/company/JDT.svg"
+    },
+    {
+      "svglogo_id": "company_jdt_wordmark",
+      "source_file": "company/JDT_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/company/JDT_wordmark.svg"
+    },
+    {
+      "svglogo_id": "company_api",
+      "source_file": "company/API.svg",
+      "output_file": "assets/_raw/svglogo/company/API.svg"
+    },
+    {
+      "svglogo_id": "company_api_wordmark",
+      "source_file": "company/API_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/company/API_wordmark.svg"
+    },
+    {
+      "svglogo_id": "company_yndm",
+      "source_file": "company/yndm.svg",
+      "output_file": "assets/_raw/svglogo/company/yndm.svg"
+    },
+    {
+      "svglogo_id": "company_huazai",
+      "source_file": "company/huazai.svg",
+      "output_file": "assets/_raw/svglogo/company/huazai.svg"
+    },
+    {
+      "svglogo_id": "company_aixushare",
+      "source_file": "company/AixuShare.svg",
+      "output_file": "assets/_raw/svglogo/company/AixuShare.svg"
+    },
+    {
+      "svglogo_id": "company_beifanghuachuang",
+      "source_file": "company/BeifangHuachuang.svg",
+      "output_file": "assets/_raw/svglogo/company/BeifangHuachuang.svg"
+    },
+    {
+      "svglogo_id": "company_byhealth",
+      "source_file": "company/Byhealth.svg",
+      "output_file": "assets/_raw/svglogo/company/Byhealth.svg"
+    },
+    {
+      "svglogo_id": "company_csg",
+      "source_file": "company/CSG.svg",
+      "output_file": "assets/_raw/svglogo/company/CSG.svg"
+    },
+    {
+      "svglogo_id": "company_chenminggroup",
+      "source_file": "company/ChenmingGroup.svg",
+      "output_file": "assets/_raw/svglogo/company/ChenmingGroup.svg"
+    },
+    {
+      "svglogo_id": "company_chinamerchantsport",
+      "source_file": "company/ChinaMerchantsPort.svg",
+      "output_file": "assets/_raw/svglogo/company/ChinaMerchantsPort.svg"
+    },
+    {
+      "svglogo_id": "company_chinarailway",
+      "source_file": "company/ChinaRailway.svg",
+      "output_file": "assets/_raw/svglogo/company/ChinaRailway.svg"
+    },
+    {
+      "svglogo_id": "company_chintaneng",
+      "source_file": "company/ChintAneng.svg",
+      "output_file": "assets/_raw/svglogo/company/ChintAneng.svg"
+    },
+    {
+      "svglogo_id": "company_chintgroup",
+      "source_file": "company/ChintGroup.svg",
+      "output_file": "assets/_raw/svglogo/company/ChintGroup.svg"
+    },
+    {
+      "svglogo_id": "company_chintnewenergy",
+      "source_file": "company/ChintNewEnergy.svg",
+      "output_file": "assets/_raw/svglogo/company/ChintNewEnergy.svg"
+    },
+    {
+      "svglogo_id": "company_dji",
+      "source_file": "company/DJI.svg",
+      "output_file": "assets/_raw/svglogo/company/DJI.svg"
+    },
+    {
+      "svglogo_id": "company_foxconn",
+      "source_file": "company/Foxconn.svg",
+      "output_file": "assets/_raw/svglogo/company/Foxconn.svg"
+    },
+    {
+      "svglogo_id": "company_goldwindtechnology",
+      "source_file": "company/GoldwindTechnology.svg",
+      "output_file": "assets/_raw/svglogo/company/GoldwindTechnology.svg"
+    },
+    {
+      "svglogo_id": "company_haier",
+      "source_file": "company/Haier.svg",
+      "output_file": "assets/_raw/svglogo/company/Haier.svg"
+    },
+    {
+      "svglogo_id": "company_haiersmarthome",
+      "source_file": "company/HaierSmartHome.svg",
+      "output_file": "assets/_raw/svglogo/company/HaierSmartHome.svg"
+    },
+    {
+      "svglogo_id": "company_hailianggroup",
+      "source_file": "company/HailiangGroup.svg",
+      "output_file": "assets/_raw/svglogo/company/HailiangGroup.svg"
+    },
+    {
+      "svglogo_id": "company_hangshigroup",
+      "source_file": "company/HangshiGroup.svg",
+      "output_file": "assets/_raw/svglogo/company/HangshiGroup.svg"
+    },
+    {
+      "svglogo_id": "company_hikvision",
+      "source_file": "company/Hikvision.svg",
+      "output_file": "assets/_raw/svglogo/company/Hikvision.svg"
+    },
+    {
+      "svglogo_id": "company_huadongmedicine",
+      "source_file": "company/HuadongMedicine.svg",
+      "output_file": "assets/_raw/svglogo/company/HuadongMedicine.svg"
+    },
+    {
+      "svglogo_id": "company_huanansurvey",
+      "source_file": "company/HuananSurvey.svg",
+      "output_file": "assets/_raw/svglogo/company/HuananSurvey.svg"
+    },
+    {
+      "svglogo_id": "company_huarunpower",
+      "source_file": "company/HuarunPower.svg",
+      "output_file": "assets/_raw/svglogo/company/HuarunPower.svg"
+    },
+    {
+      "svglogo_id": "company_jiepaitransmission",
+      "source_file": "company/JiepaiTransmission.svg",
+      "output_file": "assets/_raw/svglogo/company/JiepaiTransmission.svg"
+    },
+    {
+      "svglogo_id": "company_jingbogroup",
+      "source_file": "company/JingboGroup.svg",
+      "output_file": "assets/_raw/svglogo/company/JingboGroup.svg"
+    },
+    {
+      "svglogo_id": "company_jiyanxinyang",
+      "source_file": "company/JiyanXinyang.svg",
+      "output_file": "assets/_raw/svglogo/company/JiyanXinyang.svg"
+    },
+    {
+      "svglogo_id": "company_jushishare",
+      "source_file": "company/JushiShare.svg",
+      "output_file": "assets/_raw/svglogo/company/JushiShare.svg"
+    },
+    {
+      "svglogo_id": "company_keyuansmart",
+      "source_file": "company/KeyuanSmart.svg",
+      "output_file": "assets/_raw/svglogo/company/KeyuanSmart.svg"
+    },
+    {
+      "svglogo_id": "company_kingdee",
+      "source_file": "company/Kingdee.svg",
+      "output_file": "assets/_raw/svglogo/company/Kingdee.svg"
+    },
+    {
+      "svglogo_id": "company_liugong",
+      "source_file": "company/Liugong.svg",
+      "output_file": "assets/_raw/svglogo/company/Liugong.svg"
+    },
+    {
+      "svglogo_id": "company_maxwellshare",
+      "source_file": "company/MaxwellShare.svg",
+      "output_file": "assets/_raw/svglogo/company/MaxwellShare.svg"
+    },
+    {
+      "svglogo_id": "company_midea",
+      "source_file": "company/Midea.svg",
+      "output_file": "assets/_raw/svglogo/company/Midea.svg"
+    },
+    {
+      "svglogo_id": "company_mingpuguangci",
+      "source_file": "company/MingpuGuangci.svg",
+      "output_file": "assets/_raw/svglogo/company/MingpuGuangci.svg"
+    },
+    {
+      "svglogo_id": "company_ninedragonspaper",
+      "source_file": "company/NineDragonsPaper.svg",
+      "output_file": "assets/_raw/svglogo/company/NineDragonsPaper.svg"
+    },
+    {
+      "svglogo_id": "company_omron",
+      "source_file": "company/Omron.svg",
+      "output_file": "assets/_raw/svglogo/company/Omron.svg"
+    },
+    {
+      "svglogo_id": "company_pinganhealth",
+      "source_file": "company/PinganHealth.svg",
+      "output_file": "assets/_raw/svglogo/company/PinganHealth.svg"
+    },
+    {
+      "svglogo_id": "company_qianchenggroup",
+      "source_file": "company/QianchengGroup.svg",
+      "output_file": "assets/_raw/svglogo/company/QianchengGroup.svg"
+    },
+    {
+      "svglogo_id": "company_ronbaytechnology",
+      "source_file": "company/RonbayTechnology.svg",
+      "output_file": "assets/_raw/svglogo/company/RonbayTechnology.svg"
+    },
+    {
+      "svglogo_id": "company_saiyi",
+      "source_file": "company/Saiyi.svg",
+      "output_file": "assets/_raw/svglogo/company/Saiyi.svg"
+    },
+    {
+      "svglogo_id": "company_sunshinepower",
+      "source_file": "company/SunshinePower.svg",
+      "output_file": "assets/_raw/svglogo/company/SunshinePower.svg"
+    },
+    {
+      "svglogo_id": "company_terumo",
+      "source_file": "company/Terumo.svg",
+      "output_file": "assets/_raw/svglogo/company/Terumo.svg"
+    },
+    {
+      "svglogo_id": "company_trinasolar",
+      "source_file": "company/TrinaSolar.svg",
+      "output_file": "assets/_raw/svglogo/company/TrinaSolar.svg"
+    },
+    {
+      "svglogo_id": "company_weichai",
+      "source_file": "company/Weichai.svg",
+      "output_file": "assets/_raw/svglogo/company/Weichai.svg"
+    },
+    {
+      "svglogo_id": "company_willsemiconductor",
+      "source_file": "company/WillSemiconductor.svg",
+      "output_file": "assets/_raw/svglogo/company/WillSemiconductor.svg"
+    },
+    {
+      "svglogo_id": "company_wuchanzhongda",
+      "source_file": "company/WuchanZhongda.svg",
+      "output_file": "assets/_raw/svglogo/company/WuchanZhongda.svg"
+    },
+    {
+      "svglogo_id": "company_xinanchemical",
+      "source_file": "company/XinanChemical.svg",
+      "output_file": "assets/_raw/svglogo/company/XinanChemical.svg"
+    },
+    {
+      "svglogo_id": "company_yanhuangyingdong",
+      "source_file": "company/YanhuangYingdong.svg",
+      "output_file": "assets/_raw/svglogo/company/YanhuangYingdong.svg"
+    },
+    {
+      "svglogo_id": "company_yanmar",
+      "source_file": "company/Yanmar.svg",
+      "output_file": "assets/_raw/svglogo/company/Yanmar.svg"
+    },
+    {
+      "svglogo_id": "company_yunnanbaiyao",
+      "source_file": "company/YunnanBaiyao.svg",
+      "output_file": "assets/_raw/svglogo/company/YunnanBaiyao.svg"
+    },
+    {
+      "svglogo_id": "company_zhendemedical",
+      "source_file": "company/ZhendeMedical.svg",
+      "output_file": "assets/_raw/svglogo/company/ZhendeMedical.svg"
+    },
+    {
+      "svglogo_id": "company_zhenghaoecoflow",
+      "source_file": "company/ZhenghaoEcoFlow.svg",
+      "output_file": "assets/_raw/svglogo/company/ZhenghaoEcoFlow.svg"
+    },
+    {
+      "svglogo_id": "company_wanda",
+      "source_file": "company/wanda.svg",
+      "output_file": "assets/_raw/svglogo/company/wanda.svg"
+    },
+    {
+      "svglogo_id": "company_insta360",
+      "source_file": "company/insta360.svg",
+      "output_file": "assets/_raw/svglogo/company/insta360.svg"
+    },
+    {
+      "svglogo_id": "consumerbrands_sanfu",
+      "source_file": "consumerBrands/sanfu.svg",
+      "output_file": "assets/_raw/svglogo/consumerBrands/sanfu.svg"
+    },
+    {
+      "svglogo_id": "consumerbrands_sanfu_wordmark",
+      "source_file": "consumerBrands/sanfu_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/consumerBrands/sanfu_wordmark.svg"
+    },
+    {
+      "svglogo_id": "consumerbrands_bigpizza",
+      "source_file": "consumerBrands/Bigpizza.svg",
+      "output_file": "assets/_raw/svglogo/consumerBrands/Bigpizza.svg"
+    },
+    {
+      "svglogo_id": "consumerbrands_bigpizza_wordmark",
+      "source_file": "consumerBrands/Bigpizza_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/consumerBrands/Bigpizza_wordmark.svg"
+    },
+    {
+      "svglogo_id": "consumerbrands_wandacinema",
+      "source_file": "consumerBrands/wandaCinema.svg",
+      "output_file": "assets/_raw/svglogo/consumerBrands/wandaCinema.svg"
+    },
+    {
+      "svglogo_id": "consumerbrands_wandacinema_wordmark",
+      "source_file": "consumerBrands/wandaCinema_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/consumerBrands/wandaCinema_wordmark.svg"
+    },
+    {
+      "svglogo_id": "consumerbrands_dl",
+      "source_file": "consumerBrands/dl.svg",
+      "output_file": "assets/_raw/svglogo/consumerBrands/dl.svg"
+    },
+    {
+      "svglogo_id": "consumerbrands_hema",
+      "source_file": "consumerBrands/hema.svg",
+      "output_file": "assets/_raw/svglogo/consumerBrands/hema.svg"
+    },
+    {
+      "svglogo_id": "cosmetic_armanicaizhuang",
+      "source_file": "cosmetic/ArmaniCaiZhuang.svg",
+      "output_file": "assets/_raw/svglogo/cosmetic/ArmaniCaiZhuang.svg"
+    },
+    {
+      "svglogo_id": "cosmetic_aupres",
+      "source_file": "cosmetic/aupres.svg",
+      "output_file": "assets/_raw/svglogo/cosmetic/aupres.svg"
+    },
+    {
+      "svglogo_id": "cosmetic_avene",
+      "source_file": "cosmetic/avene.svg",
+      "output_file": "assets/_raw/svglogo/cosmetic/avene.svg"
+    },
+    {
+      "svglogo_id": "cosmetic_biotherm",
+      "source_file": "cosmetic/biotherm.svg",
+      "output_file": "assets/_raw/svglogo/cosmetic/biotherm.svg"
+    },
+    {
+      "svglogo_id": "cosmetic_bobbibrown",
+      "source_file": "cosmetic/bobbibrown.svg",
+      "output_file": "assets/_raw/svglogo/cosmetic/bobbibrown.svg"
+    },
+    {
+      "svglogo_id": "cosmetic_chanel",
+      "source_file": "cosmetic/chanel.svg",
+      "output_file": "assets/_raw/svglogo/cosmetic/chanel.svg"
+    },
+    {
+      "svglogo_id": "cosmetic_clarins",
+      "source_file": "cosmetic/Clarins.svg",
+      "output_file": "assets/_raw/svglogo/cosmetic/Clarins.svg"
+    },
+    {
+      "svglogo_id": "cosmetic_cledepeau",
+      "source_file": "cosmetic/cledepeau.svg",
+      "output_file": "assets/_raw/svglogo/cosmetic/cledepeau.svg"
+    },
+    {
+      "svglogo_id": "cosmetic_cledepeau_wordmark",
+      "source_file": "cosmetic/cledepeau_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/cosmetic/cledepeau_wordmark.svg"
+    },
+    {
+      "svglogo_id": "cosmetic_dior",
+      "source_file": "cosmetic/dior.svg",
+      "output_file": "assets/_raw/svglogo/cosmetic/dior.svg"
+    },
+    {
+      "svglogo_id": "cosmetic_esteelauder",
+      "source_file": "cosmetic/esteelauder.svg",
+      "output_file": "assets/_raw/svglogo/cosmetic/esteelauder.svg"
+    },
+    {
+      "svglogo_id": "cosmetic_fanwenhua",
+      "source_file": "cosmetic/fanwenhua.svg",
+      "output_file": "assets/_raw/svglogo/cosmetic/fanwenhua.svg"
+    },
+    {
+      "svglogo_id": "cosmetic_givenchy",
+      "source_file": "cosmetic/givenchy.svg",
+      "output_file": "assets/_raw/svglogo/cosmetic/givenchy.svg"
+    },
+    {
+      "svglogo_id": "cosmetic_givenchy_wordmark",
+      "source_file": "cosmetic/givenchy_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/cosmetic/givenchy_wordmark.svg"
+    },
+    {
+      "svglogo_id": "cosmetic_guerlain",
+      "source_file": "cosmetic/guerlain.svg",
+      "output_file": "assets/_raw/svglogo/cosmetic/guerlain.svg"
+    },
+    {
+      "svglogo_id": "cosmetic_helenarubinstein",
+      "source_file": "cosmetic/HelenaRubinstein.svg",
+      "output_file": "assets/_raw/svglogo/cosmetic/HelenaRubinstein.svg"
+    },
+    {
+      "svglogo_id": "cosmetic_innisfree",
+      "source_file": "cosmetic/Innisfree.svg",
+      "output_file": "assets/_raw/svglogo/cosmetic/Innisfree.svg"
+    },
+    {
+      "svglogo_id": "cosmetic_ipsa",
+      "source_file": "cosmetic/ipsa.svg",
+      "output_file": "assets/_raw/svglogo/cosmetic/ipsa.svg"
+    },
+    {
+      "svglogo_id": "cosmetic_jurlique",
+      "source_file": "cosmetic/Jurlique.svg",
+      "output_file": "assets/_raw/svglogo/cosmetic/Jurlique.svg"
+    },
+    {
+      "svglogo_id": "cosmetic_kiehls",
+      "source_file": "cosmetic/kiehls.svg",
+      "output_file": "assets/_raw/svglogo/cosmetic/kiehls.svg"
+    },
+    {
+      "svglogo_id": "cosmetic_loccitane",
+      "source_file": "cosmetic/loccitane.svg",
+      "output_file": "assets/_raw/svglogo/cosmetic/loccitane.svg"
+    },
+    {
+      "svglogo_id": "cosmetic_loreal",
+      "source_file": "cosmetic/loreal.svg",
+      "output_file": "assets/_raw/svglogo/cosmetic/loreal.svg"
+    },
+    {
+      "svglogo_id": "cosmetic_lamer",
+      "source_file": "cosmetic/lamer.svg",
+      "output_file": "assets/_raw/svglogo/cosmetic/lamer.svg"
+    },
+    {
+      "svglogo_id": "cosmetic_lancome",
+      "source_file": "cosmetic/lancome.svg",
+      "output_file": "assets/_raw/svglogo/cosmetic/lancome.svg"
+    },
+    {
+      "svglogo_id": "cosmetic_laneige",
+      "source_file": "cosmetic/laneige.svg",
+      "output_file": "assets/_raw/svglogo/cosmetic/laneige.svg"
+    },
+    {
+      "svglogo_id": "cosmetic_mac",
+      "source_file": "cosmetic/mac.svg",
+      "output_file": "assets/_raw/svglogo/cosmetic/mac.svg"
+    },
+    {
+      "svglogo_id": "cosmetic_makeupforever",
+      "source_file": "cosmetic/makeupforever.svg",
+      "output_file": "assets/_raw/svglogo/cosmetic/makeupforever.svg"
+    },
+    {
+      "svglogo_id": "cosmetic_mamonde",
+      "source_file": "cosmetic/mamonde.svg",
+      "output_file": "assets/_raw/svglogo/cosmetic/mamonde.svg"
+    },
+    {
+      "svglogo_id": "cosmetic_maogeping",
+      "source_file": "cosmetic/maogeping.svg",
+      "output_file": "assets/_raw/svglogo/cosmetic/maogeping.svg"
+    },
+    {
+      "svglogo_id": "cosmetic_marubi",
+      "source_file": "cosmetic/marubi.svg",
+      "output_file": "assets/_raw/svglogo/cosmetic/marubi.svg"
+    },
+    {
+      "svglogo_id": "cosmetic_olay",
+      "source_file": "cosmetic/olay.svg",
+      "output_file": "assets/_raw/svglogo/cosmetic/olay.svg"
+    },
+    {
+      "svglogo_id": "cosmetic_origns",
+      "source_file": "cosmetic/origns.svg",
+      "output_file": "assets/_raw/svglogo/cosmetic/origns.svg"
+    },
+    {
+      "svglogo_id": "cosmetic_proya",
+      "source_file": "cosmetic/proya.svg",
+      "output_file": "assets/_raw/svglogo/cosmetic/proya.svg"
+    },
+    {
+      "svglogo_id": "cosmetic_shiseido",
+      "source_file": "cosmetic/shiseido.svg",
+      "output_file": "assets/_raw/svglogo/cosmetic/shiseido.svg"
+    },
+    {
+      "svglogo_id": "cosmetic_shuuemura",
+      "source_file": "cosmetic/ShuUemura.svg",
+      "output_file": "assets/_raw/svglogo/cosmetic/ShuUemura.svg"
+    },
+    {
+      "svglogo_id": "cosmetic_shuuemura_2",
+      "source_file": "cosmetic/ShuUemura.svg",
+      "output_file": "assets/_raw/svglogo/cosmetic/ShuUemura.svg"
+    },
+    {
+      "svglogo_id": "cosmetic_sisley",
+      "source_file": "cosmetic/Sisley.svg",
+      "output_file": "assets/_raw/svglogo/cosmetic/Sisley.svg"
+    },
+    {
+      "svglogo_id": "cosmetic_skii",
+      "source_file": "cosmetic/skii.svg",
+      "output_file": "assets/_raw/svglogo/cosmetic/skii.svg"
+    },
+    {
+      "svglogo_id": "cosmetic_sulwhasoo",
+      "source_file": "cosmetic/sulwhasoo.svg",
+      "output_file": "assets/_raw/svglogo/cosmetic/sulwhasoo.svg"
+    },
+    {
+      "svglogo_id": "cosmetic_tomford",
+      "source_file": "cosmetic/tomford.svg",
+      "output_file": "assets/_raw/svglogo/cosmetic/tomford.svg"
+    },
+    {
+      "svglogo_id": "cosmetic_whoo",
+      "source_file": "cosmetic/whoo.svg",
+      "output_file": "assets/_raw/svglogo/cosmetic/whoo.svg"
+    },
+    {
+      "svglogo_id": "cosmetic_ysl",
+      "source_file": "cosmetic/ysl.svg",
+      "output_file": "assets/_raw/svglogo/cosmetic/ysl.svg"
+    },
+    {
+      "svglogo_id": "cosmetic_ysl_wordmark",
+      "source_file": "cosmetic/ysl_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/cosmetic/ysl_wordmark.svg"
+    },
+    {
+      "svglogo_id": "cosmetic_yuxi",
+      "source_file": "cosmetic/yuxi.svg",
+      "output_file": "assets/_raw/svglogo/cosmetic/yuxi.svg"
+    },
+    {
+      "svglogo_id": "goldjewelry_chaohongji",
+      "source_file": "goldJewelry/chaohongji.svg",
+      "output_file": "assets/_raw/svglogo/goldJewelry/chaohongji.svg"
+    },
+    {
+      "svglogo_id": "goldjewelry_darryring",
+      "source_file": "goldJewelry/darryring.svg",
+      "output_file": "assets/_raw/svglogo/goldJewelry/darryring.svg"
+    },
+    {
+      "svglogo_id": "goldjewelry_laofengxiang",
+      "source_file": "goldJewelry/laofengxiang.svg",
+      "output_file": "assets/_raw/svglogo/goldJewelry/laofengxiang.svg"
+    },
+    {
+      "svglogo_id": "goldjewelry_laomiao",
+      "source_file": "goldJewelry/laomiao.svg",
+      "output_file": "assets/_raw/svglogo/goldJewelry/laomiao.svg"
+    },
+    {
+      "svglogo_id": "goldjewelry_liufuzhubao",
+      "source_file": "goldJewelry/liufuzhubao.svg",
+      "output_file": "assets/_raw/svglogo/goldJewelry/liufuzhubao.svg"
+    },
+    {
+      "svglogo_id": "goldjewelry_mingpaizhubao",
+      "source_file": "goldJewelry/mingpaizhubao.svg",
+      "output_file": "assets/_raw/svglogo/goldJewelry/mingpaizhubao.svg"
+    },
+    {
+      "svglogo_id": "goldjewelry_pandora",
+      "source_file": "goldJewelry/pandora.svg",
+      "output_file": "assets/_raw/svglogo/goldJewelry/pandora.svg"
+    },
+    {
+      "svglogo_id": "goldjewelry_runshishanhu",
+      "source_file": "goldJewelry/runshishanhu.svg",
+      "output_file": "assets/_raw/svglogo/goldJewelry/runshishanhu.svg"
+    },
+    {
+      "svglogo_id": "goldjewelry_swarovski",
+      "source_file": "goldJewelry/swarovski.svg",
+      "output_file": "assets/_raw/svglogo/goldJewelry/swarovski.svg"
+    },
+    {
+      "svglogo_id": "goldjewelry_tonglingzhubao",
+      "source_file": "goldJewelry/tonglingzhubao.svg",
+      "output_file": "assets/_raw/svglogo/goldJewelry/tonglingzhubao.svg"
+    },
+    {
+      "svglogo_id": "goldjewelry_zhongfuzhubao",
+      "source_file": "goldJewelry/zhongfuzhubao.svg",
+      "output_file": "assets/_raw/svglogo/goldJewelry/zhongfuzhubao.svg"
+    },
+    {
+      "svglogo_id": "goldjewelry_zhongguozhubao",
+      "source_file": "goldJewelry/zhongguozhubao.svg",
+      "output_file": "assets/_raw/svglogo/goldJewelry/zhongguozhubao.svg"
+    },
+    {
+      "svglogo_id": "goldjewelry_zhoudafuzhuangcheng",
+      "source_file": "goldJewelry/zhoudafuzhuangcheng.svg",
+      "output_file": "assets/_raw/svglogo/goldJewelry/zhoudafuzhuangcheng.svg"
+    },
+    {
+      "svglogo_id": "goldjewelry_zhoudafu",
+      "source_file": "goldJewelry/zhoudafu.svg",
+      "output_file": "assets/_raw/svglogo/goldJewelry/zhoudafu.svg"
+    },
+    {
+      "svglogo_id": "goldjewelry_zhoudasheng",
+      "source_file": "goldJewelry/zhoudasheng.svg",
+      "output_file": "assets/_raw/svglogo/goldJewelry/zhoudasheng.svg"
+    },
+    {
+      "svglogo_id": "goldjewelry_zhoushengsheng",
+      "source_file": "goldJewelry/zhoushengsheng.svg",
+      "output_file": "assets/_raw/svglogo/goldJewelry/zhoushengsheng.svg"
+    },
+    {
+      "svglogo_id": "goldjewelry_xieruilin",
+      "source_file": "goldJewelry/xieruilin.svg",
+      "output_file": "assets/_raw/svglogo/goldJewelry/xieruilin.svg"
+    },
+    {
+      "svglogo_id": "pay_zhifubao",
+      "source_file": "pay/zhifubao.svg",
+      "output_file": "assets/_raw/svglogo/pay/zhifubao.svg"
+    },
+    {
+      "svglogo_id": "pay_huabei",
+      "source_file": "pay/huabei.svg",
+      "output_file": "assets/_raw/svglogo/pay/huabei.svg"
+    },
+    {
+      "svglogo_id": "pay_huabei_wordmark",
+      "source_file": "pay/huabei_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/pay/huabei_wordmark.svg"
+    },
+    {
+      "svglogo_id": "pay_weixinpay",
+      "source_file": "pay/weixinpay.svg",
+      "output_file": "assets/_raw/svglogo/pay/weixinpay.svg"
+    },
+    {
+      "svglogo_id": "pay_xabank",
+      "source_file": "pay/XABANK.svg",
+      "output_file": "assets/_raw/svglogo/pay/XABANK.svg"
+    },
+    {
+      "svglogo_id": "pay_xabank_wordmark",
+      "source_file": "pay/XABANK_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/pay/XABANK_wordmark.svg"
+    },
+    {
+      "svglogo_id": "pay_glbank",
+      "source_file": "pay/GLBANK.svg",
+      "output_file": "assets/_raw/svglogo/pay/GLBANK.svg"
+    },
+    {
+      "svglogo_id": "pay_glbank_wordmark",
+      "source_file": "pay/GLBANK_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/pay/GLBANK_wordmark.svg"
+    },
+    {
+      "svglogo_id": "pay_taccb",
+      "source_file": "pay/TACCB.svg",
+      "output_file": "assets/_raw/svglogo/pay/TACCB.svg"
+    },
+    {
+      "svglogo_id": "pay_taccb_wordmark",
+      "source_file": "pay/TACCB_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/pay/TACCB_wordmark.svg"
+    },
+    {
+      "svglogo_id": "pay_czcb",
+      "source_file": "pay/CZCB.svg",
+      "output_file": "assets/_raw/svglogo/pay/CZCB.svg"
+    },
+    {
+      "svglogo_id": "pay_czcb_wordmark",
+      "source_file": "pay/CZCB_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/pay/CZCB_wordmark.svg"
+    },
+    {
+      "svglogo_id": "pay_ykyhb",
+      "source_file": "pay/YKYHB.svg",
+      "output_file": "assets/_raw/svglogo/pay/YKYHB.svg"
+    },
+    {
+      "svglogo_id": "pay_jzb",
+      "source_file": "pay/JZB.svg",
+      "output_file": "assets/_raw/svglogo/pay/JZB.svg"
+    },
+    {
+      "svglogo_id": "pay_qhbank",
+      "source_file": "pay/QHBANK.svg",
+      "output_file": "assets/_raw/svglogo/pay/QHBANK.svg"
+    },
+    {
+      "svglogo_id": "pay_qhbank_wordmark",
+      "source_file": "pay/QHBANK_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/pay/QHBANK_wordmark.svg"
+    },
+    {
+      "svglogo_id": "pay_yaccb",
+      "source_file": "pay/YACCB.svg",
+      "output_file": "assets/_raw/svglogo/pay/YACCB.svg"
+    },
+    {
+      "svglogo_id": "pay_yaccb_wordmark",
+      "source_file": "pay/YACCB_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/pay/YACCB_wordmark.svg"
+    },
+    {
+      "svglogo_id": "pay_gzcb",
+      "source_file": "pay/GZCB.svg",
+      "output_file": "assets/_raw/svglogo/pay/GZCB.svg"
+    },
+    {
+      "svglogo_id": "pay_gzcb_wordmark",
+      "source_file": "pay/GZCB_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/pay/GZCB_wordmark.svg"
+    },
+    {
+      "svglogo_id": "pay_dzbank",
+      "source_file": "pay/DZBANK.svg",
+      "output_file": "assets/_raw/svglogo/pay/DZBANK.svg"
+    },
+    {
+      "svglogo_id": "pay_dzbank_wordmark",
+      "source_file": "pay/DZBANK_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/pay/DZBANK_wordmark.svg"
+    },
+    {
+      "svglogo_id": "pay_bohz",
+      "source_file": "pay/BOHZ.svg",
+      "output_file": "assets/_raw/svglogo/pay/BOHZ.svg"
+    },
+    {
+      "svglogo_id": "pay_bohz_wordmark",
+      "source_file": "pay/BOHZ_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/pay/BOHZ_wordmark.svg"
+    },
+    {
+      "svglogo_id": "pay_fscb",
+      "source_file": "pay/FSCB.svg",
+      "output_file": "assets/_raw/svglogo/pay/FSCB.svg"
+    },
+    {
+      "svglogo_id": "pay_fscb_wordmark",
+      "source_file": "pay/FSCB_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/pay/FSCB_wordmark.svg"
+    },
+    {
+      "svglogo_id": "pay_bots",
+      "source_file": "pay/BOTS.svg",
+      "output_file": "assets/_raw/svglogo/pay/BOTS.svg"
+    },
+    {
+      "svglogo_id": "pay_bots_wordmark",
+      "source_file": "pay/BOTS_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/pay/BOTS_wordmark.svg"
+    },
+    {
+      "svglogo_id": "pay_klb",
+      "source_file": "pay/KLB.svg",
+      "output_file": "assets/_raw/svglogo/pay/KLB.svg"
+    },
+    {
+      "svglogo_id": "pay_klb_wordmark",
+      "source_file": "pay/KLB_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/pay/KLB_wordmark.svg"
+    },
+    {
+      "svglogo_id": "pay_gwb",
+      "source_file": "pay/GWB.svg",
+      "output_file": "assets/_raw/svglogo/pay/GWB.svg"
+    },
+    {
+      "svglogo_id": "pay_gwb_wordmark",
+      "source_file": "pay/GWB_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/pay/GWB_wordmark.svg"
+    },
+    {
+      "svglogo_id": "pay_jxb",
+      "source_file": "pay/JXB.svg",
+      "output_file": "assets/_raw/svglogo/pay/JXB.svg"
+    },
+    {
+      "svglogo_id": "pay_jxb_wordmark",
+      "source_file": "pay/JXB_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/pay/JXB_wordmark.svg"
+    },
+    {
+      "svglogo_id": "pay_bosz",
+      "source_file": "pay/BOSZ.svg",
+      "output_file": "assets/_raw/svglogo/pay/BOSZ.svg"
+    },
+    {
+      "svglogo_id": "pay_bosz_wordmark",
+      "source_file": "pay/BOSZ_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/pay/BOSZ_wordmark.svg"
+    },
+    {
+      "svglogo_id": "pay_dlb",
+      "source_file": "pay/DLB.svg",
+      "output_file": "assets/_raw/svglogo/pay/DLB.svg"
+    },
+    {
+      "svglogo_id": "pay_dlb_wordmark",
+      "source_file": "pay/DLB_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/pay/DLB_wordmark.svg"
+    },
+    {
+      "svglogo_id": "pay_bocz",
+      "source_file": "pay/BOCZ.svg",
+      "output_file": "assets/_raw/svglogo/pay/BOCZ.svg"
+    },
+    {
+      "svglogo_id": "pay_bocz_wordmark",
+      "source_file": "pay/BOCZ_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/pay/BOCZ_wordmark.svg"
+    },
+    {
+      "svglogo_id": "pay_cabank",
+      "source_file": "pay/CABANK.svg",
+      "output_file": "assets/_raw/svglogo/pay/CABANK.svg"
+    },
+    {
+      "svglogo_id": "pay_cabank_wordmark",
+      "source_file": "pay/CABANK_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/pay/CABANK_wordmark.svg"
+    },
+    {
+      "svglogo_id": "pay_lzccb",
+      "source_file": "pay/LZCCB.svg",
+      "output_file": "assets/_raw/svglogo/pay/LZCCB.svg"
+    },
+    {
+      "svglogo_id": "pay_lzccb_wordmark",
+      "source_file": "pay/LZCCB_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/pay/LZCCB_wordmark.svg"
+    },
+    {
+      "svglogo_id": "pay_whccb",
+      "source_file": "pay/WHCCB.svg",
+      "output_file": "assets/_raw/svglogo/pay/WHCCB.svg"
+    },
+    {
+      "svglogo_id": "pay_whccb_wordmark",
+      "source_file": "pay/WHCCB_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/pay/WHCCB_wordmark.svg"
+    },
+    {
+      "svglogo_id": "pay_mtbank",
+      "source_file": "pay/MTBANK.svg",
+      "output_file": "assets/_raw/svglogo/pay/MTBANK.svg"
+    },
+    {
+      "svglogo_id": "pay_mtbank_wordmark",
+      "source_file": "pay/MTBANK_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/pay/MTBANK_wordmark.svg"
+    },
+    {
+      "svglogo_id": "pay_boyk",
+      "source_file": "pay/BOYK.svg",
+      "output_file": "assets/_raw/svglogo/pay/BOYK.svg"
+    },
+    {
+      "svglogo_id": "pay_boyk_wordmark",
+      "source_file": "pay/BOYK_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/pay/BOYK_wordmark.svg"
+    },
+    {
+      "svglogo_id": "pay_yqccb",
+      "source_file": "pay/YQCCB.svg",
+      "output_file": "assets/_raw/svglogo/pay/YQCCB.svg"
+    },
+    {
+      "svglogo_id": "pay_yqccb_wordmark",
+      "source_file": "pay/YQCCB_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/pay/YQCCB_wordmark.svg"
+    },
+    {
+      "svglogo_id": "pay_boxz",
+      "source_file": "pay/BOXZ.svg",
+      "output_file": "assets/_raw/svglogo/pay/BOXZ.svg"
+    },
+    {
+      "svglogo_id": "pay_boxz_wordmark",
+      "source_file": "pay/BOXZ_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/pay/BOXZ_wordmark.svg"
+    },
+    {
+      "svglogo_id": "pay_ybccb",
+      "source_file": "pay/YBCCB.svg",
+      "output_file": "assets/_raw/svglogo/pay/YBCCB.svg"
+    },
+    {
+      "svglogo_id": "pay_ybccb_wordmark",
+      "source_file": "pay/YBCCB_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/pay/YBCCB_wordmark.svg"
+    },
+    {
+      "svglogo_id": "pay_bod",
+      "source_file": "pay/BOD.svg",
+      "output_file": "assets/_raw/svglogo/pay/BOD.svg"
+    },
+    {
+      "svglogo_id": "pay_bod_wordmark",
+      "source_file": "pay/BOD_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/pay/BOD_wordmark.svg"
+    },
+    {
+      "svglogo_id": "pay_dyccb",
+      "source_file": "pay/DYCCB.svg",
+      "output_file": "assets/_raw/svglogo/pay/DYCCB.svg"
+    },
+    {
+      "svglogo_id": "pay_dyccb_wordmark",
+      "source_file": "pay/DYCCB_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/pay/DYCCB_wordmark.svg"
+    },
+    {
+      "svglogo_id": "pay_jxbank",
+      "source_file": "pay/JXBANK.svg",
+      "output_file": "assets/_raw/svglogo/pay/JXBANK.svg"
+    },
+    {
+      "svglogo_id": "pay_jxbank_wordmark",
+      "source_file": "pay/JXBANK_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/pay/JXBANK_wordmark.svg"
+    },
+    {
+      "svglogo_id": "pay_fxcb",
+      "source_file": "pay/FXCB.svg",
+      "output_file": "assets/_raw/svglogo/pay/FXCB.svg"
+    },
+    {
+      "svglogo_id": "pay_fxcb_wordmark",
+      "source_file": "pay/FXCB_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/pay/FXCB_wordmark.svg"
+    },
+    {
+      "svglogo_id": "pay_xtb",
+      "source_file": "pay/XTB.svg",
+      "output_file": "assets/_raw/svglogo/pay/XTB.svg"
+    },
+    {
+      "svglogo_id": "pay_xtb_wordmark",
+      "source_file": "pay/XTB_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/pay/XTB_wordmark.svg"
+    },
+    {
+      "svglogo_id": "pay_hmccb",
+      "source_file": "pay/HMCCB.svg",
+      "output_file": "assets/_raw/svglogo/pay/HMCCB.svg"
+    },
+    {
+      "svglogo_id": "pay_hmccb_wordmark",
+      "source_file": "pay/HMCCB_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/pay/HMCCB_wordmark.svg"
+    },
+    {
+      "svglogo_id": "pay_lsccb",
+      "source_file": "pay/LSCCB.svg",
+      "output_file": "assets/_raw/svglogo/pay/LSCCB.svg"
+    },
+    {
+      "svglogo_id": "pay_lsccb_wordmark",
+      "source_file": "pay/LSCCB_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/pay/LSCCB_wordmark.svg"
+    },
+    {
+      "svglogo_id": "pay_cts",
+      "source_file": "pay/CTS.svg",
+      "output_file": "assets/_raw/svglogo/pay/CTS.svg"
+    },
+    {
+      "svglogo_id": "pay_jjccb",
+      "source_file": "pay/JJCCB.svg",
+      "output_file": "assets/_raw/svglogo/pay/JJCCB.svg"
+    },
+    {
+      "svglogo_id": "pay_jjccb_wordmark",
+      "source_file": "pay/JJCCB_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/pay/JJCCB_wordmark.svg"
+    },
+    {
+      "svglogo_id": "pay_jscjcb",
+      "source_file": "pay/JSCJCB.svg",
+      "output_file": "assets/_raw/svglogo/pay/JSCJCB.svg"
+    },
+    {
+      "svglogo_id": "pay_jscjcb_wordmark",
+      "source_file": "pay/JSCJCB_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/pay/JSCJCB_wordmark.svg"
+    },
+    {
+      "svglogo_id": "pay_jzbank",
+      "source_file": "pay/JZBANK.svg",
+      "output_file": "assets/_raw/svglogo/pay/JZBANK.svg"
+    },
+    {
+      "svglogo_id": "pay_jzbank_wordmark",
+      "source_file": "pay/JZBANK_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/pay/JZBANK_wordmark.svg"
+    },
+    {
+      "svglogo_id": "pay_cdbank",
+      "source_file": "pay/CDBANK.svg",
+      "output_file": "assets/_raw/svglogo/pay/CDBANK.svg"
+    },
+    {
+      "svglogo_id": "pay_cdbank_wordmark",
+      "source_file": "pay/CDBANK_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/pay/CDBANK_wordmark.svg"
+    },
+    {
+      "svglogo_id": "pay_ynhtbank",
+      "source_file": "pay/YNHTBANK.svg",
+      "output_file": "assets/_raw/svglogo/pay/YNHTBANK.svg"
+    },
+    {
+      "svglogo_id": "pay_ynhtbank_wordmark",
+      "source_file": "pay/YNHTBANK_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/pay/YNHTBANK_wordmark.svg"
+    },
+    {
+      "svglogo_id": "pay_bgb",
+      "source_file": "pay/BGB.svg",
+      "output_file": "assets/_raw/svglogo/pay/BGB.svg"
+    },
+    {
+      "svglogo_id": "pay_bgb_wordmark",
+      "source_file": "pay/BGB_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/pay/BGB_wordmark.svg"
+    },
+    {
+      "svglogo_id": "pay_rzb",
+      "source_file": "pay/RZB.svg",
+      "output_file": "assets/_raw/svglogo/pay/RZB.svg"
+    },
+    {
+      "svglogo_id": "pay_rzb_wordmark",
+      "source_file": "pay/RZB_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/pay/RZB_wordmark.svg"
+    },
+    {
+      "svglogo_id": "pay_wzbank",
+      "source_file": "pay/WZBANK.svg",
+      "output_file": "assets/_raw/svglogo/pay/WZBANK.svg"
+    },
+    {
+      "svglogo_id": "pay_wzbank_wordmark",
+      "source_file": "pay/WZBANK_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/pay/WZBANK_wordmark.svg"
+    },
+    {
+      "svglogo_id": "pay_botl",
+      "source_file": "pay/BOTL.svg",
+      "output_file": "assets/_raw/svglogo/pay/BOTL.svg"
+    },
+    {
+      "svglogo_id": "pay_botl_wordmark",
+      "source_file": "pay/BOTL_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/pay/BOTL_wordmark.svg"
+    },
+    {
+      "svglogo_id": "pay_jinchb",
+      "source_file": "pay/JINCHB.svg",
+      "output_file": "assets/_raw/svglogo/pay/JINCHB.svg"
+    },
+    {
+      "svglogo_id": "pay_jinchb_wordmark",
+      "source_file": "pay/JINCHB_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/pay/JINCHB_wordmark.svg"
+    },
+    {
+      "svglogo_id": "pay_szsbk",
+      "source_file": "pay/SZSBK.svg",
+      "output_file": "assets/_raw/svglogo/pay/SZSBK.svg"
+    },
+    {
+      "svglogo_id": "pay_szsbk_wordmark",
+      "source_file": "pay/SZSBK_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/pay/SZSBK_wordmark.svg"
+    },
+    {
+      "svglogo_id": "pay_snbank",
+      "source_file": "pay/SNBANK.svg",
+      "output_file": "assets/_raw/svglogo/pay/SNBANK.svg"
+    },
+    {
+      "svglogo_id": "pay_snbank_wordmark",
+      "source_file": "pay/SNBANK_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/pay/SNBANK_wordmark.svg"
+    },
+    {
+      "svglogo_id": "pay_hbc",
+      "source_file": "pay/HBC.svg",
+      "output_file": "assets/_raw/svglogo/pay/HBC.svg"
+    },
+    {
+      "svglogo_id": "pay_hbc_wordmark",
+      "source_file": "pay/HBC_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/pay/HBC_wordmark.svg"
+    },
+    {
+      "svglogo_id": "pay_qdccb",
+      "source_file": "pay/QDCCB.svg",
+      "output_file": "assets/_raw/svglogo/pay/QDCCB.svg"
+    },
+    {
+      "svglogo_id": "pay_qdccb_wordmark",
+      "source_file": "pay/QDCCB_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/pay/QDCCB_wordmark.svg"
+    },
+    {
+      "svglogo_id": "pay_ndhb",
+      "source_file": "pay/NDHB.svg",
+      "output_file": "assets/_raw/svglogo/pay/NDHB.svg"
+    },
+    {
+      "svglogo_id": "pay_bodd",
+      "source_file": "pay/BODD.svg",
+      "output_file": "assets/_raw/svglogo/pay/BODD.svg"
+    },
+    {
+      "svglogo_id": "pay_bodd_wordmark",
+      "source_file": "pay/BODD_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/pay/BODD_wordmark.svg"
+    },
+    {
+      "svglogo_id": "pay_qhdbank",
+      "source_file": "pay/QHDBANK.svg",
+      "output_file": "assets/_raw/svglogo/pay/QHDBANK.svg"
+    },
+    {
+      "svglogo_id": "pay_qhdbank_wordmark",
+      "source_file": "pay/QHDBANK_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/pay/QHDBANK_wordmark.svg"
+    },
+    {
+      "svglogo_id": "pay_uccb",
+      "source_file": "pay/UCCB.svg",
+      "output_file": "assets/_raw/svglogo/pay/UCCB.svg"
+    },
+    {
+      "svglogo_id": "pay_uccb_wordmark",
+      "source_file": "pay/UCCB_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/pay/UCCB_wordmark.svg"
+    },
+    {
+      "svglogo_id": "pay_dccb",
+      "source_file": "pay/DCCB.svg",
+      "output_file": "assets/_raw/svglogo/pay/DCCB.svg"
+    },
+    {
+      "svglogo_id": "pay_dccb_wordmark",
+      "source_file": "pay/DCCB_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/pay/DCCB_wordmark.svg"
+    },
+    {
+      "svglogo_id": "pay_bop",
+      "source_file": "pay/BOP.svg",
+      "output_file": "assets/_raw/svglogo/pay/BOP.svg"
+    },
+    {
+      "svglogo_id": "pay_bop_wordmark",
+      "source_file": "pay/BOP_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/pay/BOP_wordmark.svg"
+    },
+    {
+      "svglogo_id": "pay_xmintb",
+      "source_file": "pay/XMINTB.svg",
+      "output_file": "assets/_raw/svglogo/pay/XMINTB.svg"
+    },
+    {
+      "svglogo_id": "pay_xmintb_wordmark",
+      "source_file": "pay/XMINTB_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/pay/XMINTB_wordmark.svg"
+    },
+    {
+      "svglogo_id": "pay_njcb",
+      "source_file": "pay/NJCB.svg",
+      "output_file": "assets/_raw/svglogo/pay/NJCB.svg"
+    },
+    {
+      "svglogo_id": "pay_njcb_wordmark",
+      "source_file": "pay/NJCB_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/pay/NJCB_wordmark.svg"
+    },
+    {
+      "svglogo_id": "pay_sjbank",
+      "source_file": "pay/SJBANK.svg",
+      "output_file": "assets/_raw/svglogo/pay/SJBANK.svg"
+    },
+    {
+      "svglogo_id": "pay_sjbank_wordmark",
+      "source_file": "pay/SJBANK_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/pay/SJBANK_wordmark.svg"
+    },
+    {
+      "svglogo_id": "pay_bobd",
+      "source_file": "pay/BOBD.svg",
+      "output_file": "assets/_raw/svglogo/pay/BOBD.svg"
+    },
+    {
+      "svglogo_id": "pay_bobd_wordmark",
+      "source_file": "pay/BOBD_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/pay/BOBD_wordmark.svg"
+    },
+    {
+      "svglogo_id": "pay_qjcccb",
+      "source_file": "pay/QJCCCB.svg",
+      "output_file": "assets/_raw/svglogo/pay/QJCCCB.svg"
+    },
+    {
+      "svglogo_id": "pay_qjcccb_wordmark",
+      "source_file": "pay/QJCCCB_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/pay/QJCCCB_wordmark.svg"
+    },
+    {
+      "svglogo_id": "pay_rboz",
+      "source_file": "pay/RBOZ.svg",
+      "output_file": "assets/_raw/svglogo/pay/RBOZ.svg"
+    },
+    {
+      "svglogo_id": "pay_rboz_wordmark",
+      "source_file": "pay/RBOZ_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/pay/RBOZ_wordmark.svg"
+    },
+    {
+      "svglogo_id": "pay_qsb",
+      "source_file": "pay/QSB.svg",
+      "output_file": "assets/_raw/svglogo/pay/QSB.svg"
+    },
+    {
+      "svglogo_id": "pay_qsb_wordmark",
+      "source_file": "pay/QSB_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/pay/QSB_wordmark.svg"
+    },
+    {
+      "svglogo_id": "pay_tzbank",
+      "source_file": "pay/TZBANK.svg",
+      "output_file": "assets/_raw/svglogo/pay/TZBANK.svg"
+    },
+    {
+      "svglogo_id": "pay_tzbank_wordmark",
+      "source_file": "pay/TZBANK_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/pay/TZBANK_wordmark.svg"
+    },
+    {
+      "svglogo_id": "pay_bopj",
+      "source_file": "pay/BOPJ.svg",
+      "output_file": "assets/_raw/svglogo/pay/BOPJ.svg"
+    },
+    {
+      "svglogo_id": "pay_bopj_wordmark",
+      "source_file": "pay/BOPJ_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/pay/BOPJ_wordmark.svg"
+    },
+    {
+      "svglogo_id": "pay_dtb",
+      "source_file": "pay/DTB.svg",
+      "output_file": "assets/_raw/svglogo/pay/DTB.svg"
+    },
+    {
+      "svglogo_id": "pay_dtb_wordmark",
+      "source_file": "pay/DTB_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/pay/DTB_wordmark.svg"
+    },
+    {
+      "svglogo_id": "pay_nxbank",
+      "source_file": "pay/NXBANK.svg",
+      "output_file": "assets/_raw/svglogo/pay/NXBANK.svg"
+    },
+    {
+      "svglogo_id": "pay_nxbank_wordmark",
+      "source_file": "pay/NXBANK_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/pay/NXBANK_wordmark.svg"
+    },
+    {
+      "svglogo_id": "pay_sctfb",
+      "source_file": "pay/SCTFB.svg",
+      "output_file": "assets/_raw/svglogo/pay/SCTFB.svg"
+    },
+    {
+      "svglogo_id": "pay_sctfb_wordmark",
+      "source_file": "pay/SCTFB_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/pay/SCTFB_wordmark.svg"
+    },
+    {
+      "svglogo_id": "pay_hkb",
+      "source_file": "pay/HKB.svg",
+      "output_file": "assets/_raw/svglogo/pay/HKB.svg"
+    },
+    {
+      "svglogo_id": "pay_hkb_wordmark",
+      "source_file": "pay/HKB_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/pay/HKB_wordmark.svg"
+    },
+    {
+      "svglogo_id": "pay_lsbank",
+      "source_file": "pay/LSBANK.svg",
+      "output_file": "assets/_raw/svglogo/pay/LSBANK.svg"
+    },
+    {
+      "svglogo_id": "pay_lsbank_wordmark",
+      "source_file": "pay/LSBANK_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/pay/LSBANK_wordmark.svg"
+    },
+    {
+      "svglogo_id": "pay_nbcmb",
+      "source_file": "pay/NBCMB.svg",
+      "output_file": "assets/_raw/svglogo/pay/NBCMB.svg"
+    },
+    {
+      "svglogo_id": "pay_nbcmb_wordmark",
+      "source_file": "pay/NBCMB_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/pay/NBCMB_wordmark.svg"
+    },
+    {
+      "svglogo_id": "pay_bocy",
+      "source_file": "pay/BOCY.svg",
+      "output_file": "assets/_raw/svglogo/pay/BOCY.svg"
+    },
+    {
+      "svglogo_id": "pay_bocy_wordmark",
+      "source_file": "pay/BOCY_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/pay/BOCY_wordmark.svg"
+    },
+    {
+      "svglogo_id": "pay_bolf",
+      "source_file": "pay/BOLF.svg",
+      "output_file": "assets/_raw/svglogo/pay/BOLF.svg"
+    },
+    {
+      "svglogo_id": "pay_bolf_wordmark",
+      "source_file": "pay/BOLF_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/pay/BOLF_wordmark.svg"
+    },
+    {
+      "svglogo_id": "pay_xjb",
+      "source_file": "pay/XJB.svg",
+      "output_file": "assets/_raw/svglogo/pay/XJB.svg"
+    },
+    {
+      "svglogo_id": "pay_cdcb",
+      "source_file": "pay/CDCB.svg",
+      "output_file": "assets/_raw/svglogo/pay/CDCB.svg"
+    },
+    {
+      "svglogo_id": "pay_cdcb_wordmark",
+      "source_file": "pay/CDCB_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/pay/CDCB_wordmark.svg"
+    },
+    {
+      "svglogo_id": "pay_zzbank",
+      "source_file": "pay/ZZBANK.svg",
+      "output_file": "assets/_raw/svglogo/pay/ZZBANK.svg"
+    },
+    {
+      "svglogo_id": "pay_zzbank_wordmark",
+      "source_file": "pay/ZZBANK_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/pay/ZZBANK_wordmark.svg"
+    },
+    {
+      "svglogo_id": "pay_xmbank",
+      "source_file": "pay/XMBANK.svg",
+      "output_file": "assets/_raw/svglogo/pay/XMBANK.svg"
+    },
+    {
+      "svglogo_id": "pay_xmbank_wordmark",
+      "source_file": "pay/XMBANK_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/pay/XMBANK_wordmark.svg"
+    },
+    {
+      "svglogo_id": "pay_jsbank",
+      "source_file": "pay/JSBANK.svg",
+      "output_file": "assets/_raw/svglogo/pay/JSBANK.svg"
+    },
+    {
+      "svglogo_id": "pay_jsbank_wordmark",
+      "source_file": "pay/JSBANK_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/pay/JSBANK_wordmark.svg"
+    },
+    {
+      "svglogo_id": "pay_whbank",
+      "source_file": "pay/WHBANK.svg",
+      "output_file": "assets/_raw/svglogo/pay/WHBANK.svg"
+    },
+    {
+      "svglogo_id": "pay_whbank_wordmark",
+      "source_file": "pay/WHBANK_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/pay/WHBANK_wordmark.svg"
+    },
+    {
+      "svglogo_id": "pay_bhb",
+      "source_file": "pay/BHB.svg",
+      "output_file": "assets/_raw/svglogo/pay/BHB.svg"
+    },
+    {
+      "svglogo_id": "pay_bhb_wordmark",
+      "source_file": "pay/BHB_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/pay/BHB_wordmark.svg"
+    },
+    {
+      "svglogo_id": "pay_lzbank",
+      "source_file": "pay/LZBANK.svg",
+      "output_file": "assets/_raw/svglogo/pay/LZBANK.svg"
+    },
+    {
+      "svglogo_id": "pay_lzbank_wordmark",
+      "source_file": "pay/LZBANK_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/pay/LZBANK_wordmark.svg"
+    },
+    {
+      "svglogo_id": "pay_ccqtgb",
+      "source_file": "pay/CCQTGB.svg",
+      "output_file": "assets/_raw/svglogo/pay/CCQTGB.svg"
+    },
+    {
+      "svglogo_id": "pay_ccqtgb_wordmark",
+      "source_file": "pay/CCQTGB_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/pay/CCQTGB_wordmark.svg"
+    },
+    {
+      "svglogo_id": "pay_ytb",
+      "source_file": "pay/YTB.svg",
+      "output_file": "assets/_raw/svglogo/pay/YTB.svg"
+    },
+    {
+      "svglogo_id": "pay_ytb_wordmark",
+      "source_file": "pay/YTB_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/pay/YTB_wordmark.svg"
+    },
+    {
+      "svglogo_id": "pay_hsbank",
+      "source_file": "pay/HSBANK.svg",
+      "output_file": "assets/_raw/svglogo/pay/HSBANK.svg"
+    },
+    {
+      "svglogo_id": "pay_hsbank_wordmark",
+      "source_file": "pay/HSBANK_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/pay/HSBANK_wordmark.svg"
+    },
+    {
+      "svglogo_id": "pay_hrbcb",
+      "source_file": "pay/HRBCB.svg",
+      "output_file": "assets/_raw/svglogo/pay/HRBCB.svg"
+    },
+    {
+      "svglogo_id": "pay_hrbcb_wordmark",
+      "source_file": "pay/HRBCB_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/pay/HRBCB_wordmark.svg"
+    },
+    {
+      "svglogo_id": "pay_fdbank",
+      "source_file": "pay/FDBANK.svg",
+      "output_file": "assets/_raw/svglogo/pay/FDBANK.svg"
+    },
+    {
+      "svglogo_id": "pay_fdbank_wordmark",
+      "source_file": "pay/FDBANK_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/pay/FDBANK_wordmark.svg"
+    },
+    {
+      "svglogo_id": "pay_nybank",
+      "source_file": "pay/NYBANK.svg",
+      "output_file": "assets/_raw/svglogo/pay/NYBANK.svg"
+    },
+    {
+      "svglogo_id": "pay_nybank_wordmark",
+      "source_file": "pay/NYBANK_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/pay/NYBANK_wordmark.svg"
+    },
+    {
+      "svglogo_id": "pay_lsbc",
+      "source_file": "pay/LSBC.svg",
+      "output_file": "assets/_raw/svglogo/pay/LSBC.svg"
+    },
+    {
+      "svglogo_id": "pay_lsbc_wordmark",
+      "source_file": "pay/LSBC_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/pay/LSBC_wordmark.svg"
+    },
+    {
+      "svglogo_id": "pay_sxcb",
+      "source_file": "pay/SXCB.svg",
+      "output_file": "assets/_raw/svglogo/pay/SXCB.svg"
+    },
+    {
+      "svglogo_id": "pay_sxcb_wordmark",
+      "source_file": "pay/SXCB_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/pay/SXCB_wordmark.svg"
+    },
+    {
+      "svglogo_id": "pay_boly",
+      "source_file": "pay/BOLY.svg",
+      "output_file": "assets/_raw/svglogo/pay/BOLY.svg"
+    },
+    {
+      "svglogo_id": "pay_boly_wordmark",
+      "source_file": "pay/BOLY_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/pay/BOLY_wordmark.svg"
+    },
+    {
+      "svglogo_id": "pay_jsb",
+      "source_file": "pay/JSB.svg",
+      "output_file": "assets/_raw/svglogo/pay/JSB.svg"
+    },
+    {
+      "svglogo_id": "pay_jsb_wordmark",
+      "source_file": "pay/JSB_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/pay/JSB_wordmark.svg"
+    },
+    {
+      "svglogo_id": "pay_xjhb",
+      "source_file": "pay/XJHB.svg",
+      "output_file": "assets/_raw/svglogo/pay/XJHB.svg"
+    },
+    {
+      "svglogo_id": "pay_xjhb_wordmark",
+      "source_file": "pay/XJHB_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/pay/XJHB_wordmark.svg"
+    },
+    {
+      "svglogo_id": "pay_myccb",
+      "source_file": "pay/MYCCB.svg",
+      "output_file": "assets/_raw/svglogo/pay/MYCCB.svg"
+    },
+    {
+      "svglogo_id": "pay_myccb_wordmark",
+      "source_file": "pay/MYCCB_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/pay/MYCCB_wordmark.svg"
+    },
+    {
+      "svglogo_id": "pay_bscb",
+      "source_file": "pay/BSCB.svg",
+      "output_file": "assets/_raw/svglogo/pay/BSCB.svg"
+    },
+    {
+      "svglogo_id": "pay_bscb_wordmark",
+      "source_file": "pay/BSCB_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/pay/BSCB_wordmark.svg"
+    },
+    {
+      "svglogo_id": "pay_qlbank",
+      "source_file": "pay/QLBANK.svg",
+      "output_file": "assets/_raw/svglogo/pay/QLBANK.svg"
+    },
+    {
+      "svglogo_id": "pay_qlbank_wordmark",
+      "source_file": "pay/QLBANK_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/pay/QLBANK_wordmark.svg"
+    },
+    {
+      "svglogo_id": "pay_nbcb",
+      "source_file": "pay/NBCB.svg",
+      "output_file": "assets/_raw/svglogo/pay/NBCB.svg"
+    },
+    {
+      "svglogo_id": "pay_nbcb_wordmark",
+      "source_file": "pay/NBCB_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/pay/NBCB_wordmark.svg"
+    },
+    {
+      "svglogo_id": "pay_bccb",
+      "source_file": "pay/BCCB.svg",
+      "output_file": "assets/_raw/svglogo/pay/BCCB.svg"
+    },
+    {
+      "svglogo_id": "pay_bccb_wordmark",
+      "source_file": "pay/BCCB_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/pay/BCCB_wordmark.svg"
+    },
+    {
+      "svglogo_id": "pay_bohs",
+      "source_file": "pay/BOHS.svg",
+      "output_file": "assets/_raw/svglogo/pay/BOHS.svg"
+    },
+    {
+      "svglogo_id": "pay_bogz",
+      "source_file": "pay/BOGZ.svg",
+      "output_file": "assets/_raw/svglogo/pay/BOGZ.svg"
+    },
+    {
+      "svglogo_id": "pay_bogz_wordmark",
+      "source_file": "pay/BOGZ_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/pay/BOGZ_wordmark.svg"
+    },
+    {
+      "svglogo_id": "pay_scb",
+      "source_file": "pay/SCB.svg",
+      "output_file": "assets/_raw/svglogo/pay/SCB.svg"
+    },
+    {
+      "svglogo_id": "pay_scb_wordmark",
+      "source_file": "pay/SCB_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/pay/SCB_wordmark.svg"
+    },
+    {
+      "svglogo_id": "pay_zybank",
+      "source_file": "pay/ZYBANK.svg",
+      "output_file": "assets/_raw/svglogo/pay/ZYBANK.svg"
+    },
+    {
+      "svglogo_id": "pay_zybank_wordmark",
+      "source_file": "pay/ZYBANK_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/pay/ZYBANK_wordmark.svg"
+    },
+    {
+      "svglogo_id": "pay_boqz",
+      "source_file": "pay/BOQZ.svg",
+      "output_file": "assets/_raw/svglogo/pay/BOQZ.svg"
+    },
+    {
+      "svglogo_id": "pay_boqz_wordmark",
+      "source_file": "pay/BOQZ_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/pay/BOQZ_wordmark.svg"
+    },
+    {
+      "svglogo_id": "pay_bosc",
+      "source_file": "pay/BOSC.svg",
+      "output_file": "assets/_raw/svglogo/pay/BOSC.svg"
+    },
+    {
+      "svglogo_id": "pay_bosc_wordmark",
+      "source_file": "pay/BOSC_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/pay/BOSC_wordmark.svg"
+    },
+    {
+      "svglogo_id": "pay_ordosb",
+      "source_file": "pay/ORDOSB.svg",
+      "output_file": "assets/_raw/svglogo/pay/ORDOSB.svg"
+    },
+    {
+      "svglogo_id": "pay_ordosb_wordmark",
+      "source_file": "pay/ORDOSB_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/pay/ORDOSB_wordmark.svg"
+    },
+    {
+      "svglogo_id": "pay_botj",
+      "source_file": "pay/BOTJ.svg",
+      "output_file": "assets/_raw/svglogo/pay/BOTJ.svg"
+    },
+    {
+      "svglogo_id": "pay_botj_wordmark",
+      "source_file": "pay/BOTJ_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/pay/BOTJ_wordmark.svg"
+    },
+    {
+      "svglogo_id": "pay_bogs",
+      "source_file": "pay/BOGS.svg",
+      "output_file": "assets/_raw/svglogo/pay/BOGS.svg"
+    },
+    {
+      "svglogo_id": "pay_bogs_wordmark",
+      "source_file": "pay/BOGS_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/pay/BOGS_wordmark.svg"
+    },
+    {
+      "svglogo_id": "pay_hnb",
+      "source_file": "pay/HNB.svg",
+      "output_file": "assets/_raw/svglogo/pay/HNB.svg"
+    },
+    {
+      "svglogo_id": "pay_hnb_wordmark",
+      "source_file": "pay/HNB_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/pay/HNB_wordmark.svg"
+    },
+    {
+      "svglogo_id": "pay_wfccb",
+      "source_file": "pay/WFCCB.svg",
+      "output_file": "assets/_raw/svglogo/pay/WFCCB.svg"
+    },
+    {
+      "svglogo_id": "pay_wfccb_wordmark",
+      "source_file": "pay/WFCCB_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/pay/WFCCB_wordmark.svg"
+    },
+    {
+      "svglogo_id": "pay_tlcb",
+      "source_file": "pay/TLCB.svg",
+      "output_file": "assets/_raw/svglogo/pay/TLCB.svg"
+    },
+    {
+      "svglogo_id": "pay_tlcb_wordmark",
+      "source_file": "pay/TLCB_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/pay/TLCB_wordmark.svg"
+    },
+    {
+      "svglogo_id": "pay_bojl",
+      "source_file": "pay/BOJL.svg",
+      "output_file": "assets/_raw/svglogo/pay/BOJL.svg"
+    },
+    {
+      "svglogo_id": "pay_bojl_wordmark",
+      "source_file": "pay/BOJL_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/pay/BOJL_wordmark.svg"
+    },
+    {
+      "svglogo_id": "pay_czb",
+      "source_file": "pay/CZB.svg",
+      "output_file": "assets/_raw/svglogo/pay/CZB.svg"
+    },
+    {
+      "svglogo_id": "pay_czb_wordmark",
+      "source_file": "pay/CZB_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/pay/CZB_wordmark.svg"
+    },
+    {
+      "svglogo_id": "pay_zgbank",
+      "source_file": "pay/ZGBANK.svg",
+      "output_file": "assets/_raw/svglogo/pay/ZGBANK.svg"
+    },
+    {
+      "svglogo_id": "pay_zgbank_wordmark",
+      "source_file": "pay/ZGBANK_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/pay/ZGBANK_wordmark.svg"
+    },
+    {
+      "svglogo_id": "pay_ghb",
+      "source_file": "pay/GHB.svg",
+      "output_file": "assets/_raw/svglogo/pay/GHB.svg"
+    },
+    {
+      "svglogo_id": "pay_ghb_wordmark",
+      "source_file": "pay/GHB_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/pay/GHB_wordmark.svg"
+    },
+    {
+      "svglogo_id": "pay_jnbank",
+      "source_file": "pay/JNBANK.svg",
+      "output_file": "assets/_raw/svglogo/pay/JNBANK.svg"
+    },
+    {
+      "svglogo_id": "pay_jnbank_wordmark",
+      "source_file": "pay/JNBANK_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/pay/JNBANK_wordmark.svg"
+    },
+    {
+      "svglogo_id": "pay_jhccb",
+      "source_file": "pay/JHCCB.svg",
+      "output_file": "assets/_raw/svglogo/pay/JHCCB.svg"
+    },
+    {
+      "svglogo_id": "pay_jhccb_wordmark",
+      "source_file": "pay/JHCCB_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/pay/JHCCB_wordmark.svg"
+    },
+    {
+      "svglogo_id": "pay_bohld",
+      "source_file": "pay/BOHLD.svg",
+      "output_file": "assets/_raw/svglogo/pay/BOHLD.svg"
+    },
+    {
+      "svglogo_id": "pay_bohld_wordmark",
+      "source_file": "pay/BOHLD_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/pay/BOHLD_wordmark.svg"
+    },
+    {
+      "svglogo_id": "pay_zjkccb",
+      "source_file": "pay/ZJKCCB.svg",
+      "output_file": "assets/_raw/svglogo/pay/ZJKCCB.svg"
+    },
+    {
+      "svglogo_id": "pay_zjkccb_wordmark",
+      "source_file": "pay/ZJKCCB_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/pay/ZJKCCB_wordmark.svg"
+    },
+    {
+      "svglogo_id": "pay_kcccb",
+      "source_file": "pay/KCCCB.svg",
+      "output_file": "assets/_raw/svglogo/pay/KCCCB.svg"
+    },
+    {
+      "svglogo_id": "pay_kcccb_wordmark",
+      "source_file": "pay/KCCCB_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/pay/KCCCB_wordmark.svg"
+    },
+    {
+      "svglogo_id": "pay_lzb",
+      "source_file": "pay/LZB.svg",
+      "output_file": "assets/_raw/svglogo/pay/LZB.svg"
+    },
+    {
+      "svglogo_id": "pay_lzb_wordmark",
+      "source_file": "pay/LZB_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/pay/LZB_wordmark.svg"
+    },
+    {
+      "svglogo_id": "pay_hrxjb",
+      "source_file": "pay/HRXJB.svg",
+      "output_file": "assets/_raw/svglogo/pay/HRXJB.svg"
+    },
+    {
+      "svglogo_id": "pay_hrxjb_wordmark",
+      "source_file": "pay/HRXJB_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/pay/HRXJB_wordmark.svg"
+    },
+    {
+      "svglogo_id": "pay_srbank",
+      "source_file": "pay/SRBANK.svg",
+      "output_file": "assets/_raw/svglogo/pay/SRBANK.svg"
+    },
+    {
+      "svglogo_id": "pay_hzcb",
+      "source_file": "pay/HZCB.svg",
+      "output_file": "assets/_raw/svglogo/pay/HZCB.svg"
+    },
+    {
+      "svglogo_id": "pay_hzcb_wordmark",
+      "source_file": "pay/HZCB_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/pay/HZCB_wordmark.svg"
+    },
+    {
+      "svglogo_id": "pay_boas",
+      "source_file": "pay/BOAS.svg",
+      "output_file": "assets/_raw/svglogo/pay/BOAS.svg"
+    },
+    {
+      "svglogo_id": "pay_boas_wordmark",
+      "source_file": "pay/BOAS_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/pay/BOAS_wordmark.svg"
+    },
+    {
+      "svglogo_id": "pay_hdbank",
+      "source_file": "pay/HDBANK.svg",
+      "output_file": "assets/_raw/svglogo/pay/HDBANK.svg"
+    },
+    {
+      "svglogo_id": "pay_hdbank_wordmark",
+      "source_file": "pay/HDBANK_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/pay/HDBANK_wordmark.svg"
+    },
+    {
+      "svglogo_id": "pay_gyccb",
+      "source_file": "pay/GYCCB.svg",
+      "output_file": "assets/_raw/svglogo/pay/GYCCB.svg"
+    },
+    {
+      "svglogo_id": "pay_gyccb_wordmark",
+      "source_file": "pay/GYCCB_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/pay/GYCCB_wordmark.svg"
+    },
+    {
+      "svglogo_id": "pay_cqbank",
+      "source_file": "pay/CQBANK.svg",
+      "output_file": "assets/_raw/svglogo/pay/CQBANK.svg"
+    },
+    {
+      "svglogo_id": "pay_cqbank_wordmark",
+      "source_file": "pay/CQBANK_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/pay/CQBANK_wordmark.svg"
+    },
+    {
+      "svglogo_id": "pay_zzb",
+      "source_file": "pay/ZZB.svg",
+      "output_file": "assets/_raw/svglogo/pay/ZZB.svg"
+    },
+    {
+      "svglogo_id": "pay_zzb_wordmark",
+      "source_file": "pay/ZZB_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/pay/ZZB_wordmark.svg"
+    },
+    {
+      "svglogo_id": "pay_fjhxbc",
+      "source_file": "pay/FJHXBC.svg",
+      "output_file": "assets/_raw/svglogo/pay/FJHXBC.svg"
+    },
+    {
+      "svglogo_id": "pay_fjhxbc_wordmark",
+      "source_file": "pay/FJHXBC_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/pay/FJHXBC_wordmark.svg"
+    },
+    {
+      "svglogo_id": "pay_ljbank",
+      "source_file": "pay/LJBANK.svg",
+      "output_file": "assets/_raw/svglogo/pay/LJBANK.svg"
+    },
+    {
+      "svglogo_id": "pay_ljbank_wordmark",
+      "source_file": "pay/LJBANK_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/pay/LJBANK_wordmark.svg"
+    },
+    {
+      "svglogo_id": "pay_h3cb",
+      "source_file": "pay/H3CB.svg",
+      "output_file": "assets/_raw/svglogo/pay/H3CB.svg"
+    },
+    {
+      "svglogo_id": "pay_bob",
+      "source_file": "pay/BOB.svg",
+      "output_file": "assets/_raw/svglogo/pay/BOB.svg"
+    },
+    {
+      "svglogo_id": "pay_bob_wordmark",
+      "source_file": "pay/BOB_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/pay/BOB_wordmark.svg"
+    },
+    {
+      "svglogo_id": "pay_egbank",
+      "source_file": "pay/EGBANK.svg",
+      "output_file": "assets/_raw/svglogo/pay/EGBANK.svg"
+    },
+    {
+      "svglogo_id": "pay_egbank_wordmark",
+      "source_file": "pay/EGBANK_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/pay/EGBANK_wordmark.svg"
+    },
+    {
+      "svglogo_id": "pay_czbank",
+      "source_file": "pay/CZBANK.svg",
+      "output_file": "assets/_raw/svglogo/pay/CZBANK.svg"
+    },
+    {
+      "svglogo_id": "pay_czbank_wordmark",
+      "source_file": "pay/CZBANK_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/pay/CZBANK_wordmark.svg"
+    },
+    {
+      "svglogo_id": "pay_gdb",
+      "source_file": "pay/GDB.svg",
+      "output_file": "assets/_raw/svglogo/pay/GDB.svg"
+    },
+    {
+      "svglogo_id": "pay_gdb_wordmark",
+      "source_file": "pay/GDB_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/pay/GDB_wordmark.svg"
+    },
+    {
+      "svglogo_id": "pay_spdb",
+      "source_file": "pay/SPDB.svg",
+      "output_file": "assets/_raw/svglogo/pay/SPDB.svg"
+    },
+    {
+      "svglogo_id": "pay_spdb_wordmark",
+      "source_file": "pay/SPDB_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/pay/SPDB_wordmark.svg"
+    },
+    {
+      "svglogo_id": "pay_citic",
+      "source_file": "pay/CITIC.svg",
+      "output_file": "assets/_raw/svglogo/pay/CITIC.svg"
+    },
+    {
+      "svglogo_id": "pay_citic_wordmark",
+      "source_file": "pay/CITIC_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/pay/CITIC_wordmark.svg"
+    },
+    {
+      "svglogo_id": "pay_cmbc",
+      "source_file": "pay/CMBC.svg",
+      "output_file": "assets/_raw/svglogo/pay/CMBC.svg"
+    },
+    {
+      "svglogo_id": "pay_cmbc_wordmark",
+      "source_file": "pay/CMBC_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/pay/CMBC_wordmark.svg"
+    },
+    {
+      "svglogo_id": "pay_bohaib",
+      "source_file": "pay/BOHAIB.svg",
+      "output_file": "assets/_raw/svglogo/pay/BOHAIB.svg"
+    },
+    {
+      "svglogo_id": "pay_bohaib_wordmark",
+      "source_file": "pay/BOHAIB_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/pay/BOHAIB_wordmark.svg"
+    },
+    {
+      "svglogo_id": "pay_cib",
+      "source_file": "pay/CIB.svg",
+      "output_file": "assets/_raw/svglogo/pay/CIB.svg"
+    },
+    {
+      "svglogo_id": "pay_cib_wordmark",
+      "source_file": "pay/CIB_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/pay/CIB_wordmark.svg"
+    },
+    {
+      "svglogo_id": "pay_spabank",
+      "source_file": "pay/SPABANK.svg",
+      "output_file": "assets/_raw/svglogo/pay/SPABANK.svg"
+    },
+    {
+      "svglogo_id": "pay_spabank_wordmark",
+      "source_file": "pay/SPABANK_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/pay/SPABANK_wordmark.svg"
+    },
+    {
+      "svglogo_id": "pay_hxb",
+      "source_file": "pay/HXB.svg",
+      "output_file": "assets/_raw/svglogo/pay/HXB.svg"
+    },
+    {
+      "svglogo_id": "pay_hxb_wordmark",
+      "source_file": "pay/HXB_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/pay/HXB_wordmark.svg"
+    },
+    {
+      "svglogo_id": "pay_cmb",
+      "source_file": "pay/CMB.svg",
+      "output_file": "assets/_raw/svglogo/pay/CMB.svg"
+    },
+    {
+      "svglogo_id": "pay_cmb_wordmark",
+      "source_file": "pay/CMB_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/pay/CMB_wordmark.svg"
+    },
+    {
+      "svglogo_id": "pay_ceb",
+      "source_file": "pay/CEB.svg",
+      "output_file": "assets/_raw/svglogo/pay/CEB.svg"
+    },
+    {
+      "svglogo_id": "pay_ceb_wordmark",
+      "source_file": "pay/CEB_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/pay/CEB_wordmark.svg"
+    },
+    {
+      "svglogo_id": "pay_psbc",
+      "source_file": "pay/PSBC.svg",
+      "output_file": "assets/_raw/svglogo/pay/PSBC.svg"
+    },
+    {
+      "svglogo_id": "pay_psbc_wordmark",
+      "source_file": "pay/PSBC_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/pay/PSBC_wordmark.svg"
+    },
+    {
+      "svglogo_id": "pay_icbc",
+      "source_file": "pay/ICBC.svg",
+      "output_file": "assets/_raw/svglogo/pay/ICBC.svg"
+    },
+    {
+      "svglogo_id": "pay_icbc_wordmark",
+      "source_file": "pay/ICBC_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/pay/ICBC_wordmark.svg"
+    },
+    {
+      "svglogo_id": "pay_abc",
+      "source_file": "pay/ABC.svg",
+      "output_file": "assets/_raw/svglogo/pay/ABC.svg"
+    },
+    {
+      "svglogo_id": "pay_abc_wordmark",
+      "source_file": "pay/ABC_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/pay/ABC_wordmark.svg"
+    },
+    {
+      "svglogo_id": "pay_ccb",
+      "source_file": "pay/CCB.svg",
+      "output_file": "assets/_raw/svglogo/pay/CCB.svg"
+    },
+    {
+      "svglogo_id": "pay_ccb_wordmark",
+      "source_file": "pay/CCB_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/pay/CCB_wordmark.svg"
+    },
+    {
+      "svglogo_id": "pay_boc",
+      "source_file": "pay/BOC.svg",
+      "output_file": "assets/_raw/svglogo/pay/BOC.svg"
+    },
+    {
+      "svglogo_id": "pay_boc_wordmark",
+      "source_file": "pay/BOC_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/pay/BOC_wordmark.svg"
+    },
+    {
+      "svglogo_id": "pay_comm",
+      "source_file": "pay/COMM.svg",
+      "output_file": "assets/_raw/svglogo/pay/COMM.svg"
+    },
+    {
+      "svglogo_id": "pay_comm_wordmark",
+      "source_file": "pay/COMM_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/pay/COMM_wordmark.svg"
+    },
+    {
+      "svglogo_id": "pay_eibof",
+      "source_file": "pay/EIBOF.svg",
+      "output_file": "assets/_raw/svglogo/pay/EIBOF.svg"
+    },
+    {
+      "svglogo_id": "pay_eibof_wordmark",
+      "source_file": "pay/EIBOF_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/pay/EIBOF_wordmark.svg"
+    },
+    {
+      "svglogo_id": "pay_cdb",
+      "source_file": "pay/CDB.svg",
+      "output_file": "assets/_raw/svglogo/pay/CDB.svg"
+    },
+    {
+      "svglogo_id": "pay_cdb_wordmark",
+      "source_file": "pay/CDB_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/pay/CDB_wordmark.svg"
+    },
+    {
+      "svglogo_id": "pay_pboc",
+      "source_file": "pay/PBOC.svg",
+      "output_file": "assets/_raw/svglogo/pay/PBOC.svg"
+    },
+    {
+      "svglogo_id": "pay_pboc_wordmark",
+      "source_file": "pay/PBOC_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/pay/PBOC_wordmark.svg"
+    },
+    {
+      "svglogo_id": "pay_adbc",
+      "source_file": "pay/ADBC.svg",
+      "output_file": "assets/_raw/svglogo/pay/ADBC.svg"
+    },
+    {
+      "svglogo_id": "pay_mybank",
+      "source_file": "pay/Mybank.svg",
+      "output_file": "assets/_raw/svglogo/pay/Mybank.svg"
+    },
+    {
+      "svglogo_id": "pay_mybank_wordmark",
+      "source_file": "pay/Mybank_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/pay/Mybank_wordmark.svg"
+    },
+    {
+      "svglogo_id": "pay_zhimaxinyong",
+      "source_file": "pay/zhimaxinyong.svg",
+      "output_file": "assets/_raw/svglogo/pay/zhimaxinyong.svg"
+    },
+    {
+      "svglogo_id": "pay_zhimaxinyong_wordmark",
+      "source_file": "pay/zhimaxinyong_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/pay/zhimaxinyong_wordmark.svg"
+    },
+    {
+      "svglogo_id": "pay_yuebao",
+      "source_file": "pay/yuebao.svg",
+      "output_file": "assets/_raw/svglogo/pay/yuebao.svg"
+    },
+    {
+      "svglogo_id": "pay_yuebao_wordmark",
+      "source_file": "pay/yuebao_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/pay/yuebao_wordmark.svg"
+    },
+    {
+      "svglogo_id": "pay_jiebei",
+      "source_file": "pay/jiebei.svg",
+      "output_file": "assets/_raw/svglogo/pay/jiebei.svg"
+    },
+    {
+      "svglogo_id": "pay_jiebei_wordmark",
+      "source_file": "pay/jiebei_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/pay/jiebei_wordmark.svg"
+    },
+    {
+      "svglogo_id": "pay_bly",
+      "source_file": "pay/BLY.svg",
+      "output_file": "assets/_raw/svglogo/pay/BLY.svg"
+    },
+    {
+      "svglogo_id": "pay_bly_wordmark",
+      "source_file": "pay/BLY_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/pay/BLY_wordmark.svg"
+    },
+    {
+      "svglogo_id": "pay_efund",
+      "source_file": "pay/Efund.svg",
+      "output_file": "assets/_raw/svglogo/pay/Efund.svg"
+    },
+    {
+      "svglogo_id": "school_anhuidaxue",
+      "source_file": "school/AnHuiDaXue.svg",
+      "output_file": "assets/_raw/svglogo/school/AnHuiDaXue.svg"
+    },
+    {
+      "svglogo_id": "school_anhuidaxue_wordmark",
+      "source_file": "school/AnHuiDaXue_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/school/AnHuiDaXue_wordmark.svg"
+    },
+    {
+      "svglogo_id": "school_bsu",
+      "source_file": "school/BSU.svg",
+      "output_file": "assets/_raw/svglogo/school/BSU.svg"
+    },
+    {
+      "svglogo_id": "school_bsu_wordmark",
+      "source_file": "school/BSU_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/school/BSU_wordmark.svg"
+    },
+    {
+      "svglogo_id": "school_buaa",
+      "source_file": "school/BUAA.svg",
+      "output_file": "assets/_raw/svglogo/school/BUAA.svg"
+    },
+    {
+      "svglogo_id": "school_buaa_wordmark",
+      "source_file": "school/BUAA_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/school/BUAA_wordmark.svg"
+    },
+    {
+      "svglogo_id": "school_bucm",
+      "source_file": "school/BUCM.svg",
+      "output_file": "assets/_raw/svglogo/school/BUCM.svg"
+    },
+    {
+      "svglogo_id": "school_bucm_wordmark",
+      "source_file": "school/BUCM_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/school/BUCM_wordmark.svg"
+    },
+    {
+      "svglogo_id": "school_buct",
+      "source_file": "school/BUCT.svg",
+      "output_file": "assets/_raw/svglogo/school/BUCT.svg"
+    },
+    {
+      "svglogo_id": "school_buct_wordmark",
+      "source_file": "school/BUCT_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/school/BUCT_wordmark.svg"
+    },
+    {
+      "svglogo_id": "school_bupt",
+      "source_file": "school/BUPT.svg",
+      "output_file": "assets/_raw/svglogo/school/BUPT.svg"
+    },
+    {
+      "svglogo_id": "school_bupt_wordmark",
+      "source_file": "school/BUPT_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/school/BUPT_wordmark.svg"
+    },
+    {
+      "svglogo_id": "school_beijinggongyedaxue",
+      "source_file": "school/BeiJingGongYeDaXue.svg",
+      "output_file": "assets/_raw/svglogo/school/BeiJingGongYeDaXue.svg"
+    },
+    {
+      "svglogo_id": "school_beijinggongyedaxue_wordmark",
+      "source_file": "school/BeiJingGongYeDaXue_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/school/BeiJingGongYeDaXue_wordmark.svg"
+    },
+    {
+      "svglogo_id": "school_beijingjiaotongdaxue",
+      "source_file": "school/BeiJingJiaoTongDaXue.svg",
+      "output_file": "assets/_raw/svglogo/school/BeiJingJiaoTongDaXue.svg"
+    },
+    {
+      "svglogo_id": "school_beijingjiaotongdaxue_wordmark",
+      "source_file": "school/BeiJingJiaoTongDaXue_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/school/BeiJingJiaoTongDaXue_wordmark.svg"
+    },
+    {
+      "svglogo_id": "school_beijingligongdaxue",
+      "source_file": "school/BeiJingLiGongDaXue.svg",
+      "output_file": "assets/_raw/svglogo/school/BeiJingLiGongDaXue.svg"
+    },
+    {
+      "svglogo_id": "school_beijingligongdaxue_wordmark",
+      "source_file": "school/BeiJingLiGongDaXue_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/school/BeiJingLiGongDaXue_wordmark.svg"
+    },
+    {
+      "svglogo_id": "school_beijinglinyedaxue",
+      "source_file": "school/BeiJingLinYeDaXue.svg",
+      "output_file": "assets/_raw/svglogo/school/BeiJingLinYeDaXue.svg"
+    },
+    {
+      "svglogo_id": "school_beijinglinyedaxue_wordmark",
+      "source_file": "school/BeiJingLinYeDaXue_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/school/BeiJingLinYeDaXue_wordmark.svg"
+    },
+    {
+      "svglogo_id": "school_beijingshifandaxue",
+      "source_file": "school/BeiJingShiFanDaXue.svg",
+      "output_file": "assets/_raw/svglogo/school/BeiJingShiFanDaXue.svg"
+    },
+    {
+      "svglogo_id": "school_beijingshifandaxue_wordmark",
+      "source_file": "school/BeiJingShiFanDaXue_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/school/BeiJingShiFanDaXue_wordmark.svg"
+    },
+    {
+      "svglogo_id": "school_beijingwaiguoyudaxue",
+      "source_file": "school/BeiJingWaiGuoYuDaXue.svg",
+      "output_file": "assets/_raw/svglogo/school/BeiJingWaiGuoYuDaXue.svg"
+    },
+    {
+      "svglogo_id": "school_beijingwaiguoyudaxue_wordmark",
+      "source_file": "school/BeiJingWaiGuoYuDaXue_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/school/BeiJingWaiGuoYuDaXue_wordmark.svg"
+    },
+    {
+      "svglogo_id": "school_caa",
+      "source_file": "school/CAA.svg",
+      "output_file": "assets/_raw/svglogo/school/CAA.svg"
+    },
+    {
+      "svglogo_id": "school_caa_wordmark",
+      "source_file": "school/CAA_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/school/CAA_wordmark.svg"
+    },
+    {
+      "svglogo_id": "school_cafa_wordmark",
+      "source_file": "school/CAFA_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/school/CAFA_wordmark.svg"
+    },
+    {
+      "svglogo_id": "school_cau",
+      "source_file": "school/CAU.svg",
+      "output_file": "assets/_raw/svglogo/school/CAU.svg"
+    },
+    {
+      "svglogo_id": "school_cau_wordmark",
+      "source_file": "school/CAU_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/school/CAU_wordmark.svg"
+    },
+    {
+      "svglogo_id": "school_ccnu",
+      "source_file": "school/CCNU.svg",
+      "output_file": "assets/_raw/svglogo/school/CCNU.svg"
+    },
+    {
+      "svglogo_id": "school_ccom",
+      "source_file": "school/CCOM.svg",
+      "output_file": "assets/_raw/svglogo/school/CCOM.svg"
+    },
+    {
+      "svglogo_id": "school_ccom_wordmark",
+      "source_file": "school/CCOM_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/school/CCOM_wordmark.svg"
+    },
+    {
+      "svglogo_id": "school_cdut",
+      "source_file": "school/CDUT.svg",
+      "output_file": "assets/_raw/svglogo/school/CDUT.svg"
+    },
+    {
+      "svglogo_id": "school_cdut_wordmark",
+      "source_file": "school/CDUT_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/school/CDUT_wordmark.svg"
+    },
+    {
+      "svglogo_id": "school_cfau",
+      "source_file": "school/CFAU.svg",
+      "output_file": "assets/_raw/svglogo/school/CFAU.svg"
+    },
+    {
+      "svglogo_id": "school_chu",
+      "source_file": "school/CHU.svg",
+      "output_file": "assets/_raw/svglogo/school/CHU.svg"
+    },
+    {
+      "svglogo_id": "school_chu_wordmark",
+      "source_file": "school/CHU_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/school/CHU_wordmark.svg"
+    },
+    {
+      "svglogo_id": "school_cnu",
+      "source_file": "school/CNU.svg",
+      "output_file": "assets/_raw/svglogo/school/CNU.svg"
+    },
+    {
+      "svglogo_id": "school_cnu_wordmark",
+      "source_file": "school/CNU_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/school/CNU_wordmark.svg"
+    },
+    {
+      "svglogo_id": "school_cqu",
+      "source_file": "school/CQU.svg",
+      "output_file": "assets/_raw/svglogo/school/CQU.svg"
+    },
+    {
+      "svglogo_id": "school_csu",
+      "source_file": "school/CSU.svg",
+      "output_file": "assets/_raw/svglogo/school/CSU.svg"
+    },
+    {
+      "svglogo_id": "school_csu_wordmark",
+      "source_file": "school/CSU_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/school/CSU_wordmark.svg"
+    },
+    {
+      "svglogo_id": "school_cuc",
+      "source_file": "school/CUC.svg",
+      "output_file": "assets/_raw/svglogo/school/CUC.svg"
+    },
+    {
+      "svglogo_id": "school_cuc_wordmark",
+      "source_file": "school/CUC_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/school/CUC_wordmark.svg"
+    },
+    {
+      "svglogo_id": "school_cufe",
+      "source_file": "school/CUFE.svg",
+      "output_file": "assets/_raw/svglogo/school/CUFE.svg"
+    },
+    {
+      "svglogo_id": "school_cufe_wordmark",
+      "source_file": "school/CUFE_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/school/CUFE_wordmark.svg"
+    },
+    {
+      "svglogo_id": "school_cug",
+      "source_file": "school/CUG.svg",
+      "output_file": "assets/_raw/svglogo/school/CUG.svg"
+    },
+    {
+      "svglogo_id": "school_cup",
+      "source_file": "school/CUP.svg",
+      "output_file": "assets/_raw/svglogo/school/CUP.svg"
+    },
+    {
+      "svglogo_id": "school_cup_wordmark",
+      "source_file": "school/CUP_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/school/CUP_wordmark.svg"
+    },
+    {
+      "svglogo_id": "school_dut",
+      "source_file": "school/DUT.svg",
+      "output_file": "assets/_raw/svglogo/school/DUT.svg"
+    },
+    {
+      "svglogo_id": "school_dut_wordmark",
+      "source_file": "school/DUT_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/school/DUT_wordmark.svg"
+    },
+    {
+      "svglogo_id": "school_ecnu",
+      "source_file": "school/ECNU.svg",
+      "output_file": "assets/_raw/svglogo/school/ECNU.svg"
+    },
+    {
+      "svglogo_id": "school_ecnu_wordmark",
+      "source_file": "school/ECNU_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/school/ECNU_wordmark.svg"
+    },
+    {
+      "svglogo_id": "school_fdu",
+      "source_file": "school/FDU.svg",
+      "output_file": "assets/_raw/svglogo/school/FDU.svg"
+    },
+    {
+      "svglogo_id": "school_fdu_wordmark",
+      "source_file": "school/FDU_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/school/FDU_wordmark.svg"
+    },
+    {
+      "svglogo_id": "school_fjnu",
+      "source_file": "school/FJNU.svg",
+      "output_file": "assets/_raw/svglogo/school/FJNU.svg"
+    },
+    {
+      "svglogo_id": "school_fjut",
+      "source_file": "school/FJUT.svg",
+      "output_file": "assets/_raw/svglogo/school/FJUT.svg"
+    },
+    {
+      "svglogo_id": "school_fjut_wordmark",
+      "source_file": "school/FJUT_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/school/FJUT_wordmark.svg"
+    },
+    {
+      "svglogo_id": "school_fzu",
+      "source_file": "school/FZU.svg",
+      "output_file": "assets/_raw/svglogo/school/FZU.svg"
+    },
+    {
+      "svglogo_id": "school_fzu_wordmark",
+      "source_file": "school/FZU_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/school/FZU_wordmark.svg"
+    },
+    {
+      "svglogo_id": "school_gxu",
+      "source_file": "school/GXU.svg",
+      "output_file": "assets/_raw/svglogo/school/GXU.svg"
+    },
+    {
+      "svglogo_id": "school_gxu_wordmark",
+      "source_file": "school/GXU_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/school/GXU_wordmark.svg"
+    },
+    {
+      "svglogo_id": "school_gznu",
+      "source_file": "school/GZNU.svg",
+      "output_file": "assets/_raw/svglogo/school/GZNU.svg"
+    },
+    {
+      "svglogo_id": "school_gznu_wordmark",
+      "source_file": "school/GZNU_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/school/GZNU_wordmark.svg"
+    },
+    {
+      "svglogo_id": "school_gzu",
+      "source_file": "school/GZU.svg",
+      "output_file": "assets/_raw/svglogo/school/GZU.svg"
+    },
+    {
+      "svglogo_id": "school_gzu_wordmark",
+      "source_file": "school/GZU_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/school/GZU_wordmark.svg"
+    },
+    {
+      "svglogo_id": "school_gzucm",
+      "source_file": "school/GZUCM.svg",
+      "output_file": "assets/_raw/svglogo/school/GZUCM.svg"
+    },
+    {
+      "svglogo_id": "school_gzucm_wordmark",
+      "source_file": "school/GZUCM_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/school/GZUCM_wordmark.svg"
+    },
+    {
+      "svglogo_id": "school_haut_wordmark",
+      "source_file": "school/HAUT_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/school/HAUT_wordmark.svg"
+    },
+    {
+      "svglogo_id": "school_henangongchengxueyuan",
+      "source_file": "school/HeNanGongChengXueYuan.svg",
+      "output_file": "assets/_raw/svglogo/school/HeNanGongChengXueYuan.svg"
+    },
+    {
+      "svglogo_id": "school_henangongchengxueyuan_wordmark",
+      "source_file": "school/HeNanGongChengXueYuan_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/school/HeNanGongChengXueYuan_wordmark.svg"
+    },
+    {
+      "svglogo_id": "school_hbucm",
+      "source_file": "school/HBUCM.svg",
+      "output_file": "assets/_raw/svglogo/school/HBUCM.svg"
+    },
+    {
+      "svglogo_id": "school_hbucm_wordmark",
+      "source_file": "school/HBUCM_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/school/HBUCM_wordmark.svg"
+    },
+    {
+      "svglogo_id": "school_hfut",
+      "source_file": "school/HFUT.svg",
+      "output_file": "assets/_raw/svglogo/school/HFUT.svg"
+    },
+    {
+      "svglogo_id": "school_hfut_wordmark",
+      "source_file": "school/HFUT_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/school/HFUT_wordmark.svg"
+    },
+    {
+      "svglogo_id": "school_hfuu",
+      "source_file": "school/HFUU.svg",
+      "output_file": "assets/_raw/svglogo/school/HFUU.svg"
+    },
+    {
+      "svglogo_id": "school_hfuu_wordmark",
+      "source_file": "school/HFUU_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/school/HFUU_wordmark.svg"
+    },
+    {
+      "svglogo_id": "school_hit",
+      "source_file": "school/HIT.svg",
+      "output_file": "assets/_raw/svglogo/school/HIT.svg"
+    },
+    {
+      "svglogo_id": "school_hit_wordmark",
+      "source_file": "school/HIT_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/school/HIT_wordmark.svg"
+    },
+    {
+      "svglogo_id": "school_hnnu",
+      "source_file": "school/HNNU.svg",
+      "output_file": "assets/_raw/svglogo/school/HNNU.svg"
+    },
+    {
+      "svglogo_id": "school_hnnu_wordmark",
+      "source_file": "school/HNNU_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/school/HNNU_wordmark.svg"
+    },
+    {
+      "svglogo_id": "school_hnu",
+      "source_file": "school/HNU.svg",
+      "output_file": "assets/_raw/svglogo/school/HNU.svg"
+    },
+    {
+      "svglogo_id": "school_hnu_wordmark",
+      "source_file": "school/HNU_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/school/HNU_wordmark.svg"
+    },
+    {
+      "svglogo_id": "school_hubu",
+      "source_file": "school/HUBU.svg",
+      "output_file": "assets/_raw/svglogo/school/HUBU.svg"
+    },
+    {
+      "svglogo_id": "school_hubu_wordmark",
+      "source_file": "school/HUBU_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/school/HUBU_wordmark.svg"
+    },
+    {
+      "svglogo_id": "school_hust",
+      "source_file": "school/HUST.svg",
+      "output_file": "assets/_raw/svglogo/school/HUST.svg"
+    },
+    {
+      "svglogo_id": "school_hust_wordmark",
+      "source_file": "school/HUST_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/school/HUST_wordmark.svg"
+    },
+    {
+      "svglogo_id": "school_hzau",
+      "source_file": "school/HZAU.svg",
+      "output_file": "assets/_raw/svglogo/school/HZAU.svg"
+    },
+    {
+      "svglogo_id": "school_hzau_wordmark",
+      "source_file": "school/HZAU_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/school/HZAU_wordmark.svg"
+    },
+    {
+      "svglogo_id": "school_jlu",
+      "source_file": "school/JLU.svg",
+      "output_file": "assets/_raw/svglogo/school/JLU.svg"
+    },
+    {
+      "svglogo_id": "school_jlu_wordmark",
+      "source_file": "school/JLU_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/school/JLU_wordmark.svg"
+    },
+    {
+      "svglogo_id": "school_jnu",
+      "source_file": "school/JNU.svg",
+      "output_file": "assets/_raw/svglogo/school/JNU.svg"
+    },
+    {
+      "svglogo_id": "school_jnu_wordmark",
+      "source_file": "school/JNU_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/school/JNU_wordmark.svg"
+    },
+    {
+      "svglogo_id": "school_jxnu",
+      "source_file": "school/JXNU.svg",
+      "output_file": "assets/_raw/svglogo/school/JXNU.svg"
+    },
+    {
+      "svglogo_id": "school_jxnu_wordmark",
+      "source_file": "school/JXNU_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/school/JXNU_wordmark.svg"
+    },
+    {
+      "svglogo_id": "school_jinandaxue",
+      "source_file": "school/JiNanDaXue.svg",
+      "output_file": "assets/_raw/svglogo/school/JiNanDaXue.svg"
+    },
+    {
+      "svglogo_id": "school_jinandaxue_wordmark",
+      "source_file": "school/JiNanDaXue_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/school/JiNanDaXue_wordmark.svg"
+    },
+    {
+      "svglogo_id": "school_lit",
+      "source_file": "school/LIT.svg",
+      "output_file": "assets/_raw/svglogo/school/LIT.svg"
+    },
+    {
+      "svglogo_id": "school_lit_wordmark",
+      "source_file": "school/LIT_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/school/LIT_wordmark.svg"
+    },
+    {
+      "svglogo_id": "school_lzu",
+      "source_file": "school/LZU.svg",
+      "output_file": "assets/_raw/svglogo/school/LZU.svg"
+    },
+    {
+      "svglogo_id": "school_lzu_wordmark",
+      "source_file": "school/LZU_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/school/LZU_wordmark.svg"
+    },
+    {
+      "svglogo_id": "school_muc",
+      "source_file": "school/MUC.svg",
+      "output_file": "assets/_raw/svglogo/school/MUC.svg"
+    },
+    {
+      "svglogo_id": "school_muc_wordmark",
+      "source_file": "school/MUC_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/school/MUC_wordmark.svg"
+    },
+    {
+      "svglogo_id": "school_nbu",
+      "source_file": "school/NBU.svg",
+      "output_file": "assets/_raw/svglogo/school/NBU.svg"
+    },
+    {
+      "svglogo_id": "school_nbu_wordmark",
+      "source_file": "school/NBU_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/school/NBU_wordmark.svg"
+    },
+    {
+      "svglogo_id": "school_neu",
+      "source_file": "school/NEU.svg",
+      "output_file": "assets/_raw/svglogo/school/NEU.svg"
+    },
+    {
+      "svglogo_id": "school_neu_wordmark",
+      "source_file": "school/NEU_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/school/NEU_wordmark.svg"
+    },
+    {
+      "svglogo_id": "school_njfu",
+      "source_file": "school/NJFU.svg",
+      "output_file": "assets/_raw/svglogo/school/NJFU.svg"
+    },
+    {
+      "svglogo_id": "school_njnu",
+      "source_file": "school/NJNU.svg",
+      "output_file": "assets/_raw/svglogo/school/NJNU.svg"
+    },
+    {
+      "svglogo_id": "school_njnu_wordmark",
+      "source_file": "school/NJNU_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/school/NJNU_wordmark.svg"
+    },
+    {
+      "svglogo_id": "school_nju",
+      "source_file": "school/NJU.svg",
+      "output_file": "assets/_raw/svglogo/school/NJU.svg"
+    },
+    {
+      "svglogo_id": "school_nju_wordmark",
+      "source_file": "school/NJU_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/school/NJU_wordmark.svg"
+    },
+    {
+      "svglogo_id": "school_njucm",
+      "source_file": "school/NJUCM.svg",
+      "output_file": "assets/_raw/svglogo/school/NJUCM.svg"
+    },
+    {
+      "svglogo_id": "school_njucm_wordmark",
+      "source_file": "school/NJUCM_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/school/NJUCM_wordmark.svg"
+    },
+    {
+      "svglogo_id": "school_nku",
+      "source_file": "school/NKU.svg",
+      "output_file": "assets/_raw/svglogo/school/NKU.svg"
+    },
+    {
+      "svglogo_id": "school_nku_wordmark",
+      "source_file": "school/NKU_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/school/NKU_wordmark.svg"
+    },
+    {
+      "svglogo_id": "school_nudt",
+      "source_file": "school/NUDT.svg",
+      "output_file": "assets/_raw/svglogo/school/NUDT.svg"
+    },
+    {
+      "svglogo_id": "school_nudt_wordmark",
+      "source_file": "school/NUDT_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/school/NUDT_wordmark.svg"
+    },
+    {
+      "svglogo_id": "school_nuist",
+      "source_file": "school/NUIST.svg",
+      "output_file": "assets/_raw/svglogo/school/NUIST.svg"
+    },
+    {
+      "svglogo_id": "school_nuist_wordmark",
+      "source_file": "school/NUIST_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/school/NUIST_wordmark.svg"
+    },
+    {
+      "svglogo_id": "school_nwafu",
+      "source_file": "school/NWAFU.svg",
+      "output_file": "assets/_raw/svglogo/school/NWAFU.svg"
+    },
+    {
+      "svglogo_id": "school_nwafu_wordmark",
+      "source_file": "school/NWAFU_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/school/NWAFU_wordmark.svg"
+    },
+    {
+      "svglogo_id": "school_nwpu",
+      "source_file": "school/NWPU.svg",
+      "output_file": "assets/_raw/svglogo/school/NWPU.svg"
+    },
+    {
+      "svglogo_id": "school_nwpu_wordmark",
+      "source_file": "school/NWPU_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/school/NWPU_wordmark.svg"
+    },
+    {
+      "svglogo_id": "school_nwu",
+      "source_file": "school/NWU.svg",
+      "output_file": "assets/_raw/svglogo/school/NWU.svg"
+    },
+    {
+      "svglogo_id": "school_nwu_wordmark",
+      "source_file": "school/NWU_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/school/NWU_wordmark.svg"
+    },
+    {
+      "svglogo_id": "school_nxu",
+      "source_file": "school/NXU.svg",
+      "output_file": "assets/_raw/svglogo/school/NXU.svg"
+    },
+    {
+      "svglogo_id": "school_ouc",
+      "source_file": "school/OUC.svg",
+      "output_file": "assets/_raw/svglogo/school/OUC.svg"
+    },
+    {
+      "svglogo_id": "school_ouc_wordmark",
+      "source_file": "school/OUC_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/school/OUC_wordmark.svg"
+    },
+    {
+      "svglogo_id": "school_pku",
+      "source_file": "school/PKU.svg",
+      "output_file": "assets/_raw/svglogo/school/PKU.svg"
+    },
+    {
+      "svglogo_id": "school_pku_wordmark",
+      "source_file": "school/PKU_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/school/PKU_wordmark.svg"
+    },
+    {
+      "svglogo_id": "school_qhu",
+      "source_file": "school/QHU.svg",
+      "output_file": "assets/_raw/svglogo/school/QHU.svg"
+    },
+    {
+      "svglogo_id": "school_qhu_wordmark",
+      "source_file": "school/QHU_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/school/QHU_wordmark.svg"
+    },
+    {
+      "svglogo_id": "school_qut",
+      "source_file": "school/QUT.svg",
+      "output_file": "assets/_raw/svglogo/school/QUT.svg"
+    },
+    {
+      "svglogo_id": "school_qut_wordmark",
+      "source_file": "school/QUT_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/school/QUT_wordmark.svg"
+    },
+    {
+      "svglogo_id": "school_ruc",
+      "source_file": "school/RUC.svg",
+      "output_file": "assets/_raw/svglogo/school/RUC.svg"
+    },
+    {
+      "svglogo_id": "school_ruc_wordmark",
+      "source_file": "school/RUC_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/school/RUC_wordmark.svg"
+    },
+    {
+      "svglogo_id": "school_scmzu",
+      "source_file": "school/SCMZU.svg",
+      "output_file": "assets/_raw/svglogo/school/SCMZU.svg"
+    },
+    {
+      "svglogo_id": "school_scnu",
+      "source_file": "school/SCNU.svg",
+      "output_file": "assets/_raw/svglogo/school/SCNU.svg"
+    },
+    {
+      "svglogo_id": "school_scnu_wordmark",
+      "source_file": "school/SCNU_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/school/SCNU_wordmark.svg"
+    },
+    {
+      "svglogo_id": "school_scu",
+      "source_file": "school/SCU.svg",
+      "output_file": "assets/_raw/svglogo/school/SCU.svg"
+    },
+    {
+      "svglogo_id": "school_scu_wordmark",
+      "source_file": "school/SCU_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/school/SCU_wordmark.svg"
+    },
+    {
+      "svglogo_id": "school_scut",
+      "source_file": "school/SCUT.svg",
+      "output_file": "assets/_raw/svglogo/school/SCUT.svg"
+    },
+    {
+      "svglogo_id": "school_scut_wordmark",
+      "source_file": "school/SCUT_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/school/SCUT_wordmark.svg"
+    },
+    {
+      "svglogo_id": "school_sdu",
+      "source_file": "school/SDU.svg",
+      "output_file": "assets/_raw/svglogo/school/SDU.svg"
+    },
+    {
+      "svglogo_id": "school_sdu_wordmark",
+      "source_file": "school/SDU_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/school/SDU_wordmark.svg"
+    },
+    {
+      "svglogo_id": "school_seu",
+      "source_file": "school/SEU.svg",
+      "output_file": "assets/_raw/svglogo/school/SEU.svg"
+    },
+    {
+      "svglogo_id": "school_seu_wordmark",
+      "source_file": "school/SEU_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/school/SEU_wordmark.svg"
+    },
+    {
+      "svglogo_id": "school_shmtu",
+      "source_file": "school/SHMTU.svg",
+      "output_file": "assets/_raw/svglogo/school/SHMTU.svg"
+    },
+    {
+      "svglogo_id": "school_shmtu_wordmark",
+      "source_file": "school/SHMTU_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/school/SHMTU_wordmark.svg"
+    },
+    {
+      "svglogo_id": "school_sicau",
+      "source_file": "school/SICAU.svg",
+      "output_file": "assets/_raw/svglogo/school/SICAU.svg"
+    },
+    {
+      "svglogo_id": "school_sicau_wordmark",
+      "source_file": "school/SICAU_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/school/SICAU_wordmark.svg"
+    },
+    {
+      "svglogo_id": "school_sjtu",
+      "source_file": "school/SJTU.svg",
+      "output_file": "assets/_raw/svglogo/school/SJTU.svg"
+    },
+    {
+      "svglogo_id": "school_sjtu_wordmark",
+      "source_file": "school/SJTU_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/school/SJTU_wordmark.svg"
+    },
+    {
+      "svglogo_id": "school_snnu",
+      "source_file": "school/SNNU.svg",
+      "output_file": "assets/_raw/svglogo/school/SNNU.svg"
+    },
+    {
+      "svglogo_id": "school_snnu_wordmark",
+      "source_file": "school/SNNU_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/school/SNNU_wordmark.svg"
+    },
+    {
+      "svglogo_id": "school_swjtu",
+      "source_file": "school/SWJTU.svg",
+      "output_file": "assets/_raw/svglogo/school/SWJTU.svg"
+    },
+    {
+      "svglogo_id": "school_swjtu_wordmark",
+      "source_file": "school/SWJTU_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/school/SWJTU_wordmark.svg"
+    },
+    {
+      "svglogo_id": "school_swufe",
+      "source_file": "school/SWUFE.svg",
+      "output_file": "assets/_raw/svglogo/school/SWUFE.svg"
+    },
+    {
+      "svglogo_id": "school_swufe_wordmark",
+      "source_file": "school/SWUFE_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/school/SWUFE_wordmark.svg"
+    },
+    {
+      "svglogo_id": "school_swun",
+      "source_file": "school/SWUN.svg",
+      "output_file": "assets/_raw/svglogo/school/SWUN.svg"
+    },
+    {
+      "svglogo_id": "school_swun_wordmark",
+      "source_file": "school/SWUN_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/school/SWUN_wordmark.svg"
+    },
+    {
+      "svglogo_id": "school_sxu",
+      "source_file": "school/SXU.svg",
+      "output_file": "assets/_raw/svglogo/school/SXU.svg"
+    },
+    {
+      "svglogo_id": "school_sxufe",
+      "source_file": "school/SXUFE.svg",
+      "output_file": "assets/_raw/svglogo/school/SXUFE.svg"
+    },
+    {
+      "svglogo_id": "school_sysu",
+      "source_file": "school/SYSU.svg",
+      "output_file": "assets/_raw/svglogo/school/SYSU.svg"
+    },
+    {
+      "svglogo_id": "school_sysu_wordmark",
+      "source_file": "school/SYSU_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/school/SYSU_wordmark.svg"
+    },
+    {
+      "svglogo_id": "school_szu",
+      "source_file": "school/SZU.svg",
+      "output_file": "assets/_raw/svglogo/school/SZU.svg"
+    },
+    {
+      "svglogo_id": "school_szu_wordmark",
+      "source_file": "school/SZU_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/school/SZU_wordmark.svg"
+    },
+    {
+      "svglogo_id": "school_thu",
+      "source_file": "school/THU.svg",
+      "output_file": "assets/_raw/svglogo/school/THU.svg"
+    },
+    {
+      "svglogo_id": "school_thu_wordmark",
+      "source_file": "school/THU_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/school/THU_wordmark.svg"
+    },
+    {
+      "svglogo_id": "school_tju",
+      "source_file": "school/TJU.svg",
+      "output_file": "assets/_raw/svglogo/school/TJU.svg"
+    },
+    {
+      "svglogo_id": "school_tju_wordmark",
+      "source_file": "school/TJU_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/school/TJU_wordmark.svg"
+    },
+    {
+      "svglogo_id": "school_tongjidaxue",
+      "source_file": "school/TongJiDaXue.svg",
+      "output_file": "assets/_raw/svglogo/school/TongJiDaXue.svg"
+    },
+    {
+      "svglogo_id": "school_tongjidaxue_wordmark",
+      "source_file": "school/TongJiDaXue_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/school/TongJiDaXue_wordmark.svg"
+    },
+    {
+      "svglogo_id": "school_ucas",
+      "source_file": "school/UCAS.svg",
+      "output_file": "assets/_raw/svglogo/school/UCAS.svg"
+    },
+    {
+      "svglogo_id": "school_ucas_wordmark",
+      "source_file": "school/UCAS_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/school/UCAS_wordmark.svg"
+    },
+    {
+      "svglogo_id": "school_uestc",
+      "source_file": "school/UESTC.svg",
+      "output_file": "assets/_raw/svglogo/school/UESTC.svg"
+    },
+    {
+      "svglogo_id": "school_uestc_wordmark",
+      "source_file": "school/UESTC_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/school/UESTC_wordmark.svg"
+    },
+    {
+      "svglogo_id": "school_uibe",
+      "source_file": "school/UIBE.svg",
+      "output_file": "assets/_raw/svglogo/school/UIBE.svg"
+    },
+    {
+      "svglogo_id": "school_ujn",
+      "source_file": "school/UJN.svg",
+      "output_file": "assets/_raw/svglogo/school/UJN.svg"
+    },
+    {
+      "svglogo_id": "school_ujn_wordmark",
+      "source_file": "school/UJN_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/school/UJN_wordmark.svg"
+    },
+    {
+      "svglogo_id": "school_unnc",
+      "source_file": "school/UNNC.svg",
+      "output_file": "assets/_raw/svglogo/school/UNNC.svg"
+    },
+    {
+      "svglogo_id": "school_unnc_wordmark",
+      "source_file": "school/UNNC_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/school/UNNC_wordmark.svg"
+    },
+    {
+      "svglogo_id": "school_upc",
+      "source_file": "school/UPC.svg",
+      "output_file": "assets/_raw/svglogo/school/UPC.svg"
+    },
+    {
+      "svglogo_id": "school_upc_wordmark",
+      "source_file": "school/UPC_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/school/UPC_wordmark.svg"
+    },
+    {
+      "svglogo_id": "school_usst",
+      "source_file": "school/USST.svg",
+      "output_file": "assets/_raw/svglogo/school/USST.svg"
+    },
+    {
+      "svglogo_id": "school_usst_wordmark",
+      "source_file": "school/USST_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/school/USST_wordmark.svg"
+    },
+    {
+      "svglogo_id": "school_ustb",
+      "source_file": "school/USTB.svg",
+      "output_file": "assets/_raw/svglogo/school/USTB.svg"
+    },
+    {
+      "svglogo_id": "school_ustb_wordmark",
+      "source_file": "school/USTB_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/school/USTB_wordmark.svg"
+    },
+    {
+      "svglogo_id": "school_ustc",
+      "source_file": "school/USTC.svg",
+      "output_file": "assets/_raw/svglogo/school/USTC.svg"
+    },
+    {
+      "svglogo_id": "school_ustc_wordmark",
+      "source_file": "school/USTC_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/school/USTC_wordmark.svg"
+    },
+    {
+      "svglogo_id": "school_utibet",
+      "source_file": "school/UTIBET.svg",
+      "output_file": "assets/_raw/svglogo/school/UTIBET.svg"
+    },
+    {
+      "svglogo_id": "school_utibet_wordmark",
+      "source_file": "school/UTIBET_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/school/UTIBET_wordmark.svg"
+    },
+    {
+      "svglogo_id": "school_whu",
+      "source_file": "school/WHU.svg",
+      "output_file": "assets/_raw/svglogo/school/WHU.svg"
+    },
+    {
+      "svglogo_id": "school_whu_wordmark",
+      "source_file": "school/WHU_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/school/WHU_wordmark.svg"
+    },
+    {
+      "svglogo_id": "school_wust",
+      "source_file": "school/WUST.svg",
+      "output_file": "assets/_raw/svglogo/school/WUST.svg"
+    },
+    {
+      "svglogo_id": "school_wust_wordmark",
+      "source_file": "school/WUST_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/school/WUST_wordmark.svg"
+    },
+    {
+      "svglogo_id": "school_wut",
+      "source_file": "school/WUT.svg",
+      "output_file": "assets/_raw/svglogo/school/WUT.svg"
+    },
+    {
+      "svglogo_id": "school_wut_wordmark",
+      "source_file": "school/WUT_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/school/WUT_wordmark.svg"
+    },
+    {
+      "svglogo_id": "school_xdu",
+      "source_file": "school/XDU.svg",
+      "output_file": "assets/_raw/svglogo/school/XDU.svg"
+    },
+    {
+      "svglogo_id": "school_xdu_wordmark",
+      "source_file": "school/XDU_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/school/XDU_wordmark.svg"
+    },
+    {
+      "svglogo_id": "school_xjtu",
+      "source_file": "school/XJTU.svg",
+      "output_file": "assets/_raw/svglogo/school/XJTU.svg"
+    },
+    {
+      "svglogo_id": "school_xjtu_wordmark",
+      "source_file": "school/XJTU_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/school/XJTU_wordmark.svg"
+    },
+    {
+      "svglogo_id": "school_xju",
+      "source_file": "school/XJU.svg",
+      "output_file": "assets/_raw/svglogo/school/XJU.svg"
+    },
+    {
+      "svglogo_id": "school_xju_wordmark",
+      "source_file": "school/XJU_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/school/XJU_wordmark.svg"
+    },
+    {
+      "svglogo_id": "school_xmu",
+      "source_file": "school/XMU.svg",
+      "output_file": "assets/_raw/svglogo/school/XMU.svg"
+    },
+    {
+      "svglogo_id": "school_xmu_wordmark",
+      "source_file": "school/XMU_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/school/XMU_wordmark.svg"
+    },
+    {
+      "svglogo_id": "school_ynu",
+      "source_file": "school/YNU.svg",
+      "output_file": "assets/_raw/svglogo/school/YNU.svg"
+    },
+    {
+      "svglogo_id": "school_ynu_wordmark",
+      "source_file": "school/YNU_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/school/YNU_wordmark.svg"
+    },
+    {
+      "svglogo_id": "school_zju",
+      "source_file": "school/ZJU.svg",
+      "output_file": "assets/_raw/svglogo/school/ZJU.svg"
+    },
+    {
+      "svglogo_id": "school_zju_wordmark",
+      "source_file": "school/ZJU_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/school/ZJU_wordmark.svg"
+    },
+    {
+      "svglogo_id": "school_zjut",
+      "source_file": "school/ZJUT.svg",
+      "output_file": "assets/_raw/svglogo/school/ZJUT.svg"
+    },
+    {
+      "svglogo_id": "school_zjut_wordmark",
+      "source_file": "school/ZJUT_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/school/ZJUT_wordmark.svg"
+    },
+    {
+      "svglogo_id": "school_zzu",
+      "source_file": "school/ZZU.svg",
+      "output_file": "assets/_raw/svglogo/school/ZZU.svg"
+    },
+    {
+      "svglogo_id": "school_zzu_wordmark",
+      "source_file": "school/ZZU_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/school/ZZU_wordmark.svg"
+    },
+    {
+      "svglogo_id": "school_zhongyangxijuxueyuan_wordmark",
+      "source_file": "school/ZhongYangXiJuXueYuan_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/school/ZhongYangXiJuXueYuan_wordmark.svg"
+    },
+    {
+      "svglogo_id": "school_beihua_university",
+      "source_file": "school/Beihua_University.svg",
+      "output_file": "assets/_raw/svglogo/school/Beihua_University.svg"
+    },
+    {
+      "svglogo_id": "school_anhuixinhuauniversity",
+      "source_file": "school/anhuiXinhuaUniversity.svg",
+      "output_file": "assets/_raw/svglogo/school/anhuiXinhuaUniversity.svg"
+    },
+    {
+      "svglogo_id": "school_anhuixinhuauniversity_wordmark",
+      "source_file": "school/anhuiXinhuaUniversity_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/school/anhuiXinhuaUniversity_wordmark.svg"
+    },
+    {
+      "svglogo_id": "school_shanghaikejidaxue",
+      "source_file": "school/shanghaikejidaxue.svg",
+      "output_file": "assets/_raw/svglogo/school/shanghaikejidaxue.svg"
+    },
+    {
+      "svglogo_id": "school_shanghaikejidaxue_wordmark",
+      "source_file": "school/shanghaikejidaxue_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/school/shanghaikejidaxue_wordmark.svg"
+    },
+    {
+      "svglogo_id": "school_sztu",
+      "source_file": "school/SZTU.svg",
+      "output_file": "assets/_raw/svglogo/school/SZTU.svg"
+    },
+    {
+      "svglogo_id": "school_zhenzhenligong",
+      "source_file": "school/zhenzhenligong.svg",
+      "output_file": "assets/_raw/svglogo/school/zhenzhenligong.svg"
+    },
+    {
+      "svglogo_id": "school_zhenzhenligong_wordmark",
+      "source_file": "school/zhenzhenligong_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/school/zhenzhenligong_wordmark.svg"
+    },
+    {
+      "svglogo_id": "social_weixin",
+      "source_file": "social/weiXin.svg",
+      "output_file": "assets/_raw/svglogo/social/weiXin.svg"
+    },
+    {
+      "svglogo_id": "social_qq",
+      "source_file": "social/QQ.svg",
+      "output_file": "assets/_raw/svglogo/social/QQ.svg"
+    },
+    {
+      "svglogo_id": "social_kuaishou",
+      "source_file": "social/kuaiShou.svg",
+      "output_file": "assets/_raw/svglogo/social/kuaiShou.svg"
+    },
+    {
+      "svglogo_id": "social_kuaishou_wordmark",
+      "source_file": "social/kuaiShou_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/social/kuaiShou_wordmark.svg"
+    },
+    {
+      "svglogo_id": "social_gongzhonghao",
+      "source_file": "social/gongZhongHao.svg",
+      "output_file": "assets/_raw/svglogo/social/gongZhongHao.svg"
+    },
+    {
+      "svglogo_id": "social_douyin",
+      "source_file": "social/douYin.svg",
+      "output_file": "assets/_raw/svglogo/social/douYin.svg"
+    },
+    {
+      "svglogo_id": "social_tiktok",
+      "source_file": "social/Tiktok.svg",
+      "output_file": "assets/_raw/svglogo/social/Tiktok.svg"
+    },
+    {
+      "svglogo_id": "social_xiaoyuzhou",
+      "source_file": "social/xiaoYuZhou.svg",
+      "output_file": "assets/_raw/svglogo/social/xiaoYuZhou.svg"
+    },
+    {
+      "svglogo_id": "social_maimai",
+      "source_file": "social/maiMai.svg",
+      "output_file": "assets/_raw/svglogo/social/maiMai.svg"
+    },
+    {
+      "svglogo_id": "social_applepodcast",
+      "source_file": "social/applePodcast.svg",
+      "output_file": "assets/_raw/svglogo/social/applePodcast.svg"
+    },
+    {
+      "svglogo_id": "social_xiaobot",
+      "source_file": "social/xiaoBot.svg",
+      "output_file": "assets/_raw/svglogo/social/xiaoBot.svg"
+    },
+    {
+      "svglogo_id": "social_xiaobot_wordmark",
+      "source_file": "social/xiaobot_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/social/xiaobot_wordmark.svg"
+    },
+    {
+      "svglogo_id": "social_douyu",
+      "source_file": "social/douYu.svg",
+      "output_file": "assets/_raw/svglogo/social/douYu.svg"
+    },
+    {
+      "svglogo_id": "social_xiaohongshu",
+      "source_file": "social/xiaoHongShu.svg",
+      "output_file": "assets/_raw/svglogo/social/xiaoHongShu.svg"
+    },
+    {
+      "svglogo_id": "social_xiaohongshu_wordmark",
+      "source_file": "social/xiaoHongShu_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/social/xiaoHongShu_wordmark.svg"
+    },
+    {
+      "svglogo_id": "social_dribbble",
+      "source_file": "social/dribbble.svg",
+      "output_file": "assets/_raw/svglogo/social/dribbble.svg"
+    },
+    {
+      "svglogo_id": "social_dongqiudi",
+      "source_file": "social/dongqiudi.svg",
+      "output_file": "assets/_raw/svglogo/social/dongqiudi.svg"
+    },
+    {
+      "svglogo_id": "social_keep",
+      "source_file": "social/keep.svg",
+      "output_file": "assets/_raw/svglogo/social/keep.svg"
+    },
+    {
+      "svglogo_id": "social_zhubai",
+      "source_file": "social/zhuBai.svg",
+      "output_file": "assets/_raw/svglogo/social/zhuBai.svg"
+    },
+    {
+      "svglogo_id": "social_shipinghao",
+      "source_file": "social/shiPingHao.svg",
+      "output_file": "assets/_raw/svglogo/social/shiPingHao.svg"
+    },
+    {
+      "svglogo_id": "social_lofter",
+      "source_file": "social/lofter.svg",
+      "output_file": "assets/_raw/svglogo/social/lofter.svg"
+    },
+    {
+      "svglogo_id": "social_hupu",
+      "source_file": "social/huPu.svg",
+      "output_file": "assets/_raw/svglogo/social/huPu.svg"
+    },
+    {
+      "svglogo_id": "social_jinritoutiao",
+      "source_file": "social/jinRiTouTiao.svg",
+      "output_file": "assets/_raw/svglogo/social/jinRiTouTiao.svg"
+    },
+    {
+      "svglogo_id": "social_qingtingfm",
+      "source_file": "social/qingTingFM.svg",
+      "output_file": "assets/_raw/svglogo/social/qingTingFM.svg"
+    },
+    {
+      "svglogo_id": "social_huya",
+      "source_file": "social/huYa.svg",
+      "output_file": "assets/_raw/svglogo/social/huYa.svg"
+    },
+    {
+      "svglogo_id": "social_bilibili",
+      "source_file": "social/bilibili.svg",
+      "output_file": "assets/_raw/svglogo/social/bilibili.svg"
+    },
+    {
+      "svglogo_id": "social_douban",
+      "source_file": "social/douBan.svg",
+      "output_file": "assets/_raw/svglogo/social/douBan.svg"
+    },
+    {
+      "svglogo_id": "social_ximalaya",
+      "source_file": "social/xiMaLaYa.svg",
+      "output_file": "assets/_raw/svglogo/social/xiMaLaYa.svg"
+    },
+    {
+      "svglogo_id": "social_dingding",
+      "source_file": "social/dingDing.svg",
+      "output_file": "assets/_raw/svglogo/social/dingDing.svg"
+    },
+    {
+      "svglogo_id": "social_zhishixingqiu",
+      "source_file": "social/zhiShiXingQiu.svg",
+      "output_file": "assets/_raw/svglogo/social/zhiShiXingQiu.svg"
+    },
+    {
+      "svglogo_id": "social_weibo",
+      "source_file": "social/weiBo.svg",
+      "output_file": "assets/_raw/svglogo/social/weiBo.svg"
+    },
+    {
+      "svglogo_id": "social_feishu",
+      "source_file": "social/feiShu.svg",
+      "output_file": "assets/_raw/svglogo/social/feiShu.svg"
+    },
+    {
+      "svglogo_id": "social_xiguashiping",
+      "source_file": "social/xiGuaShiPing.svg",
+      "output_file": "assets/_raw/svglogo/social/xiGuaShiPing.svg"
+    },
+    {
+      "svglogo_id": "social_qiyeweixin",
+      "source_file": "social/qiyeweixin.svg",
+      "output_file": "assets/_raw/svglogo/social/qiyeweixin.svg"
+    },
+    {
+      "svglogo_id": "tools_canva",
+      "source_file": "tools/Canva.svg",
+      "output_file": "assets/_raw/svglogo/tools/Canva.svg"
+    },
+    {
+      "svglogo_id": "tools_canva_wordmark",
+      "source_file": "tools/Canva_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/tools/Canva_wordmark.svg"
+    },
+    {
+      "svglogo_id": "tools_qingicon",
+      "source_file": "tools/qingicon.svg",
+      "output_file": "assets/_raw/svglogo/tools/qingicon.svg"
+    },
+    {
+      "svglogo_id": "tools_qing_wordmark",
+      "source_file": "tools/qing_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/tools/qing_wordmark.svg"
+    },
+    {
+      "svglogo_id": "tools_vjshi",
+      "source_file": "tools/vjshi.svg",
+      "output_file": "assets/_raw/svglogo/tools/vjshi.svg"
+    },
+    {
+      "svglogo_id": "tools_vjshi_wordmark",
+      "source_file": "tools/vjshi_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/tools/vjshi_wordmark.svg"
+    },
+    {
+      "svglogo_id": "tools_iconfont",
+      "source_file": "tools/iconfont.svg",
+      "output_file": "assets/_raw/svglogo/tools/iconfont.svg"
+    },
+    {
+      "svglogo_id": "tools_iconfont_wordmark",
+      "source_file": "tools/iconfont_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/tools/iconfont_wordmark.svg"
+    },
+    {
+      "svglogo_id": "tools_youku",
+      "source_file": "tools/youku.svg",
+      "output_file": "assets/_raw/svglogo/tools/youku.svg"
+    },
+    {
+      "svglogo_id": "tools_youku_wordmark",
+      "source_file": "tools/youku_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/tools/youku_wordmark.svg"
+    },
+    {
+      "svglogo_id": "tools_volcengine",
+      "source_file": "tools/volcengine.svg",
+      "output_file": "assets/_raw/svglogo/tools/volcengine.svg"
+    },
+    {
+      "svglogo_id": "tools_niutrans",
+      "source_file": "tools/niutrans.svg",
+      "output_file": "assets/_raw/svglogo/tools/niutrans.svg"
+    },
+    {
+      "svglogo_id": "tools_caiyunapp",
+      "source_file": "tools/caiyunapp.svg",
+      "output_file": "assets/_raw/svglogo/tools/caiyunapp.svg"
+    },
+    {
+      "svglogo_id": "tools_mastergo",
+      "source_file": "tools/masterGo.svg",
+      "output_file": "assets/_raw/svglogo/tools/masterGo.svg"
+    },
+    {
+      "svglogo_id": "tools_mastergo_wordmark",
+      "source_file": "tools/masterGo_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/tools/masterGo_wordmark.svg"
+    },
+    {
+      "svglogo_id": "tools_jsdesign",
+      "source_file": "tools/jsdesign.svg",
+      "output_file": "assets/_raw/svglogo/tools/jsdesign.svg"
+    },
+    {
+      "svglogo_id": "tools_jsdesign_wordmark",
+      "source_file": "tools/jsdesign_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/tools/jsdesign_wordmark.svg"
+    },
+    {
+      "svglogo_id": "tools_moonvy",
+      "source_file": "tools/Moonvy.svg",
+      "output_file": "assets/_raw/svglogo/tools/Moonvy.svg"
+    },
+    {
+      "svglogo_id": "tools_moonvy_wordmark",
+      "source_file": "tools/Moonvy_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/tools/Moonvy_wordmark.svg"
+    },
+    {
+      "svglogo_id": "tools_motiff",
+      "source_file": "tools/Motiff.svg",
+      "output_file": "assets/_raw/svglogo/tools/Motiff.svg"
+    },
+    {
+      "svglogo_id": "tools_motiff_wordmark",
+      "source_file": "tools/Motiff_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/tools/Motiff_wordmark.svg"
+    },
+    {
+      "svglogo_id": "tools_pixso",
+      "source_file": "tools/Pixso.svg",
+      "output_file": "assets/_raw/svglogo/tools/Pixso.svg"
+    },
+    {
+      "svglogo_id": "tools_pixso_wordmark",
+      "source_file": "tools/Pixso_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/tools/Pixso_wordmark.svg"
+    },
+    {
+      "svglogo_id": "tools_boardmix",
+      "source_file": "tools/boardmix.svg",
+      "output_file": "assets/_raw/svglogo/tools/boardmix.svg"
+    },
+    {
+      "svglogo_id": "tools_boardmix_wordmark",
+      "source_file": "tools/boardmix_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/tools/boardmix_wordmark.svg"
+    },
+    {
+      "svglogo_id": "tools_modao",
+      "source_file": "tools/Modao.svg",
+      "output_file": "assets/_raw/svglogo/tools/Modao.svg"
+    },
+    {
+      "svglogo_id": "tools_modao_wordmark",
+      "source_file": "tools/Modao_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/tools/Modao_wordmark.svg"
+    },
+    {
+      "svglogo_id": "tools_xinzhi",
+      "source_file": "tools/xinzhi.svg",
+      "output_file": "assets/_raw/svglogo/tools/xinzhi.svg"
+    },
+    {
+      "svglogo_id": "tools_xinzhi_wordmark",
+      "source_file": "tools/xinzhi_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/tools/xinzhi_wordmark.svg"
+    },
+    {
+      "svglogo_id": "tools_alipan",
+      "source_file": "tools/alipan.svg",
+      "output_file": "assets/_raw/svglogo/tools/alipan.svg"
+    },
+    {
+      "svglogo_id": "tools_alipan_wordmark",
+      "source_file": "tools/alipan_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/tools/alipan_wordmark.svg"
+    },
+    {
+      "svglogo_id": "tools_baiducould",
+      "source_file": "tools/baiducould.svg",
+      "output_file": "assets/_raw/svglogo/tools/baiducould.svg"
+    },
+    {
+      "svglogo_id": "tools_aliyun",
+      "source_file": "tools/aliyun.svg",
+      "output_file": "assets/_raw/svglogo/tools/aliyun.svg"
+    },
+    {
+      "svglogo_id": "tools_aliyun_wordmark",
+      "source_file": "tools/aliyun_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/tools/aliyun_wordmark.svg"
+    },
+    {
+      "svglogo_id": "tools_quarkpan",
+      "source_file": "tools/quarkpan.svg",
+      "output_file": "assets/_raw/svglogo/tools/quarkpan.svg"
+    },
+    {
+      "svglogo_id": "tools_quarkpan_wordmark",
+      "source_file": "tools/quarkpan_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/tools/quarkpan_wordmark.svg"
+    },
+    {
+      "svglogo_id": "tools_word",
+      "source_file": "tools/word.svg",
+      "output_file": "assets/_raw/svglogo/tools/word.svg"
+    },
+    {
+      "svglogo_id": "tools_ppt",
+      "source_file": "tools/ppt.svg",
+      "output_file": "assets/_raw/svglogo/tools/ppt.svg"
+    },
+    {
+      "svglogo_id": "tools_outlook",
+      "source_file": "tools/outlook.svg",
+      "output_file": "assets/_raw/svglogo/tools/outlook.svg"
+    },
+    {
+      "svglogo_id": "tools_excel",
+      "source_file": "tools/excel.svg",
+      "output_file": "assets/_raw/svglogo/tools/excel.svg"
+    },
+    {
+      "svglogo_id": "tools_onenote",
+      "source_file": "tools/OneNote.svg",
+      "output_file": "assets/_raw/svglogo/tools/OneNote.svg"
+    },
+    {
+      "svglogo_id": "tools_microsoftteams",
+      "source_file": "tools/MicrosoftTeams.svg",
+      "output_file": "assets/_raw/svglogo/tools/MicrosoftTeams.svg"
+    },
+    {
+      "svglogo_id": "tools_zhi",
+      "source_file": "tools/zhi.svg",
+      "output_file": "assets/_raw/svglogo/tools/zhi.svg"
+    },
+    {
+      "svglogo_id": "tools_jike",
+      "source_file": "tools/jike.svg",
+      "output_file": "assets/_raw/svglogo/tools/jike.svg"
+    },
+    {
+      "svglogo_id": "tools_jike_wordmark",
+      "source_file": "tools/jike_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/tools/jike_wordmark.svg"
+    },
+    {
+      "svglogo_id": "tools_baidu",
+      "source_file": "tools/baidu.svg",
+      "output_file": "assets/_raw/svglogo/tools/baidu.svg"
+    },
+    {
+      "svglogo_id": "tools_baidu_wordmark",
+      "source_file": "tools/baidu_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/tools/baidu_wordmark.svg"
+    },
+    {
+      "svglogo_id": "tools_wangyiyun_music",
+      "source_file": "tools/wangyiyun-music.svg",
+      "output_file": "assets/_raw/svglogo/tools/wangyiyun-music.svg"
+    },
+    {
+      "svglogo_id": "tools_deepseek",
+      "source_file": "tools/deepseek.svg",
+      "output_file": "assets/_raw/svglogo/tools/deepseek.svg"
+    },
+    {
+      "svglogo_id": "tools_deepseek_wordmark",
+      "source_file": "tools/deepseek_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/tools/deepseek_wordmark.svg"
+    },
+    {
+      "svglogo_id": "tools_xet",
+      "source_file": "tools/XET.svg",
+      "output_file": "assets/_raw/svglogo/tools/XET.svg"
+    },
+    {
+      "svglogo_id": "tools_antforest",
+      "source_file": "tools/AntForest.svg",
+      "output_file": "assets/_raw/svglogo/tools/AntForest.svg"
+    },
+    {
+      "svglogo_id": "tools_antforest_wordmark",
+      "source_file": "tools/AntForest_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/tools/AntForest_wordmark.svg"
+    },
+    {
+      "svglogo_id": "tools_antchan",
+      "source_file": "tools/Antchan.svg",
+      "output_file": "assets/_raw/svglogo/tools/Antchan.svg"
+    },
+    {
+      "svglogo_id": "tools_antchan_wordmark",
+      "source_file": "tools/Antchan_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/tools/Antchan_wordmark.svg"
+    },
+    {
+      "svglogo_id": "tools_cosmoplat_wordmark",
+      "source_file": "tools/cosmoplat_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/tools/cosmoplat_wordmark.svg"
+    },
+    {
+      "svglogo_id": "tools_svglogo",
+      "source_file": "tools/SVGLOGO.svg",
+      "output_file": "assets/_raw/svglogo/tools/SVGLOGO.svg"
+    },
+    {
+      "svglogo_id": "tools_alphaflow",
+      "source_file": "tools/AlphaFlow.svg",
+      "output_file": "assets/_raw/svglogo/tools/AlphaFlow.svg"
+    },
+    {
+      "svglogo_id": "tools_qiyuelock",
+      "source_file": "tools/QiyueLock.svg",
+      "output_file": "assets/_raw/svglogo/tools/QiyueLock.svg"
+    },
+    {
+      "svglogo_id": "tools_sap",
+      "source_file": "tools/SAP.svg",
+      "output_file": "assets/_raw/svglogo/tools/SAP.svg"
+    },
+    {
+      "svglogo_id": "tools_shein",
+      "source_file": "tools/Shein.svg",
+      "output_file": "assets/_raw/svglogo/tools/Shein.svg"
+    },
+    {
+      "svglogo_id": "tools_yonyou",
+      "source_file": "tools/Yonyou.svg",
+      "output_file": "assets/_raw/svglogo/tools/Yonyou.svg"
+    },
+    {
+      "svglogo_id": "tools_qingicon_wordmark",
+      "source_file": "tools/qingicon_wordmark.svg",
+      "output_file": "assets/_raw/svglogo/tools/qingicon_wordmark.svg"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "fetched_at": "2026-06-06T12:07:45.238Z",
+  "brand_id": "pizza_hut",
+  "query": "Pizza Hut",
+  "http_status": 200,
+  "search_status": "ok",
+  "results": [
+    {
+      "brandId": "idzB6VtHPG",
+      "claimed": false,
+      "domain": "pizzahut.com",
+      "name": "Pizza Hut",
+      "icon": "https://cdn.brandfetch.io/idzB6VtHPG/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834064045bfumLaCV7muTIcdJeM",
+      "_score": 28.99144,
+      "qualityScore": 0.9608744229109134,
+      "verified": true
+    },
+    {
+      "brandId": "idi24MRMYt",
+      "claimed": false,
+      "domain": "pizzahut.ca",
+      "name": "Pizza Hut",
+      "icon": "https://cdn.brandfetch.io/idi24MRMYt/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834064045bfumLaCV7muTIcdJeM",
+      "_score": 27.884422,
+      "qualityScore": 0.8771774019866582,
+      "verified": true
+    }
+  ]
+}

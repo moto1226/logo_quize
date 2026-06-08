@@ -1,0 +1,680 @@
+{
+  "generated_at": "2026-06-07T01:59:49.179Z",
+  "candidate_count": 13,
+  "entries": [
+    {
+      "brand_id": "nike",
+      "candidate_count": 1,
+      "errors": []
+    },
+    {
+      "brand_id": "adidas",
+      "candidate_count": 1,
+      "errors": []
+    },
+    {
+      "brand_id": "puma",
+      "candidate_count": 1,
+      "errors": []
+    },
+    {
+      "brand_id": "reebok",
+      "candidate_count": 1,
+      "errors": []
+    },
+    {
+      "brand_id": "the_north_face",
+      "candidate_count": 1,
+      "errors": []
+    },
+    {
+      "brand_id": "patagonia",
+      "candidate_count": 0,
+      "errors": [
+        "Unexpected token 'Y', \"You are ma\"... is not valid JSON"
+      ]
+    },
+    {
+      "brand_id": "salomon",
+      "candidate_count": 0,
+      "errors": [
+        "Unexpected token 'Y', \"You are ma\"... is not valid JSON"
+      ]
+    },
+    {
+      "brand_id": "under_armour",
+      "candidate_count": 0,
+      "errors": [
+        "Unexpected token 'Y', \"You are ma\"... is not valid JSON"
+      ]
+    },
+    {
+      "brand_id": "starbucks",
+      "candidate_count": 0,
+      "errors": [
+        "Unexpected token 'Y', \"You are ma\"... is not valid JSON"
+      ]
+    },
+    {
+      "brand_id": "costa",
+      "candidate_count": 0,
+      "errors": [
+        "Unexpected token 'Y', \"You are ma\"... is not valid JSON"
+      ]
+    },
+    {
+      "brand_id": "luckin",
+      "candidate_count": 0,
+      "errors": [
+        "Unexpected token 'Y', \"You are ma\"... is not valid JSON"
+      ]
+    },
+    {
+      "brand_id": "tim_hortons",
+      "candidate_count": 0,
+      "errors": [
+        "Unexpected token 'Y', \"You are ma\"... is not valid JSON"
+      ]
+    },
+    {
+      "brand_id": "mcdonalds",
+      "candidate_count": 0,
+      "errors": [
+        "Unexpected token 'Y', \"You are ma\"... is not valid JSON"
+      ]
+    },
+    {
+      "brand_id": "kfc",
+      "candidate_count": 0,
+      "errors": [
+        "Unexpected token 'Y', \"You are ma\"... is not valid JSON"
+      ]
+    },
+    {
+      "brand_id": "burger_king",
+      "candidate_count": 0,
+      "errors": [
+        "Unexpected token 'Y', \"You are ma\"... is not valid JSON"
+      ]
+    },
+    {
+      "brand_id": "pizza_hut",
+      "candidate_count": 0,
+      "errors": [
+        "Unexpected token 'Y', \"You are ma\"... is not valid JSON"
+      ]
+    },
+    {
+      "brand_id": "pepsi",
+      "candidate_count": 0,
+      "errors": [
+        "Unexpected token 'Y', \"You are ma\"... is not valid JSON"
+      ]
+    },
+    {
+      "brand_id": "red_bull",
+      "candidate_count": 0,
+      "errors": [
+        "Unexpected token 'Y', \"You are ma\"... is not valid JSON"
+      ]
+    },
+    {
+      "brand_id": "monster_energy",
+      "candidate_count": 0,
+      "errors": [
+        "Unexpected token 'Y', \"You are ma\"... is not valid JSON"
+      ]
+    },
+    {
+      "brand_id": "gatorade",
+      "candidate_count": 0,
+      "errors": [
+        "Unexpected token 'Y', \"You are ma\"... is not valid JSON"
+      ]
+    },
+    {
+      "brand_id": "tesla",
+      "candidate_count": 1,
+      "errors": []
+    },
+    {
+      "brand_id": "byd",
+      "candidate_count": 1,
+      "errors": []
+    },
+    {
+      "brand_id": "nio",
+      "candidate_count": 0,
+      "errors": [
+        "missing P154"
+      ]
+    },
+    {
+      "brand_id": "geely",
+      "candidate_count": 1,
+      "errors": []
+    },
+    {
+      "brand_id": "toyota",
+      "candidate_count": 1,
+      "errors": []
+    },
+    {
+      "brand_id": "honda",
+      "candidate_count": 0,
+      "errors": [
+        "Unexpected token 'Y', \"You are ma\"... is not valid JSON"
+      ]
+    },
+    {
+      "brand_id": "nissan",
+      "candidate_count": 0,
+      "errors": [
+        "Unexpected token 'Y', \"You are ma\"... is not valid JSON"
+      ]
+    },
+    {
+      "brand_id": "hyundai",
+      "candidate_count": 0,
+      "errors": [
+        "Unexpected token 'Y', \"You are ma\"... is not valid JSON"
+      ]
+    },
+    {
+      "brand_id": "bmw",
+      "candidate_count": 0,
+      "errors": [
+        "Unexpected token 'Y', \"You are ma\"... is not valid JSON"
+      ]
+    },
+    {
+      "brand_id": "mercedes_benz",
+      "candidate_count": 0,
+      "errors": [
+        "Unexpected token 'Y', \"You are ma\"... is not valid JSON"
+      ]
+    },
+    {
+      "brand_id": "audi",
+      "candidate_count": 0,
+      "errors": [
+        "Unexpected token 'Y', \"You are ma\"... is not valid JSON"
+      ]
+    },
+    {
+      "brand_id": "lexus",
+      "candidate_count": 0,
+      "errors": [
+        "Unexpected token 'Y', \"You are ma\"... is not valid JSON"
+      ]
+    },
+    {
+      "brand_id": "porsche",
+      "candidate_count": 0,
+      "errors": [
+        "Unexpected token 'Y', \"You are ma\"... is not valid JSON"
+      ]
+    },
+    {
+      "brand_id": "ferrari",
+      "candidate_count": 0,
+      "errors": [
+        "Unexpected token 'Y', \"You are ma\"... is not valid JSON"
+      ]
+    },
+    {
+      "brand_id": "lamborghini",
+      "candidate_count": 0,
+      "errors": [
+        "Unexpected token 'Y', \"You are ma\"... is not valid JSON"
+      ]
+    },
+    {
+      "brand_id": "maserati",
+      "candidate_count": 0,
+      "errors": [
+        "Unexpected token 'Y', \"You are ma\"... is not valid JSON"
+      ]
+    },
+    {
+      "brand_id": "apple",
+      "candidate_count": 0,
+      "errors": [
+        "Unexpected token 'Y', \"You are ma\"... is not valid JSON"
+      ]
+    },
+    {
+      "brand_id": "huawei",
+      "candidate_count": 0,
+      "errors": [
+        "Unexpected token 'Y', \"You are ma\"... is not valid JSON"
+      ]
+    },
+    {
+      "brand_id": "xiaomi",
+      "candidate_count": 0,
+      "errors": [
+        "Unexpected token 'Y', \"You are ma\"... is not valid JSON"
+      ]
+    },
+    {
+      "brand_id": "oneplus",
+      "candidate_count": 0,
+      "errors": [
+        "Unexpected token 'Y', \"You are ma\"... is not valid JSON"
+      ]
+    },
+    {
+      "brand_id": "google",
+      "candidate_count": 0,
+      "errors": [
+        "Unexpected token 'Y', \"You are ma\"... is not valid JSON"
+      ]
+    },
+    {
+      "brand_id": "microsoft",
+      "candidate_count": 0,
+      "errors": [
+        "Unexpected token 'Y', \"You are ma\"... is not valid JSON"
+      ]
+    },
+    {
+      "brand_id": "adobe",
+      "candidate_count": 0,
+      "errors": [
+        "Unexpected token 'Y', \"You are ma\"... is not valid JSON"
+      ]
+    },
+    {
+      "brand_id": "nvidia",
+      "candidate_count": 0,
+      "errors": [
+        "Unexpected token 'Y', \"You are ma\"... is not valid JSON"
+      ]
+    },
+    {
+      "brand_id": "instagram",
+      "candidate_count": 0,
+      "errors": [
+        "Unexpected token 'Y', \"You are ma\"... is not valid JSON"
+      ]
+    },
+    {
+      "brand_id": "tiktok",
+      "candidate_count": 0,
+      "errors": [
+        "Unexpected token 'Y', \"You are ma\"... is not valid JSON"
+      ]
+    },
+    {
+      "brand_id": "snapchat",
+      "candidate_count": 0,
+      "errors": [
+        "Unexpected token 'Y', \"You are ma\"... is not valid JSON"
+      ]
+    },
+    {
+      "brand_id": "pinterest",
+      "candidate_count": 0,
+      "errors": [
+        "Unexpected token 'Y', \"You are ma\"... is not valid JSON"
+      ]
+    },
+    {
+      "brand_id": "wechat",
+      "candidate_count": 0,
+      "errors": [
+        "Unexpected token 'Y', \"You are ma\"... is not valid JSON"
+      ]
+    },
+    {
+      "brand_id": "qq",
+      "candidate_count": 0,
+      "errors": [
+        "Unexpected token 'Y', \"You are ma\"... is not valid JSON"
+      ]
+    },
+    {
+      "brand_id": "douyin",
+      "candidate_count": 0,
+      "errors": [
+        "Unexpected token 'Y', \"You are ma\"... is not valid JSON"
+      ]
+    },
+    {
+      "brand_id": "xiaohongshu",
+      "candidate_count": 0,
+      "errors": [
+        "Unexpected token 'Y', \"You are ma\"... is not valid JSON"
+      ]
+    },
+    {
+      "brand_id": "whatsapp",
+      "candidate_count": 0,
+      "errors": [
+        "Unexpected token 'Y', \"You are ma\"... is not valid JSON"
+      ]
+    },
+    {
+      "brand_id": "telegram",
+      "candidate_count": 0,
+      "errors": [
+        "Unexpected token 'Y', \"You are ma\"... is not valid JSON"
+      ]
+    },
+    {
+      "brand_id": "line",
+      "candidate_count": 0,
+      "errors": [
+        "Unexpected token 'Y', \"You are ma\"... is not valid JSON"
+      ]
+    },
+    {
+      "brand_id": "discord",
+      "candidate_count": 0,
+      "errors": [
+        "Unexpected token 'Y', \"You are ma\"... is not valid JSON"
+      ]
+    },
+    {
+      "brand_id": "youtube",
+      "candidate_count": 0,
+      "errors": [
+        "Unexpected token 'Y', \"You are ma\"... is not valid JSON"
+      ]
+    },
+    {
+      "brand_id": "netflix",
+      "candidate_count": 0,
+      "errors": [
+        "Unexpected token 'Y', \"You are ma\"... is not valid JSON"
+      ]
+    },
+    {
+      "brand_id": "bilibili",
+      "candidate_count": 0,
+      "errors": [
+        "Unexpected token 'Y', \"You are ma\"... is not valid JSON"
+      ]
+    },
+    {
+      "brand_id": "tencent_video",
+      "candidate_count": 0,
+      "errors": [
+        "Unexpected token 'Y', \"You are ma\"... is not valid JSON"
+      ]
+    },
+    {
+      "brand_id": "playstation",
+      "candidate_count": 0,
+      "errors": [
+        "Unexpected token 'Y', \"You are ma\"... is not valid JSON"
+      ]
+    },
+    {
+      "brand_id": "xbox",
+      "candidate_count": 0,
+      "errors": [
+        "Unexpected token 'Y', \"You are ma\"... is not valid JSON"
+      ]
+    },
+    {
+      "brand_id": "steam",
+      "candidate_count": 0,
+      "errors": [
+        "Unexpected token 'Y', \"You are ma\"... is not valid JSON"
+      ]
+    },
+    {
+      "brand_id": "roblox",
+      "candidate_count": 0,
+      "errors": [
+        "Unexpected token 'Y', \"You are ma\"... is not valid JSON"
+      ]
+    },
+    {
+      "brand_id": "jd",
+      "candidate_count": 0,
+      "errors": [
+        "Unexpected token 'Y', \"You are ma\"... is not valid JSON"
+      ]
+    },
+    {
+      "brand_id": "tmall",
+      "candidate_count": 1,
+      "errors": []
+    },
+    {
+      "brand_id": "pinduoduo",
+      "candidate_count": 1,
+      "errors": []
+    },
+    {
+      "brand_id": "meituan",
+      "candidate_count": 0,
+      "errors": [
+        "commons http 429"
+      ]
+    },
+    {
+      "brand_id": "mastercard",
+      "candidate_count": 1,
+      "errors": []
+    },
+    {
+      "brand_id": "paypal",
+      "candidate_count": 1,
+      "errors": []
+    },
+    {
+      "brand_id": "alipay",
+      "candidate_count": 0,
+      "errors": [
+        "Unexpected token 'Y', \"You are ma\"... is not valid JSON"
+      ]
+    },
+    {
+      "brand_id": "wechat_pay",
+      "candidate_count": 0,
+      "errors": [
+        "Unexpected token 'Y', \"You are ma\"... is not valid JSON"
+      ]
+    },
+    {
+      "brand_id": "bank_of_china",
+      "candidate_count": 0,
+      "errors": [
+        "Unexpected token 'Y', \"You are ma\"... is not valid JSON"
+      ]
+    },
+    {
+      "brand_id": "icbc",
+      "candidate_count": 0,
+      "errors": [
+        "Unexpected token 'Y', \"You are ma\"... is not valid JSON"
+      ]
+    },
+    {
+      "brand_id": "china_construction_bank",
+      "candidate_count": 0,
+      "errors": [
+        "Unexpected token 'Y', \"You are ma\"... is not valid JSON"
+      ]
+    },
+    {
+      "brand_id": "agricultural_bank_of_china",
+      "candidate_count": 0,
+      "errors": [
+        "Unexpected token 'Y', \"You are ma\"... is not valid JSON"
+      ]
+    },
+    {
+      "brand_id": "hsbc",
+      "candidate_count": 0,
+      "errors": [
+        "Unexpected token 'Y', \"You are ma\"... is not valid JSON"
+      ]
+    },
+    {
+      "brand_id": "citibank",
+      "candidate_count": 0,
+      "errors": [
+        "Unexpected token 'Y', \"You are ma\"... is not valid JSON"
+      ]
+    },
+    {
+      "brand_id": "chase",
+      "candidate_count": 0,
+      "errors": [
+        "Unexpected token 'Y', \"You are ma\"... is not valid JSON"
+      ]
+    },
+    {
+      "brand_id": "deutsche_bank",
+      "candidate_count": 0,
+      "errors": [
+        "Unexpected token 'Y', \"You are ma\"... is not valid JSON"
+      ]
+    },
+    {
+      "brand_id": "chanel",
+      "candidate_count": 0,
+      "errors": [
+        "Unexpected token 'Y', \"You are ma\"... is not valid JSON"
+      ]
+    },
+    {
+      "brand_id": "gucci",
+      "candidate_count": 0,
+      "errors": [
+        "Unexpected token 'Y', \"You are ma\"... is not valid JSON"
+      ]
+    },
+    {
+      "brand_id": "louis_vuitton",
+      "candidate_count": 0,
+      "errors": [
+        "Unexpected token 'Y', \"You are ma\"... is not valid JSON"
+      ]
+    },
+    {
+      "brand_id": "hermes",
+      "candidate_count": 0,
+      "errors": [
+        "Unexpected token 'Y', \"You are ma\"... is not valid JSON"
+      ]
+    },
+    {
+      "brand_id": "air_china",
+      "candidate_count": 0,
+      "errors": [
+        "Unexpected token 'Y', \"You are ma\"... is not valid JSON"
+      ]
+    },
+    {
+      "brand_id": "china_southern_airlines",
+      "candidate_count": 0,
+      "errors": [
+        "Unexpected token 'Y', \"You are ma\"... is not valid JSON"
+      ]
+    },
+    {
+      "brand_id": "china_eastern_airlines",
+      "candidate_count": 0,
+      "errors": [
+        "Unexpected token 'Y', \"You are ma\"... is not valid JSON"
+      ]
+    },
+    {
+      "brand_id": "hainan_airlines",
+      "candidate_count": 0,
+      "errors": [
+        "Unexpected token 'Y', \"You are ma\"... is not valid JSON"
+      ]
+    },
+    {
+      "brand_id": "emirates",
+      "candidate_count": 0,
+      "errors": [
+        "Unexpected token 'Y', \"You are ma\"... is not valid JSON"
+      ]
+    },
+    {
+      "brand_id": "qatar_airways",
+      "candidate_count": 0,
+      "errors": [
+        "Unexpected token 'Y', \"You are ma\"... is not valid JSON"
+      ]
+    },
+    {
+      "brand_id": "singapore_airlines",
+      "candidate_count": 0,
+      "errors": [
+        "Unexpected token 'Y', \"You are ma\"... is not valid JSON"
+      ]
+    },
+    {
+      "brand_id": "delta_air_lines",
+      "candidate_count": 0,
+      "errors": [
+        "Unexpected token 'Y', \"You are ma\"... is not valid JSON"
+      ]
+    },
+    {
+      "brand_id": "united_nations",
+      "candidate_count": 0,
+      "errors": [
+        "Unexpected token 'Y', \"You are ma\"... is not valid JSON"
+      ]
+    },
+    {
+      "brand_id": "world_health_organization",
+      "candidate_count": 0,
+      "errors": [
+        "Unexpected token 'Y', \"You are ma\"... is not valid JSON"
+      ]
+    },
+    {
+      "brand_id": "olympics",
+      "candidate_count": 0,
+      "errors": [
+        "Unexpected token 'Y', \"You are ma\"... is not valid JSON"
+      ]
+    },
+    {
+      "brand_id": "red_cross",
+      "candidate_count": 0,
+      "errors": [
+        "Unexpected token 'Y', \"You are ma\"... is not valid JSON"
+      ]
+    },
+    {
+      "brand_id": "tsinghua_university",
+      "candidate_count": 0,
+      "errors": [
+        "Unexpected token 'Y', \"You are ma\"... is not valid JSON"
+      ]
+    },
+    {
+      "brand_id": "peking_university",
+      "candidate_count": 0,
+      "errors": [
+        "Unexpected token 'Y', \"You are ma\"... is not valid JSON"
+      ]
+    },
+    {
+      "brand_id": "fudan_university",
+      "candidate_count": 0,
+      "errors": [
+        "Unexpected token 'Y', \"You are ma\"... is not valid JSON"
+      ]
+    },
+    {
+      "brand_id": "zhejiang_university",
+      "candidate_count": 0,
+      "errors": [
+        "Unexpected token 'Y', \"You are ma\"... is not valid JSON"
+      ]
+    }
+  ]
+}

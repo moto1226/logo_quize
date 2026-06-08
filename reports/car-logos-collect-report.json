@@ -1,0 +1,71 @@
+{
+  "generated_at": "2026-06-07T01:41:00.309Z",
+  "action": "clone",
+  "candidate_count": 23,
+  "entries": [
+    {
+      "brand_id": "tesla",
+      "candidate_count": 1
+    },
+    {
+      "brand_id": "byd",
+      "candidate_count": 1
+    },
+    {
+      "brand_id": "nio",
+      "candidate_count": 1
+    },
+    {
+      "brand_id": "geely",
+      "candidate_count": 1
+    },
+    {
+      "brand_id": "toyota",
+      "candidate_count": 3
+    },
+    {
+      "brand_id": "honda",
+      "candidate_count": 1
+    },
+    {
+      "brand_id": "nissan",
+      "candidate_count": 3
+    },
+    {
+      "brand_id": "hyundai",
+      "candidate_count": 1
+    },
+    {
+      "brand_id": "bmw",
+      "candidate_count": 2
+    },
+    {
+      "brand_id": "mercedes_benz",
+      "candidate_count": 1
+    },
+    {
+      "brand_id": "audi",
+      "candidate_count": 3
+    },
+    {
+      "brand_id": "lexus",
+      "candidate_count": 1
+    },
+    {
+      "brand_id": "porsche",
+      "candidate_count": 1
+    },
+    {
+      "brand_id": "ferrari",
+      "candidate_count": 1
+    },
+    {
+      "brand_id": "lamborghini",
+      "candidate_count": 1
+    },
+    {
+      "brand_id": "maserati",
+      "candidate_count": 1
+    }
+  ]
+}

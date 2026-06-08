@@ -1,0 +1,48 @@
+{
+  "fetched_at": "2026-06-06T12:08:02.952Z",
+  "brand_id": "snapchat",
+  "query": "Snapchat",
+  "http_status": 200,
+  "search_status": "ok",
+  "results": [
+    {
+      "brandId": "id4VHp4_C_",
+      "claimed": false,
+      "domain": "snapchat.com",
+      "name": "Snapchat",
+      "icon": "https://cdn.brandfetch.io/id4VHp4_C_/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834081772bfumLaCV7m32hTQyRr",
+      "_score": 25.177748,
+      "qualityScore": 0.9230704615368462,
+      "verified": true
+    },
+    {
+      "brandId": "idxr0dFsHU",
+      "claimed": false,
+      "domain": "snapchat-planets.blog",
+      "name": "Snapchat Planets",
+      "icon": "https://cdn.brandfetch.io/idxr0dFsHU/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834081772bfumLaCV7m32hTQyRr",
+      "_score": 20.407438,
+      "qualityScore": 0.5,
+      "verified": false
+    },
+    {
+      "brandId": "idSXmwD95T",
+      "claimed": false,
+      "domain": "snapchatads.com",
+      "name": "Adam Taylor",
+      "icon": "https://cdn.brandfetch.io/idSXmwD95T/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834081772bfumLaCV7m32hTQyRr",
+      "_score": 14.85105,
+      "qualityScore": 0.39743589743589747,
+      "verified": false
+    },
+    {
+      "brandId": "idYYPdB1go",
+      "claimed": false,
+      "domain": "snapchatemojis.com",
+      "name": "Snapchat Emojis and Trophies",
+      "icon": "https://cdn.brandfetch.io/idYYPdB1go/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834081772bfumLaCV7m32hTQyRr",
+      "_score": 15.343067,
+      "qualityScore": 0.38461538461538464
+    }
+  ]
+}

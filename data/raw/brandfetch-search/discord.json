@@ -1,0 +1,56 @@
+{
+  "fetched_at": "2026-06-06T12:08:08.180Z",
+  "brand_id": "discord",
+  "query": "Discord",
+  "http_status": 200,
+  "search_status": "ok",
+  "results": [
+    {
+      "brandId": "idM8Hlme1a",
+      "claimed": false,
+      "domain": "discord.com",
+      "name": "Discord",
+      "icon": "https://cdn.brandfetch.io/idM8Hlme1a/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834087007bfumLaCV7mmuv8S946",
+      "_score": 20.070755,
+      "qualityScore": 0.9230646923046346,
+      "verified": true
+    },
+    {
+      "brandId": "idrW8ugfH9",
+      "claimed": false,
+      "domain": "discordapp.com",
+      "name": "Discord",
+      "icon": "https://cdn.brandfetch.io/idrW8ugfH9/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834087007bfumLaCV7mmuv8S946",
+      "_score": 20.070755,
+      "qualityScore": 0.923034403835524,
+      "verified": true
+    },
+    {
+      "brandId": "idKKWDcTGf",
+      "claimed": false,
+      "domain": "discordmerch.com",
+      "name": "Discord",
+      "icon": "https://cdn.brandfetch.io/idKKWDcTGf/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834087007bfumLaCV7mmuv8S946",
+      "_score": 20.070755,
+      "qualityScore": 0.7600399784715332
+    },
+    {
+      "brandId": "id2BL2Q8VZ",
+      "claimed": false,
+      "domain": "discords.com",
+      "name": "Discords.com",
+      "icon": "https://cdn.brandfetch.io/id2BL2Q8VZ/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834087007bfumLaCV7mmuv8S946",
+      "_score": 25.404732,
+      "qualityScore": 0.731966240683868
+    },
+    {
+      "brandId": "idydgCx7n8",
+      "claimed": false,
+      "domain": "discordservers.com",
+      "name": "Discord Servers",
+      "icon": "https://cdn.brandfetch.io/idydgCx7n8/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834087007bfumLaCV7mmuv8S946",
+      "_score": 16.65865,
+      "qualityScore": 0.7316412598333919
+    }
+  ]
+}

@@ -1,0 +1,406 @@
+{
+  "generated_at": "2026-06-07T02:19:04.084Z",
+  "link_count": 121,
+  "entries": [
+    {
+      "brand_id": "nike",
+      "link_count": 0
+    },
+    {
+      "brand_id": "adidas",
+      "link_count": 0
+    },
+    {
+      "brand_id": "puma",
+      "link_count": 0
+    },
+    {
+      "brand_id": "reebok",
+      "link_count": 0
+    },
+    {
+      "brand_id": "the_north_face",
+      "link_count": 0
+    },
+    {
+      "brand_id": "patagonia",
+      "link_count": 0
+    },
+    {
+      "brand_id": "salomon",
+      "link_count": 0
+    },
+    {
+      "brand_id": "under_armour",
+      "link_count": 0
+    },
+    {
+      "brand_id": "starbucks",
+      "link_count": 0
+    },
+    {
+      "brand_id": "costa",
+      "link_count": 0
+    },
+    {
+      "brand_id": "luckin",
+      "link_count": 11
+    },
+    {
+      "brand_id": "tim_hortons",
+      "link_count": 0
+    },
+    {
+      "brand_id": "mcdonalds",
+      "link_count": 0
+    },
+    {
+      "brand_id": "kfc",
+      "link_count": 0
+    },
+    {
+      "brand_id": "burger_king",
+      "link_count": 0
+    },
+    {
+      "brand_id": "pizza_hut",
+      "link_count": 0
+    },
+    {
+      "brand_id": "pepsi",
+      "link_count": 0
+    },
+    {
+      "brand_id": "red_bull",
+      "link_count": 0
+    },
+    {
+      "brand_id": "monster_energy",
+      "link_count": 0
+    },
+    {
+      "brand_id": "gatorade",
+      "link_count": 0
+    },
+    {
+      "brand_id": "tesla",
+      "link_count": 0
+    },
+    {
+      "brand_id": "byd",
+      "link_count": 0
+    },
+    {
+      "brand_id": "nio",
+      "link_count": 0
+    },
+    {
+      "brand_id": "geely",
+      "link_count": 0
+    },
+    {
+      "brand_id": "toyota",
+      "link_count": 1
+    },
+    {
+      "brand_id": "honda",
+      "link_count": 0
+    },
+    {
+      "brand_id": "nissan",
+      "link_count": 0
+    },
+    {
+      "brand_id": "hyundai",
+      "link_count": 0
+    },
+    {
+      "brand_id": "bmw",
+      "link_count": 0
+    },
+    {
+      "brand_id": "mercedes_benz",
+      "link_count": 0
+    },
+    {
+      "brand_id": "audi",
+      "link_count": 0
+    },
+    {
+      "brand_id": "lexus",
+      "link_count": 0
+    },
+    {
+      "brand_id": "porsche",
+      "link_count": 2
+    },
+    {
+      "brand_id": "ferrari",
+      "link_count": 0
+    },
+    {
+      "brand_id": "lamborghini",
+      "link_count": 0
+    },
+    {
+      "brand_id": "maserati",
+      "link_count": 0
+    },
+    {
+      "brand_id": "apple",
+      "link_count": 1
+    },
+    {
+      "brand_id": "huawei",
+      "link_count": 0
+    },
+    {
+      "brand_id": "xiaomi",
+      "link_count": 1
+    },
+    {
+      "brand_id": "oneplus",
+      "link_count": 0
+    },
+    {
+      "brand_id": "google",
+      "link_count": 0
+    },
+    {
+      "brand_id": "microsoft",
+      "link_count": 3
+    },
+    {
+      "brand_id": "adobe",
+      "link_count": 0
+    },
+    {
+      "brand_id": "nvidia",
+      "link_count": 4
+    },
+    {
+      "brand_id": "instagram",
+      "link_count": 0
+    },
+    {
+      "brand_id": "tiktok",
+      "link_count": 0
+    },
+    {
+      "brand_id": "snapchat",
+      "link_count": 2
+    },
+    {
+      "brand_id": "pinterest",
+      "link_count": 13
+    },
+    {
+      "brand_id": "wechat",
+      "link_count": 0
+    },
+    {
+      "brand_id": "qq",
+      "link_count": 0
+    },
+    {
+      "brand_id": "douyin",
+      "link_count": 0
+    },
+    {
+      "brand_id": "xiaohongshu",
+      "link_count": 0
+    },
+    {
+      "brand_id": "whatsapp",
+      "link_count": 22
+    },
+    {
+      "brand_id": "telegram",
+      "link_count": 4
+    },
+    {
+      "brand_id": "line",
+      "link_count": 0
+    },
+    {
+      "brand_id": "discord",
+      "link_count": 3
+    },
+    {
+      "brand_id": "youtube",
+      "link_count": 3
+    },
+    {
+      "brand_id": "netflix",
+      "link_count": 2
+    },
+    {
+      "brand_id": "bilibili",
+      "link_count": 0
+    },
+    {
+      "brand_id": "tencent_video",
+      "link_count": 0
+    },
+    {
+      "brand_id": "playstation",
+      "link_count": 0
+    },
+    {
+      "brand_id": "xbox",
+      "link_count": 0
+    },
+    {
+      "brand_id": "steam",
+      "link_count": 1
+    },
+    {
+      "brand_id": "roblox",
+      "link_count": 4
+    },
+    {
+      "brand_id": "jd",
+      "link_count": 0
+    },
+    {
+      "brand_id": "tmall",
+      "link_count": 11
+    },
+    {
+      "brand_id": "pinduoduo",
+      "link_count": 22
+    },
+    {
+      "brand_id": "meituan",
+      "link_count": 0
+    },
+    {
+      "brand_id": "mastercard",
+      "link_count": 0
+    },
+    {
+      "brand_id": "paypal",
+      "link_count": 1
+    },
+    {
+      "brand_id": "alipay",
+      "link_count": 0
+    },
+    {
+      "brand_id": "wechat_pay",
+      "link_count": 0
+    },
+    {
+      "brand_id": "bank_of_china",
+      "link_count": 0
+    },
+    {
+      "brand_id": "icbc",
+      "link_count": 0
+    },
+    {
+      "brand_id": "china_construction_bank",
+      "link_count": 0
+    },
+    {
+      "brand_id": "agricultural_bank_of_china",
+      "link_count": 0
+    },
+    {
+      "brand_id": "hsbc",
+      "link_count": 1
+    },
+    {
+      "brand_id": "citibank",
+      "link_count": 0
+    },
+    {
+      "brand_id": "chase",
+      "link_count": 0
+    },
+    {
+      "brand_id": "deutsche_bank",
+      "link_count": 4
+    },
+    {
+      "brand_id": "chanel",
+      "link_count": 0
+    },
+    {
+      "brand_id": "gucci",
+      "link_count": 0
+    },
+    {
+      "brand_id": "louis_vuitton",
+      "link_count": 0
+    },
+    {
+      "brand_id": "hermes",
+      "link_count": 0
+    },
+    {
+      "brand_id": "air_china",
+      "link_count": 0
+    },
+    {
+      "brand_id": "china_southern_airlines",
+      "link_count": 0
+    },
+    {
+      "brand_id": "china_eastern_airlines",
+      "link_count": 0
+    },
+    {
+      "brand_id": "hainan_airlines",
+      "link_count": 0
+    },
+    {
+      "brand_id": "emirates",
+      "link_count": 2
+    },
+    {
+      "brand_id": "qatar_airways",
+      "link_count": 0
+    },
+    {
+      "brand_id": "singapore_airlines",
+      "link_count": 0
+    },
+    {
+      "brand_id": "delta_air_lines",
+      "link_count": 0
+    },
+    {
+      "brand_id": "united_nations",
+      "link_count": 0
+    },
+    {
+      "brand_id": "world_health_organization",
+      "link_count": 0
+    },
+    {
+      "brand_id": "olympics",
+      "link_count": 0
+    },
+    {
+      "brand_id": "red_cross",
+      "link_count": 3
+    },
+    {
+      "brand_id": "tsinghua_university",
+      "link_count": 0
+    },
+    {
+      "brand_id": "peking_university",
+      "link_count": 0
+    },
+    {
+      "brand_id": "fudan_university",
+      "link_count": 0
+    },
+    {
+      "brand_id": "zhejiang_university",
+      "link_count": 0
+    }
+  ]
+}

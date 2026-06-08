@@ -1,0 +1,56 @@
+{
+  "fetched_at": "2026-06-06T12:07:52.630Z",
+  "brand_id": "bmw",
+  "query": "BMW",
+  "http_status": 200,
+  "search_status": "ok",
+  "results": [
+    {
+      "brandId": "idKM0PtX7a",
+      "claimed": false,
+      "domain": "bmw-berlin-marathon.com",
+      "name": "BERLIN-MARATHON",
+      "icon": "https://cdn.brandfetch.io/idKM0PtX7a/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834071436bfumLaCV7mi1hXxKHh",
+      "_score": 5.6272,
+      "qualityScore": 0.7608822863744178
+    },
+    {
+      "brandId": "idCSvHHxWZ",
+      "claimed": false,
+      "domain": "schmiedmann.com",
+      "name": "Schmiedmann BMW",
+      "icon": "https://cdn.brandfetch.io/idCSvHHxWZ/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834071436bfumLaCV7mi1hXxKHh",
+      "_score": 13.217878,
+      "qualityScore": 0.7594687090979465
+    },
+    {
+      "brandId": "idAS2cLp6-",
+      "claimed": false,
+      "domain": "bmwmotos.com",
+      "name": "BMWMOTOS",
+      "icon": "https://cdn.brandfetch.io/idAS2cLp6-/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834071436bfumLaCV7mi1hXxKHh",
+      "_score": 26.408854,
+      "qualityScore": 0.7534503037471914
+    },
+    {
+      "brandId": "id9SJTbAGQ",
+      "claimed": false,
+      "domain": "bmw-actu.com",
+      "name": "BMW-Actu.com",
+      "icon": "https://cdn.brandfetch.io/id9SJTbAGQ/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834071436bfumLaCV7mi1hXxKHh",
+      "_score": 13.103075,
+      "qualityScore": 0.7493138700207752,
+      "verified": false
+    },
+    {
+      "brandId": "idSJ_nYUwt",
+      "claimed": false,
+      "domain": "bmw-kuwait.com",
+      "name": "علي الغانم وأولاده",
+      "icon": "https://cdn.brandfetch.io/idSJ_nYUwt/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834071436bfumLaCV7mi1hXxKHh",
+      "_score": 7.1577387,
+      "qualityScore": 0.7438981282822243,
+      "verified": false
+    }
+  ]
+}

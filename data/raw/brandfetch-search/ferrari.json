@@ -1,0 +1,56 @@
+{
+  "fetched_at": "2026-06-06T12:07:55.504Z",
+  "brand_id": "ferrari",
+  "query": "Ferrari",
+  "http_status": 200,
+  "search_status": "ok",
+  "results": [
+    {
+      "brandId": "idhiG18qpz",
+      "claimed": false,
+      "domain": "ferrari.com",
+      "name": "Ferrari",
+      "icon": "https://cdn.brandfetch.io/idhiG18qpz/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834074332bfumLaCV7mbqArYNPd",
+      "_score": 17.829342,
+      "qualityScore": 0.9224166344503124,
+      "verified": true
+    },
+    {
+      "brandId": "iduzL5fmhW",
+      "claimed": false,
+      "domain": "ferrari-carano.com",
+      "name": "Ferrari-Carano Winery",
+      "icon": "https://cdn.brandfetch.io/iduzL5fmhW/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834074332bfumLaCV7mbqArYNPd",
+      "_score": 11.892849,
+      "qualityScore": 0.8332751217803189,
+      "verified": true
+    },
+    {
+      "brandId": "idlSeP32DB",
+      "claimed": false,
+      "domain": "ferrariworldabudhabi.com",
+      "name": "Ferrari World™ Yas Island",
+      "icon": "https://cdn.brandfetch.io/idlSeP32DB/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834074332bfumLaCV7mbqArYNPd",
+      "_score": 9.07235,
+      "qualityScore": 0.7575550547733791
+    },
+    {
+      "brandId": "idq3X248wA",
+      "claimed": false,
+      "domain": "ferraritrento.com",
+      "name": "Ferrari Trento",
+      "icon": "https://cdn.brandfetch.io/idq3X248wA/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834074332bfumLaCV7mbqArYNPd",
+      "_score": 14.513424,
+      "qualityScore": 0.7046790030928277
+    },
+    {
+      "brandId": "idJBAhJOX6",
+      "claimed": false,
+      "domain": "comoliferrari.it",
+      "name": "Comoli Ferrari",
+      "icon": "https://cdn.brandfetch.io/idJBAhJOX6/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834074332bfumLaCV7mbqArYNPd",
+      "_score": 14.513424,
+      "qualityScore": 0.7018097042985799
+    }
+  ]
+}

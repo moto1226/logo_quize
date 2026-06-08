@@ -1,0 +1,74 @@
+<view class="page">
+  <view class="safe-header" style="padding-top: {{headerPaddingTop}}px;">
+    <view class="welcome-card">
+      <view class="welcome-left">
+        <view class="avatar">标</view>
+        <view class="welcome-copy">
+          <view class="hello">识标挑战</view>
+          <view class="hello-sub">20 题测品牌</view>
+        </view>
+      </view>
+      <view class="header-toy" style="margin-right: {{menuRightSpace}}px;">
+        <view class="toy-card">?</view>
+        <view class="toy-lens"></view>
+      </view>
+    </view>
+  </view>
+
+  <view class="content">
+    <view class="stats-card duo-card">
+      <view class="stat-item">
+        <view class="stat-num">{{brandCount}}</view>
+        <view class="stat-label">可用品牌</view>
+      </view>
+      <view class="stat-line"></view>
+      <view class="stat-item">
+        <view class="stat-num">{{questionCount}}</view>
+        <view class="stat-label">当前题目</view>
+      </view>
+      <view class="stat-line"></view>
+      <view class="stat-item">
+        <view class="stat-num">{{finishedCount}}</view>
+        <view class="stat-label">已完成</view>
+      </view>
+      <view class="stat-line"></view>
+      <view class="stat-item">
+        <view class="stat-num">{{bestAccuracy}}%</view>
+        <view class="stat-label">最高正确率</view>
+      </view>
+    </view>
+
+    <view class="section-head">
+      <text class="section-title">选择练习模式</text>
+    </view>
+
+    <view class="mode-grid">
+      <view
+        wx:for="{{modes}}"
+        wx:key="id"
+        class="mode-card duo-card {{item.colorClass}} {{item.locked ? 'is-locked' : ''}}"
+        hover-class="card-active"
+        data-mode="{{item.mode}}"
+        data-locked="{{item.locked}}"
+        bindtap="handleModeTap"
+      >
+        <view class="mode-top">
+          <view class="mode-icon">{{item.icon}}</view>
+          <view class="mode-badge">{{item.badge}}</view>
+        </view>
+        <view class="mode-main">
+          <view class="mode-title">{{item.title}}</view>
+          <view class="mode-desc">{{item.desc}}</view>
+        </view>
+      </view>
+    </view>
+
+    <view class="quick-card" hover-class="card-active" bindtap="startMixed">
+      <view class="quick-icon">▶</view>
+      <view class="quick-copy">
+        <view class="quick-title">快速开始</view>
+        <view class="quick-desc">随机混合练习</view>
+      </view>
+    </view>
+  </view>
+</view>

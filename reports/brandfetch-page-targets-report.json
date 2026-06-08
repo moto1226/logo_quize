@@ -1,0 +1,112 @@
+{
+  "generated_at": "2026-06-07T01:12:38.968Z",
+  "total_targets": 74,
+  "run_targets": 74,
+  "skipped": [
+    {
+      "brand_id": "byd",
+      "reason": "has_non_wordmark_svglogo_candidate"
+    },
+    {
+      "brand_id": "nio",
+      "reason": "has_non_wordmark_svglogo_candidate"
+    },
+    {
+      "brand_id": "huawei",
+      "reason": "has_non_wordmark_svglogo_candidate"
+    },
+    {
+      "brand_id": "xiaomi",
+      "reason": "has_non_wordmark_svglogo_candidate"
+    },
+    {
+      "brand_id": "microsoft",
+      "reason": "has_non_wordmark_svglogo_candidate"
+    },
+    {
+      "brand_id": "tiktok",
+      "reason": "has_non_wordmark_svglogo_candidate"
+    },
+    {
+      "brand_id": "wechat",
+      "reason": "has_non_wordmark_svglogo_candidate"
+    },
+    {
+      "brand_id": "qq",
+      "reason": "has_non_wordmark_svglogo_candidate"
+    },
+    {
+      "brand_id": "douyin",
+      "reason": "has_non_wordmark_svglogo_candidate"
+    },
+    {
+      "brand_id": "xiaohongshu",
+      "reason": "has_non_wordmark_svglogo_candidate"
+    },
+    {
+      "brand_id": "bilibili",
+      "reason": "has_non_wordmark_svglogo_candidate"
+    },
+    {
+      "brand_id": "alipay",
+      "reason": "has_non_wordmark_svglogo_candidate"
+    },
+    {
+      "brand_id": "wechat_pay",
+      "reason": "has_non_wordmark_svglogo_candidate"
+    },
+    {
+      "brand_id": "bank_of_china",
+      "reason": "has_non_wordmark_svglogo_candidate"
+    },
+    {
+      "brand_id": "icbc",
+      "reason": "has_non_wordmark_svglogo_candidate"
+    },
+    {
+      "brand_id": "china_construction_bank",
+      "reason": "has_non_wordmark_svglogo_candidate"
+    },
+    {
+      "brand_id": "agricultural_bank_of_china",
+      "reason": "has_non_wordmark_svglogo_candidate"
+    },
+    {
+      "brand_id": "chanel",
+      "reason": "has_non_wordmark_svglogo_candidate"
+    },
+    {
+      "brand_id": "air_china",
+      "reason": "has_non_wordmark_svglogo_candidate"
+    },
+    {
+      "brand_id": "china_southern_airlines",
+      "reason": "has_non_wordmark_svglogo_candidate"
+    },
+    {
+      "brand_id": "china_eastern_airlines",
+      "reason": "has_non_wordmark_svglogo_candidate"
+    },
+    {
+      "brand_id": "hainan_airlines",
+      "reason": "has_non_wordmark_svglogo_candidate"
+    },
+    {
+      "brand_id": "tsinghua_university",
+      "reason": "has_non_wordmark_svglogo_candidate"
+    },
+    {
+      "brand_id": "peking_university",
+      "reason": "has_non_wordmark_svglogo_candidate"
+    },
+    {
+      "brand_id": "fudan_university",
+      "reason": "has_non_wordmark_svglogo_candidate"
+    },
+    {
+      "brand_id": "zhejiang_university",
+      "reason": "has_non_wordmark_svglogo_candidate"
+    }
+  ],
+  "manual_wordmark_ids": []
+}

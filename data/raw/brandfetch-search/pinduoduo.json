@@ -1,0 +1,38 @@
+{
+  "fetched_at": "2026-06-06T12:08:14.570Z",
+  "brand_id": "pinduoduo",
+  "query": "Pinduoduo",
+  "http_status": 200,
+  "search_status": "ok",
+  "results": [
+    {
+      "brandId": "id8rd-gdhU",
+      "claimed": false,
+      "domain": "pinduoduo.com",
+      "name": "Pinduoduo",
+      "icon": "https://cdn.brandfetch.io/id8rd-gdhU/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834093402bfumLaCV7m_qoySnOS",
+      "_score": 27.211908,
+      "qualityScore": 0.9100394294329343,
+      "verified": true
+    },
+    {
+      "brandId": "idK47n9JXq",
+      "claimed": false,
+      "domain": "pinduoduo-global.com",
+      "name": "Pinduoduo",
+      "icon": "https://cdn.brandfetch.io/idK47n9JXq/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834093402bfumLaCV7m_qoySnOS",
+      "_score": 21.397528,
+      "qualityScore": 0.4661387896116205
+    },
+    {
+      "brandId": "idBTBq9G_b",
+      "claimed": false,
+      "domain": "pinduoduo1688.com",
+      "name": null,
+      "icon": "https://cdn.brandfetch.io/idBTBq9G_b/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834093402bfumLaCV7m_qoySnOS",
+      "_score": 10.809156,
+      "qualityScore": 0.36237764828671976,
+      "verified": false
+    }
+  ]
+}

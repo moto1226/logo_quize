@@ -1,0 +1,55 @@
+{
+  "fetched_at": "2026-06-06T12:07:53.203Z",
+  "brand_id": "mercedes_benz",
+  "query": "Mercedes-Benz",
+  "http_status": 200,
+  "search_status": "ok",
+  "results": [
+    {
+      "brandId": "idsWGwlSmy",
+      "claimed": false,
+      "domain": "mercedes-benz.com",
+      "name": "Mercedes-Benz",
+      "icon": "https://cdn.brandfetch.io/idsWGwlSmy/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834072017bfumLaCV7mkS-4PBv5",
+      "_score": 23.141811,
+      "qualityScore": 0.9612910768612307,
+      "verified": true
+    },
+    {
+      "brandId": "idR9ph68rR",
+      "claimed": false,
+      "domain": "mbusa.com",
+      "name": "Mercedes-Benz USAㅤ",
+      "icon": "https://cdn.brandfetch.io/idR9ph68rR/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834072017bfumLaCV7mkS-4PBv5",
+      "_score": 23.141811,
+      "qualityScore": 0.767703711156697
+    },
+    {
+      "brandId": "idif6sN-VT",
+      "claimed": false,
+      "domain": "mbvans.com",
+      "name": "Mercedes-Benz Vans USA",
+      "icon": "https://cdn.brandfetch.io/idif6sN-VT/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834072017bfumLaCV7mkS-4PBv5",
+      "_score": 23.583115,
+      "qualityScore": 0.7596545360674801
+    },
+    {
+      "brandId": "idjcDDqoOS",
+      "claimed": false,
+      "domain": "mercedes-benz-mena.com",
+      "name": "Mercedes-Benz Middle East",
+      "icon": "https://cdn.brandfetch.io/idjcDDqoOS/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834072017bfumLaCV7mkS-4PBv5",
+      "_score": 23.141811,
+      "qualityScore": 0.7494927258347199
+    },
+    {
+      "brandId": "idWr7dPq_y",
+      "claimed": false,
+      "domain": "mercedes-benz-bus.com",
+      "name": "Daimler Buses GmbH",
+      "icon": "https://cdn.brandfetch.io/idWr7dPq_y/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834072017bfumLaCV7mkS-4PBv5",
+      "_score": 16.364372,
+      "qualityScore": 0.7386609923575558
+    }
+  ]
+}

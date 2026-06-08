@@ -1,0 +1,56 @@
+{
+  "fetched_at": "2026-06-06T12:07:47.854Z",
+  "brand_id": "tesla",
+  "query": "Tesla",
+  "http_status": 200,
+  "search_status": "ok",
+  "results": [
+    {
+      "brandId": "id1XGwFRQA",
+      "claimed": false,
+      "domain": "teslarati.com",
+      "name": "TESLARATI",
+      "icon": "https://cdn.brandfetch.io/id1XGwFRQA/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834066684bfumLaCV7mx80czpGU",
+      "_score": 25.724442,
+      "qualityScore": 0.9599128072858941,
+      "verified": true
+    },
+    {
+      "brandId": "id2S-kXbuK",
+      "claimed": false,
+      "domain": "tesla.com",
+      "name": "Tesla",
+      "icon": "https://cdn.brandfetch.io/id2S-kXbuK/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834066684bfumLaCV7mx80czpGU",
+      "_score": 17.75943,
+      "qualityScore": 0.9230079807519952,
+      "verified": true
+    },
+    {
+      "brandId": "idF4Mcr--6",
+      "claimed": false,
+      "domain": "teslamotorsclub.com",
+      "name": "Tesla Motors Club",
+      "icon": "https://cdn.brandfetch.io/idF4Mcr--6/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834066685bfumLaCV7m0b3aSG0E",
+      "_score": 11.887583,
+      "qualityScore": 0.7661596915399228
+    },
+    {
+      "brandId": "idc-mFtcCH",
+      "claimed": false,
+      "domain": "notateslaapp.com",
+      "name": "Not a Tesla App",
+      "icon": "https://cdn.brandfetch.io/idc-mFtcCH/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834066685bfumLaCV7m0b3aSG0E",
+      "_score": 10.328487,
+      "qualityScore": 0.765080787424043
+    },
+    {
+      "brandId": "idul0uI8Li",
+      "claimed": false,
+      "domain": "evannex.com",
+      "name": "EVANNEX for Tesla Community",
+      "icon": "https://cdn.brandfetch.io/idul0uI8Li/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834066685bfumLaCV7m0b3aSG0E",
+      "_score": 10.286287,
+      "qualityScore": 0.7521139187977105
+    }
+  ]
+}

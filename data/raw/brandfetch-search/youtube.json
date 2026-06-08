@@ -1,0 +1,57 @@
+{
+  "fetched_at": "2026-06-06T12:08:08.763Z",
+  "brand_id": "youtube",
+  "query": "YouTube",
+  "http_status": 200,
+  "search_status": "ok",
+  "results": [
+    {
+      "brandId": "idVfYwcuQz",
+      "claimed": false,
+      "domain": "youtube.com",
+      "name": "YouTube",
+      "icon": "https://cdn.brandfetch.io/idVfYwcuQz/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834087593bfumLaCV7mUXiu7cNO",
+      "_score": 17.662354,
+      "qualityScore": 0.9615379999998847,
+      "verified": true
+    },
+    {
+      "brandId": "idroiQwnI1",
+      "claimed": false,
+      "domain": "youtubekids.com",
+      "name": "YouTube Kids",
+      "icon": "https://cdn.brandfetch.io/idroiQwnI1/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834087593bfumLaCV7mUXiu7cNO",
+      "_score": 14.653381,
+      "qualityScore": 0.8061704419272259,
+      "verified": true
+    },
+    {
+      "brandId": "idHXo95U0D",
+      "claimed": false,
+      "domain": "youtubemultiplier.com",
+      "name": "Youtube Multiplier",
+      "icon": "https://cdn.brandfetch.io/idHXo95U0D/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834087593bfumLaCV7mUXiu7cNO",
+      "_score": 13.999297,
+      "qualityScore": 0.7647109796392834
+    },
+    {
+      "brandId": "idUSRPLFQB",
+      "claimed": false,
+      "domain": "1of10.com",
+      "name": "1 of 10 Youtube Strategy",
+      "icon": "https://cdn.brandfetch.io/idUSRPLFQB/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834087593bfumLaCV7mUXiu7cNO",
+      "_score": 9.228144,
+      "qualityScore": 0.737788674831784
+    },
+    {
+      "brandId": "id3d17f_IL",
+      "claimed": false,
+      "domain": "lazuda.com",
+      "name": "ラズダです！山陰の情報誌【紙とwebとYouTube】",
+      "icon": "https://cdn.brandfetch.io/id3d17f_IL/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834087593bfumLaCV7mUXiu7cNO",
+      "_score": 4.421932,
+      "qualityScore": 0.7312164904964303,
+      "verified": false
+    }
+  ]
+}

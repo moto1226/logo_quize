@@ -1,0 +1,56 @@
+{
+  "fetched_at": "2026-06-06T12:07:50.198Z",
+  "brand_id": "toyota",
+  "query": "Toyota",
+  "http_status": 200,
+  "search_status": "ok",
+  "results": [
+    {
+      "brandId": "idR0dj2M6E",
+      "claimed": false,
+      "domain": "toyota.com",
+      "name": "Toyota",
+      "icon": "https://cdn.brandfetch.io/idR0dj2M6E/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834069025bfumLaCV7ma6UPu5y0",
+      "_score": 15.14761,
+      "qualityScore": 0.9229107114969086,
+      "verified": true
+    },
+    {
+      "brandId": "idLYl7L1Wx",
+      "claimed": false,
+      "domain": "toyota-industries.com",
+      "name": "Toyota Industries Corporation",
+      "icon": "https://cdn.brandfetch.io/idLYl7L1Wx/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834069026bfumLaCV7mXAKc7S-3",
+      "_score": 10.329017,
+      "qualityScore": 0.8673806110759219,
+      "verified": true
+    },
+    {
+      "brandId": "idRXwzuXXT",
+      "claimed": false,
+      "domain": "toyota-europe.com",
+      "name": "Toyota Europe",
+      "icon": "https://cdn.brandfetch.io/idRXwzuXXT/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834069026bfumLaCV7mXAKc7S-3",
+      "_score": 12.317112,
+      "qualityScore": 0.7680129420032356
+    },
+    {
+      "brandId": "idDSyp4Lmg",
+      "claimed": false,
+      "domain": "toyotagazooracing.com",
+      "name": "TOYOTA RACING WEC",
+      "icon": "https://cdn.brandfetch.io/idDSyp4Lmg/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834069026bfumLaCV7mXAKc7S-3",
+      "_score": 14.511893,
+      "qualityScore": 0.7672991725940239
+    },
+    {
+      "brandId": "idWZaMHept",
+      "claimed": false,
+      "domain": "lakelandtoyota.com",
+      "name": "Lakeland Toyota",
+      "icon": "https://cdn.brandfetch.io/idWZaMHept/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834069026bfumLaCV7mXAKc7S-3",
+      "_score": 12.223052,
+      "qualityScore": 0.7597066322343504
+    }
+  ]
+}

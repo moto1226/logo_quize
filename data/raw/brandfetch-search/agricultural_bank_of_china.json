@@ -1,0 +1,19 @@
+{
+  "fetched_at": "2026-06-06T12:08:19.730Z",
+  "brand_id": "agricultural_bank_of_china",
+  "query": "Agricultural Bank of China",
+  "http_status": 200,
+  "search_status": "ok",
+  "results": [
+    {
+      "brandId": "id2D_kZbjD",
+      "claimed": false,
+      "domain": "abchina.com",
+      "name": "Agricultural Bank of China",
+      "icon": "https://cdn.brandfetch.io/id2D_kZbjD/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834098563bfumLaCV7mML2zfUD8",
+      "_score": 31.053371,
+      "qualityScore": 0.8448438842878941,
+      "verified": true
+    }
+  ]
+}

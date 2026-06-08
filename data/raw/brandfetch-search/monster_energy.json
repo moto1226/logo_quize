@@ -1,0 +1,57 @@
+{
+  "fetched_at": "2026-06-06T12:07:46.985Z",
+  "brand_id": "monster_energy",
+  "query": "Monster Energy",
+  "http_status": 200,
+  "search_status": "ok",
+  "results": [
+    {
+      "brandId": "idmQvB06EK",
+      "claimed": false,
+      "domain": "upandupmerch.myshopify.com",
+      "name": "Monster Energy Up & Up Festival",
+      "icon": "https://cdn.brandfetch.io/idmQvB06EK/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834065810bfumLaCV7maiTje7an",
+      "_score": 33.125465,
+      "qualityScore": 0.5256410256410257,
+      "verified": false
+    },
+    {
+      "brandId": "idthywkTHx",
+      "claimed": false,
+      "domain": "monstertepremiaza.ro",
+      "name": "Monster Energy RO",
+      "icon": "https://cdn.brandfetch.io/idthywkTHx/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834065810bfumLaCV7maiTje7an",
+      "_score": 32.144268,
+      "qualityScore": 0.5,
+      "verified": false
+    },
+    {
+      "brandId": "idjy63fzon",
+      "claimed": false,
+      "domain": "monstercoins.cl",
+      "name": "Monster Energy",
+      "icon": "https://cdn.brandfetch.io/idjy63fzon/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834065810bfumLaCV7maiTje7an",
+      "_score": 32.144268,
+      "qualityScore": 0.3883572220893055,
+      "verified": false
+    },
+    {
+      "brandId": "id23fW50VF",
+      "claimed": false,
+      "domain": "ymr.it",
+      "name": "Monster Energy Yamaha MotoGP",
+      "icon": "https://cdn.brandfetch.io/id23fW50VF/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834065810bfumLaCV7maiTje7an",
+      "_score": 33.605095,
+      "qualityScore": 0.34615384615384615
+    },
+    {
+      "brandId": "idaIzDSxTH",
+      "claimed": false,
+      "domain": "mxgpyamaha.com",
+      "name": "Monster Energy Yamaha Factory MXGP Team",
+      "icon": "https://cdn.brandfetch.io/idaIzDSxTH/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834065810bfumLaCV7maiTje7an",
+      "_score": 32.144268,
+      "qualityScore": 0.34615384615384615
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "fetched_at": "2026-06-06T12:08:15.763Z",
+  "brand_id": "mastercard",
+  "query": "Mastercard",
+  "http_status": 200,
+  "search_status": "ok",
+  "results": [
+    {
+      "brandId": "idFw8DodCr",
+      "claimed": true,
+      "domain": "mastercard.com",
+      "name": "Mastercard",
+      "icon": "https://cdn.brandfetch.io/idFw8DodCr/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834094558bfumLaCV7m2ZPFIVpI",
+      "_score": 20.721363,
+      "qualityScore": 0.9998537499634375,
+      "verified": true
+    },
+    {
+      "brandId": "idewm-hQCj",
+      "claimed": false,
+      "domain": "mastercard.us",
+      "name": "Mastercard",
+      "icon": "https://cdn.brandfetch.io/idewm-hQCj/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834094558bfumLaCV7m2ZPFIVpI",
+      "_score": 19.89385,
+      "qualityScore": 0.8836823266898125,
+      "verified": true
+    },
+    {
+      "brandId": "idKLpTdlu8",
+      "claimed": false,
+      "domain": "finicity.com",
+      "name": "Mastercard News",
+      "icon": "https://cdn.brandfetch.io/idKLpTdlu8/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834094558bfumLaCV7m2ZPFIVpI",
+      "_score": 16.502352,
+      "qualityScore": 0.766759691689923
+    },
+    {
+      "brandId": "id_P3ZWYlB",
+      "claimed": false,
+      "domain": "nordicapigateway.com",
+      "name": "Mastercard Europe",
+      "icon": "https://cdn.brandfetch.io/id_P3ZWYlB/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834094558bfumLaCV7m2ZPFIVpI",
+      "_score": 16.046398,
+      "qualityScore": 0.7595115744932782
+    },
+    {
+      "brandId": "idjkIBwBAj",
+      "claimed": false,
+      "domain": "masterpass.com",
+      "name": "Mastercard News",
+      "icon": "https://cdn.brandfetch.io/idjkIBwBAj/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834094558bfumLaCV7m2ZPFIVpI",
+      "_score": 15.961546,
+      "qualityScore": 0.752314168847773
+    }
+  ]
+}

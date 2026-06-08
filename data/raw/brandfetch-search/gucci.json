@@ -1,0 +1,55 @@
+{
+  "fetched_at": "2026-06-06T12:08:22.925Z",
+  "brand_id": "gucci",
+  "query": "Gucci",
+  "http_status": 200,
+  "search_status": "ok",
+  "results": [
+    {
+      "brandId": "idsVLhORjl",
+      "claimed": false,
+      "domain": "gucci.com",
+      "name": "Gucci",
+      "icon": "https://cdn.brandfetch.io/idsVLhORjl/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834101750bfumLaCV7mCfntnnB0",
+      "_score": 22.30582,
+      "qualityScore": 0.9481210062610207,
+      "verified": true
+    },
+    {
+      "brandId": "idegKdlF2h",
+      "claimed": false,
+      "domain": "guccimaneonline.com",
+      "name": "Gucci Mane",
+      "icon": "https://cdn.brandfetch.io/idegKdlF2h/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834101750bfumLaCV7mCfntnnB0",
+      "_score": 18.74072,
+      "qualityScore": 0.6404966985857131
+    },
+    {
+      "brandId": "idbozw5uYo",
+      "claimed": false,
+      "domain": "gucci-fuufu.com",
+      "name": "ぐっち夫婦@料理家",
+      "icon": "https://cdn.brandfetch.io/idbozw5uYo/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834101750bfumLaCV7mCfntnnB0",
+      "_score": 8.733391,
+      "qualityScore": 0.6309097346505106
+    },
+    {
+      "brandId": "idA5OTIgrn",
+      "claimed": false,
+      "domain": "johnguccionvo.com",
+      "name": "John Guccion",
+      "icon": "https://cdn.brandfetch.io/idA5OTIgrn/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834101750bfumLaCV7mCfntnnB0",
+      "_score": 21.874762,
+      "qualityScore": 0.5384615384615384
+    },
+    {
+      "brandId": "idiWeqQRBt",
+      "claimed": false,
+      "domain": "gucciardogc.com",
+      "name": "Gucciardo Construction",
+      "icon": "https://cdn.brandfetch.io/idiWeqQRBt/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834101750bfumLaCV7mCfntnnB0",
+      "_score": 20.82527,
+      "qualityScore": 0.5384615384615384
+    }
+  ]
+}

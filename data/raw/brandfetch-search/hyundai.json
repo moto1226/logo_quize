@@ -1,0 +1,56 @@
+{
+  "fetched_at": "2026-06-06T12:07:51.976Z",
+  "brand_id": "hyundai",
+  "query": "Hyundai",
+  "http_status": 200,
+  "search_status": "ok",
+  "results": [
+    {
+      "brandId": "idZAAlb6l9",
+      "claimed": true,
+      "domain": "hyundai.com",
+      "name": "Hyundai",
+      "icon": "https://cdn.brandfetch.io/idZAAlb6l9/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834070792bfumLaCV7mg5JBaWoj",
+      "_score": 15.958101,
+      "qualityScore": 0.9997391730117163,
+      "verified": true
+    },
+    {
+      "brandId": "idMYi9W4NR",
+      "claimed": false,
+      "domain": "mobis.co.kr",
+      "name": "Hyundai Mobis",
+      "icon": "https://cdn.brandfetch.io/idMYi9W4NR/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834070792bfumLaCV7mg5JBaWoj",
+      "_score": 13.018143,
+      "qualityScore": 0.7988465170193215,
+      "verified": true
+    },
+    {
+      "brandId": "idc3EAU19h",
+      "claimed": false,
+      "domain": "hyundaiusa.com",
+      "name": "Hyundai USA",
+      "icon": "https://cdn.brandfetch.io/idc3EAU19h/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834070792bfumLaCV7mg5JBaWoj",
+      "_score": 13.018143,
+      "qualityScore": 0.7682134228225864
+    },
+    {
+      "brandId": "idxaLkEQ6f",
+      "claimed": false,
+      "domain": "hyundaicanada.com",
+      "name": "Hyundai Canada",
+      "icon": "https://cdn.brandfetch.io/idxaLkEQ6f/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834070792bfumLaCV7mg5JBaWoj",
+      "_score": 14.511893,
+      "qualityScore": 0.765254210544322
+    },
+    {
+      "brandId": "idO6vTjX3Q",
+      "claimed": false,
+      "domain": "hyundaimotorgroup.com",
+      "name": "Hyundai Motor Group",
+      "icon": "https://cdn.brandfetch.io/idO6vTjX3Q/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834070792bfumLaCV7mg5JBaWoj",
+      "_score": 14.558795,
+      "qualityScore": 0.7643547295502208
+    }
+  ]
+}

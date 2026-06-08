@@ -1,0 +1,96 @@
+<view class="result-page">
+  <view class="safe-header" style="height: {{navBarHeight}}px; padding-top: {{statusBarHeight}}px; padding-right: {{menuRightSpace}}px;">
+    <view class="nav-title">本次结果</view>
+  </view>
+
+  <block wx:if="{{hasResult}}">
+    <scroll-view scroll-y class="result-scroll" style="height: calc(100vh - {{navBarHeight}}px);">
+      <view class="content">
+        <view class="hero-card duo-card">
+          <view class="hero-title">{{resultTitle}}</view>
+          <view class="hero-score {{accuracyClass}}">{{accuracy}}%</view>
+          <view class="hero-sub">答对 {{score}} / {{total}} 题</view>
+          <view class="hero-comment">{{resultComment}}</view>
+        </view>
+
+        <view class="metric-grid">
+          <view wx:for="{{coreMetrics}}" wx:key="label" class="metric-card duo-card {{item.colorClass}}">
+            <view class="metric-value">{{item.value}}</view>
+            <view class="metric-label">{{item.label}}</view>
+            <view class="metric-sub">{{item.sub}}</view>
+          </view>
+        </view>
+
+        <view class="insight-card">
+          <view class="insight-icon">?</view>
+          <view class="insight-copy">
+            <view class="insight-title">你的识标画像</view>
+            <view class="insight-text">{{insightText}}</view>
+          </view>
+        </view>
+
+        <view class="section-card duo-card">
+          <view class="section-title">题型表现</view>
+          <view wx:for="{{typeStats}}" wx:key="type" class="type-row {{item.colorClass}}">
+            <view class="row-main">
+              <view class="type-dot"></view>
+              <view class="row-copy">
+                <view class="row-title">{{item.label}}</view>
+                <view class="row-desc">{{item.desc}} · 平均 {{item.averageTimeText}}</view>
+              </view>
+              <view class="row-score">{{item.accuracy}}%</view>
+            </view>
+            <view class="mini-track"><view style="width: {{item.accuracy}}%;"></view></view>
+          </view>
+        </view>
+
+        <view class="section-card duo-card">
+          <view class="section-title">行业熟悉度</view>
+          <block wx:if="{{industryStats.length}}">
+            <view wx:for="{{industryStats}}" wx:key="name" class="industry-row">
+              <view class="industry-head">
+                <text>{{item.name}}</text>
+                <text>{{item.accuracy}}% · {{item.averageTimeText}}</text>
+              </view>
+              <view class="mini-track industry-track"><view style="width: {{item.accuracy}}%;"></view></view>
+            </view>
+          </block>
+          <view wx:else class="empty-line">暂无行业统计</view>
+        </view>
+
+        <view class="section-card duo-card">
+          <view class="section-title">错题回顾</view>
+          <block wx:if="{{wrongAnswers.length}}">
+            <view wx:for="{{wrongAnswers}}" wx:key="question_id" class="wrong-card">
+              <view class="wrong-mark"></view>
+              <view class="wrong-copy">
+                <view class="wrong-type">{{item.typeLabel}}</view>
+                <view class="wrong-line">正确答案：<text class="right-answer">{{item.correctAnswer}}</text></view>
+                <view class="wrong-line">你的选择：<text class="bad-answer">{{item.selectedAnswer}}</text></view>
+                <view class="wrong-meta">{{item.timeText}} · {{item.industry}} · {{item.similarGroup}}</view>
+              </view>
+            </view>
+          </block>
+          <view wx:else class="success-line">
+            <view class="success-dot">✓</view>
+            <text>本次没有错题，全部答对！</text>
+          </view>
+        </view>
+
+        <view class="action-area">
+          <button class="primary-action" hover-class="button-active" bindtap="handleRetry">再测一次</button>
+          <button class="secondary-action" hover-class="button-active" bindtap="handleBackHome">返回首页</button>
+        </view>
+      </view>
+    </scroll-view>
+  </block>
+
+  <block wx:else>
+    <view class="empty-state">
+      <view class="empty-icon">?</view>
+      <view class="empty-title">暂无答题结果</view>
+      <view class="empty-desc">完成一次识标挑战后，这里会生成你的品牌识别报告。</view>
+      <button hover-class="button-active" bindtap="handleBackHome">返回首页</button>
+    </view>
+  </block>
+</view>

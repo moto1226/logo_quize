@@ -1,0 +1,56 @@
+{
+  "fetched_at": "2026-06-06T12:07:54.938Z",
+  "brand_id": "porsche",
+  "query": "Porsche",
+  "http_status": 200,
+  "search_status": "ok",
+  "results": [
+    {
+      "brandId": "idOSUjsXG-",
+      "claimed": false,
+      "domain": "porsche.com",
+      "name": "Porsche",
+      "icon": "https://cdn.brandfetch.io/idOSUjsXG-/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834073785bfumLaCV7mEaozQ2TK",
+      "_score": 17.176115,
+      "qualityScore": 0.9613686153421539,
+      "verified": true
+    },
+    {
+      "brandId": "id6Qs4ItDa",
+      "claimed": false,
+      "domain": "porsche-se.com",
+      "name": "Porsche SE",
+      "icon": "https://cdn.brandfetch.io/id6Qs4ItDa/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834073785bfumLaCV7mEaozQ2TK",
+      "_score": 13.854271,
+      "qualityScore": 0.8342569201026916,
+      "verified": true
+    },
+    {
+      "brandId": "idlbUKZ-tK",
+      "claimed": false,
+      "domain": "porscheinformatik.com",
+      "name": "Porsche Informatik GmbH",
+      "icon": "https://cdn.brandfetch.io/idlbUKZ-tK/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834073785bfumLaCV7mEaozQ2TK",
+      "_score": 11.370726,
+      "qualityScore": 0.7632776715886487
+    },
+    {
+      "brandId": "idAfxZYYQ_",
+      "claimed": false,
+      "domain": "911uk.com",
+      "name": "Porsche911UK",
+      "icon": "https://cdn.brandfetch.io/idAfxZYYQ_/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834073785bfumLaCV7mEaozQ2TK",
+      "_score": 25.723692,
+      "qualityScore": 0.7578518817706628
+    },
+    {
+      "brandId": "idjgyOk0sD",
+      "claimed": false,
+      "domain": "porscheclubgb.com",
+      "name": "Porsche Club GB",
+      "icon": "https://cdn.brandfetch.io/idjgyOk0sD/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834073785bfumLaCV7mEaozQ2TK",
+      "_score": 11.564337,
+      "qualityScore": 0.7412179160737099
+    }
+  ]
+}

@@ -1,0 +1,628 @@
+{
+  "generated_at": "2026-06-07T11:43:33.809Z",
+  "records": {
+    "7_eleven": {
+      "brand_id": "7_eleven",
+      "status": "matched",
+      "source": "wikidata",
+      "wikidata_id": "Q259340",
+      "query": "7 Eleven",
+      "confidence": 100,
+      "label_en": "7-Eleven",
+      "label_zh": "7-Eleven",
+      "description_en": "American convenience store chain",
+      "industry": "",
+      "updated_at": "2026-06-07T11:40:31.712Z"
+    },
+    "adobe_acrobat": {
+      "brand_id": "adobe_acrobat",
+      "status": "matched",
+      "source": "wikidata",
+      "wikidata_id": "Q207902",
+      "query": "Adobe Acrobat",
+      "confidence": 100,
+      "label_en": "Adobe Acrobat",
+      "label_zh": "",
+      "description_en": "set of application software to view, edit and manage files in Portable Document Format (PDF)",
+      "industry": "科技互联网",
+      "updated_at": "2026-06-07T11:40:33.042Z"
+    },
+    "adobe_aero": {
+      "brand_id": "adobe_aero",
+      "status": "matched",
+      "source": "wikidata",
+      "wikidata_id": "Q85739829",
+      "query": "adobe aero",
+      "confidence": 93,
+      "label_en": "Adobe Aero",
+      "label_zh": "",
+      "description_en": "2019-2025 augmented reality application",
+      "industry": "",
+      "updated_at": "2026-06-07T11:40:34.307Z"
+    },
+    "adobe_after_effects": {
+      "brand_id": "adobe_after_effects",
+      "status": "matched",
+      "source": "wikidata",
+      "wikidata_id": "Q83380",
+      "query": "Adobe After Effects",
+      "confidence": 100,
+      "label_en": "Adobe After Effects",
+      "label_zh": "Adobe After Effects",
+      "description_en": "digital motion graphics and compositing software",
+      "industry": "科技互联网",
+      "updated_at": "2026-06-07T11:40:35.581Z"
+    },
+    "adobe_animate": {
+      "brand_id": "adobe_animate",
+      "status": "matched",
+      "source": "wikidata",
+      "wikidata_id": "Q4291129",
+      "query": "Adobe Animate",
+      "confidence": 93,
+      "label_en": "Adobe Animate",
+      "label_zh": "Adobe Animate",
+      "description_en": "interactive multimedia content authoring app",
+      "industry": "",
+      "updated_at": "2026-06-07T11:40:36.843Z"
+    },
+    "adobe_dreamweaver": {
+      "brand_id": "adobe_dreamweaver",
+      "status": "error",
+      "source": "wikidata",
+      "error": "HTTP 429",
+      "updated_at": "2026-06-07T11:40:37.175Z"
+    },
+    "adobe_fonts": {
+      "brand_id": "adobe_fonts",
+      "status": "error",
+      "source": "wikidata",
+      "error": "HTTP 429",
+      "updated_at": "2026-06-07T11:40:37.671Z"
+    },
+    "adobe_illustrator": {
+      "brand_id": "adobe_illustrator",
+      "status": "error",
+      "source": "wikidata",
+      "error": "HTTP 429",
+      "updated_at": "2026-06-07T11:40:37.991Z"
+    },
+    "adobe_incopy": {
+      "brand_id": "adobe_incopy",
+      "status": "error",
+      "source": "wikidata",
+      "error": "HTTP 429",
+      "updated_at": "2026-06-07T11:40:38.307Z"
+    },
+    "adobe_indesign": {
+      "brand_id": "adobe_indesign",
+      "status": "error",
+      "source": "wikidata",
+      "error": "HTTP 429",
+      "updated_at": "2026-06-07T11:40:38.634Z"
+    },
+    "adobe_lightroom": {
+      "brand_id": "adobe_lightroom",
+      "status": "error",
+      "source": "wikidata",
+      "error": "HTTP 429",
+      "updated_at": "2026-06-07T11:40:38.936Z"
+    },
+    "adobe_photoshop": {
+      "brand_id": "adobe_photoshop",
+      "status": "error",
+      "source": "wikidata",
+      "error": "HTTP 429",
+      "updated_at": "2026-06-07T11:40:39.252Z"
+    },
+    "adobe_premiere": {
+      "brand_id": "adobe_premiere",
+      "status": "error",
+      "source": "wikidata",
+      "error": "HTTP 429",
+      "updated_at": "2026-06-07T11:40:39.573Z"
+    },
+    "adobe_sign": {
+      "brand_id": "adobe_sign",
+      "status": "error",
+      "source": "wikidata",
+      "error": "HTTP 429",
+      "updated_at": "2026-06-07T11:40:39.894Z"
+    },
+    "adobe_stock": {
+      "brand_id": "adobe_stock",
+      "status": "error",
+      "source": "wikidata",
+      "error": "HTTP 429",
+      "updated_at": "2026-06-07T11:40:40.201Z"
+    },
+    "adobe_xd": {
+      "brand_id": "adobe_xd",
+      "status": "error",
+      "source": "wikidata",
+      "error": "HTTP 429",
+      "updated_at": "2026-06-07T11:40:40.518Z"
+    },
+    "adobefirefly": {
+      "brand_id": "adobefirefly",
+      "status": "error",
+      "source": "wikidata",
+      "error": "HTTP 429",
+      "updated_at": "2026-06-07T11:40:40.845Z"
+    },
+    "afordin": {
+      "brand_id": "afordin",
+      "status": "error",
+      "source": "wikidata",
+      "error": "HTTP 429",
+      "updated_at": "2026-06-07T11:40:41.166Z"
+    },
+    "afterpay": {
+      "brand_id": "afterpay",
+      "status": "error",
+      "source": "wikidata",
+      "error": "HTTP 429",
+      "updated_at": "2026-06-07T11:40:41.470Z"
+    },
+    "ai_studio_google": {
+      "brand_id": "ai_studio_google",
+      "status": "error",
+      "source": "wikidata",
+      "error": "HTTP 429",
+      "updated_at": "2026-06-07T11:40:41.787Z"
+    },
+    "ai21labs": {
+      "brand_id": "ai21labs",
+      "status": "error",
+      "source": "wikidata",
+      "error": "HTTP 429",
+      "updated_at": "2026-06-07T11:40:42.101Z"
+    },
+    "aihubmix": {
+      "brand_id": "aihubmix",
+      "status": "error",
+      "source": "wikidata",
+      "error": "HTTP 429",
+      "updated_at": "2026-06-07T11:40:42.432Z"
+    },
+    "aionlabs": {
+      "brand_id": "aionlabs",
+      "status": "error",
+      "source": "wikidata",
+      "error": "HTTP 429",
+      "updated_at": "2026-06-07T11:40:42.743Z"
+    },
+    "airplay_audio": {
+      "brand_id": "airplay_audio",
+      "status": "error",
+      "source": "wikidata",
+      "error": "HTTP 429",
+      "updated_at": "2026-06-07T11:40:43.076Z"
+    },
+    "airtable": {
+      "brand_id": "airtable",
+      "status": "error",
+      "source": "wikidata",
+      "error": "HTTP 429",
+      "updated_at": "2026-06-07T11:40:43.386Z"
+    },
+    "airtel": {
+      "brand_id": "airtel",
+      "status": "error",
+      "source": "wikidata",
+      "error": "HTTP 429",
+      "updated_at": "2026-06-07T11:40:43.712Z"
+    },
+    "aldi_nord": {
+      "brand_id": "aldi_nord",
+      "status": "error",
+      "source": "wikidata",
+      "error": "HTTP 429",
+      "updated_at": "2026-06-07T11:40:44.023Z"
+    },
+    "aldi_sud": {
+      "brand_id": "aldi_sud",
+      "status": "error",
+      "source": "wikidata",
+      "error": "HTTP 429",
+      "updated_at": "2026-06-07T11:40:44.340Z"
+    },
+    "alephalpha": {
+      "brand_id": "alephalpha",
+      "status": "error",
+      "source": "wikidata",
+      "error": "HTTP 429",
+      "updated_at": "2026-06-07T11:40:44.641Z"
+    },
+    "alibabacloud": {
+      "brand_id": "alibabacloud",
+      "status": "error",
+      "source": "wikidata",
+      "error": "HTTP 429",
+      "updated_at": "2026-06-07T11:40:44.965Z"
+    },
+    "alibabagroup": {
+      "brand_id": "alibabagroup",
+      "status": "error",
+      "source": "wikidata",
+      "error": "HTTP 429",
+      "updated_at": "2026-06-07T11:40:45.344Z"
+    },
+    "alphaflow": {
+      "brand_id": "alphaflow",
+      "status": "error",
+      "source": "wikidata",
+      "error": "HTTP 429",
+      "updated_at": "2026-06-07T11:40:45.666Z"
+    },
+    "alphavantageco": {
+      "brand_id": "alphavantageco",
+      "status": "error",
+      "source": "wikidata",
+      "error": "HTTP 429",
+      "updated_at": "2026-06-07T11:40:46.828Z"
+    },
+    "amazon_chime": {
+      "brand_id": "amazon_chime",
+      "status": "error",
+      "source": "wikidata",
+      "error": "HTTP 429",
+      "updated_at": "2026-06-07T11:40:47.156Z"
+    },
+    "amazon_cloudformation": {
+      "brand_id": "amazon_cloudformation",
+      "status": "error",
+      "source": "wikidata",
+      "error": "HTTP 429",
+      "updated_at": "2026-06-07T11:40:47.471Z"
+    },
+    "amazon_cloudwatch": {
+      "brand_id": "amazon_cloudwatch",
+      "status": "error",
+      "source": "wikidata",
+      "error": "HTTP 429",
+      "updated_at": "2026-06-07T11:40:47.806Z"
+    },
+    "amazon_connect": {
+      "brand_id": "amazon_connect",
+      "status": "error",
+      "source": "wikidata",
+      "error": "HTTP 429",
+      "updated_at": "2026-06-07T11:40:48.439Z"
+    },
+    "amazon_ecs": {
+      "brand_id": "amazon_ecs",
+      "status": "error",
+      "source": "wikidata",
+      "error": "HTTP 429",
+      "updated_at": "2026-06-07T11:40:48.756Z"
+    },
+    "amazon_eks": {
+      "brand_id": "amazon_eks",
+      "status": "error",
+      "source": "wikidata",
+      "error": "HTTP 429",
+      "updated_at": "2026-06-07T11:40:49.080Z"
+    },
+    "amazon_elasticcontainer": {
+      "brand_id": "amazon_elasticcontainer",
+      "status": "error",
+      "source": "wikidata",
+      "error": "HTTP 429",
+      "updated_at": "2026-06-07T11:40:49.398Z"
+    },
+    "amazon_fire_tv": {
+      "brand_id": "amazon_fire_tv",
+      "status": "error",
+      "source": "wikidata",
+      "error": "HTTP 429",
+      "updated_at": "2026-06-07T11:40:49.710Z"
+    },
+    "amazon_kinesis": {
+      "brand_id": "amazon_kinesis",
+      "status": "error",
+      "source": "wikidata",
+      "error": "HTTP 429",
+      "updated_at": "2026-06-07T11:40:50.030Z"
+    },
+    "amazon_prime": {
+      "brand_id": "amazon_prime",
+      "status": "error",
+      "source": "wikidata",
+      "error": "HTTP 429",
+      "updated_at": "2026-06-07T11:40:50.337Z"
+    },
+    "amazon_q": {
+      "brand_id": "amazon_q",
+      "status": "error",
+      "source": "wikidata",
+      "error": "HTTP 429",
+      "updated_at": "2026-06-07T11:40:50.662Z"
+    },
+    "amex_digital": {
+      "brand_id": "amex_digital",
+      "status": "error",
+      "source": "wikidata",
+      "error": "HTTP 429",
+      "updated_at": "2026-06-07T11:40:50.975Z"
+    },
+    "anthropic": {
+      "brand_id": "anthropic",
+      "status": "error",
+      "source": "wikidata",
+      "error": "HTTP 429",
+      "updated_at": "2026-06-07T11:40:51.302Z"
+    },
+    "antigravity_google": {
+      "brand_id": "antigravity_google",
+      "status": "error",
+      "source": "wikidata",
+      "error": "HTTP 429",
+      "updated_at": "2026-06-07T11:40:51.633Z"
+    },
+    "anyscale": {
+      "brand_id": "anyscale",
+      "status": "error",
+      "source": "wikidata",
+      "error": "HTTP 429",
+      "updated_at": "2026-06-07T11:40:51.971Z"
+    },
+    "apache_ant": {
+      "brand_id": "apache_ant",
+      "status": "error",
+      "source": "wikidata",
+      "error": "HTTP 429",
+      "updated_at": "2026-06-07T11:40:52.276Z"
+    },
+    "apache_beam": {
+      "brand_id": "apache_beam",
+      "status": "error",
+      "source": "wikidata",
+      "error": "HTTP 429",
+      "updated_at": "2026-06-07T11:40:52.592Z"
+    },
+    "apache_maven": {
+      "brand_id": "apache_maven",
+      "status": "error",
+      "source": "wikidata",
+      "error": "HTTP 429",
+      "updated_at": "2026-06-07T11:40:52.910Z"
+    },
+    "apache_zookeeper": {
+      "brand_id": "apache_zookeeper",
+      "status": "error",
+      "source": "wikidata",
+      "error": "HTTP 429",
+      "updated_at": "2026-06-07T11:40:53.230Z"
+    },
+    "apple_app_store": {
+      "brand_id": "apple_app_store",
+      "status": "error",
+      "source": "wikidata",
+      "error": "HTTP 429",
+      "updated_at": "2026-06-07T11:40:53.548Z"
+    },
+    "apple_objectivec": {
+      "brand_id": "apple_objectivec",
+      "status": "error",
+      "source": "wikidata",
+      "error": "HTTP 429",
+      "updated_at": "2026-06-07T11:40:54.183Z"
+    },
+    "apple_safari": {
+      "brand_id": "apple_safari",
+      "status": "error",
+      "source": "wikidata",
+      "error": "HTTP 429",
+      "updated_at": "2026-06-07T11:40:54.492Z"
+    },
+    "apple_xcode": {
+      "brand_id": "apple_xcode",
+      "status": "error",
+      "source": "wikidata",
+      "error": "HTTP 429",
+      "updated_at": "2026-06-07T11:40:54.814Z"
+    },
+    "appsignal": {
+      "brand_id": "appsignal",
+      "status": "error",
+      "source": "wikidata",
+      "error": "HTTP 429",
+      "updated_at": "2026-06-07T11:40:55.126Z"
+    },
+    "argoprojio": {
+      "brand_id": "argoprojio",
+      "status": "error",
+      "source": "wikidata",
+      "error": "HTTP 429",
+      "updated_at": "2026-06-07T11:40:55.463Z"
+    },
+    "assemblyai": {
+      "brand_id": "assemblyai",
+      "status": "error",
+      "source": "wikidata",
+      "error": "HTTP 429",
+      "updated_at": "2026-06-07T11:40:55.805Z"
+    },
+    "atlassian": {
+      "brand_id": "atlassian",
+      "status": "error",
+      "source": "wikidata",
+      "error": "HTTP 429",
+      "updated_at": "2026-06-07T11:40:56.120Z"
+    },
+    "atlassian_bamboo": {
+      "brand_id": "atlassian_bamboo",
+      "status": "error",
+      "source": "wikidata",
+      "error": "HTTP 429",
+      "updated_at": "2026-06-07T11:40:56.486Z"
+    },
+    "atlassian_jira": {
+      "brand_id": "atlassian_jira",
+      "status": "error",
+      "source": "wikidata",
+      "error": "HTTP 429",
+      "updated_at": "2026-06-07T11:40:56.813Z"
+    },
+    "audioeye": {
+      "brand_id": "audioeye",
+      "status": "error",
+      "source": "wikidata",
+      "error": "HTTP 429",
+      "updated_at": "2026-06-07T11:40:57.127Z"
+    },
+    "automatic1111": {
+      "brand_id": "automatic1111",
+      "status": "error",
+      "source": "wikidata",
+      "error": "HTTP 429",
+      "updated_at": "2026-06-07T11:40:57.453Z"
+    },
+    "azureai": {
+      "brand_id": "azureai",
+      "status": "error",
+      "source": "wikidata",
+      "error": "HTTP 429",
+      "updated_at": "2026-06-07T11:40:57.770Z"
+    },
+    "bankofamerica": {
+      "brand_id": "bankofamerica",
+      "status": "error",
+      "source": "wikidata",
+      "error": "HTTP 429",
+      "updated_at": "2026-06-07T11:40:58.098Z"
+    },
+    "baseline": {
+      "brand_id": "baseline",
+      "status": "error",
+      "source": "wikidata",
+      "error": "HTTP 429",
+      "updated_at": "2026-06-07T11:40:58.396Z"
+    },
+    "baseten": {
+      "brand_id": "baseten",
+      "status": "error",
+      "source": "wikidata",
+      "error": "HTTP 429",
+      "updated_at": "2026-06-07T11:40:58.719Z"
+    },
+    "bedrockaws": {
+      "brand_id": "bedrockaws",
+      "status": "error",
+      "source": "wikidata",
+      "error": "HTTP 429",
+      "updated_at": "2026-06-07T11:40:59.026Z"
+    },
+    "blacksquareio": {
+      "brand_id": "blacksquareio",
+      "status": "error",
+      "source": "wikidata",
+      "error": "HTTP 429",
+      "updated_at": "2026-06-07T11:40:59.350Z"
+    },
+    "blender": {
+      "brand_id": "blender",
+      "status": "error",
+      "source": "wikidata",
+      "error": "HTTP 429",
+      "updated_at": "2026-06-07T11:40:59.658Z"
+    },
+    "bluesky": {
+      "brand_id": "bluesky",
+      "status": "error",
+      "source": "wikidata",
+      "error": "HTTP 429",
+      "updated_at": "2026-06-07T11:41:00.037Z"
+    },
+    "bnpparibas": {
+      "brand_id": "bnpparibas",
+      "status": "error",
+      "source": "wikidata",
+      "error": "HTTP 429",
+      "updated_at": "2026-06-07T11:41:00.360Z"
+    },
+    "boardmix": {
+      "brand_id": "boardmix",
+      "status": "error",
+      "source": "wikidata",
+      "error": "HTTP 429",
+      "updated_at": "2026-06-07T11:41:00.687Z"
+    },
+    "bootswatch": {
+      "brand_id": "bootswatch",
+      "status": "error",
+      "source": "wikidata",
+      "error": "HTTP 429",
+      "updated_at": "2026-06-07T11:41:01.006Z"
+    },
+    "burncloud": {
+      "brand_id": "burncloud",
+      "status": "no_match",
+      "source": "wikidata",
+      "query": "BurnCloud",
+      "confidence": 0,
+      "updated_at": "2026-06-07T11:41:02.565Z"
+    },
+    "campaignmonitor": {
+      "brand_id": "campaignmonitor",
+      "status": "no_match",
+      "source": "wikidata",
+      "query": "Campaignmonitor",
+      "confidence": 0,
+      "updated_at": "2026-06-07T11:41:03.816Z"
+    },
+    "canonical": {
+      "brand_id": "canonical",
+      "status": "matched",
+      "source": "wikidata",
+      "wikidata_id": "Q39064",
+      "query": "Canonical",
+      "confidence": 87,
+      "label_en": "Canonical Ltd.",
+      "label_zh": "Canonical公司",
+      "description_en": "London-based software company, developer of Ubuntu",
+      "industry": "科技互联网",
+      "updated_at": "2026-06-07T11:41:05.132Z"
+    },
+    "cerebras": {
+      "brand_id": "cerebras",
+      "status": "matched",
+      "source": "wikidata",
+      "wikidata_id": "Q66604886",
+      "query": "Cerebras",
+      "confidence": 93,
+      "label_en": "Cerebras",
+      "label_zh": "Cerebras Systems",
+      "description_en": "business",
+      "industry": "",
+      "updated_at": "2026-06-07T11:41:06.393Z"
+    },
+    "chipotle": {
+      "brand_id": "chipotle",
+      "status": "matched",
+      "source": "wikidata",
+      "wikidata_id": "Q465751",
+      "query": "Chipotle",
+      "confidence": 87,
+      "label_en": "Chipotle Mexican Grill",
+      "label_zh": "Chipotle墨西哥大玉米饼快餐店",
+      "description_en": "American fast casual Mexican restaurant chain",
+      "industry": "消费品牌",
+      "updated_at": "2026-06-07T11:42:50.963Z"
+    },
+    "santanderbank": {
+      "brand_id": "santanderbank",
+      "status": "matched",
+      "source": "wikidata",
+      "wikidata_id": "Q5835668",
+      "query": "Santander bank",
+      "confidence": 100,
+      "label_en": "Santander Bank",
+      "label_zh": "美国桑坦德银行",
+      "description_en": "wholly owned subsidiary of Spanish Santander Group",
+      "industry": "",
+      "updated_at": "2026-06-07T11:43:33.808Z"
+    }
+  }
+}

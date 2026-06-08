@@ -1,0 +1,55 @@
+{
+  "fetched_at": "2026-06-06T12:07:56.663Z",
+  "brand_id": "maserati",
+  "query": "Maserati",
+  "http_status": 200,
+  "search_status": "ok",
+  "results": [
+    {
+      "brandId": "idg7hwdIMC",
+      "claimed": false,
+      "domain": "maserati.com",
+      "name": "Maserati",
+      "icon": "https://cdn.brandfetch.io/idg7hwdIMC/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834075495bfumLaCV7mrCGvg-70",
+      "_score": 20.52916,
+      "qualityScore": 0.9597573264777932,
+      "verified": true
+    },
+    {
+      "brandId": "idGx7IZW-2",
+      "claimed": false,
+      "domain": "maseratiraleigh.com",
+      "name": "Maserati of Raleigh",
+      "icon": "https://cdn.brandfetch.io/idGx7IZW-2/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834075496bfumLaCV7mz0KHa7dF",
+      "_score": 14.302874,
+      "qualityScore": 0.6912439035802067
+    },
+    {
+      "brandId": "idjpvzU4z_",
+      "claimed": false,
+      "domain": "maseratiusa.com",
+      "name": "Maserati",
+      "icon": "https://cdn.brandfetch.io/idjpvzU4z_/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834075496bfumLaCV7mz0KHa7dF",
+      "_score": 20.600914,
+      "qualityScore": 0.6546899905955746
+    },
+    {
+      "brandId": "idKomXnW_J",
+      "claimed": false,
+      "domain": "maseratiofwilmingtonpike.com",
+      "name": "Maserati of Wilmington Pike",
+      "icon": "https://cdn.brandfetch.io/idKomXnW_J/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834075496bfumLaCV7mz0KHa7dF",
+      "_score": 14.811328,
+      "qualityScore": 0.5953064757496959
+    },
+    {
+      "brandId": "id4ghpr-3t",
+      "claimed": false,
+      "domain": "maseratistore.com",
+      "name": "Maserati Store",
+      "icon": "https://cdn.brandfetch.io/id4ghpr-3t/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834075496bfumLaCV7mz0KHa7dF",
+      "_score": 16.951616,
+      "qualityScore": 0.5757614708634446
+    }
+  ]
+}

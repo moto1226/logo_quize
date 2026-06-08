@@ -1,0 +1,22 @@
+{
+  "pages": [
+    "pages/index/index"
+  ],
+  "subpackages": [
+    {
+      "root": "packages/quiz",
+      "pages": [
+        "pages/quiz/quiz",
+        "pages/result/result"
+      ]
+    }
+  ],
+  "window": {
+    "navigationBarTitleText": "识标挑战",
+    "navigationBarBackgroundColor": "#ffffff",
+    "navigationBarTextStyle": "black",
+    "backgroundColor": "#f6f7f9"
+  },
+  "style": "v2",
+  "sitemapLocation": "sitemap.json"
+}

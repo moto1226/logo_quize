@@ -1,0 +1,19 @@
+{
+  "fetched_at": "2026-06-06T12:07:49.000Z",
+  "brand_id": "nio",
+  "query": "NIO",
+  "http_status": 200,
+  "search_status": "ok",
+  "results": [
+    {
+      "brandId": "idL0Io_FL2",
+      "claimed": false,
+      "domain": "nio.com",
+      "name": "Nio",
+      "icon": "https://cdn.brandfetch.io/idL0Io_FL2/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834067803bfumLaCV7miD0QR220",
+      "_score": null,
+      "qualityScore": 0.9205280762858652,
+      "verified": true
+    }
+  ]
+}

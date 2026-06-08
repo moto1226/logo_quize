@@ -1,0 +1,56 @@
+{
+  "fetched_at": "2026-06-06T12:07:37.318Z",
+  "brand_id": "adidas",
+  "query": "Adidas",
+  "http_status": 200,
+  "search_status": "ok",
+  "results": [
+    {
+      "brandId": "idyqQWKFVE",
+      "claimed": true,
+      "domain": "adidas.com",
+      "name": "adidas",
+      "icon": "https://cdn.brandfetch.io/idyqQWKFVE/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834056149bfumLaCV7mso4GQD8h",
+      "_score": 20.553112,
+      "qualityScore": 0.9998774038155047,
+      "verified": true
+    },
+    {
+      "brandId": "id8Pwl3kos",
+      "claimed": false,
+      "domain": "adidas-group.com",
+      "name": "adidas",
+      "icon": "https://cdn.brandfetch.io/id8Pwl3kos/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834056149bfumLaCV7mso4GQD8h",
+      "_score": 20.553112,
+      "qualityScore": 0.8444201341819565,
+      "verified": true
+    },
+    {
+      "brandId": "id9n11drNM",
+      "claimed": false,
+      "domain": "adidascombatsports.com",
+      "name": "adidas Combat Sports",
+      "icon": "https://cdn.brandfetch.io/id9n11drNM/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834056149bfumLaCV7mso4GQD8h",
+      "_score": 14.835883,
+      "qualityScore": 0.7136206495590086
+    },
+    {
+      "brandId": "idbMSw0O9I",
+      "claimed": false,
+      "domain": "allforpadel.com",
+      "name": "Adidas Padel",
+      "icon": "https://cdn.brandfetch.io/idbMSw0O9I/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834056149bfumLaCV7mso4GQD8h",
+      "_score": 17.00924,
+      "qualityScore": 0.7091558407504986
+    },
+    {
+      "brandId": "iduL0W6QMG",
+      "claimed": false,
+      "domain": "adidaswrestling.com",
+      "name": "AdidasWrestling",
+      "icon": "https://cdn.brandfetch.io/iduL0W6QMG/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834056149bfumLaCV7mso4GQD8h",
+      "_score": 26.314686,
+      "qualityScore": 0.6953192892144376
+    }
+  ]
+}

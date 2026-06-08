@@ -1,0 +1,964 @@
+﻿brand_id,name_en,name_zh,domain_hint,industry,country_region,similar_group,pure_symbol_likelihood,priority_level,search_keywords,collect_status,notes
+peking_university,Peking University,北京大学,pku.edu.cn,公共机构/教育,中国,education_china,medium,5,Peking University logo symbol icon svg,pending,校徽复杂，适合高难
+tsinghua_university,Tsinghua University,清华大学,tsinghua.edu.cn,公共机构/教育,中国,education_china,medium,5,Tsinghua University logo symbol icon svg,pending,校徽复杂，适合高难
+fudan_university,Fudan University,复旦大学,fudan.edu.cn,公共机构/教育,中国,education_china,medium,4,Fudan University logo symbol icon svg,pending,校徽复杂，适合高难
+nanjing_university,Nanjing University,南京大学,nju.edu.cn,公共机构/教育,中国,education_china,medium,4,Nanjing University logo symbol icon svg,pending,校徽复杂
+shanghai_jiao_tong_university,Shanghai Jiao Tong University,上海交通大学,sjtu.edu.cn,公共机构/教育,中国,education_china,medium,4,Shanghai Jiao Tong University logo symbol icon svg,pending,校徽复杂
+sun_yat_sen_university,Sun Yat-sen University,中山大学,sysu.edu.cn,公共机构/教育,中国,education_china,medium,4,Sun Yat-sen University logo symbol icon svg,pending,校徽复杂
+wuhan_university,Wuhan University,武汉大学,whu.edu.cn,公共机构/教育,中国,education_china,medium,4,Wuhan University logo symbol icon svg,pending,校徽复杂
+zhejiang_university,Zhejiang University,浙江大学,zju.edu.cn,公共机构/教育,中国,education_china,medium,4,Zhejiang University logo symbol icon svg,pending,校徽复杂，适合高难
+harvard_university,Harvard University,哈佛大学,harvard.edu,公共机构/教育,美国,education_global,medium,5,Harvard University logo symbol icon svg,pending,盾牌校徽可用
+mit,MIT,麻省理工学院,mit.edu,公共机构/教育,美国,education_global,medium,5,MIT logo symbol icon svg,pending,字形/校徽，需筛
+stanford_university,Stanford University,斯坦福大学,stanford.edu,公共机构/教育,美国,education_global,medium,5,Stanford University logo symbol icon svg,pending,树形/S字，需筛
+university_of_cambridge,University of Cambridge,剑桥大学,cam.ac.uk,公共机构/教育,英国,education_global,medium,5,University of Cambridge logo symbol icon svg,pending,校徽复杂
+university_of_oxford,University of Oxford,牛津大学,ox.ac.uk,公共机构/教育,英国,education_global,medium,5,University of Oxford logo symbol icon svg,pending,校徽复杂
+princeton_university,Princeton University,普林斯顿大学,princeton.edu,公共机构/教育,美国,education_global,medium,4,Princeton University logo symbol icon svg,pending,盾牌可用
+university_of_tokyo,University of Tokyo,东京大学,u-tokyo.ac.jp,公共机构/教育,日本,education_global,medium,4,University of Tokyo logo symbol icon svg,pending,银杏图形可用
+yale_university,Yale University,耶鲁大学,yale.edu,公共机构/教育,美国,education_global,medium,4,Yale University logo symbol icon svg,pending,校徽复杂
+doctors_without_borders,Doctors Without Borders,无国界医生,,公共机构/教育,国际组织,global_ngos,high,4,Doctors Without Borders logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+world_bank,World Bank,世界银行,,公共机构/教育,国际组织,global_ngos,high,4,World Bank logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+world_food_programme,World Food Programme,世界粮食计划署,,公共机构/教育,国际组织,global_ngos,high,4,World Food Programme logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+wwf,WWF,世界自然基金会,,公共机构/教育,国际组织,global_ngos,high,4,WWF logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+british_museum,British Museum,大英博物馆,,公共机构/教育,国际,museums_global,medium,3,British Museum logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+centre_pompidou,Centre Pompidou,蓬皮杜中心,,公共机构/教育,国际,museums_global,medium,3,Centre Pompidou logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+guggenheim_museum,Guggenheim Museum,古根海姆博物馆,,公共机构/教育,国际,museums_global,medium,3,Guggenheim Museum logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+louvre,Louvre,卢浮宫,,公共机构/教育,国际,museums_global,medium,3,Louvre logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+moma,Museum of Modern Art,纽约现代艺术博物馆,,公共机构/教育,国际,museums_global,medium,3,Museum of Modern Art logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+smithsonian,Smithsonian,史密森学会,,公共机构/教育,国际,museums_global,medium,3,Smithsonian logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+tate,Tate,泰特美术馆,,公共机构/教育,国际,museums_global,medium,3,Tate logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+the_met,The Metropolitan Museum of Art,大都会艺术博物馆,,公共机构/教育,国际,museums_global,medium,3,The Metropolitan Museum of Art logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+red_cross,Red Cross,红十字会,redcross.org,公共机构/教育,国际组织,public_global_orgs,high,5,Red Cross logo symbol icon svg,pending,红十字可用
+united_nations,United Nations,联合国,un.org,公共机构/教育,国际组织,public_global_orgs,high,5,United Nations logo symbol icon svg,pending,联合国徽可用
+world_health_organization,World Health Organization,世界卫生组织,who.int,公共机构/教育,国际组织,public_global_orgs,high,5,World Health Organization logo symbol icon svg,pending,蛇杖地球徽可用
+world_wildlife_fund,World Wildlife Fund,世界自然基金会,wwf.org,公共机构/教育,国际组织,public_global_orgs,high,5,World Wildlife Fund logo symbol icon svg,pending,熊猫图形可用
+amnesty_international,Amnesty International,国际特赦组织,amnesty.org,公共机构/教育,国际组织,public_global_orgs,high,4,Amnesty International logo symbol icon svg,pending,蜡烛图形可用
+greenpeace,Greenpeace,绿色和平,greenpeace.org,公共机构/教育,国际组织,public_global_orgs,low,4,Greenpeace logo symbol icon svg,pending,字标为主
+unesco,UNESCO,联合国教科文组织,unesco.org,公共机构/教育,国际组织,public_global_orgs,high,4,UNESCO logo symbol icon svg,pending,神庙图形可用
+unicef,UNICEF,联合国儿童基金会,unicef.org,公共机构/教育,国际组织,public_global_orgs,high,4,UNICEF logo symbol icon svg,pending,母子图形可用
+cern,CERN,欧洲核子研究中心,,公共机构/教育,国际,science_space_orgs,high,4,CERN logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+cnsa,CNSA,中国国家航天局,,公共机构/教育,国际,science_space_orgs,high,4,CNSA logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+esa,ESA,欧洲航天局,,公共机构/教育,国际,science_space_orgs,high,4,ESA logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+jaxa,JAXA,日本宇宙航空研究开发机构,,公共机构/教育,国际,science_space_orgs,high,4,JAXA logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+nasa,NASA,美国国家航空航天局,,公共机构/教育,国际,science_space_orgs,high,4,NASA logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+national_geographic,National Geographic,国家地理,,公共机构/教育,国际,science_space_orgs,high,4,National Geographic logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+noaa,NOAA,美国国家海洋和大气管理局,,公共机构/教育,国际,science_space_orgs,high,4,NOAA logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+royal_society,Royal Society,英国皇家学会,,公共机构/教育,国际,science_space_orgs,high,4,Royal Society logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+renmin_university_of_china,Renmin University of China,中国人民大学,,公共机构/教育,中国,universities_china_extra,medium,4,Renmin University of China logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+sichuan_university,Sichuan University,四川大学,,公共机构/教育,中国,universities_china_extra,medium,4,Sichuan University logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+tongji_university,Tongji University,同济大学,,公共机构/教育,中国,universities_china_extra,medium,4,Tongji University logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+xiamen_university,Xiamen University,厦门大学,,公共机构/教育,中国,universities_china_extra,medium,4,Xiamen University logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+hokkaido_university,Hokkaido University,北海道大学,,公共机构/教育,日本,universities_japan,medium,4,Hokkaido University logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+keio_university,Keio University,庆应义塾大学,,公共机构/教育,日本,universities_japan,medium,4,Keio University logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+kyoto_university,Kyoto University,京都大学,,公共机构/教育,日本,universities_japan,medium,4,Kyoto University logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+nagoya_university,Nagoya University,名古屋大学,,公共机构/教育,日本,universities_japan,medium,4,Nagoya University logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+osaka_university,Osaka University,大阪大学,,公共机构/教育,日本,universities_japan,medium,4,Osaka University logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+tohoku_university,Tohoku University,东北大学,,公共机构/教育,日本,universities_japan,medium,4,Tohoku University logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+waseda_university,Waseda University,早稻田大学,,公共机构/教育,日本,universities_japan,medium,4,Waseda University logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+imperial_college_london,Imperial College London,帝国理工学院,,公共机构/教育,英国,universities_uk,medium,4,Imperial College London logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+kings_college_london,King's College London,伦敦国王学院,,公共机构/教育,英国,universities_uk,medium,4,King's College London logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+london_school_of_economics,London School of Economics,伦敦政治经济学院,,公共机构/教育,英国,universities_uk,medium,4,London School of Economics logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+ucl,UCL,伦敦大学学院,,公共机构/教育,英国,universities_uk,medium,4,UCL logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+university_of_edinburgh,University of Edinburgh,爱丁堡大学,,公共机构/教育,英国,universities_uk,medium,4,University of Edinburgh logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+university_of_manchester,University of Manchester,曼彻斯特大学,,公共机构/教育,英国,universities_uk,medium,4,University of Manchester logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+columbia_university,Columbia University,哥伦比亚大学,,公共机构/教育,美国,universities_us,medium,4,Columbia University logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+uc_berkeley,UC Berkeley,加州大学伯克利分校,,公共机构/教育,美国,universities_us,medium,4,UC Berkeley logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+ucla,UCLA,加州大学洛杉矶分校,,公共机构/教育,美国,universities_us,medium,4,UCLA logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+boston_celtics,Boston Celtics,波士顿凯尔特人,,文化媒体,美国,basketball_teams,high,4,Boston Celtics logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+brooklyn_nets,Brooklyn Nets,布鲁克林篮网,,文化媒体,美国,basketball_teams,high,4,Brooklyn Nets logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+chicago_bulls,Chicago Bulls,芝加哥公牛,,文化媒体,美国,basketball_teams,high,4,Chicago Bulls logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+dallas_mavericks,Dallas Mavericks,达拉斯独行侠,,文化媒体,美国,basketball_teams,high,4,Dallas Mavericks logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+golden_state_warriors,Golden State Warriors,金州勇士,,文化媒体,美国,basketball_teams,high,4,Golden State Warriors logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+los_angeles_lakers,Los Angeles Lakers,洛杉矶湖人,,文化媒体,美国,basketball_teams,high,4,Los Angeles Lakers logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+miami_heat,Miami Heat,迈阿密热火,,文化媒体,美国,basketball_teams,high,4,Miami Heat logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+new_york_knicks,New York Knicks,纽约尼克斯,,文化媒体,美国,basketball_teams,high,4,New York Knicks logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+iqiyi,iQIYI,爱奇艺,iqiyi.com,文化媒体,中国,china_media_video,low,5,iQIYI logo symbol icon svg,pending,字标为主
+tencent_video,Tencent Video,腾讯视频,v.qq.com,文化媒体,中国,china_media_video,high,5,Tencent Video logo symbol icon svg,pending,三角播放图形可用
+keep,Keep,Keep,gotokeep.com,文化媒体,中国,china_media_video,medium,4,Keep logo symbol icon svg,pending,K图形可用
+mango_tv,Mango TV,芒果TV,mgtv.com,文化媒体,中国,china_media_video,high,4,Mango TV logo symbol icon svg,pending,芒果图形可用
+youku,Youku,优酷,youku.com,文化媒体,中国,china_media_video,medium,4,Youku logo symbol icon svg,pending,播放图形可找
+douyu,Douyu,斗鱼,douyu.com,文化媒体,中国,china_media_video,high,3,Douyu logo symbol icon svg,pending,鱼图形可用
+huya,Huya,虎牙直播,huya.com,文化媒体,中国,china_media_video,high,3,Huya logo symbol icon svg,pending,虎牙图形可用
+mafengwo,Mafengwo,马蜂窝,mafengwo.cn,文化媒体,中国,china_media_video,high,3,Mafengwo logo symbol icon svg,pending,蜜蜂图形可用
+36kr,36Kr,36氪,,文化媒体,中国,china_news_media,medium,3,36Kr logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+caixin,Caixin,财新,,文化媒体,中国,china_news_media,medium,3,Caixin logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+cctv,CCTV,中央电视台,,文化媒体,中国,china_news_media,medium,3,CCTV logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+huxiu,Huxiu,虎嗅,,文化媒体,中国,china_news_media,medium,3,Huxiu logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+jiemian,Jiemian,界面新闻,,文化媒体,中国,china_news_media,medium,3,Jiemian logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+peoples_daily,People's Daily,人民日报,,文化媒体,中国,china_news_media,medium,3,People's Daily logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+the_paper,The Paper,澎湃新闻,,文化媒体,中国,china_news_media,medium,3,The Paper logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+xinhua_news_agency,Xinhua News Agency,新华社,,文化媒体,中国,china_news_media,medium,3,Xinhua News Agency logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+apex_legends,Apex Legends,Apex 英雄,,文化媒体,国际,esports_games,high,4,Apex Legends logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+counter_strike,Counter-Strike,反恐精英,,文化媒体,国际,esports_games,high,4,Counter-Strike logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+dota_2,Dota 2,Dota 2,,文化媒体,国际,esports_games,high,4,Dota 2 logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+league_of_legends,League of Legends,英雄联盟,,文化媒体,国际,esports_games,high,4,League of Legends logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+overwatch,Overwatch,守望先锋,,文化媒体,国际,esports_games,high,4,Overwatch logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+pubg,PUBG,绝地求生,,文化媒体,国际,esports_games,high,4,PUBG logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+valorant,Valorant,无畏契约,,文化媒体,国际,esports_games,high,4,Valorant logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+20th_century_studios,20th Century Studios,二十世纪影业,,文化媒体,国际,film_studios,high,4,20th Century Studios logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+dreamworks,DreamWorks,梦工厂,,文化媒体,国际,film_studios,high,4,DreamWorks logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+marvel_studios,Marvel Studios,漫威影业,,文化媒体,国际,film_studios,high,4,Marvel Studios logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+paramount_pictures,Paramount Pictures,派拉蒙,,文化媒体,国际,film_studios,high,4,Paramount Pictures logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+pixar,Pixar,皮克斯,,文化媒体,国际,film_studios,high,4,Pixar logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+sony_pictures,Sony Pictures,索尼影业,,文化媒体,国际,film_studios,high,4,Sony Pictures logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+universal_pictures,Universal Pictures,环球影业,,文化媒体,国际,film_studios,high,4,Universal Pictures logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+warner_bros,Warner Bros.,华纳兄弟,,文化媒体,国际,film_studios,high,4,Warner Bros. logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+arsenal_fc,Arsenal FC,阿森纳,,文化媒体,国际,football_clubs_global,high,4,Arsenal FC logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+bayern_munich,Bayern Munich,拜仁慕尼黑,,文化媒体,国际,football_clubs_global,high,4,Bayern Munich logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+chelsea_fc,Chelsea FC,切尔西,,文化媒体,国际,football_clubs_global,high,4,Chelsea FC logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+fc_barcelona,FC Barcelona,巴塞罗那,,文化媒体,国际,football_clubs_global,high,4,FC Barcelona logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+liverpool_fc,Liverpool FC,利物浦,,文化媒体,国际,football_clubs_global,high,4,Liverpool FC logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+manchester_united,Manchester United,曼联,,文化媒体,国际,football_clubs_global,high,4,Manchester United logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+paris_saint_germain,Paris Saint-Germain,巴黎圣日耳曼,,文化媒体,国际,football_clubs_global,high,4,Paris Saint-Germain logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+real_madrid,Real Madrid,皇家马德里,,文化媒体,国际,football_clubs_global,high,4,Real Madrid logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+activision,Activision,动视,activision.com,文化媒体,美国,game_studios,low,4,Activision logo symbol icon svg,pending,字标为主
+blizzard,Blizzard,暴雪娱乐,blizzard.com,文化媒体,美国,game_studios,low,4,Blizzard logo symbol icon svg,pending,字标为主
+electronic_arts,Electronic Arts,艺电,ea.com,文化媒体,美国,game_studios,medium,4,Electronic Arts logo symbol icon svg,pending,EA字母符号可用
+hoyoverse,HoYoverse,米哈游 HoYoverse,hoyoverse.com,文化媒体,中国,game_studios,low,4,HoYoverse logo symbol icon svg,pending,字标为主
+netease_games,NetEase Games,网易游戏,games.163.com,文化媒体,中国,game_studios,medium,4,NetEase Games logo symbol icon svg,pending,图形可找
+riot_games,Riot Games,拳头游戏,riotgames.com,文化媒体,美国,game_studios,high,4,Riot Games logo symbol icon svg,pending,拳头图形可用
+tencent_games,Tencent Games,腾讯游戏,game.qq.com,文化媒体,中国,game_studios,medium,4,Tencent Games logo symbol icon svg,pending,火花图形可找
+ubisoft,Ubisoft,育碧,ubisoft.com,文化媒体,法国,game_studios,high,4,Ubisoft logo symbol icon svg,pending,旋涡图形可用
+bandai_namco,Bandai Namco,万代南梦宫,,文化媒体,国际,game_studios_extra,high,4,Bandai Namco logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+capcom,Capcom,卡普空,,文化媒体,国际,game_studios_extra,high,4,Capcom logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+fromsoftware,FromSoftware,FromSoftware,,文化媒体,国际,game_studios_extra,high,4,FromSoftware logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+koei_tecmo,Koei Tecmo,光荣特库摩,,文化媒体,国际,game_studios_extra,high,4,Koei Tecmo logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+konami,Konami,科乐美,,文化媒体,国际,game_studios_extra,high,4,Konami logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+sega,SEGA,世嘉,,文化媒体,国际,game_studios_extra,high,4,SEGA logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+square_enix,Square Enix,史克威尔艾尼克斯,,文化媒体,国际,game_studios_extra,high,4,Square Enix logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+nintendo,Nintendo,任天堂,nintendo.com,文化媒体,日本,gaming_platforms,low,5,Nintendo logo symbol icon svg,pending,字标为主
+playstation,PlayStation,PlayStation,playstation.com,文化媒体,日本,gaming_platforms,high,5,PlayStation logo symbol icon svg,pending,PS图形可用
+xbox,Xbox,Xbox,xbox.com,文化媒体,美国,gaming_platforms,high,5,Xbox logo symbol icon svg,pending,X球图形可用
+epic_games,Epic Games,Epic Games,epicgames.com,文化媒体,美国,gaming_platforms,medium,4,Epic Games logo symbol icon svg,pending,盾牌字标，需筛
+fortnite,Fortnite,堡垒之夜,fortnite.com,文化媒体,美国,gaming_platforms,low,4,Fortnite logo symbol icon svg,pending,字标为主
+minecraft,Minecraft,我的世界,minecraft.net,文化媒体,瑞典/美国,gaming_platforms,high,4,Minecraft logo symbol icon svg,pending,方块图形可用
+roblox,Roblox,Roblox,roblox.com,文化媒体,美国,gaming_platforms,high,4,Roblox logo symbol icon svg,pending,方孔图形可用
+steam,Steam,Steam,steampowered.com,文化媒体,美国,gaming_platforms,high,4,Steam logo symbol icon svg,pending,机械臂图形可用
+whatsapp,WhatsApp,WhatsApp,whatsapp.com,文化媒体,美国,messaging_community,high,5,WhatsApp logo symbol icon svg,pending,电话气泡图形可用
+discord,Discord,Discord,discord.com,文化媒体,美国,messaging_community,high,4,Discord logo symbol icon svg,pending,游戏手柄脸可用
+line,LINE,LINE,line.me,文化媒体,日本,messaging_community,medium,4,LINE logo symbol icon svg,pending,气泡字标，慎用
+telegram,Telegram,Telegram,telegram.org,文化媒体,国际,messaging_community,high,4,Telegram logo symbol icon svg,pending,纸飞机可用
+threads,Threads,Threads,threads.net,文化媒体,美国,messaging_community,high,4,Threads logo symbol icon svg,pending,线形图形可用
+bluesky,Bluesky,Bluesky,bsky.app,文化媒体,美国,messaging_community,high,3,Bluesky logo symbol icon svg,pending,蝴蝶图形可用
+signal,Signal,Signal,signal.org,文化媒体,美国,messaging_community,high,3,Signal logo symbol icon svg,pending,气泡图形可用
+tumblr,Tumblr,Tumblr,tumblr.com,文化媒体,美国,messaging_community,medium,3,Tumblr logo symbol icon svg,pending,t字母图形
+apple_music,Apple Music,Apple Music,music.apple.com,文化媒体,美国,music_audio,high,5,Apple Music logo symbol icon svg,pending,音符图形可用
+spotify,Spotify,Spotify,spotify.com,文化媒体,瑞典,music_audio,high,5,Spotify logo symbol icon svg,pending,声波圆形可用
+netease_cloud_music,NetEase Cloud Music,网易云音乐,music.163.com,文化媒体,中国,music_audio,high,4,NetEase Cloud Music logo symbol icon svg,pending,唱片图形可用
+qq_music,QQ Music,QQ音乐,y.qq.com,文化媒体,中国,music_audio,high,4,QQ Music logo symbol icon svg,pending,音符图形可用
+deezer,Deezer,Deezer,deezer.com,文化媒体,法国,music_audio,medium,3,Deezer logo symbol icon svg,pending,均衡器图形可用
+kugou_music,Kugou Music,酷狗音乐,kugou.com,文化媒体,中国,music_audio,medium,3,Kugou Music logo symbol icon svg,pending,图形可找
+soundcloud,SoundCloud,SoundCloud,soundcloud.com,文化媒体,德国,music_audio,high,3,SoundCloud logo symbol icon svg,pending,云波图形可用
+tidal,Tidal,Tidal,tidal.com,文化媒体,挪威,music_audio,high,3,Tidal logo symbol icon svg,pending,菱形图形可用
+bbc,BBC,BBC,,文化媒体,国际,news_media_global,medium,3,BBC logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+bloomberg,Bloomberg,彭博,,文化媒体,国际,news_media_global,medium,3,Bloomberg logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+cnn,CNN,CNN,,文化媒体,国际,news_media_global,medium,3,CNN logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+financial_times,Financial Times,金融时报,,文化媒体,国际,news_media_global,medium,3,Financial Times logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+reuters,Reuters,路透社,,文化媒体,国际,news_media_global,medium,3,Reuters logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+the_economist,The Economist,经济学人,,文化媒体,国际,news_media_global,medium,3,The Economist logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+the_guardian,The Guardian,卫报,,文化媒体,国际,news_media_global,medium,3,The Guardian logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+the_new_york_times,The New York Times,纽约时报,,文化媒体,国际,news_media_global,medium,3,The New York Times logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+douyin,Douyin,抖音,douyin.com,文化媒体,中国,social_china,high,5,Douyin logo symbol icon svg,pending,音符图形可用
+kuaishou,Kuaishou,快手,kuaishou.com,文化媒体,中国,social_china,high,5,Kuaishou logo symbol icon svg,pending,相机图形可用
+qq,QQ,QQ,qq.com,文化媒体,中国,social_china,high,5,QQ logo symbol icon svg,pending,企鹅图形可用
+wechat,WeChat,微信,wechat.com,文化媒体,中国,social_china,high,5,WeChat logo symbol icon svg,pending,双气泡可用
+weibo,Weibo,微博,weibo.com,文化媒体,中国,social_china,high,5,Weibo logo symbol icon svg,pending,眼睛图形可用
+xiaohongshu,Xiaohongshu,小红书,xiaohongshu.com,文化媒体,中国,social_china,medium,5,Xiaohongshu logo symbol icon svg,pending,字标/App图标需筛
+douban,Douban,豆瓣,douban.com,文化媒体,中国,social_china,low,4,Douban logo symbol icon svg,pending,字标为主
+zhihu,Zhihu,知乎,zhihu.com,文化媒体,中国,social_china,low,4,Zhihu logo symbol icon svg,pending,字标为主
+facebook,Facebook,Facebook,facebook.com,文化媒体,美国,social_global,high,5,Facebook logo symbol icon svg,pending,f 图形可用
+instagram,Instagram,Instagram,instagram.com,文化媒体,美国,social_global,high,5,Instagram logo symbol icon svg,pending,相机图形可用
+tiktok,TikTok,TikTok,tiktok.com,文化媒体,中国/国际,social_global,high,5,TikTok logo symbol icon svg,pending,音符图形可用
+x_twitter,X,X / Twitter,x.com,文化媒体,美国,social_global,medium,5,X logo symbol icon svg,pending,X字母，需配合题型
+linkedin,LinkedIn,LinkedIn,linkedin.com,文化媒体,美国,social_global,medium,4,LinkedIn logo symbol icon svg,pending,in字母，需筛
+pinterest,Pinterest,Pinterest,pinterest.com,文化媒体,美国,social_global,high,4,Pinterest logo symbol icon svg,pending,P图形可用
+reddit,Reddit,Reddit,reddit.com,文化媒体,美国,social_global,high,4,Reddit logo symbol icon svg,pending,机器人图形可用
+snapchat,Snapchat,Snapchat,snapchat.com,文化媒体,美国,social_global,high,4,Snapchat logo symbol icon svg,pending,幽灵图形可用
+fifa,FIFA,国际足联,fifa.com,文化媒体,国际组织,sports_orgs,low,5,FIFA logo symbol icon svg,pending,字标为主
+formula_1,Formula 1,一级方程式,formula1.com,文化媒体,国际组织,sports_orgs,medium,5,Formula 1 logo symbol icon svg,pending,F1图形可用
+nba,NBA,NBA,nba.com,文化媒体,美国,sports_orgs,high,5,NBA logo symbol icon svg,pending,球员剪影可用
+olympics,Olympics,奥林匹克,olympics.com,文化媒体,国际组织,sports_orgs,high,5,Olympics logo symbol icon svg,pending,五环可用
+mlb,MLB,美国职业棒球大联盟,mlb.com,文化媒体,美国,sports_orgs,high,4,MLB logo symbol icon svg,pending,击球手剪影可用
+nfl,NFL,美国国家橄榄球联盟,nfl.com,文化媒体,美国,sports_orgs,high,4,NFL logo symbol icon svg,pending,盾牌可用
+uefa,UEFA,欧洲足联,uefa.com,文化媒体,欧洲,sports_orgs,medium,4,UEFA logo symbol icon svg,pending,图形可找
+nhl,NHL,国家冰球联盟,nhl.com,文化媒体,美国/加拿大,sports_orgs,medium,3,NHL logo symbol icon svg,pending,盾牌可用
+apple_tv,Apple TV+,Apple TV+,,文化媒体,国际,streaming_extra,high,4,Apple TV+ logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+crunchyroll,Crunchyroll,Crunchyroll,,文化媒体,国际,streaming_extra,high,4,Crunchyroll logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+hbo_max,HBO Max,HBO Max,,文化媒体,国际,streaming_extra,high,4,HBO Max logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+paramount,Paramount+,Paramount+,,文化媒体,国际,streaming_extra,high,4,Paramount+ logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+peacock,Peacock,Peacock,,文化媒体,国际,streaming_extra,high,4,Peacock logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+bilibili,Bilibili,哔哩哔哩,bilibili.com,文化媒体,中国,video_streaming,high,5,Bilibili logo symbol icon svg,pending,电视图形可用
+disney_plus,Disney+,Disney+,disneyplus.com,文化媒体,美国,video_streaming,low,5,Disney+ logo symbol icon svg,pending,字标为主
+netflix,Netflix,Netflix,netflix.com,文化媒体,美国,video_streaming,medium,5,Netflix logo symbol icon svg,pending,N图标可用
+youtube,YouTube,YouTube,youtube.com,文化媒体,美国,video_streaming,high,5,YouTube logo symbol icon svg,pending,播放按钮可用
+hulu,Hulu,Hulu,hulu.com,文化媒体,美国,video_streaming,low,4,Hulu logo symbol icon svg,pending,字标为主
+max,Max,Max,max.com,文化媒体,美国,video_streaming,low,4,Max logo symbol icon svg,pending,字标为主
+prime_video,Prime Video,Prime Video,primevideo.com,文化媒体,美国,video_streaming,medium,4,Prime Video logo symbol icon svg,pending,笑脸箭头可找
+twitch,Twitch,Twitch,twitch.tv,文化媒体,美国,video_streaming,high,4,Twitch logo symbol icon svg,pending,气泡图形可用
+asiana_airlines,Asiana Airlines,韩亚航空,,旅游酒店,亚洲,airlines_asia_extra,high,4,Asiana Airlines logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+eva_air,EVA Air,长荣航空,,旅游酒店,亚洲,airlines_asia_extra,high,4,EVA Air logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+air_france,Air France,法国航空,,旅游酒店,欧洲,airlines_europe,high,4,Air France logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+british_airways,British Airways,英国航空,,旅游酒店,欧洲,airlines_europe,high,4,British Airways logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+easyjet,easyJet,易捷航空,,旅游酒店,欧洲,airlines_europe,high,4,easyJet logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+iberia,Iberia,伊比利亚航空,,旅游酒店,欧洲,airlines_europe,high,4,Iberia logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+klm,KLM,荷兰皇家航空,,旅游酒店,欧洲,airlines_europe,high,4,KLM logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+ryanair,Ryanair,瑞安航空,,旅游酒店,欧洲,airlines_europe,high,4,Ryanair logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+swiss_international_air_lines,Swiss International Air Lines,瑞士国际航空,,旅游酒店,欧洲,airlines_europe,high,4,Swiss International Air Lines logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+alaska_airlines,Alaska Airlines,阿拉斯加航空,,旅游酒店,美国,airlines_us,high,4,Alaska Airlines logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+frontier_airlines,Frontier Airlines,边疆航空,,旅游酒店,美国,airlines_us,high,4,Frontier Airlines logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+jetblue,JetBlue,捷蓝航空,,旅游酒店,美国,airlines_us,high,4,JetBlue logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+southwest_airlines,Southwest Airlines,西南航空,,旅游酒店,美国,airlines_us,high,4,Southwest Airlines logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+spirit_airlines,Spirit Airlines,精神航空,,旅游酒店,美国,airlines_us,high,4,Spirit Airlines logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+airbnb,Airbnb,爱彼迎,airbnb.com,旅游酒店,美国,hotel_travel,high,5,Airbnb logo symbol icon svg,pending,Bélo图形可用
+accor,Accor,雅高,accor.com,旅游酒店,法国,hotel_travel,medium,4,Accor logo symbol icon svg,pending,鸟形图形可找
+four_seasons,Four Seasons,四季酒店,fourseasons.com,旅游酒店,加拿大,hotel_travel,high,4,Four Seasons logo symbol icon svg,pending,树形图形可用
+hilton,Hilton,希尔顿,hilton.com,旅游酒店,美国,hotel_travel,medium,4,Hilton logo symbol icon svg,pending,H图形可用
+hyatt,Hyatt,凯悦,hyatt.com,旅游酒店,美国,hotel_travel,low,4,Hyatt logo symbol icon svg,pending,字标为主
+ihg,IHG,洲际酒店集团,ihg.com,旅游酒店,英国,hotel_travel,medium,4,IHG logo symbol icon svg,pending,图形可找
+marriott,Marriott,万豪,marriott.com,旅游酒店,美国,hotel_travel,medium,4,Marriott logo symbol icon svg,pending,M图形/字标，需筛
+shangri_la,Shangri-La,香格里拉,shangri-la.com,旅游酒店,中国香港,hotel_travel,high,4,Shangri-La logo symbol icon svg,pending,S叶形图形可用
+ritz_carlton,Ritz-Carlton,丽思卡尔顿,,旅游酒店,国际,hotels_global_extra,medium,4,Ritz-Carlton logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+chimelong,Chimelong,长隆,,旅游酒店,国际,theme_parks,high,4,Chimelong logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+disneyland,Disneyland,迪士尼乐园,,旅游酒店,国际,theme_parks,high,4,Disneyland logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+everland,Everland,爱宝乐园,,旅游酒店,国际,theme_parks,high,4,Everland logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+fuji_q_highland,Fuji-Q Highland,富士急乐园,,旅游酒店,国际,theme_parks,high,4,Fuji-Q Highland logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+legoland,Legoland,乐高乐园,,旅游酒店,国际,theme_parks,high,4,Legoland logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+seaworld,SeaWorld,海洋世界,,旅游酒店,国际,theme_parks,high,4,SeaWorld logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+six_flags,Six Flags,六旗,,旅游酒店,国际,theme_parks,high,4,Six Flags logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+universal_studios,Universal Studios,环球影城,,旅游酒店,国际,theme_parks,high,4,Universal Studios logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+booking_com,Booking.com,Booking.com,booking.com,旅游酒店,荷兰,travel_booking,low,4,Booking.com logo symbol icon svg,pending,字标为主
+ctrip,Ctrip,携程,ctrip.com,旅游酒店,中国,travel_booking,medium,4,Ctrip logo symbol icon svg,pending,海豚图形可找
+expedia,Expedia,Expedia,expedia.com,旅游酒店,美国,travel_booking,high,4,Expedia logo symbol icon svg,pending,飞机圆形可用
+skyscanner,Skyscanner,天巡,skyscanner.com,旅游酒店,英国,travel_booking,medium,4,Skyscanner logo symbol icon svg,pending,太阳/机票图形可找
+trip_com,Trip.com,携程 Trip.com,trip.com,旅游酒店,中国,travel_booking,medium,4,Trip.com logo symbol icon svg,pending,图形可找
+tripadvisor,Tripadvisor,猫途鹰,tripadvisor.com,旅游酒店,美国,travel_booking,high,4,Tripadvisor logo symbol icon svg,pending,猫头鹰图形可用
+agoda,Agoda,Agoda,agoda.com,旅游酒店,新加坡,travel_booking,medium,3,Agoda logo symbol icon svg,pending,彩色点图形可用
+klook,Klook,Klook,klook.com,旅游酒店,中国香港,travel_booking,medium,3,Klook logo symbol icon svg,pending,图形可找
+hotels_com,Hotels.com,Hotels.com,,旅游酒店,国际,travel_booking_extra,high,4,Hotels.com logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+hm,H&M,H&M,,服装时尚,国际,affordable_fashion,low,4,H&M logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+mango,Mango,Mango,,服装时尚,国际,affordable_fashion,low,4,Mango logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+stradivarius,Stradivarius,Stradivarius,,服装时尚,国际,affordable_fashion,low,4,Stradivarius logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+carhartt,Carhartt,Carhartt,,服装时尚,国际,denim_casual,medium,4,Carhartt logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+dickies,Dickies,Dickies,,服装时尚,国际,denim_casual,medium,4,Dickies logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+diesel,Diesel,Diesel,,服装时尚,国际,denim_casual,medium,4,Diesel logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+g_star_raw,G-Star RAW,G-Star RAW,,服装时尚,国际,denim_casual,medium,4,G-Star RAW logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+lee,Lee,Lee,,服装时尚,国际,denim_casual,medium,4,Lee logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+levis,Levi's,李维斯,,服装时尚,国际,denim_casual,medium,4,Levi's logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+wrangler,Wrangler,Wrangler,,服装时尚,国际,denim_casual,medium,4,Wrangler logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+h_and_m,H&M,H&M,hm.com,服装时尚,瑞典,fast_fashion,low,5,H&M logo symbol icon svg,pending,纯字标，第一批慎用
+uniqlo,UNIQLO,优衣库,uniqlo.com,服装时尚,日本,fast_fashion,low,5,UNIQLO logo symbol icon svg,pending,字标较强，优先找 app icon 或方形符号
+zara,Zara,ZARA,zara.com,服装时尚,西班牙,fast_fashion,low,5,Zara logo symbol icon svg,pending,纯字标，第一批慎用
+gap,Gap,Gap,gap.com,服装时尚,美国,fast_fashion,low,4,Gap logo symbol icon svg,pending,字标为主
+gu,GU,GU,gu-global.com,服装时尚,日本,fast_fashion,low,4,GU logo symbol icon svg,pending,字标品牌，需谨慎
+bershka,Bershka,Bershka,bershka.com,服装时尚,西班牙,fast_fashion,low,3,Bershka logo symbol icon svg,pending,字标为主
+old_navy,Old Navy,Old Navy,oldnavy.com,服装时尚,美国,fast_fashion,low,3,Old Navy logo symbol icon svg,pending,字标为主
+pull_and_bear,Pull&Bear,Pull&Bear,pullandbear.com,服装时尚,西班牙,fast_fashion,low,3,Pull&Bear logo symbol icon svg,pending,字标为主
+beams,BEAMS,BEAMS,,服装时尚,日本,japan_basic_fashion,low,4,BEAMS logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+comme_des_garc_ons,Comme des Garçons,川久保玲,,服装时尚,日本,japan_basic_fashion,low,4,Comme des Garçons logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+onitsuka_tiger,Onitsuka Tiger,鬼塚虎,,服装时尚,日本,japan_basic_fashion,low,4,Onitsuka Tiger logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+united_arrows,United Arrows,United Arrows,,服装时尚,日本,japan_basic_fashion,low,4,United Arrows logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+chanel,Chanel,香奈儿,chanel.com,服装时尚,法国,luxury_fashion,high,5,Chanel logo symbol icon svg,pending,双C可用
+dior,Dior,迪奥,dior.com,服装时尚,法国,luxury_fashion,low,5,Dior logo symbol icon svg,pending,字标为主
+gucci,Gucci,古驰,gucci.com,服装时尚,意大利,luxury_fashion,high,5,Gucci logo symbol icon svg,pending,双G可用
+herm_s,Hermès,爱马仕,hermes.com,服装时尚,法国,luxury_fashion,high,5,Hermès logo symbol icon svg,pending,马车图形可用
+louis_vuitton,Louis Vuitton,路易威登,louisvuitton.com,服装时尚,法国,luxury_fashion,medium,5,Louis Vuitton logo symbol icon svg,pending,LV 字母符号可用
+prada,Prada,普拉达,prada.com,服装时尚,意大利,luxury_fashion,low,5,Prada logo symbol icon svg,pending,字标较多
+burberry,Burberry,博柏利,burberry.com,服装时尚,英国,luxury_fashion,medium,4,Burberry logo symbol icon svg,pending,骑士图形可找
+versace,Versace,范思哲,versace.com,服装时尚,意大利,luxury_fashion,high,4,Versace logo symbol icon svg,pending,美杜莎图形可用
+bvlgari,Bvlgari,宝格丽,,服装时尚,国际,luxury_jewelry,medium,4,Bvlgari logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+chaumet,Chaumet,尚美,,服装时尚,国际,luxury_jewelry,medium,4,Chaumet logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+chopard,Chopard,萧邦,,服装时尚,国际,luxury_jewelry,medium,4,Chopard logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+harry_winston,Harry Winston,海瑞温斯顿,,服装时尚,国际,luxury_jewelry,medium,4,Harry Winston logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+swarovski,Swarovski,施华洛世奇,,服装时尚,国际,luxury_jewelry,medium,4,Swarovski logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+tiffany_and_co,Tiffany & Co.,蒂芙尼,,服装时尚,国际,luxury_jewelry,medium,4,Tiffany & Co. logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+van_cleef_and_arpels,Van Cleef & Arpels,梵克雅宝,,服装时尚,国际,luxury_jewelry,medium,4,Van Cleef & Arpels logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+arcteryx,Arc'teryx,始祖鸟,arcteryx.com,服装时尚,加拿大,outdoor_sports,high,4,Arc'teryx logo symbol icon svg,pending,
+columbia,Columbia,哥伦比亚,columbia.com,服装时尚,美国,outdoor_sports,medium,4,Columbia logo symbol icon svg,pending,
+decathlon,Decathlon,迪卡侬,decathlon.com,服装时尚,法国,outdoor_sports,medium,4,Decathlon logo symbol icon svg,pending,
+patagonia,Patagonia,巴塔哥尼亚,patagonia.com,服装时尚,美国,outdoor_sports,medium,4,Patagonia logo symbol icon svg,pending,
+salomon,Salomon,萨洛蒙,salomon.com,服装时尚,法国,outdoor_sports,high,4,Salomon logo symbol icon svg,pending,
+the_north_face,The North Face,北面,thenorthface.com,服装时尚,美国,outdoor_sports,high,4,The North Face logo symbol icon svg,pending,
+timberland,Timberland,添柏岚,timberland.com,服装时尚,美国,outdoor_sports,medium,4,Timberland logo symbol icon svg,pending,
+mammut,Mammut,猛犸象,mammut.com,服装时尚,瑞士,outdoor_sports,high,3,Mammut logo symbol icon svg,pending,
+converse,Converse,匡威,,服装时尚,国际,sneakers,high,4,Converse logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+crocs,Crocs,卡骆驰,,服装时尚,国际,sneakers,high,4,Crocs logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+hoka,Hoka,Hoka,,服装时尚,国际,sneakers,high,4,Hoka logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+on_running,On Running,昂跑,,服装时尚,国际,sneakers,high,4,On Running logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+skechers,Skechers,斯凯奇,,服装时尚,国际,sneakers,high,4,Skechers logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+vans,Vans,Vans,,服装时尚,国际,sneakers,high,4,Vans logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+adidas,Adidas,阿迪达斯,adidas.com,服装时尚,德国,sportswear_global,high,5,Adidas logo symbol icon svg,pending,
+nike,Nike,耐克,nike.com,服装时尚,美国,sportswear_global,high,5,Nike logo symbol icon svg,pending,
+asics,Asics,亚瑟士,asics.com,服装时尚,日本,sportswear_global,medium,4,Asics logo symbol icon svg,pending,
+new_balance,New Balance,新百伦,newbalance.com,服装时尚,美国,sportswear_global,medium,4,New Balance logo symbol icon svg,pending,
+puma,Puma,彪马,puma.com,服装时尚,德国,sportswear_global,high,4,Puma logo symbol icon svg,pending,
+reebok,Reebok,锐步,reebok.com,服装时尚,美国,sportswear_global,medium,4,Reebok logo symbol icon svg,pending,
+under_armour,Under Armour,安德玛,underarmour.com,服装时尚,美国,sportswear_global,high,4,Under Armour logo symbol icon svg,pending,
+mizuno,Mizuno,美津浓,mizuno.com,服装时尚,日本,sportswear_global,medium,3,Mizuno logo symbol icon svg,pending,
+bape,BAPE,A Bathing Ape,,服装时尚,国际,streetwear,medium,3,BAPE logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+fear_of_god,Fear of God,Fear of God,,服装时尚,国际,streetwear,medium,3,Fear of God logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+human_made,Human Made,Human Made,,服装时尚,国际,streetwear,medium,3,Human Made logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+kith,Kith,Kith,,服装时尚,国际,streetwear,medium,3,Kith logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+off_white,Off-White,Off-White,,服装时尚,国际,streetwear,medium,3,Off-White logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+palace,Palace,Palace,,服装时尚,国际,streetwear,medium,3,Palace logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+stu_ssy,Stüssy,Stüssy,,服装时尚,国际,streetwear,medium,3,Stüssy logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+supreme,Supreme,Supreme,,服装时尚,国际,streetwear,medium,3,Supreme logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+citizen,Citizen,西铁城,,服装时尚,国际,watch_brands,high,4,Citizen logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+longines,Longines,浪琴,,服装时尚,国际,watch_brands,high,4,Longines logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+cartier,Cartier,卡地亚,cartier.com,服装时尚,法国,watch_jewelry,low,5,Cartier logo symbol icon svg,pending,字标为主
+omega,Omega,欧米茄,omegawatches.com,服装时尚,瑞士,watch_jewelry,high,5,Omega logo symbol icon svg,pending,Ω 符号可用
+rolex,Rolex,劳力士,rolex.org,服装时尚,瑞士,watch_jewelry,high,5,Rolex logo symbol icon svg,pending,皇冠图形可用
+casio,Casio,卡西欧,casio.com,服装时尚,日本,watch_jewelry,low,4,Casio logo symbol icon svg,pending,字标为主
+seiko,Seiko,精工,seikowatches.com,服装时尚,日本,watch_jewelry,low,4,Seiko logo symbol icon svg,pending,字标为主
+swatch,Swatch,斯沃琪,swatch.com,服装时尚,瑞士,watch_jewelry,medium,4,Swatch logo symbol icon svg,pending,十字图形可找
+tag_heuer,TAG Heuer,泰格豪雅,tagheuer.com,服装时尚,瑞士,watch_jewelry,medium,4,TAG Heuer logo symbol icon svg,pending,盾牌组合标可找
+tissot,Tissot,天梭,tissotwatches.com,服装时尚,瑞士,watch_jewelry,medium,3,Tissot logo symbol icon svg,pending,T 图形可找
+singapore_airlines,Singapore Airlines,新加坡航空,singaporeair.com,汽车交通,新加坡,airline_asia,high,5,Singapore Airlines logo symbol icon svg,pending,鸟形图形可用
+airasia,AirAsia,亚洲航空,airasia.com,汽车交通,马来西亚,airline_asia,low,4,AirAsia logo symbol icon svg,pending,字标为主
+ana,ANA,全日空,ana.co.jp,汽车交通,日本,airline_asia,low,4,ANA logo symbol icon svg,pending,字标为主
+cathay_pacific,Cathay Pacific,国泰航空,cathaypacific.com,汽车交通,中国香港,airline_asia,high,4,Cathay Pacific logo symbol icon svg,pending,笔刷翼图形可用
+indigo,IndiGo,靛蓝航空,goindigo.in,汽车交通,印度,airline_asia,medium,4,IndiGo logo symbol icon svg,pending,点阵飞机可找
+japan_airlines,Japan Airlines,日本航空,jal.com,汽车交通,日本,airline_asia,high,4,Japan Airlines logo symbol icon svg,pending,鹤丸图形可用
+korean_air,Korean Air,大韩航空,koreanair.com,汽车交通,韩国,airline_asia,medium,4,Korean Air logo symbol icon svg,pending,太极图形可用
+thai_airways,Thai Airways,泰国国际航空,thaiairways.com,汽车交通,泰国,airline_asia,high,4,Thai Airways logo symbol icon svg,pending,紫金花形图形可用
+air_china,Air China,中国国际航空,airchina.com,汽车交通,中国,airline_china,high,5,Air China logo symbol icon svg,pending,凤凰图形可用
+china_eastern_airlines,China Eastern Airlines,中国东方航空,ceair.com,汽车交通,中国,airline_china,high,5,China Eastern Airlines logo symbol icon svg,pending,燕子图形可用
+china_southern_airlines,China Southern Airlines,中国南方航空,csair.com,汽车交通,中国,airline_china,high,5,China Southern Airlines logo symbol icon svg,pending,木棉花图形可用
+hainan_airlines,Hainan Airlines,海南航空,hainanairlines.com,汽车交通,中国,airline_china,high,4,Hainan Airlines logo symbol icon svg,pending,大鹏图形可用
+xiamenair,XiamenAir,厦门航空,xiamenair.com,汽车交通,中国,airline_china,high,4,XiamenAir logo symbol icon svg,pending,白鹭图形可用
+juneyao_air,Juneyao Air,吉祥航空,juneyaoair.com,汽车交通,中国,airline_china,medium,3,Juneyao Air logo symbol icon svg,pending,图形可找
+sichuan_airlines,Sichuan Airlines,四川航空,sichuanair.com,汽车交通,中国,airline_china,medium,3,Sichuan Airlines logo symbol icon svg,pending,海燕图形可找
+spring_airlines,Spring Airlines,春秋航空,ch.com,汽车交通,中国,airline_china,medium,3,Spring Airlines logo symbol icon svg,pending,图形可找
+emirates,Emirates,阿联酋航空,emirates.com,汽车交通,阿联酋,airline_global,low,5,Emirates logo symbol icon svg,pending,字标为主
+qatar_airways,Qatar Airways,卡塔尔航空,qatarairways.com,汽车交通,卡塔尔,airline_global,high,5,Qatar Airways logo symbol icon svg,pending,羚羊图形可用
+american_airlines,American Airlines,美国航空,aa.com,汽车交通,美国,airline_global,medium,4,American Airlines logo symbol icon svg,pending,鹰图形可找
+delta_air_lines,Delta Air Lines,达美航空,delta.com,汽车交通,美国,airline_global,high,4,Delta Air Lines logo symbol icon svg,pending,三角图形可用
+etihad_airways,Etihad Airways,阿提哈德航空,etihad.com,汽车交通,阿联酋,airline_global,low,4,Etihad Airways logo symbol icon svg,pending,字标为主
+lufthansa,Lufthansa,汉莎航空,lufthansa.com,汽车交通,德国,airline_global,high,4,Lufthansa logo symbol icon svg,pending,鹤形图形可用
+turkish_airlines,Turkish Airlines,土耳其航空,turkishairlines.com,汽车交通,土耳其,airline_global,high,4,Turkish Airlines logo symbol icon svg,pending,鸟形圆标可用
+united_airlines,United Airlines,美国联合航空,united.com,汽车交通,美国,airline_global,high,4,United Airlines logo symbol icon svg,pending,地球图形可用
+baojun,Baojun,宝骏,,汽车交通,中国,auto_china_legacy,high,4,Baojun logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+changan_automobile,Changan Automobile,长安汽车,,汽车交通,中国,auto_china_legacy,high,4,Changan Automobile logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+dongfeng,Dongfeng,东风汽车,,汽车交通,中国,auto_china_legacy,high,4,Dongfeng logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+great_wall_motors,Great Wall Motors,长城汽车,,汽车交通,中国,auto_china_legacy,high,4,Great Wall Motors logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+wuling,Wuling,五菱,wuling.com,汽车交通,中国,auto_china_mass,high,5,Wuling logo symbol icon svg,pending,五菱红标可用
+changan,Changan,长安汽车,changan.com.cn,汽车交通,中国,auto_china_mass,high,4,Changan logo symbol icon svg,pending,V形图形可用
+chery,Chery,奇瑞,cheryinternational.com,汽车交通,中国,auto_china_mass,medium,4,Chery logo symbol icon svg,pending,图形可用
+geely,Geely,吉利,geely.com,汽车交通,中国,auto_china_mass,high,4,Geely logo symbol icon svg,pending,盾牌图形可用
+great_wall_motor,Great Wall Motor,长城汽车,gwm-global.com,汽车交通,中国,auto_china_mass,medium,4,Great Wall Motor logo symbol icon svg,pending,图形可用
+hongqi,Hongqi,红旗,hongqi-auto.com,汽车交通,中国,auto_china_mass,high,4,Hongqi logo symbol icon svg,pending,红旗图形可用
+baic,BAIC,北汽,baicgroup.com.cn,汽车交通,中国,auto_china_mass,medium,3,BAIC logo symbol icon svg,pending,图形可找
+saic_motor,SAIC Motor,上汽集团,saicmotor.com,汽车交通,中国,auto_china_mass,medium,3,SAIC Motor logo symbol icon svg,pending,图形可找
+denza,Denza,腾势,,汽车交通,中国,auto_china_new_energy,high,4,Denza logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+leapmotor,Leapmotor,零跑汽车,,汽车交通,中国,auto_china_new_energy,high,4,Leapmotor logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+voyah,Voyah,岚图,,汽车交通,中国,auto_china_new_energy,high,4,Voyah logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+citroe_n,Citroën,雪铁龙,,汽车交通,欧洲,auto_europe_mass,high,4,Citroën logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+fiat,Fiat,菲亚特,,汽车交通,欧洲,auto_europe_mass,high,4,Fiat logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+seat,SEAT,西雅特,,汽车交通,欧洲,auto_europe_mass,high,4,SEAT logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+skoda,Skoda,斯柯达,,汽车交通,欧洲,auto_europe_mass,high,4,Skoda logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+audi,Audi,奥迪,audi.com,汽车交通,德国,auto_germany_premium,high,5,Audi logo symbol icon svg,pending,四环可用
+bmw,BMW,宝马,bmw.com,汽车交通,德国,auto_germany_premium,high,5,BMW logo symbol icon svg,pending,圆形图形可用
+mercedes_benz,Mercedes-Benz,梅赛德斯-奔驰,mercedes-benz.com,汽车交通,德国,auto_germany_premium,high,5,Mercedes-Benz logo symbol icon svg,pending,三叉星可用
+porsche,Porsche,保时捷,porsche.com,汽车交通,德国,auto_germany_premium,high,5,Porsche logo symbol icon svg,pending,盾牌图形可用
+volkswagen,Volkswagen,大众汽车,volkswagen.com,汽车交通,德国,auto_germany_premium,high,5,Volkswagen logo symbol icon svg,pending,VW图形可用
+mini,Mini,MINI,mini.com,汽车交通,英国/德国,auto_germany_premium,high,4,Mini logo symbol icon svg,pending,翅膀图形可用
+opel,Opel,欧宝,opel.com,汽车交通,德国,auto_germany_premium,high,4,Opel logo symbol icon svg,pending,闪电图形可用
+smart,Smart,Smart,smart.com,汽车交通,德国/中国,auto_germany_premium,medium,3,Smart logo symbol icon svg,pending,图形可找
+honda,Honda,本田,honda.com,汽车交通,日本,auto_japan_korea,high,5,Honda logo symbol icon svg,pending,H图形可用
+toyota,Toyota,丰田,toyota.com,汽车交通,日本,auto_japan_korea,high,5,Toyota logo symbol icon svg,pending,椭圆图形可用
+hyundai,Hyundai,现代,hyundai.com,汽车交通,韩国,auto_japan_korea,high,4,Hyundai logo symbol icon svg,pending,H椭圆图形可用
+kia,Kia,起亚,kia.com,汽车交通,韩国,auto_japan_korea,medium,4,Kia logo symbol icon svg,pending,字形图标，需筛
+mazda,Mazda,马自达,mazda.com,汽车交通,日本,auto_japan_korea,high,4,Mazda logo symbol icon svg,pending,飞翼图形可用
+mitsubishi_motors,Mitsubishi Motors,三菱汽车,mitsubishi-motors.com,汽车交通,日本,auto_japan_korea,high,4,Mitsubishi Motors logo symbol icon svg,pending,三菱图形可用
+nissan,Nissan,日产,nissan-global.com,汽车交通,日本,auto_japan_korea,medium,4,Nissan logo symbol icon svg,pending,新版图形可用
+subaru,Subaru,斯巴鲁,subaru.com,汽车交通,日本,auto_japan_korea,high,4,Subaru logo symbol icon svg,pending,星团图形可用
+ferrari,Ferrari,法拉利,ferrari.com,汽车交通,意大利,auto_luxury_sports,high,5,Ferrari logo symbol icon svg,pending,跃马图形可用
+lamborghini,Lamborghini,兰博基尼,lamborghini.com,汽车交通,意大利,auto_luxury_sports,high,5,Lamborghini logo symbol icon svg,pending,公牛盾牌可用
+rolls_royce,Rolls-Royce,劳斯莱斯,rolls-roycemotorcars.com,汽车交通,英国,auto_luxury_sports,medium,5,Rolls-Royce logo symbol icon svg,pending,RR字母，需筛
+alfa_romeo,Alfa Romeo,阿尔法·罗密欧,alfaromeo.com,汽车交通,意大利,auto_luxury_sports,high,4,Alfa Romeo logo symbol icon svg,pending,徽章复杂，需筛
+aston_martin,Aston Martin,阿斯顿·马丁,astonmartin.com,汽车交通,英国,auto_luxury_sports,high,4,Aston Martin logo symbol icon svg,pending,翅膀图形可用
+bentley,Bentley,宾利,bentleymotors.com,汽车交通,英国,auto_luxury_sports,high,4,Bentley logo symbol icon svg,pending,翅膀B可用
+maserati,Maserati,玛莎拉蒂,maserati.com,汽车交通,意大利,auto_luxury_sports,high,4,Maserati logo symbol icon svg,pending,三叉戟可用
+mclaren,McLaren,迈凯伦,mclaren.com,汽车交通,英国,auto_luxury_sports,medium,4,McLaren logo symbol icon svg,pending,速度标可用
+ford,Ford,福特,ford.com,汽车交通,美国,auto_us_europe,low,5,Ford logo symbol icon svg,pending,字标为主
+cadillac,Cadillac,凯迪拉克,cadillac.com,汽车交通,美国,auto_us_europe,high,4,Cadillac logo symbol icon svg,pending,盾牌图形可用
+chevrolet,Chevrolet,雪佛兰,chevrolet.com,汽车交通,美国,auto_us_europe,high,4,Chevrolet logo symbol icon svg,pending,金领结可用
+citro_n,Citroën,雪铁龙,citroen.com,汽车交通,法国,auto_us_europe,high,4,Citroën logo symbol icon svg,pending,双箭头可用
+jeep,Jeep,Jeep,jeep.com,汽车交通,美国,auto_us_europe,low,4,Jeep logo symbol icon svg,pending,字标为主
+peugeot,Peugeot,标致,peugeot.com,汽车交通,法国,auto_us_europe,high,4,Peugeot logo symbol icon svg,pending,狮子图形可用
+renault,Renault,雷诺,renault.com,汽车交通,法国,auto_us_europe,high,4,Renault logo symbol icon svg,pending,菱形图形可用
+volvo,Volvo,沃尔沃,volvocars.com,汽车交通,瑞典,auto_us_europe,high,4,Volvo logo symbol icon svg,pending,铁标图形可用
+buick,Buick,别克,,汽车交通,美国,auto_us_mass,high,4,Buick logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+dodge,Dodge,道奇,,汽车交通,美国,auto_us_mass,high,4,Dodge logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+gmc,GMC,GMC,,汽车交通,美国,auto_us_mass,high,4,GMC logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+lincoln,Lincoln,林肯,,汽车交通,美国,auto_us_mass,high,4,Lincoln logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+byd,BYD,比亚迪,byd.com,汽车交通,中国,ev_cars_china,medium,5,BYD logo symbol icon svg,pending,字母图形，需筛
+tesla,Tesla,特斯拉,tesla.com,汽车交通,美国,ev_cars_china,high,5,Tesla logo symbol icon svg,pending,T图形可用
+aito,AITO,问界,aito.auto,汽车交通,中国,ev_cars_china,low,4,AITO logo symbol icon svg,pending,字母为主
+li_auto,Li Auto,理想汽车,lixiang.com,汽车交通,中国,ev_cars_china,medium,4,Li Auto logo symbol icon svg,pending,图形可用
+nio,NIO,蔚来,nio.com,汽车交通,中国,ev_cars_china,high,4,NIO logo symbol icon svg,pending,蔚来图形可用
+xpeng,XPeng,小鹏汽车,xiaopeng.com,汽车交通,中国,ev_cars_china,medium,4,XPeng logo symbol icon svg,pending,X图形可用
+zeekr,Zeekr,极氪,zeekrlife.com,汽车交通,中国,ev_cars_china,medium,4,Zeekr logo symbol icon svg,pending,图形可用
+avatr,Avatr,阿维塔,avatr.com,汽车交通,中国,ev_cars_china,medium,3,Avatr logo symbol icon svg,pending,图形可找
+chargepoint,ChargePoint,ChargePoint,,汽车交通,国际,ev_charging,medium,3,ChargePoint logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+electrify_america,Electrify America,Electrify America,,汽车交通,国际,ev_charging,medium,3,Electrify America logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+evgo,EVgo,EVgo,,汽车交通,国际,ev_charging,medium,3,EVgo logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+ionity,Ionity,Ionity,,汽车交通,国际,ev_charging,medium,3,Ionity logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+naas,NaaS,能链智电,,汽车交通,国际,ev_charging,medium,3,NaaS logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+star_charge,Star Charge,星星充电,,汽车交通,国际,ev_charging,medium,3,Star Charge logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+teld,TELD,特来电,,汽车交通,国际,ev_charging,medium,3,TELD logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+tesla_supercharger,Tesla Supercharger,特斯拉超级充电,,汽车交通,国际,ev_charging,medium,3,Tesla Supercharger logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+bird,Bird,Bird,,汽车交通,国际,mobility_global,high,4,Bird logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+bolt,Bolt,Bolt,,汽车交通,国际,mobility_global,high,4,Bolt logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+lime,Lime,Lime,,汽车交通,国际,mobility_global,high,4,Lime logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+turo,Turo,Turo,,汽车交通,国际,mobility_global,high,4,Turo logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+ducati,Ducati,杜卡迪,,汽车交通,国际,motorcycles,high,3,Ducati logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+harley_davidson,Harley-Davidson,哈雷戴维森,,汽车交通,国际,motorcycles,high,3,Harley-Davidson logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+kawasaki,Kawasaki,川崎,,汽车交通,国际,motorcycles,high,3,Kawasaki logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+ktm,KTM,KTM,,汽车交通,国际,motorcycles,high,3,KTM logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+royal_enfield,Royal Enfield,皇家恩菲尔德,,汽车交通,国际,motorcycles,high,3,Royal Enfield logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+triumph,Triumph,凯旋,,汽车交通,国际,motorcycles,high,3,Triumph logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+vespa,Vespa,Vespa,,汽车交通,国际,motorcycles,high,3,Vespa logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+yamaha,Yamaha,雅马哈,,汽车交通,国际,motorcycles,high,3,Yamaha logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+michelin,Michelin,米其林,michelin.com,汽车交通,法国,tire_auto_parts,high,5,Michelin logo symbol icon svg,pending,米其林人可用
+bridgestone,Bridgestone,普利司通,bridgestone.com,汽车交通,日本,tire_auto_parts,medium,4,Bridgestone logo symbol icon svg,pending,B图形可用
+continental,Continental,大陆集团,continental.com,汽车交通,德国,tire_auto_parts,high,4,Continental logo symbol icon svg,pending,马图形可用
+goodyear,Goodyear,固特异,goodyear.com,汽车交通,美国,tire_auto_parts,high,4,Goodyear logo symbol icon svg,pending,飞鞋图形可用
+pirelli,Pirelli,倍耐力,pirelli.com,汽车交通,意大利,tire_auto_parts,low,4,Pirelli logo symbol icon svg,pending,字标为主
+dunlop,Dunlop,邓禄普,dunloptires.com,汽车交通,英国,tire_auto_parts,medium,3,Dunlop logo symbol icon svg,pending,D图形可用
+hankook,Hankook,韩泰轮胎,hankooktire.com,汽车交通,韩国,tire_auto_parts,medium,3,Hankook logo symbol icon svg,pending,图形可找
+yokohama,Yokohama,横滨轮胎,yokohamatire.com,汽车交通,日本,tire_auto_parts,medium,3,Yokohama logo symbol icon svg,pending,Y图形可用
+denso,Denso,电装,,汽车交通,国际,tires_auto_parts,medium,3,Denso logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+anta,Anta,安踏,anta.com,生活消费,中国,china_consumer,medium,5,Anta logo symbol icon svg,pending,图形可用
+li_ning,Li-Ning,李宁,li-ning.com,生活消费,中国,china_consumer,high,5,Li-Ning logo symbol icon svg,pending,图形可用
+pop_mart,Pop Mart,泡泡玛特,popmart.com,生活消费,中国,china_consumer,medium,5,Pop Mart logo symbol icon svg,pending,图形可找
+361_degrees,361 Degrees,361°,361sport.com,生活消费,中国,china_consumer,medium,4,361 Degrees logo symbol icon svg,pending,数字图形，需筛
+florasis,Florasis,花西子,florasis.com,生活消费,中国,china_consumer,medium,4,Florasis logo symbol icon svg,pending,图形可找
+perfect_diary,Perfect Diary,完美日记,perfectdiary.com,生活消费,中国,china_consumer,medium,4,Perfect Diary logo symbol icon svg,pending,图形可找
+xtep,Xtep,特步,xtep.com,生活消费,中国,china_consumer,medium,4,Xtep logo symbol icon svg,pending,X图形可找
+freshippo,Freshippo,盒马,,生活消费,中国,china_retail,medium,4,Freshippo logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+gome,Gome,国美,,生活消费,中国,china_retail,medium,4,Gome logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+hema,Hema,盒马,,生活消费,中国,china_retail,medium,4,Hema logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+rt_mart,RT-Mart,大润发,,生活消费,中国,china_retail,medium,4,RT-Mart logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+sams_club_china,Sam's Club China,山姆会员商店,,生活消费,中国,china_retail,medium,4,Sam's Club China logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+suning,Suning,苏宁,,生活消费,中国,china_retail,medium,4,Suning logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+yonghui,Yonghui,永辉超市,,生活消费,中国,china_retail,medium,4,Yonghui logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+johnson_and_johnson,Johnson & Johnson,强生,jnj.com,生活消费,美国,consumer_goods_global,low,5,Johnson & Johnson logo symbol icon svg,pending,字标为主
+nestl,Nestlé,雀巢,nestle.com,生活消费,瑞士,consumer_goods_global,high,5,Nestlé logo symbol icon svg,pending,鸟巢图形可用
+procter_and_gamble,Procter & Gamble,宝洁,pg.com,生活消费,美国,consumer_goods_global,medium,5,Procter & Gamble logo symbol icon svg,pending,P&G字母，需筛
+unilever,Unilever,联合利华,unilever.com,生活消费,英国,consumer_goods_global,medium,5,Unilever logo symbol icon svg,pending,U符号可用
+danone,Danone,达能,danone.com,生活消费,法国,consumer_goods_global,medium,4,Danone logo symbol icon svg,pending,星人图形可找
+kelloggs,Kellogg's,家乐氏,kelloggs.com,生活消费,美国,consumer_goods_global,low,4,Kellogg's logo symbol icon svg,pending,字标为主
+kraft_heinz,Kraft Heinz,卡夫亨氏,kraftheinzcompany.com,生活消费,美国,consumer_goods_global,low,4,Kraft Heinz logo symbol icon svg,pending,字标为主
+mondelez,Mondelez,亿滋,mondelezinternational.com,生活消费,美国,consumer_goods_global,low,4,Mondelez logo symbol icon svg,pending,字标为主
+7_eleven,7-Eleven,7-Eleven,7-eleven.com,生活消费,美国/日本,convenience_store,medium,5,7-Eleven logo symbol icon svg,pending,数字字标，但高识别
+familymart,FamilyMart,全家,family.co.jp,生活消费,日本,convenience_store,low,5,FamilyMart logo symbol icon svg,pending,字标为主
+circle_k,Circle K,Circle K,circlek.com,生活消费,加拿大,convenience_store,medium,4,Circle K logo symbol icon svg,pending,K 图形可用
+lawson,Lawson,罗森,lawson.jp,生活消费,日本,convenience_store,medium,4,Lawson logo symbol icon svg,pending,牛奶罐图形可找
+buc_ees,Buc-ee's,Buc-ee's,buc-ees.com,生活消费,美国,convenience_store,high,3,Buc-ee's logo symbol icon svg,pending,海狸头像可用
+oxxo,Oxxo,OXXO,oxxo.com,生活消费,墨西哥,convenience_store,low,3,Oxxo logo symbol icon svg,pending,字标为主
+shell_select,Shell Select,Shell Select,shell.com,生活消费,英国/国际,convenience_store,high,3,Shell Select logo symbol icon svg,pending,贝壳图形可用
+wawa,Wawa,Wawa,wawa.com,生活消费,美国,convenience_store,high,3,Wawa logo symbol icon svg,pending,鸟图形可用
+cu,CU,CU,,生活消费,国际,convenience_stores,high,4,CU logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+daily_yamazaki,Daily Yamazaki,Daily Yamazaki,,生活消费,国际,convenience_stores,high,4,Daily Yamazaki logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+gs25,GS25,GS25,,生活消费,国际,convenience_stores,high,4,GS25 logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+ministop,Ministop,迷你岛,,生活消费,国际,convenience_stores,high,4,Ministop logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+jd,JD.com,京东,jd.com,生活消费,中国,ecommerce_china,high,5,JD.com logo symbol icon svg,pending,狗图形可用
+meituan,Meituan,美团,meituan.com,生活消费,中国,ecommerce_china,high,5,Meituan logo symbol icon svg,pending,袋鼠图形可用
+pinduoduo,Pinduoduo,拼多多,pinduoduo.com,生活消费,中国,ecommerce_china,medium,5,Pinduoduo logo symbol icon svg,pending,App icon 可用
+taobao,Taobao,淘宝,taobao.com,生活消费,中国,ecommerce_china,low,5,Taobao logo symbol icon svg,pending,字标为主，可找淘公仔/图形
+tmall,Tmall,天猫,tmall.com,生活消费,中国,ecommerce_china,high,5,Tmall logo symbol icon svg,pending,猫头图形可用
+dianping,Dianping,大众点评,dianping.com,生活消费,中国,ecommerce_china,medium,4,Dianping logo symbol icon svg,pending,星形/图标可找
+ele_me,Ele.me,饿了么,ele.me,生活消费,中国,ecommerce_china,low,4,Ele.me logo symbol icon svg,pending,字标为主，App icon 可用
+xianyu,Xianyu,闲鱼,goofish.com,生活消费,中国,ecommerce_china,high,4,Xianyu logo symbol icon svg,pending,鱼图形可用
+amazon,Amazon,亚马逊,amazon.com,生活消费,美国,ecommerce_global,medium,5,Amazon logo symbol icon svg,pending,笑脸箭头可用
+ebay,eBay,eBay,ebay.com,生活消费,美国,ecommerce_global,low,4,eBay logo symbol icon svg,pending,字标为主
+mercado_libre,Mercado Libre,美客多,mercadolibre.com,生活消费,阿根廷,ecommerce_global,high,4,Mercado Libre logo symbol icon svg,pending,握手图形可用
+rakuten,Rakuten,乐天,rakuten.com,生活消费,日本,ecommerce_global,low,4,Rakuten logo symbol icon svg,pending,R 字母图标可用
+shopee,Shopee,Shopee,shopee.com,生活消费,新加坡,ecommerce_global,high,4,Shopee logo symbol icon svg,pending,购物袋图形可用
+temu,Temu,Temu,temu.com,生活消费,中国/国际,ecommerce_global,medium,4,Temu logo symbol icon svg,pending,app icon 可找
+etsy,Etsy,Etsy,etsy.com,生活消费,美国,ecommerce_global,low,3,Etsy logo symbol icon svg,pending,字标为主
+lazada,Lazada,Lazada,lazada.com,生活消费,新加坡,ecommerce_global,high,3,Lazada logo symbol icon svg,pending,心形盒子图形可用
+ikea,IKEA,宜家,ikea.com,生活消费,瑞典,global_retail,low,5,IKEA logo symbol icon svg,pending,字标为主
+muji,MUJI,无印良品,muji.com,生活消费,日本,global_retail,low,5,MUJI logo symbol icon svg,pending,字标为主
+walmart,Walmart,沃尔玛,walmart.com,生活消费,美国,global_retail,high,5,Walmart logo symbol icon svg,pending,星芒图形可用
+aldi,Aldi,奥乐齐,aldi.com,生活消费,德国,global_retail,medium,4,Aldi logo symbol icon svg,pending,方形图形含字，需筛
+carrefour,Carrefour,家乐福,carrefour.com,生活消费,法国,global_retail,high,4,Carrefour logo symbol icon svg,pending,C 图形可用
+costco,Costco,好市多,costco.com,生活消费,美国,global_retail,low,4,Costco logo symbol icon svg,pending,字标为主
+miniso,Miniso,名创优品,miniso.com,生活消费,中国,global_retail,low,4,Miniso logo symbol icon svg,pending,字标为主
+target,Target,Target,target.com,生活消费,美国,global_retail,high,4,Target logo symbol icon svg,pending,靶心图形可用
+dyson,Dyson,戴森,dyson.com,生活消费,英国,home_appliances,low,5,Dyson logo symbol icon svg,pending,字标为主
+bosch,Bosch,博世,bosch.com,生活消费,德国,home_appliances,medium,4,Bosch logo symbol icon svg,pending,锚形图形可找
+gree,Gree,格力,gree.com,生活消费,中国,home_appliances,low,4,Gree logo symbol icon svg,pending,字标为主
+haier,Haier,海尔,haier.com,生活消费,中国,home_appliances,low,4,Haier logo symbol icon svg,pending,字标为主
+midea,Midea,美的,midea.com,生活消费,中国,home_appliances,low,4,Midea logo symbol icon svg,pending,字标为主
+electrolux,Electrolux,伊莱克斯,electrolux.com,生活消费,瑞典,home_appliances,high,3,Electrolux logo symbol icon svg,pending,图形可用
+kitchenaid,KitchenAid,KitchenAid,kitchenaid.com,生活消费,美国,home_appliances,medium,3,KitchenAid logo symbol icon svg,pending,K徽章可找
+tefal,Tefal,特福,tefal.com,生活消费,法国,home_appliances,low,3,Tefal logo symbol icon svg,pending,字标为主
+ashley_furniture,Ashley Furniture,Ashley Furniture,,生活消费,国际,home_furnishing,medium,4,Ashley Furniture logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+crate_and_barrel,Crate & Barrel,Crate & Barrel,,生活消费,国际,home_furnishing,medium,4,Crate & Barrel logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+muuto,Muuto,Muuto,,生活消费,国际,home_furnishing,medium,4,Muuto logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+nitori,Nitori,宜得利,,生活消费,国际,home_furnishing,medium,4,Nitori logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+pottery_barn,Pottery Barn,Pottery Barn,,生活消费,国际,home_furnishing,medium,4,Pottery Barn logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+wayfair,Wayfair,Wayfair,,生活消费,国际,home_furnishing,medium,4,Wayfair logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+west_elm,West Elm,West Elm,,生活消费,国际,home_furnishing,medium,4,West Elm logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+ace_hardware,Ace Hardware,Ace Hardware,,生活消费,国际,home_improvement,medium,4,Ace Hardware logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+b_and_q,B&Q,百安居,,生活消费,国际,home_improvement,medium,4,B&Q logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+kingfisher,Kingfisher,翠丰,,生活消费,国际,home_improvement,medium,4,Kingfisher logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+leroy_merlin,Leroy Merlin,乐华梅兰,,生活消费,国际,home_improvement,medium,4,Leroy Merlin logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+lowes,Lowe's,劳氏,,生活消费,国际,home_improvement,medium,4,Lowe's logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+menards,Menards,Menards,,生活消费,国际,home_improvement,medium,4,Menards logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+obi,OBI,欧倍德,,生活消费,国际,home_improvement,medium,4,OBI logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+the_home_depot,The Home Depot,家得宝,,生活消费,国际,home_improvement,medium,4,The Home Depot logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+bosch_home,Bosch Home,博世家电,,生活消费,国际,household_appliances,medium,4,Bosch Home logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+hisense,Hisense,海信,,生活消费,国际,household_appliances,medium,4,Hisense logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+miele,Miele,美诺,,生活消费,国际,household_appliances,medium,4,Miele logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+siemens_home,Siemens Home,西门子家电,,生活消费,国际,household_appliances,medium,4,Siemens Home logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+china_post,China Post,中国邮政,,生活消费,中国,logistics_china,medium,4,China Post logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+jd_logistics,JD Logistics,京东物流,,生活消费,中国,logistics_china,medium,4,JD Logistics logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+sto_express,STO Express,申通快递,,生活消费,中国,logistics_china,medium,4,STO Express logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+yto_express,YTO Express,圆通速递,,生活消费,中国,logistics_china,medium,4,YTO Express logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+yunda_express,Yunda Express,韵达快递,,生活消费,中国,logistics_china,medium,4,Yunda Express logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+zto_express,ZTO Express,中通快递,,生活消费,中国,logistics_china,medium,4,ZTO Express logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+dhl,DHL,DHL,dhl.com,生活消费,德国,logistics_delivery,low,5,DHL logo symbol icon svg,pending,字标为主
+fedex,FedEx,联邦快递,fedex.com,生活消费,美国,logistics_delivery,low,5,FedEx logo symbol icon svg,pending,字标含箭头，慎用
+sf_express,SF Express,顺丰速运,sf-express.com,生活消费,中国,logistics_delivery,medium,5,SF Express logo symbol icon svg,pending,SF图形可找
+ups,UPS,UPS,ups.com,生活消费,美国,logistics_delivery,high,5,UPS logo symbol icon svg,pending,盾牌图形可用
+cainiao,Cainiao,菜鸟,cainiao.com,生活消费,中国,logistics_delivery,high,4,Cainiao logo symbol icon svg,pending,鸟图形可用
+japan_post,Japan Post,日本邮政,japanpost.jp,生活消费,日本,logistics_delivery,medium,4,Japan Post logo symbol icon svg,pending,〒符号可用
+royal_mail,Royal Mail,英国皇家邮政,royalmail.com,生活消费,英国,logistics_delivery,high,4,Royal Mail logo symbol icon svg,pending,皇冠图形可用
+usps,USPS,美国邮政,usps.com,生活消费,美国,logistics_delivery,high,4,USPS logo symbol icon svg,pending,鹰图形可用
+la_poste,La Poste,法国邮政,,生活消费,国际,logistics_global,medium,4,La Poste logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+tnt,TNT,TNT,,生活消费,国际,logistics_global,medium,4,TNT logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+yamato_transport,Yamato Transport,黑猫宅急便,,生活消费,国际,logistics_global,medium,4,Yamato Transport logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+didi,DiDi,滴滴出行,didiglobal.com,生活消费,中国,ride_hailing_delivery,medium,5,DiDi logo symbol icon svg,pending,D图形可找
+uber,Uber,Uber,uber.com,生活消费,美国,ride_hailing_delivery,low,5,Uber logo symbol icon svg,pending,字标为主
+doordash,DoorDash,DoorDash,doordash.com,生活消费,美国,ride_hailing_delivery,high,4,DoorDash logo symbol icon svg,pending,D图形可用
+grab,Grab,Grab,grab.com,生活消费,新加坡,ride_hailing_delivery,low,4,Grab logo symbol icon svg,pending,字标为主
+lyft,Lyft,Lyft,lyft.com,生活消费,美国,ride_hailing_delivery,low,4,Lyft logo symbol icon svg,pending,字标为主
+uber_eats,Uber Eats,Uber Eats,ubereats.com,生活消费,美国,ride_hailing_delivery,low,4,Uber Eats logo symbol icon svg,pending,字标为主
+deliveroo,Deliveroo,Deliveroo,deliveroo.com,生活消费,英国,ride_hailing_delivery,high,3,Deliveroo logo symbol icon svg,pending,袋鼠图形可用
+gojek,Gojek,Gojek,gojek.com,生活消费,印度尼西亚,ride_hailing_delivery,high,3,Gojek logo symbol icon svg,pending,圆点图形可用
+kroger,Kroger,克罗格,,生活消费,国际,supermarkets_global,medium,4,Kroger logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+lidl,Lidl,Lidl,,生活消费,国际,supermarkets_global,medium,4,Lidl logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+sainsburys,Sainsbury's,森宝利,,生活消费,国际,supermarkets_global,medium,4,Sainsbury's logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+tesco,Tesco,乐购,,生活消费,国际,supermarkets_global,medium,4,Tesco logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+woolworths,Woolworths,Woolworths,,生活消费,国际,supermarkets_global,medium,4,Woolworths logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+chatgpt,ChatGPT,ChatGPT,chatgpt.com,科技互联网,美国,ai_tools,high,5,ChatGPT logo symbol icon svg,pending,结形图形可用
+openai,OpenAI,OpenAI,openai.com,科技互联网,美国,ai_tools,high,5,OpenAI logo symbol icon svg,pending,结形图形可用
+anthropic,Anthropic,Anthropic,anthropic.com,科技互联网,美国,ai_tools,low,4,Anthropic logo symbol icon svg,pending,字标为主
+claude,Claude,Claude,claude.ai,科技互联网,美国,ai_tools,medium,4,Claude logo symbol icon svg,pending,图形可找
+gemini,Gemini,Gemini,gemini.google.com,科技互联网,美国,ai_tools,high,4,Gemini logo symbol icon svg,pending,星形图形可用
+midjourney,Midjourney,Midjourney,midjourney.com,科技互联网,美国,ai_tools,medium,4,Midjourney logo symbol icon svg,pending,船图形/字标需筛
+perplexity,Perplexity,Perplexity,perplexity.ai,科技互联网,美国,ai_tools,high,4,Perplexity logo symbol icon svg,pending,几何图形可用
+runway,Runway,Runway,runwayml.com,科技互联网,美国,ai_tools,low,3,Runway logo symbol icon svg,pending,字标为主
+deepseek,DeepSeek,深度求索,,科技互联网,中国,ai_tools_china,high,4,DeepSeek logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+doubao,Doubao,豆包,,科技互联网,中国,ai_tools_china,high,4,Doubao logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+kimi,Kimi,Kimi,,科技互联网,中国,ai_tools_china,high,4,Kimi logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+minimax,MiniMax,MiniMax,,科技互联网,中国,ai_tools_china,high,4,MiniMax logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+moonshot_ai,Moonshot AI,月之暗面,,科技互联网,中国,ai_tools_china,high,4,Moonshot AI logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+tongyi_qianwen,Tongyi Qianwen,通义千问,,科技互联网,中国,ai_tools_china,high,4,Tongyi Qianwen logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+wenxin_yiyan,Wenxin Yiyan,文心一言,,科技互联网,中国,ai_tools_china,high,4,Wenxin Yiyan logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+zhipu_ai,Zhipu AI,智谱AI,,科技互联网,中国,ai_tools_china,high,4,Zhipu AI logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+elevenlabs,ElevenLabs,ElevenLabs,,科技互联网,国际,ai_tools_global,high,4,ElevenLabs logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+hugging_face,Hugging Face,Hugging Face,,科技互联网,国际,ai_tools_global,high,4,Hugging Face logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+stability_ai,Stability AI,Stability AI,,科技互联网,国际,ai_tools_global,high,4,Stability AI logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+beats,Beats,Beats,beatsbydre.com,科技互联网,美国,audio_camera_devices,high,4,Beats logo symbol icon svg,pending,b圆形可用
+bose,Bose,博士,bose.com,科技互联网,美国,audio_camera_devices,low,4,Bose logo symbol icon svg,pending,字标为主
+fujifilm,Fujifilm,富士胶片,fujifilm.com,科技互联网,日本,audio_camera_devices,medium,4,Fujifilm logo symbol icon svg,pending,F图形可找
+jbl,JBL,JBL,jbl.com,科技互联网,美国,audio_camera_devices,low,4,JBL logo symbol icon svg,pending,字标为主
+leica,Leica,徕卡,leica-camera.com,科技互联网,德国,audio_camera_devices,medium,4,Leica logo symbol icon svg,pending,红点字标，需筛
+marshall,Marshall,马歇尔,marshall.com,科技互联网,英国,audio_camera_devices,low,4,Marshall logo symbol icon svg,pending,字标为主
+sennheiser,Sennheiser,森海塞尔,sennheiser.com,科技互联网,德国,audio_camera_devices,medium,3,Sennheiser logo symbol icon svg,pending,S图形可用
+sonos,Sonos,Sonos,sonos.com,科技互联网,美国,audio_camera_devices,low,3,Sonos logo symbol icon svg,pending,字标为主
+hasselblad,Hasselblad,哈苏,,科技互联网,国际,camera_imaging,high,4,Hasselblad logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+polaroid,Polaroid,宝丽来,,科技互联网,国际,camera_imaging,high,4,Polaroid logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+alibaba,Alibaba,阿里巴巴,alibaba.com,科技互联网,中国,china_tech_services,medium,5,Alibaba logo symbol icon svg,pending,笑脸a图形可找
+baidu,Baidu,百度,baidu.com,科技互联网,中国,china_tech_services,high,5,Baidu logo symbol icon svg,pending,熊掌图形可用
+bytedance,ByteDance,字节跳动,bytedance.com,科技互联网,中国,china_tech_services,medium,5,ByteDance logo symbol icon svg,pending,图形可找
+tencent,Tencent,腾讯,tencent.com,科技互联网,中国,china_tech_services,medium,5,Tencent logo symbol icon svg,pending,企鹅/组合需筛
+amap,Amap,高德地图,amap.com,科技互联网,中国,china_tech_services,medium,4,Amap logo symbol icon svg,pending,App icon 可用
+baidu_maps,Baidu Maps,百度地图,map.baidu.com,科技互联网,中国,china_tech_services,medium,4,Baidu Maps logo symbol icon svg,pending,App icon 可用
+dingtalk,DingTalk,钉钉,dingtalk.com,科技互联网,中国,china_tech_services,high,4,DingTalk logo symbol icon svg,pending,鸟形图形可用
+feishu,Feishu,飞书,feishu.cn,科技互联网,中国,china_tech_services,medium,4,Feishu logo symbol icon svg,pending,图形可用
+alibaba_cloud,Alibaba Cloud,阿里云,alibabacloud.com,科技互联网,中国,cloud_services,medium,4,Alibaba Cloud logo symbol icon svg,pending,云形图形可找
+amazon_web_services,Amazon Web Services,亚马逊云科技,aws.amazon.com,科技互联网,美国,cloud_services,medium,4,Amazon Web Services logo symbol icon svg,pending,AWS字母/笑脸需筛
+cloudflare,Cloudflare,Cloudflare,cloudflare.com,科技互联网,美国,cloud_services,high,4,Cloudflare logo symbol icon svg,pending,云形图形可用
+google_cloud,Google Cloud,谷歌云,cloud.google.com,科技互联网,美国,cloud_services,medium,4,Google Cloud logo symbol icon svg,pending,云形图形可用
+microsoft_azure,Microsoft Azure,微软 Azure,azure.microsoft.com,科技互联网,美国,cloud_services,high,4,Microsoft Azure logo symbol icon svg,pending,A图形可用
+tencent_cloud,Tencent Cloud,腾讯云,cloud.tencent.com,科技互联网,中国,cloud_services,medium,4,Tencent Cloud logo symbol icon svg,pending,图形可找
+digitalocean,DigitalOcean,DigitalOcean,digitalocean.com,科技互联网,美国,cloud_services,high,3,DigitalOcean logo symbol icon svg,pending,水滴图形可用
+heroku,Heroku,Heroku,heroku.com,科技互联网,美国,cloud_services,medium,3,Heroku logo symbol icon svg,pending,H图形可用
+lenovo,Lenovo,联想,lenovo.com,科技互联网,中国,computer_electronics,low,5,Lenovo logo symbol icon svg,pending,字标为主
+asus,ASUS,华硕,asus.com,科技互联网,中国台湾,computer_electronics,low,4,ASUS logo symbol icon svg,pending,字标为主
+dell,Dell,戴尔,dell.com,科技互联网,美国,computer_electronics,medium,4,Dell logo symbol icon svg,pending,倾斜E圆标可用
+hp,HP,惠普,hp.com,科技互联网,美国,computer_electronics,medium,4,HP logo symbol icon svg,pending,HP圆形符号可用
+logitech,Logitech,罗技,logitech.com,科技互联网,瑞士,computer_electronics,high,4,Logitech logo symbol icon svg,pending,G/图形可用
+razer,Razer,雷蛇,razer.com,科技互联网,美国,computer_electronics,high,4,Razer logo symbol icon svg,pending,三头蛇图形可用
+acer,Acer,宏碁,acer.com,科技互联网,中国台湾,computer_electronics,low,3,Acer logo symbol icon svg,pending,字标为主
+alienware,Alienware,外星人,alienware.com,科技互联网,美国,computer_electronics,high,3,Alienware logo symbol icon svg,pending,外星人头像可用
+bang_and_olufsen,Bang & Olufsen,B&O,,科技互联网,国际,consumer_audio,high,4,Bang & Olufsen logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+sony_audio,Sony Audio,索尼音频,,科技互联网,国际,consumer_audio,high,4,Sony Audio logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+dji,DJI,大疆,dji.com,科技互联网,中国,consumer_electronics,low,5,DJI logo symbol icon svg,pending,字标为主
+sony,Sony,索尼,sony.com,科技互联网,日本,consumer_electronics,low,5,Sony logo symbol icon svg,pending,字标为主
+canon,Canon,佳能,canon.com,科技互联网,日本,consumer_electronics,low,4,Canon logo symbol icon svg,pending,字标为主
+gopro,GoPro,GoPro,gopro.com,科技互联网,美国,consumer_electronics,medium,4,GoPro logo symbol icon svg,pending,方块组合可用
+lg,LG,LG,lg.com,科技互联网,韩国,consumer_electronics,high,4,LG logo symbol icon svg,pending,笑脸圆形可用
+nikon,Nikon,尼康,nikon.com,科技互联网,日本,consumer_electronics,low,4,Nikon logo symbol icon svg,pending,字标为主
+panasonic,Panasonic,松下,panasonic.com,科技互联网,日本,consumer_electronics,low,4,Panasonic logo symbol icon svg,pending,字标为主
+philips,Philips,飞利浦,philips.com,科技互联网,荷兰,consumer_electronics,medium,4,Philips logo symbol icon svg,pending,盾牌图形可找
+canva,Canva,Canva,canva.com,科技互联网,澳大利亚,design_productivity,medium,5,Canva logo symbol icon svg,pending,C图形/字标需筛
+figma,Figma,Figma,figma.com,科技互联网,美国,design_productivity,high,5,Figma logo symbol icon svg,pending,F形彩色图形可用
+notion,Notion,Notion,notion.so,科技互联网,美国,design_productivity,medium,5,Notion logo symbol icon svg,pending,N立方体图形可用
+asana,Asana,Asana,asana.com,科技互联网,美国,design_productivity,high,4,Asana logo symbol icon svg,pending,三点图形可用
+dropbox,Dropbox,Dropbox,dropbox.com,科技互联网,美国,design_productivity,high,4,Dropbox logo symbol icon svg,pending,盒子图形可用
+miro,Miro,Miro,miro.com,科技互联网,美国,design_productivity,medium,4,Miro logo symbol icon svg,pending,M图形可用
+trello,Trello,Trello,trello.com,科技互联网,美国,design_productivity,high,4,Trello logo symbol icon svg,pending,看板图形可用
+airtable,Airtable,Airtable,airtable.com,科技互联网,美国,design_productivity,high,3,Airtable logo symbol icon svg,pending,立方体图形可用
+blender,Blender,Blender,,科技互联网,国际,design_tools,high,4,Blender logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+framer,Framer,Framer,,科技互联网,国际,design_tools,high,4,Framer logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+procreate,Procreate,Procreate,,科技互联网,国际,design_tools,high,4,Procreate logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+sketch,Sketch,Sketch,,科技互联网,国际,design_tools,high,4,Sketch logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+webflow,Webflow,Webflow,,科技互联网,国际,design_tools,high,4,Webflow logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+github,GitHub,GitHub,github.com,科技互联网,美国,developer_tools,high,5,GitHub logo symbol icon svg,pending,章鱼猫图形可用
+docker,Docker,Docker,docker.com,科技互联网,美国,developer_tools,high,4,Docker logo symbol icon svg,pending,鲸鱼图形可用
+gitlab,GitLab,GitLab,gitlab.com,科技互联网,美国,developer_tools,high,4,GitLab logo symbol icon svg,pending,狐狸图形可用
+postman,Postman,Postman,postman.com,科技互联网,美国,developer_tools,high,4,Postman logo symbol icon svg,pending,宇航员/圆形图形可用
+vercel,Vercel,Vercel,vercel.com,科技互联网,美国,developer_tools,high,4,Vercel logo symbol icon svg,pending,三角图形可用
+jetbrains,JetBrains,JetBrains,,科技互联网,国际,developer_tools,high,3,JetBrains logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+kubernetes,Kubernetes,Kubernetes,kubernetes.io,科技互联网,美国/开源,developer_tools,high,3,Kubernetes logo symbol icon svg,pending,舵轮图形可用
+netlify,Netlify,Netlify,netlify.com,科技互联网,美国,developer_tools,high,3,Netlify logo symbol icon svg,pending,N图形可用
+sentry,Sentry,Sentry,sentry.io,科技互联网,美国,developer_tools,high,3,Sentry logo symbol icon svg,pending,头盔图形可用
+stack_overflow,Stack Overflow,Stack Overflow,,科技互联网,国际,developer_tools,high,3,Stack Overflow logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+visual_studio_code,Visual Studio Code,VS Code,,科技互联网,国际,developer_tools,high,3,Visual Studio Code logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+ibm,IBM,IBM,ibm.com,科技互联网,美国,enterprise_software,low,5,IBM logo symbol icon svg,pending,纯字标，慎用
+cisco,Cisco,思科,cisco.com,科技互联网,美国,enterprise_software,medium,4,Cisco logo symbol icon svg,pending,桥形图形可用
+oracle,Oracle,甲骨文,oracle.com,科技互联网,美国,enterprise_software,low,4,Oracle logo symbol icon svg,pending,字标为主
+salesforce,Salesforce,Salesforce,salesforce.com,科技互联网,美国,enterprise_software,high,4,Salesforce logo symbol icon svg,pending,云朵图形可用
+sap,SAP,SAP,sap.com,科技互联网,德国,enterprise_software,medium,4,SAP logo symbol icon svg,pending,蓝色符号含字，慎用
+slack,Slack,Slack,slack.com,科技互联网,美国,enterprise_software,high,4,Slack logo symbol icon svg,pending,井号彩色图形可用
+atlassian,Atlassian,Atlassian,atlassian.com,科技互联网,澳大利亚,enterprise_software,high,3,Atlassian logo symbol icon svg,pending,A图形可用
+servicenow,ServiceNow,ServiceNow,servicenow.com,科技互联网,美国,enterprise_software,low,3,ServiceNow logo symbol icon svg,pending,字标为主
+apple,Apple,苹果,apple.com,科技互联网,美国,mobile_device,high,5,Apple logo symbol icon svg,pending,苹果图形可用
+huawei,Huawei,华为,huawei.com,科技互联网,中国,mobile_device,high,5,Huawei logo symbol icon svg,pending,花瓣图形可用
+samsung,Samsung,三星,samsung.com,科技互联网,韩国,mobile_device,low,5,Samsung logo symbol icon svg,pending,字标为主
+xiaomi,Xiaomi,小米,mi.com,科技互联网,中国,mobile_device,medium,5,Xiaomi logo symbol icon svg,pending,MI字母图标，需筛
+honor,Honor,荣耀,honor.com,科技互联网,中国,mobile_device,low,4,Honor logo symbol icon svg,pending,字标为主
+oneplus,OnePlus,一加,oneplus.com,科技互联网,中国,mobile_device,high,4,OnePlus logo symbol icon svg,pending,1+图形可用
+oppo,OPPO,OPPO,oppo.com,科技互联网,中国,mobile_device,low,4,OPPO logo symbol icon svg,pending,字标为主
+vivo,Vivo,vivo,vivo.com,科技互联网,中国,mobile_device,low,4,Vivo logo symbol icon svg,pending,字标为主
+msi,MSI,微星,,科技互联网,国际,pc_hardware,medium,4,MSI logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+evernote,Evernote,印象笔记,,科技互联网,国际,productivity_tools,high,4,Evernote logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+todoist,Todoist,Todoist,,科技互联网,国际,productivity_tools,high,4,Todoist logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+zoom,Zoom,Zoom,,科技互联网,国际,productivity_tools,high,4,Zoom logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+arm,Arm,Arm,,科技互联网,国际,semiconductor,medium,4,Arm logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+asml,ASML,ASML,,科技互联网,国际,semiconductor,medium,4,ASML logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+broadcom,Broadcom,博通,,科技互联网,国际,semiconductor,medium,4,Broadcom logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+mediatek,MediaTek,联发科,,科技互联网,国际,semiconductor,medium,4,MediaTek logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+tsmc,TSMC,台积电,,科技互联网,国际,semiconductor,medium,4,TSMC logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+adobe,Adobe,Adobe,adobe.com,科技互联网,美国,tech_platforms_core,high,5,Adobe logo symbol icon svg,pending,A 图形可用
+google,Google,谷歌,google.com,科技互联网,美国,tech_platforms_core,medium,5,Google logo symbol icon svg,pending,G 图形可用
+intel,Intel,英特尔,intel.com,科技互联网,美国,tech_platforms_core,medium,5,Intel logo symbol icon svg,pending,字标为主，旧图形需筛
+meta,Meta,Meta,meta.com,科技互联网,美国,tech_platforms_core,high,5,Meta logo symbol icon svg,pending,无限环图形可用
+microsoft,Microsoft,微软,microsoft.com,科技互联网,美国,tech_platforms_core,high,5,Microsoft logo symbol icon svg,pending,四色窗可用
+nvidia,NVIDIA,英伟达,nvidia.com,科技互联网,美国,tech_platforms_core,high,5,NVIDIA logo symbol icon svg,pending,眼睛图形可用
+amd,AMD,AMD,amd.com,科技互联网,美国,tech_platforms_core,medium,4,AMD logo symbol icon svg,pending,箭头图形可用
+qualcomm,Qualcomm,高通,qualcomm.com,科技互联网,美国,tech_platforms_core,medium,4,Qualcomm logo symbol icon svg,pending,字标为主
+china_broadnet,China Broadnet,中国广电,,科技互联网,中国,telecom_china,high,4,China Broadnet logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+h3c,H3C,新华三,,科技互联网,中国,telecom_china,high,4,H3C logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+ruijie,Ruijie,锐捷,,科技互联网,中国,telecom_china,high,4,Ruijie logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+tp_link,TP-Link,TP-Link,,科技互联网,中国,telecom_china,high,4,TP-Link logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+zte,ZTE,中兴,,科技互联网,中国,telecom_china,high,4,ZTE logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+china_mobile,China Mobile,中国移动,10086.cn,科技互联网,中国,telecom_china_japan,high,5,China Mobile logo symbol icon svg,pending,双C/图形可用
+china_telecom,China Telecom,中国电信,chinatelecom.com.cn,科技互联网,中国,telecom_china_japan,high,5,China Telecom logo symbol icon svg,pending,图形可用
+china_unicom,China Unicom,中国联通,chinaunicom.com.cn,科技互联网,中国,telecom_china_japan,high,5,China Unicom logo symbol icon svg,pending,中国结图形可用
+ntt_docomo,NTT Docomo,NTT Docomo,docomo.ne.jp,科技互联网,日本,telecom_china_japan,low,4,NTT Docomo logo symbol icon svg,pending,字标为主
+softbank,SoftBank,软银,softbank.jp,科技互联网,日本,telecom_china_japan,medium,4,SoftBank logo symbol icon svg,pending,双线图形可用
+kddi,KDDI,KDDI,kddi.com,科技互联网,日本,telecom_china_japan,low,3,KDDI logo symbol icon svg,pending,字标为主
+singtel,Singtel,新加坡电信,singtel.com,科技互联网,新加坡,telecom_china_japan,medium,3,Singtel logo symbol icon svg,pending,图形可找
+sk_telecom,SK Telecom,SK电讯,sktelecom.com,科技互联网,韩国,telecom_china_japan,medium,3,SK Telecom logo symbol icon svg,pending,图形可找
+at_and_t,AT&T,AT&T,att.com,科技互联网,美国,telecom_global,medium,4,AT&T logo symbol icon svg,pending,地球图形/字标需筛
+deutsche_telekom,Deutsche Telekom,德国电信,telekom.com,科技互联网,德国,telecom_global,medium,4,Deutsche Telekom logo symbol icon svg,pending,T点阵图形可用
+orange,Orange,Orange,orange.com,科技互联网,法国,telecom_global,low,4,Orange logo symbol icon svg,pending,字标/色块，需筛
+t_mobile,T-Mobile,T-Mobile,t-mobile.com,科技互联网,德国/美国,telecom_global,low,4,T-Mobile logo symbol icon svg,pending,T字母图形，需筛
+verizon,Verizon,Verizon,verizon.com,科技互联网,美国,telecom_global,low,4,Verizon logo symbol icon svg,pending,字标为主
+vodafone,Vodafone,沃达丰,vodafone.com,科技互联网,英国,telecom_global,high,4,Vodafone logo symbol icon svg,pending,语音气泡图形可用
+telefonica,Telefonica,西班牙电信,telefonica.com,科技互联网,西班牙,telecom_global,medium,3,Telefonica logo symbol icon svg,pending,图形可找
+telstra,Telstra,澳洲电信,telstra.com,科技互联网,澳大利亚,telecom_global,medium,3,Telstra logo symbol icon svg,pending,T图形可找
+chanel_beauty,Chanel Beauty,香奈儿美妆,chanel.com,美妆个护,法国,beauty_fragrance,high,4,Chanel Beauty logo symbol icon svg,pending,双C可用
+dior_beauty,Dior Beauty,迪奥美妆,dior.com,美妆个护,法国,beauty_fragrance,low,4,Dior Beauty logo symbol icon svg,pending,字标为主
+kiehls,Kiehl's,科颜氏,kiehls.com,美妆个护,美国,beauty_fragrance,low,4,Kiehl's logo symbol icon svg,pending,字标为主
+la_mer,La Mer,海蓝之谜,cremedelamer.com,美妆个护,美国,beauty_fragrance,low,4,La Mer logo symbol icon svg,pending,字标为主
+lanc_me,Lancôme,兰蔻,lancome.com,美妆个护,法国,beauty_fragrance,medium,4,Lancôme logo symbol icon svg,pending,玫瑰符号可找
+olay,Olay,玉兰油,olay.com,美妆个护,美国,beauty_fragrance,low,4,Olay logo symbol icon svg,pending,字标为主
+sk_ii,SK-II,SK-II,sk-ii.com,美妆个护,日本,beauty_fragrance,low,4,SK-II logo symbol icon svg,pending,字标为主
+yves_saint_laurent_beauty,Yves Saint Laurent Beauty,YSL 美妆,yslbeauty.com,美妆个护,法国,beauty_fragrance,medium,4,Yves Saint Laurent Beauty logo symbol icon svg,pending,YSL 字母符号可用
+charlotte_tilbury,Charlotte Tilbury,Charlotte Tilbury,,美妆个护,国际,beauty_makeup,medium,4,Charlotte Tilbury logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+fenty_beauty,Fenty Beauty,Fenty Beauty,,美妆个护,国际,beauty_makeup,medium,4,Fenty Beauty logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+loreal,L'Oréal,欧莱雅,,美妆个护,国际,beauty_makeup,medium,4,L'Oréal logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+mac_cosmetics,MAC Cosmetics,魅可,,美妆个护,国际,beauty_makeup,medium,4,MAC Cosmetics logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+nars,NARS,NARS,,美妆个护,国际,beauty_makeup,medium,4,NARS logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+rare_beauty,Rare Beauty,Rare Beauty,,美妆个护,国际,beauty_makeup,medium,4,Rare Beauty logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+urban_decay,Urban Decay,Urban Decay,,美妆个护,国际,beauty_makeup,medium,4,Urban Decay logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+est_e_lauder,Estée Lauder,雅诗兰黛,esteelauder.com,美妆个护,美国,beauty_personal_care,low,5,Estée Lauder logo symbol icon svg,pending,字标为主
+lor_al,L'Oréal,欧莱雅,loreal.com,美妆个护,法国,beauty_personal_care,low,5,L'Oréal logo symbol icon svg,pending,字标为主
+shiseido,Shiseido,资生堂,shiseido.com,美妆个护,日本,beauty_personal_care,medium,5,Shiseido logo symbol icon svg,pending,花椿符号可找
+clinique,Clinique,倩碧,clinique.com,美妆个护,美国,beauty_personal_care,low,4,Clinique logo symbol icon svg,pending,字标为主
+dove,Dove,多芬,dove.com,美妆个护,英国/美国,beauty_personal_care,high,4,Dove logo symbol icon svg,pending,鸽子图形可用
+maybelline,Maybelline,美宝莲,maybelline.com,美妆个护,美国,beauty_personal_care,low,4,Maybelline logo symbol icon svg,pending,字标为主
+neutrogena,Neutrogena,露得清,neutrogena.com,美妆个护,美国,beauty_personal_care,low,4,Neutrogena logo symbol icon svg,pending,字标为主
+nivea,Nivea,妮维雅,nivea.com,美妆个护,德国,beauty_personal_care,medium,4,Nivea logo symbol icon svg,pending,圆形文字，需筛
+chando,Chando,自然堂,,美妆个护,中国,china_beauty,medium,3,Chando logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+herborist,Herborist,佰草集,,美妆个护,中国,china_beauty,medium,3,Herborist logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+marubi,Marubi,丸美,,美妆个护,中国,china_beauty,medium,3,Marubi logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+pechoin,Pechoin,百雀羚,,美妆个护,中国,china_beauty,medium,3,Pechoin logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+proya,Proya,珀莱雅,,美妆个护,中国,china_beauty,medium,3,Proya logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+winona,Winona,薇诺娜,,美妆个护,中国,china_beauty,medium,3,Winona logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+este_e_lauder,Estée Lauder,雅诗兰黛,,美妆个护,国际,luxury_beauty,low,4,Estée Lauder logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+la_roche_posay,La Roche-Posay,理肤泉,,美妆个护,国际,luxury_beauty,low,4,La Roche-Posay logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+lanco_me,Lancôme,兰蔻,,美妆个护,国际,luxury_beauty,low,4,Lancôme logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+colgate,Colgate,高露洁,,美妆个护,国际,personal_care,medium,4,Colgate logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+head_and_shoulders,Head & Shoulders,海飞丝,,美妆个护,国际,personal_care,medium,4,Head & Shoulders logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+oral_b,Oral-B,欧乐B,,美妆个护,国际,personal_care,medium,4,Oral-B logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+pantene,Pantene,潘婷,,美妆个护,国际,personal_care,medium,4,Pantene logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+vaseline,Vaseline,凡士林,,美妆个护,国际,personal_care,medium,4,Vaseline logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+catl,CATL,宁德时代,,能源工业,中国,energy_china,medium,4,CATL logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+china_southern_power_grid,China Southern Power Grid,南方电网,,能源工业,中国,energy_china,medium,4,China Southern Power Grid logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+cnooc,CNOOC,中国海油,,能源工业,中国,energy_china,medium,4,CNOOC logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+longi,LONGi,隆基绿能,,能源工业,中国,energy_china,medium,4,LONGi logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+state_grid,State Grid,国家电网,,能源工业,中国,energy_china,medium,4,State Grid logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+trina_solar,Trina Solar,天合光能,,能源工业,中国,energy_china,medium,4,Trina Solar logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+petrochina,PetroChina,中国石油,petrochina.com.cn,能源工业,中国,energy_oil,high,5,PetroChina logo symbol icon svg,pending,宝石花图形可用
+shell,Shell,壳牌,shell.com,能源工业,英国,energy_oil,high,5,Shell logo symbol icon svg,pending,贝壳图形可用
+sinopec,Sinopec,中国石化,sinopec.com,能源工业,中国,energy_oil,high,5,Sinopec logo symbol icon svg,pending,红色图形可用
+aramco,Aramco,沙特阿美,aramco.com,能源工业,沙特阿拉伯,energy_oil,medium,4,Aramco logo symbol icon svg,pending,图形可找
+bp,BP,英国石油,bp.com,能源工业,英国,energy_oil,high,4,BP logo symbol icon svg,pending,太阳花图形可用
+chevron,Chevron,雪佛龙,chevron.com,能源工业,美国,energy_oil,high,4,Chevron logo symbol icon svg,pending,双V图形可用
+exxonmobil,ExxonMobil,埃克森美孚,exxonmobil.com,能源工业,美国,energy_oil,low,4,ExxonMobil logo symbol icon svg,pending,字标为主
+totalenergies,TotalEnergies,道达尔能源,totalenergies.com,能源工业,法国,energy_oil,medium,4,TotalEnergies logo symbol icon svg,pending,彩色图形可用
+becton_dickinson,Becton Dickinson,BD,,能源工业,国际,healthcare_devices,medium,3,Becton Dickinson logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+ge_healthcare,GE HealthCare,GE医疗,,能源工业,国际,healthcare_devices,medium,3,GE HealthCare logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+medtronic,Medtronic,美敦力,,能源工业,国际,healthcare_devices,medium,3,Medtronic logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+olympus,Olympus,奥林巴斯,,能源工业,国际,healthcare_devices,medium,3,Olympus logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+philips_healthcare,Philips Healthcare,飞利浦医疗,,能源工业,国际,healthcare_devices,medium,3,Philips Healthcare logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+siemens_healthineers,Siemens Healthineers,西门子医疗,,能源工业,国际,healthcare_devices,medium,3,Siemens Healthineers logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+stryker,Stryker,史赛克,,能源工业,国际,healthcare_devices,medium,3,Stryker logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+daikin,Daikin,大金,,能源工业,亚洲,industrial_asia,medium,4,Daikin logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+fuji_electric,Fuji Electric,富士电机,,能源工业,亚洲,industrial_asia,medium,4,Fuji Electric logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+hitachi,Hitachi,日立,,能源工业,亚洲,industrial_asia,medium,4,Hitachi logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+komatsu,Komatsu,小松,,能源工业,亚洲,industrial_asia,medium,4,Komatsu logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+mitsubishi_electric,Mitsubishi Electric,三菱电机,,能源工业,亚洲,industrial_asia,medium,4,Mitsubishi Electric logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+toshiba,Toshiba,东芝,,能源工业,亚洲,industrial_asia,medium,4,Toshiba logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+yaskawa,Yaskawa,安川电机,,能源工业,亚洲,industrial_asia,medium,4,Yaskawa logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+3m,3M,3M,,能源工业,国际,industrial_global,medium,4,3M logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+abb,ABB,ABB,,能源工业,国际,industrial_global,medium,4,ABB logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+caterpillar,Caterpillar,卡特彼勒,,能源工业,国际,industrial_global,medium,4,Caterpillar logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+general_electric,General Electric,通用电气,,能源工业,国际,industrial_global,medium,4,General Electric logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+honeywell,Honeywell,霍尼韦尔,,能源工业,国际,industrial_global,medium,4,Honeywell logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+john_deere,John Deere,约翰迪尔,,能源工业,国际,industrial_global,medium,4,John Deere logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+schneider_electric,Schneider Electric,施耐德电气,,能源工业,国际,industrial_global,medium,4,Schneider Electric logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+siemens,Siemens,西门子,,能源工业,国际,industrial_global,medium,4,Siemens logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+eni,Eni,埃尼,,能源工业,国际,oil_energy_global,medium,4,Eni logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+equinor,Equinor,挪威国家石油,,能源工业,国际,oil_energy_global,medium,4,Equinor logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+saudi_aramco,Saudi Aramco,沙特阿美,,能源工业,国际,oil_energy_global,medium,4,Saudi Aramco logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+astrazeneca,AstraZeneca,阿斯利康,,能源工业,国际,pharma_global,medium,4,AstraZeneca logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+bayer,Bayer,拜耳,,能源工业,国际,pharma_global,medium,4,Bayer logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+gsk,GSK,葛兰素史克,,能源工业,国际,pharma_global,medium,4,GSK logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+moderna,Moderna,莫德纳,,能源工业,国际,pharma_global,medium,4,Moderna logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+novartis,Novartis,诺华,,能源工业,国际,pharma_global,medium,4,Novartis logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+pfizer,Pfizer,辉瑞,,能源工业,国际,pharma_global,medium,4,Pfizer logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+roche,Roche,罗氏,,能源工业,国际,pharma_global,medium,4,Roche logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+sanofi,Sanofi,赛诺菲,,能源工业,国际,pharma_global,medium,4,Sanofi logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+agricultural_bank_of_china,Agricultural Bank of China,中国农业银行,abchina.com,金融商业,中国,bank_china,high,5,Agricultural Bank of China logo symbol icon svg,pending,农行图形可用
+bank_of_china,Bank of China,中国银行,boc.cn,金融商业,中国,bank_china,high,5,Bank of China logo symbol icon svg,pending,中国银行古钱图形可用
+china_construction_bank,China Construction Bank,中国建设银行,ccb.com,金融商业,中国,bank_china,high,5,China Construction Bank logo symbol icon svg,pending,建行图形可用
+china_merchants_bank,China Merchants Bank,招商银行,cmbchina.com,金融商业,中国,bank_china,high,5,China Merchants Bank logo symbol icon svg,pending,葵花图形可用
+icbc,ICBC,中国工商银行,icbc.com.cn,金融商业,中国,bank_china,high,5,ICBC logo symbol icon svg,pending,工行图形可用
+bank_of_communications,Bank of Communications,交通银行,bankcomm.com,金融商业,中国,bank_china,high,4,Bank of Communications logo symbol icon svg,pending,图形可用
+china_citic_bank,China CITIC Bank,中信银行,citicbank.com,金融商业,中国,bank_china,medium,4,China CITIC Bank logo symbol icon svg,pending,图形可用
+china_minsheng_bank,China Minsheng Bank,民生银行,cmbc.com.cn,金融商业,中国,bank_china,medium,4,China Minsheng Bank logo symbol icon svg,pending,图形可用
+hsbc,HSBC,汇丰银行,hsbc.com,金融商业,英国,bank_global,high,5,HSBC logo symbol icon svg,pending,红白六边形可用
+bank_of_america,Bank of America,美国银行,bankofamerica.com,金融商业,美国,bank_global,medium,4,Bank of America logo symbol icon svg,pending,旗形图形可用
+barclays,Barclays,巴克莱银行,barclays.co.uk,金融商业,英国,bank_global,high,4,Barclays logo symbol icon svg,pending,鹰图形可用
+chase,Chase,大通银行,chase.com,金融商业,美国,bank_global,high,4,Chase logo symbol icon svg,pending,八边形图形可用
+citibank,Citibank,花旗银行,citi.com,金融商业,美国,bank_global,medium,4,Citibank logo symbol icon svg,pending,Citi弧线字标，需筛
+deutsche_bank,Deutsche Bank,德意志银行,db.com,金融商业,德国,bank_global,high,4,Deutsche Bank logo symbol icon svg,pending,斜线方框可用
+santander,Santander,桑坦德银行,santander.com,金融商业,西班牙,bank_global,high,4,Santander logo symbol icon svg,pending,火焰图形可用
+ubs,UBS,瑞银,ubs.com,金融商业,瑞士,bank_global,high,4,UBS logo symbol icon svg,pending,钥匙图形可用
+dbs_bank,DBS Bank,星展银行,,金融商业,亚洲,banks_asia,medium,4,DBS Bank logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+hdfc_bank,HDFC Bank,HDFC银行,,金融商业,亚洲,banks_asia,medium,4,HDFC Bank logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+icici_bank,ICICI Bank,ICICI银行,,金融商业,亚洲,banks_asia,medium,4,ICICI Bank logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+mizuho_bank,Mizuho Bank,瑞穗银行,,金融商业,亚洲,banks_asia,medium,4,Mizuho Bank logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+mufg,MUFG,三菱UFJ银行,,金融商业,亚洲,banks_asia,medium,4,MUFG logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+ocbc_bank,OCBC Bank,华侨银行,,金融商业,亚洲,banks_asia,medium,4,OCBC Bank logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+smbc,SMBC,三井住友银行,,金融商业,亚洲,banks_asia,medium,4,SMBC logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+uob,UOB,大华银行,,金融商业,亚洲,banks_asia,medium,4,UOB logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+bnp_paribas,BNP Paribas,法国巴黎银行,,金融商业,欧洲,banks_europe,medium,4,BNP Paribas logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+credit_suisse,Credit Suisse,瑞士信贷,,金融商业,欧洲,banks_europe,medium,4,Credit Suisse logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+ing,ING,荷兰国际集团,,金融商业,欧洲,banks_europe,medium,4,ING logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+capital_one,Capital One,第一资本,,金融商业,美国,banks_us,medium,4,Capital One logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+citigroup,Citigroup,花旗集团,,金融商业,美国,banks_us,medium,4,Citigroup logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+goldman_sachs,Goldman Sachs,高盛,,金融商业,美国,banks_us,medium,4,Goldman Sachs logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+jpmorgan_chase,JPMorgan Chase,摩根大通,,金融商业,美国,banks_us,medium,4,JPMorgan Chase logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+morgan_stanley,Morgan Stanley,摩根士丹利,,金融商业,美国,banks_us,medium,4,Morgan Stanley logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+us_bank,US Bank,美国合众银行,,金融商业,美国,banks_us,medium,4,US Bank logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+wells_fargo,Wells Fargo,富国银行,,金融商业,美国,banks_us,medium,4,Wells Fargo logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+binance,Binance,币安,,金融商业,国际,crypto_platforms,high,3,Binance logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+coinbase,Coinbase,Coinbase,,金融商业,国际,crypto_platforms,high,3,Coinbase logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+crypto_com,Crypto.com,Crypto.com,,金融商业,国际,crypto_platforms,high,3,Crypto.com logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+kraken,Kraken,Kraken,,金融商业,国际,crypto_platforms,high,3,Kraken logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+ledger,Ledger,Ledger,,金融商业,国际,crypto_platforms,high,3,Ledger logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+metamask,MetaMask,MetaMask,,金融商业,国际,crypto_platforms,high,3,MetaMask logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+okx,OKX,OKX,,金融商业,国际,crypto_platforms,high,3,OKX logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+trust_wallet,Trust Wallet,Trust Wallet,,金融商业,国际,crypto_platforms,high,3,Trust Wallet logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+afterpay,Afterpay,Afterpay,,金融商业,国际,fintech_global,high,4,Afterpay logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+cash_app,Cash App,Cash App,,金融商业,国际,fintech_global,high,4,Cash App logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+klarna,Klarna,Klarna,,金融商业,国际,fintech_global,high,4,Klarna logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+revolut,Revolut,Revolut,,金融商业,国际,fintech_global,high,4,Revolut logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+venmo,Venmo,Venmo,,金融商业,国际,fintech_global,high,4,Venmo logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+diners_club,Diners Club,大来卡,,金融商业,国际,global_card_networks,high,5,Diners Club logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+jcb,JCB,JCB,,金融商业,国际,global_card_networks,high,5,JCB logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+maestro,Maestro,Maestro,,金融商业,国际,global_card_networks,high,5,Maestro logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+aia,AIA,友邦保险,,金融商业,国际,insurance_global,medium,4,AIA logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+aig,AIG,AIG,,金融商业,国际,insurance_global,medium,4,AIG logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+allianz,Allianz,安联,,金融商业,国际,insurance_global,medium,4,Allianz logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+axa,AXA,安盛,,金融商业,国际,insurance_global,medium,4,AXA logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+china_life,China Life,中国人寿,,金融商业,国际,insurance_global,medium,4,China Life logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+metlife,MetLife,大都会人寿,,金融商业,国际,insurance_global,medium,4,MetLife logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+ping_an,Ping An,中国平安,,金融商业,国际,insurance_global,medium,4,Ping An logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+prudential,Prudential,保诚,,金融商业,国际,insurance_global,medium,4,Prudential logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+mastercard,Mastercard,万事达卡,mastercard.com,金融商业,美国,payment_cards_wallets,high,5,Mastercard logo symbol icon svg,pending,双圆图形可用
+paypal,PayPal,PayPal,paypal.com,金融商业,美国,payment_cards_wallets,medium,5,PayPal logo symbol icon svg,pending,P 图形可用
+visa,Visa,Visa,visa.com,金融商业,美国,payment_cards_wallets,low,5,Visa logo symbol icon svg,pending,字标为主
+american_express,American Express,美国运通,americanexpress.com,金融商业,美国,payment_cards_wallets,low,4,American Express logo symbol icon svg,pending,字标为主
+square,Square,Square,squareup.com,金融商业,美国,payment_cards_wallets,high,4,Square logo symbol icon svg,pending,方形图形可用
+stripe,Stripe,Stripe,stripe.com,金融商业,美国,payment_cards_wallets,low,4,Stripe logo symbol icon svg,pending,字标为主
+wise,Wise,Wise,wise.com,金融商业,英国,payment_cards_wallets,medium,4,Wise logo symbol icon svg,pending,旗帜图形可找
+discover,Discover,Discover,discover.com,金融商业,美国,payment_cards_wallets,low,3,Discover logo symbol icon svg,pending,字标为主
+alipay,Alipay,支付宝,alipay.com,金融商业,中国,payment_china,high,5,Alipay logo symbol icon svg,pending,支付宝图形可用
+unionpay,UnionPay,银联,unionpayintl.com,金融商业,中国,payment_china,medium,5,UnionPay logo symbol icon svg,pending,三色卡标含字，需筛
+wechat_pay,WeChat Pay,微信支付,pay.weixin.qq.com,金融商业,中国,payment_china,high,5,WeChat Pay logo symbol icon svg,pending,微信支付图形可用
+ant_group,Ant Group,蚂蚁集团,antgroup.com,金融商业,中国,payment_china,medium,4,Ant Group logo symbol icon svg,pending,蚂蚁图形可找
+cloud_quickpass,Cloud QuickPass,云闪付,95516.com,金融商业,中国,payment_china,medium,4,Cloud QuickPass logo symbol icon svg,pending,App icon 可找
+du_xiaoman,Du Xiaoman,度小满,duxiaoman.com,金融商业,中国,payment_china,medium,3,Du Xiaoman logo symbol icon svg,pending,App icon 可找
+jd_pay,JD Pay,京东支付,jdpay.com,金融商业,中国,payment_china,medium,3,JD Pay logo symbol icon svg,pending,App icon 可找
+tenpay,Tenpay,财付通,tenpay.com,金融商业,中国,payment_china,medium,3,Tenpay logo symbol icon svg,pending,符号可找
+coca_cola,Coca-Cola,可口可乐,coca-cola.com,餐饮食品,美国,beverage_soft_drink,low,5,Coca-Cola logo symbol icon svg,pending,字标为主，可找瓶形/圆形图
+pepsi,Pepsi,百事,pepsi.com,餐饮食品,美国,beverage_soft_drink,high,5,Pepsi logo symbol icon svg,pending,圆形图形可用
+7up,7Up,七喜,7up.com,餐饮食品,美国,beverage_soft_drink,medium,4,7Up logo symbol icon svg,pending,7UP 符号可用但含字
+dr_pepper,Dr Pepper,胡椒博士,drpepper.com,餐饮食品,美国,beverage_soft_drink,low,4,Dr Pepper logo symbol icon svg,pending,字标为主
+fanta,Fanta,芬达,fanta.com,餐饮食品,美国,beverage_soft_drink,low,4,Fanta logo symbol icon svg,pending,字标较强
+lipton,Lipton,立顿,lipton.com,餐饮食品,英国,beverage_soft_drink,medium,4,Lipton logo symbol icon svg,pending,太阳圆形可找
+sprite,Sprite,雪碧,sprite.com,餐饮食品,美国,beverage_soft_drink,low,4,Sprite logo symbol icon svg,pending,字标较强
+mountain_dew,Mountain Dew,激浪,mountaindew.com,餐饮食品,美国,beverage_soft_drink,low,3,Mountain Dew logo symbol icon svg,pending,字标为主
+mirinda,Mirinda,美年达,,餐饮食品,国际,beverage_soft_drinks,high,5,Mirinda logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+schweppes,Schweppes,怡泉,,餐饮食品,国际,beverage_soft_drinks,high,5,Schweppes logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+fiji_water,Fiji Water,斐济水,,餐饮食品,国际,beverage_water,medium,4,Fiji Water logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+nongfu_spring,Nongfu Spring,农夫山泉,,餐饮食品,国际,beverage_water,medium,4,Nongfu Spring logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+san_pellegrino,San Pellegrino,圣培露,,餐饮食品,国际,beverage_water,medium,4,San Pellegrino logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+volvic,Volvic,富维克,,餐饮食品,国际,beverage_water,medium,4,Volvic logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+voss,Voss,Voss,,餐饮食品,国际,beverage_water,medium,4,Voss logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+wahaha,Wahaha,娃哈哈,,餐饮食品,国际,beverage_water,medium,4,Wahaha logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+haidilao,Haidilao,海底捞,haidilao.com,餐饮食品,中国,china_food_drink,low,5,Haidilao logo symbol icon svg,pending,字标为主
+heytea,Heytea,喜茶,heytea.com,餐饮食品,中国,china_food_drink,high,5,Heytea logo symbol icon svg,pending,人像图形可用
+mixue,Mixue,蜜雪冰城,mxbc.com,餐饮食品,中国,china_food_drink,high,5,Mixue logo symbol icon svg,pending,雪王图形可用
+chagee,Chagee,霸王茶姬,chagee.com,餐饮食品,中国,china_food_drink,medium,4,Chagee logo symbol icon svg,pending,图形可找
+coco_fresh_tea,CoCo Fresh Tea,CoCo 都可,coco-tea.com,餐饮食品,中国台湾,china_food_drink,medium,4,CoCo Fresh Tea logo symbol icon svg,pending,字母图标，需筛
+gong_cha,Gong Cha,贡茶,gongcha.com,餐饮食品,中国台湾,china_food_drink,medium,4,Gong Cha logo symbol icon svg,pending,皇冠图形可找
+manner_coffee,Manner Coffee,Manner Coffee,mannercoffee.com,餐饮食品,中国,china_food_drink,low,4,Manner Coffee logo symbol icon svg,pending,字标为主
+nayuki,Nayuki,奈雪的茶,nayuki.com,餐饮食品,中国,china_food_drink,low,4,Nayuki logo symbol icon svg,pending,字标为主
+dicos,Dicos,德克士,,餐饮食品,中国,chinese_fast_casual,medium,3,Dicos logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+home_original_chicken,Home Original Chicken,老乡鸡,,餐饮食品,中国,chinese_fast_casual,medium,3,Home Original Chicken logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+mr_rice,Mr. Rice,乡村基,,餐饮食品,中国,chinese_fast_casual,medium,3,Mr. Rice logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+real_kungfu,Real Kungfu,真功夫,,餐饮食品,中国,chinese_fast_casual,medium,3,Real Kungfu logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+wallace,Wallace,华莱士,,餐饮食品,中国,chinese_fast_casual,medium,3,Wallace logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+xibei,Xibei,西贝,,餐饮食品,中国,chinese_fast_casual,medium,3,Xibei logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+yangs_dumpling,Yang's Dumpling,小杨生煎,,餐饮食品,中国,chinese_fast_casual,medium,3,Yang's Dumpling logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+yonghe_king,Yonghe King,永和大王,,餐饮食品,中国,chinese_fast_casual,medium,3,Yonghe King logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+cadbury,Cadbury,吉百利,,餐饮食品,国际,chocolate_candy,medium,4,Cadbury logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+ferrero_rocher,Ferrero Rocher,费列罗,,餐饮食品,国际,chocolate_candy,medium,4,Ferrero Rocher logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+hersheys,Hershey's,好时,,餐饮食品,国际,chocolate_candy,medium,4,Hershey's logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+lindt,Lindt,瑞士莲,,餐饮食品,国际,chocolate_candy,medium,4,Lindt logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+twix,Twix,Twix,,餐饮食品,国际,chocolate_candy,medium,4,Twix logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+luckin_coffee,Luckin Coffee,瑞幸咖啡,luckincoffee.com,餐饮食品,中国,coffee_chain,high,5,Luckin Coffee logo symbol icon svg,pending,鹿头图形可用
+starbucks,Starbucks,星巴克,starbucks.com,餐饮食品,美国,coffee_chain,high,5,Starbucks logo symbol icon svg,pending,人鱼图形可用
+costa_coffee,Costa Coffee,Costa 咖啡,costa.co.uk,餐饮食品,英国,coffee_chain,medium,4,Costa Coffee logo symbol icon svg,pending,常见字标/圆标，需筛无字版
+dunkin,Dunkin,Dunkin,dunkindonuts.com,餐饮食品,美国,coffee_chain,low,4,Dunkin logo symbol icon svg,pending,字标为主
+tim_hortons,Tim Hortons,Tim Hortons,timhortons.com,餐饮食品,加拿大,coffee_chain,low,4,Tim Hortons logo symbol icon svg,pending,字标为主
+blue_bottle_coffee,Blue Bottle Coffee,蓝瓶咖啡,bluebottlecoffee.com,餐饮食品,美国,coffee_chain,high,3,Blue Bottle Coffee logo symbol icon svg,pending,蓝瓶图形可用
+lavazza,Lavazza,拉瓦萨,lavazza.com,餐饮食品,意大利,coffee_chain,low,3,Lavazza logo symbol icon svg,pending,字标为主
+peets_coffee,Peet's Coffee,Peet's Coffee,peets.com,餐饮食品,美国,coffee_chain,medium,3,Peet's Coffee logo symbol icon svg,pending,徽章可能带字
+illy,Illy,意利,,餐饮食品,国际,coffee_expanded,high,4,Illy logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+nespresso,Nespresso,奈斯派索,,餐饮食品,国际,coffee_expanded,high,4,Nespresso logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+pacific_coffee,Pacific Coffee,太平洋咖啡,,餐饮食品,国际,coffee_expanded,high,4,Pacific Coffee logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+red_bull,Red Bull,红牛,redbull.com,餐饮食品,奥地利,energy_sports_drink,high,5,Red Bull logo symbol icon svg,pending,双牛图形可用
+evian,Evian,依云,evian.com,餐饮食品,法国,energy_sports_drink,medium,4,Evian logo symbol icon svg,pending,山形图形可找
+gatorade,Gatorade,佳得乐,gatorade.com,餐饮食品,美国,energy_sports_drink,high,4,Gatorade logo symbol icon svg,pending,闪电G可用
+monster_energy,Monster Energy,魔爪能量,monsterenergy.com,餐饮食品,美国,energy_sports_drink,high,4,Monster Energy logo symbol icon svg,pending,爪痕图形可用
+perrier,Perrier,巴黎水,perrier.com,餐饮食品,法国,energy_sports_drink,medium,4,Perrier logo symbol icon svg,pending,徽章可能带字
+pocari_sweat,Pocari Sweat,宝矿力水特,pocarisweat.com,餐饮食品,日本,energy_sports_drink,low,4,Pocari Sweat logo symbol icon svg,pending,字标为主
+powerade,Powerade,Powerade,powerade.com,餐饮食品,美国,energy_sports_drink,low,3,Powerade logo symbol icon svg,pending,字标为主
+vitaminwater,Vitaminwater,维他命水,vitaminwater.com,餐饮食品,美国,energy_sports_drink,low,3,Vitaminwater logo symbol icon svg,pending,字标为主
+burger_king,Burger King,汉堡王,burgerking.com,餐饮食品,美国,fast_food_burger,medium,5,Burger King logo symbol icon svg,pending,组合标可能带字
+kfc,KFC,肯德基,kfc.com,餐饮食品,美国,fast_food_burger,medium,5,KFC logo symbol icon svg,pending,上校头像可用
+mcdonalds,McDonald's,麦当劳,mcdonalds.com,餐饮食品,美国,fast_food_burger,high,5,McDonald's logo symbol icon svg,pending,金拱门可用
+popeyes,Popeyes,Popeyes,popeyes.com,餐饮食品,美国,fast_food_burger,low,4,Popeyes logo symbol icon svg,pending,字标为主
+shake_shack,Shake Shack,Shake Shack,shakeshack.com,餐饮食品,美国,fast_food_burger,medium,4,Shake Shack logo symbol icon svg,pending,汉堡图形可找
+taco_bell,Taco Bell,塔可钟,tacobell.com,餐饮食品,美国,fast_food_burger,high,4,Taco Bell logo symbol icon svg,pending,铃铛图形可用
+wendys,Wendy's,温蒂汉堡,wendys.com,餐饮食品,美国,fast_food_burger,medium,4,Wendy's logo symbol icon svg,pending,头像可用
+five_guys,Five Guys,Five Guys,fiveguys.com,餐饮食品,美国,fast_food_burger,low,3,Five Guys logo symbol icon svg,pending,字标为主
+banu_hotpot,Banu Hotpot,巴奴毛肚火锅,,餐饮食品,中国,hotpot_china,medium,4,Banu Hotpot logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+coucou,CouCou,湊湊,,餐饮食品,中国,hotpot_china,medium,4,CouCou logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+dalongyi,Dalongyi,大龙燚,,餐饮食品,中国,hotpot_china,medium,4,Dalongyi logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+laowang,Laowang,捞王,,餐饮食品,中国,hotpot_china,medium,4,Laowang logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+little_sheep,Little Sheep,小肥羊,,餐饮食品,中国,hotpot_china,medium,4,Little Sheep logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+tan_yu,Tan Yu,探鱼,,餐饮食品,中国,hotpot_china,medium,4,Tan Yu logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+xiabu_xiabu,Xiabu Xiabu,呷哺呷哺,,餐饮食品,中国,hotpot_china,medium,4,Xiabu Xiabu logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+baskin_robbins,Baskin Robbins,芭斯罗缤,,餐饮食品,国际,ice_cream,medium,4,Baskin Robbins logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+ben_and_jerrys,Ben & Jerry's,本杰瑞,,餐饮食品,国际,ice_cream,medium,4,Ben & Jerry's logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+cold_stone_creamery,Cold Stone Creamery,酷圣石,,餐饮食品,国际,ice_cream,medium,4,Cold Stone Creamery logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+dippin_dots,Dippin' Dots,Dippin' Dots,,餐饮食品,国际,ice_cream,medium,4,Dippin' Dots logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+haagen_dazs,Häagen-Dazs,哈根达斯,,餐饮食品,国际,ice_cream,medium,4,Häagen-Dazs logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+magnum,Magnum,梦龙,,餐饮食品,国际,ice_cream,medium,4,Magnum logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+walls,Wall's,和路雪,,餐饮食品,国际,ice_cream,medium,4,Wall's logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+coco_ichibanya,CoCo Ichibanya,CoCo壱番屋,,餐饮食品,日本,japanese_restaurants,medium,3,CoCo Ichibanya logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+ichiran,Ichiran,一兰拉面,,餐饮食品,日本,japanese_restaurants,medium,3,Ichiran logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+ippudo,Ippudo,一风堂,,餐饮食品,日本,japanese_restaurants,medium,3,Ippudo logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+kura_sushi,Kura Sushi,藏寿司,,餐饮食品,日本,japanese_restaurants,medium,3,Kura Sushi logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+matsuya,Matsuya,松屋,,餐饮食品,日本,japanese_restaurants,medium,3,Matsuya logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+sukiya,Sukiya,食其家,,餐饮食品,日本,japanese_restaurants,medium,3,Sukiya logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+sushiro,Sushiro,寿司郎,,餐饮食品,日本,japanese_restaurants,medium,3,Sushiro logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+yoshinoya,Yoshinoya,吉野家,,餐饮食品,日本,japanese_restaurants,medium,3,Yoshinoya logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+campbells,Campbell's,金宝汤,,餐饮食品,国际,packaged_food_global,medium,4,Campbell's logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+general_mills,General Mills,通用磨坊,,餐饮食品,国际,packaged_food_global,medium,4,General Mills logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+nestle,Nestlé,雀巢,,餐饮食品,国际,packaged_food_global,medium,4,Nestlé logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+chipotle,Chipotle,Chipotle,chipotle.com,餐饮食品,美国,pizza_chain,medium,4,Chipotle logo symbol icon svg,pending,辣椒图形可用
+dairy_queen,Dairy Queen,冰雪皇后,dairyqueen.com,餐饮食品,美国,pizza_chain,medium,4,Dairy Queen logo symbol icon svg,pending,DQ 符号可用
+dominos,Domino's,达美乐,dominos.com,餐饮食品,美国,pizza_chain,high,4,Domino's logo symbol icon svg,pending,骨牌图形可用
+jollibee,Jollibee,快乐蜂,jollibee.com,餐饮食品,菲律宾,pizza_chain,high,4,Jollibee logo symbol icon svg,pending,蜜蜂头像可用
+pizza_hut,Pizza Hut,必胜客,pizzahut.com,餐饮食品,美国,pizza_chain,high,4,Pizza Hut logo symbol icon svg,pending,屋顶图形可用
+subway,Subway,赛百味,subway.com,餐饮食品,美国,pizza_chain,medium,4,Subway logo symbol icon svg,pending,箭头字标，慎用
+little_caesars,Little Caesars,小凯撒,littlecaesars.com,餐饮食品,美国,pizza_chain,medium,3,Little Caesars logo symbol icon svg,pending,人物图形可找
+papa_johns,Papa Johns,棒约翰,papajohns.com,餐饮食品,美国,pizza_chain,low,3,Papa Johns logo symbol icon svg,pending,字标较多
+dove_chocolate,Dove Chocolate,德芙巧克力,,餐饮食品,国际,premium_chocolate,medium,3,Dove Chocolate logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+ghirardelli,Ghirardelli,吉拉德利,,餐饮食品,国际,premium_chocolate,medium,3,Ghirardelli logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+godiva,Godiva,歌帝梵,,餐饮食品,国际,premium_chocolate,medium,3,Godiva logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+kinder,Kinder,健达,,餐饮食品,国际,premium_chocolate,medium,3,Kinder logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+milka,Milka,妙卡,,餐饮食品,国际,premium_chocolate,medium,3,Milka logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+neuhaus,Neuhaus,诺豪斯,,餐饮食品,国际,premium_chocolate,medium,3,Neuhaus logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+ritter_sport,Ritter Sport,瑞特斯波德,,餐饮食品,国际,premium_chocolate,medium,3,Ritter Sport logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+toblerone,Toblerone,三角巧克力,,餐饮食品,国际,premium_chocolate,medium,3,Toblerone logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+kitkat,KitKat,奇巧,kitkat.com,餐饮食品,英国/日本,snack_confectionery,low,5,KitKat logo symbol icon svg,pending,字标为主
+lays,Lay's,乐事,lays.com,餐饮食品,美国,snack_confectionery,medium,5,Lay's logo symbol icon svg,pending,太阳圆标含字，需筛
+oreo,Oreo,奥利奥,oreo.com,餐饮食品,美国,snack_confectionery,low,5,Oreo logo symbol icon svg,pending,字标为主
+cheetos,Cheetos,奇多,cheetos.com,餐饮食品,美国,snack_confectionery,high,4,Cheetos logo symbol icon svg,pending,猎豹图形可用
+doritos,Doritos,多力多滋,doritos.com,餐饮食品,美国,snack_confectionery,medium,4,Doritos logo symbol icon svg,pending,三角图形可找
+m_and_ms,M&M's,M&M's,mms.com,餐饮食品,美国,snack_confectionery,medium,4,M&M's logo symbol icon svg,pending,M 字母和豆人，需筛
+pringles,Pringles,品客,pringles.com,餐饮食品,美国,snack_confectionery,high,4,Pringles logo symbol icon svg,pending,头像图形可用
+snickers,Snickers,士力架,snickers.com,餐饮食品,美国,snack_confectionery,low,4,Snickers logo symbol icon svg,pending,字标为主
+ruffles,Ruffles,波乐,,餐饮食品,国际,snacks_chips,medium,4,Ruffles logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+sun_chips,Sun Chips,阳光薯片,,餐饮食品,国际,snacks_chips,medium,4,Sun Chips logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+takis,Takis,Takis,,餐饮食品,国际,snacks_chips,medium,4,Takis logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+tostitos,Tostitos,多力多滋玉米片,,餐饮食品,国际,snacks_chips,medium,4,Tostitos logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+auntea_jenny,Auntea Jenny,沪上阿姨,,餐饮食品,中国,tea_drinks_china,medium,4,Auntea Jenny logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+chapanda,ChaPanda,茶百道,,餐饮食品,中国,tea_drinks_china,medium,4,ChaPanda logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+coco,CoCo,CoCo 都可,,餐饮食品,中国,tea_drinks_china,medium,4,CoCo logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形
+yi_dian_dian,Yi Dian Dian,一点点,,餐饮食品,中国,tea_drinks_china,medium,4,Yi Dian Dian logo symbol icon svg official brand asset,pending,扩展候选；domain_hint 需要脚本校验；需人工确认是否无字/纯图形

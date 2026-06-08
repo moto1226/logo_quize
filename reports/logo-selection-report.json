@@ -1,0 +1,706 @@
+{
+  "generated_at": "2026-06-06T12:15:26.376Z",
+  "total_brands": 100,
+  "entries": [
+    {
+      "brand_id": "nike",
+      "selected_logo_type": "",
+      "selected_logo_file": "",
+      "selected_logo_size_bytes": 0,
+      "logo_review_status": "missing"
+    },
+    {
+      "brand_id": "adidas",
+      "selected_logo_type": "",
+      "selected_logo_file": "",
+      "selected_logo_size_bytes": 0,
+      "logo_review_status": "missing"
+    },
+    {
+      "brand_id": "puma",
+      "selected_logo_type": "",
+      "selected_logo_file": "",
+      "selected_logo_size_bytes": 0,
+      "logo_review_status": "missing"
+    },
+    {
+      "brand_id": "reebok",
+      "selected_logo_type": "",
+      "selected_logo_file": "",
+      "selected_logo_size_bytes": 0,
+      "logo_review_status": "missing"
+    },
+    {
+      "brand_id": "the_north_face",
+      "selected_logo_type": "",
+      "selected_logo_file": "",
+      "selected_logo_size_bytes": 0,
+      "logo_review_status": "missing"
+    },
+    {
+      "brand_id": "patagonia",
+      "selected_logo_type": "",
+      "selected_logo_file": "",
+      "selected_logo_size_bytes": 0,
+      "logo_review_status": "missing"
+    },
+    {
+      "brand_id": "salomon",
+      "selected_logo_type": "",
+      "selected_logo_file": "",
+      "selected_logo_size_bytes": 0,
+      "logo_review_status": "missing"
+    },
+    {
+      "brand_id": "under_armour",
+      "selected_logo_type": "",
+      "selected_logo_file": "",
+      "selected_logo_size_bytes": 0,
+      "logo_review_status": "missing"
+    },
+    {
+      "brand_id": "starbucks",
+      "selected_logo_type": "",
+      "selected_logo_file": "",
+      "selected_logo_size_bytes": 0,
+      "logo_review_status": "missing"
+    },
+    {
+      "brand_id": "costa",
+      "selected_logo_type": "",
+      "selected_logo_file": "",
+      "selected_logo_size_bytes": 0,
+      "logo_review_status": "missing"
+    },
+    {
+      "brand_id": "luckin",
+      "selected_logo_type": "",
+      "selected_logo_file": "",
+      "selected_logo_size_bytes": 0,
+      "logo_review_status": "missing"
+    },
+    {
+      "brand_id": "tim_hortons",
+      "selected_logo_type": "",
+      "selected_logo_file": "",
+      "selected_logo_size_bytes": 0,
+      "logo_review_status": "missing"
+    },
+    {
+      "brand_id": "mcdonalds",
+      "selected_logo_type": "",
+      "selected_logo_file": "",
+      "selected_logo_size_bytes": 0,
+      "logo_review_status": "missing"
+    },
+    {
+      "brand_id": "kfc",
+      "selected_logo_type": "",
+      "selected_logo_file": "",
+      "selected_logo_size_bytes": 0,
+      "logo_review_status": "missing"
+    },
+    {
+      "brand_id": "burger_king",
+      "selected_logo_type": "",
+      "selected_logo_file": "",
+      "selected_logo_size_bytes": 0,
+      "logo_review_status": "missing"
+    },
+    {
+      "brand_id": "pizza_hut",
+      "selected_logo_type": "",
+      "selected_logo_file": "",
+      "selected_logo_size_bytes": 0,
+      "logo_review_status": "missing"
+    },
+    {
+      "brand_id": "pepsi",
+      "selected_logo_type": "",
+      "selected_logo_file": "",
+      "selected_logo_size_bytes": 0,
+      "logo_review_status": "missing"
+    },
+    {
+      "brand_id": "red_bull",
+      "selected_logo_type": "",
+      "selected_logo_file": "",
+      "selected_logo_size_bytes": 0,
+      "logo_review_status": "missing"
+    },
+    {
+      "brand_id": "monster_energy",
+      "selected_logo_type": "",
+      "selected_logo_file": "",
+      "selected_logo_size_bytes": 0,
+      "logo_review_status": "missing"
+    },
+    {
+      "brand_id": "gatorade",
+      "selected_logo_type": "",
+      "selected_logo_file": "",
+      "selected_logo_size_bytes": 0,
+      "logo_review_status": "missing"
+    },
+    {
+      "brand_id": "tesla",
+      "selected_logo_type": "",
+      "selected_logo_file": "",
+      "selected_logo_size_bytes": 0,
+      "logo_review_status": "missing"
+    },
+    {
+      "brand_id": "byd",
+      "selected_logo_type": "",
+      "selected_logo_file": "",
+      "selected_logo_size_bytes": 0,
+      "logo_review_status": "missing"
+    },
+    {
+      "brand_id": "nio",
+      "selected_logo_type": "",
+      "selected_logo_file": "",
+      "selected_logo_size_bytes": 0,
+      "logo_review_status": "missing"
+    },
+    {
+      "brand_id": "geely",
+      "selected_logo_type": "",
+      "selected_logo_file": "",
+      "selected_logo_size_bytes": 0,
+      "logo_review_status": "missing"
+    },
+    {
+      "brand_id": "toyota",
+      "selected_logo_type": "",
+      "selected_logo_file": "",
+      "selected_logo_size_bytes": 0,
+      "logo_review_status": "missing"
+    },
+    {
+      "brand_id": "honda",
+      "selected_logo_type": "",
+      "selected_logo_file": "",
+      "selected_logo_size_bytes": 0,
+      "logo_review_status": "missing"
+    },
+    {
+      "brand_id": "nissan",
+      "selected_logo_type": "",
+      "selected_logo_file": "",
+      "selected_logo_size_bytes": 0,
+      "logo_review_status": "missing"
+    },
+    {
+      "brand_id": "hyundai",
+      "selected_logo_type": "",
+      "selected_logo_file": "",
+      "selected_logo_size_bytes": 0,
+      "logo_review_status": "missing"
+    },
+    {
+      "brand_id": "bmw",
+      "selected_logo_type": "",
+      "selected_logo_file": "",
+      "selected_logo_size_bytes": 0,
+      "logo_review_status": "missing"
+    },
+    {
+      "brand_id": "mercedes_benz",
+      "selected_logo_type": "",
+      "selected_logo_file": "",
+      "selected_logo_size_bytes": 0,
+      "logo_review_status": "missing"
+    },
+    {
+      "brand_id": "audi",
+      "selected_logo_type": "",
+      "selected_logo_file": "",
+      "selected_logo_size_bytes": 0,
+      "logo_review_status": "missing"
+    },
+    {
+      "brand_id": "lexus",
+      "selected_logo_type": "",
+      "selected_logo_file": "",
+      "selected_logo_size_bytes": 0,
+      "logo_review_status": "missing"
+    },
+    {
+      "brand_id": "porsche",
+      "selected_logo_type": "",
+      "selected_logo_file": "",
+      "selected_logo_size_bytes": 0,
+      "logo_review_status": "missing"
+    },
+    {
+      "brand_id": "ferrari",
+      "selected_logo_type": "",
+      "selected_logo_file": "",
+      "selected_logo_size_bytes": 0,
+      "logo_review_status": "missing"
+    },
+    {
+      "brand_id": "lamborghini",
+      "selected_logo_type": "",
+      "selected_logo_file": "",
+      "selected_logo_size_bytes": 0,
+      "logo_review_status": "missing"
+    },
+    {
+      "brand_id": "maserati",
+      "selected_logo_type": "",
+      "selected_logo_file": "",
+      "selected_logo_size_bytes": 0,
+      "logo_review_status": "missing"
+    },
+    {
+      "brand_id": "apple",
+      "selected_logo_type": "",
+      "selected_logo_file": "",
+      "selected_logo_size_bytes": 0,
+      "logo_review_status": "missing"
+    },
+    {
+      "brand_id": "huawei",
+      "selected_logo_type": "",
+      "selected_logo_file": "",
+      "selected_logo_size_bytes": 0,
+      "logo_review_status": "missing"
+    },
+    {
+      "brand_id": "xiaomi",
+      "selected_logo_type": "",
+      "selected_logo_file": "",
+      "selected_logo_size_bytes": 0,
+      "logo_review_status": "missing"
+    },
+    {
+      "brand_id": "oneplus",
+      "selected_logo_type": "",
+      "selected_logo_file": "",
+      "selected_logo_size_bytes": 0,
+      "logo_review_status": "missing"
+    },
+    {
+      "brand_id": "google",
+      "selected_logo_type": "",
+      "selected_logo_file": "",
+      "selected_logo_size_bytes": 0,
+      "logo_review_status": "missing"
+    },
+    {
+      "brand_id": "microsoft",
+      "selected_logo_type": "",
+      "selected_logo_file": "",
+      "selected_logo_size_bytes": 0,
+      "logo_review_status": "missing"
+    },
+    {
+      "brand_id": "adobe",
+      "selected_logo_type": "",
+      "selected_logo_file": "",
+      "selected_logo_size_bytes": 0,
+      "logo_review_status": "missing"
+    },
+    {
+      "brand_id": "nvidia",
+      "selected_logo_type": "",
+      "selected_logo_file": "",
+      "selected_logo_size_bytes": 0,
+      "logo_review_status": "missing"
+    },
+    {
+      "brand_id": "instagram",
+      "selected_logo_type": "",
+      "selected_logo_file": "",
+      "selected_logo_size_bytes": 0,
+      "logo_review_status": "missing"
+    },
+    {
+      "brand_id": "tiktok",
+      "selected_logo_type": "",
+      "selected_logo_file": "",
+      "selected_logo_size_bytes": 0,
+      "logo_review_status": "missing"
+    },
+    {
+      "brand_id": "snapchat",
+      "selected_logo_type": "",
+      "selected_logo_file": "",
+      "selected_logo_size_bytes": 0,
+      "logo_review_status": "missing"
+    },
+    {
+      "brand_id": "pinterest",
+      "selected_logo_type": "",
+      "selected_logo_file": "",
+      "selected_logo_size_bytes": 0,
+      "logo_review_status": "missing"
+    },
+    {
+      "brand_id": "wechat",
+      "selected_logo_type": "",
+      "selected_logo_file": "",
+      "selected_logo_size_bytes": 0,
+      "logo_review_status": "missing"
+    },
+    {
+      "brand_id": "qq",
+      "selected_logo_type": "",
+      "selected_logo_file": "",
+      "selected_logo_size_bytes": 0,
+      "logo_review_status": "missing"
+    },
+    {
+      "brand_id": "douyin",
+      "selected_logo_type": "",
+      "selected_logo_file": "",
+      "selected_logo_size_bytes": 0,
+      "logo_review_status": "missing"
+    },
+    {
+      "brand_id": "xiaohongshu",
+      "selected_logo_type": "",
+      "selected_logo_file": "",
+      "selected_logo_size_bytes": 0,
+      "logo_review_status": "missing"
+    },
+    {
+      "brand_id": "whatsapp",
+      "selected_logo_type": "",
+      "selected_logo_file": "",
+      "selected_logo_size_bytes": 0,
+      "logo_review_status": "missing"
+    },
+    {
+      "brand_id": "telegram",
+      "selected_logo_type": "",
+      "selected_logo_file": "",
+      "selected_logo_size_bytes": 0,
+      "logo_review_status": "missing"
+    },
+    {
+      "brand_id": "line",
+      "selected_logo_type": "",
+      "selected_logo_file": "",
+      "selected_logo_size_bytes": 0,
+      "logo_review_status": "missing"
+    },
+    {
+      "brand_id": "discord",
+      "selected_logo_type": "",
+      "selected_logo_file": "",
+      "selected_logo_size_bytes": 0,
+      "logo_review_status": "missing"
+    },
+    {
+      "brand_id": "youtube",
+      "selected_logo_type": "",
+      "selected_logo_file": "",
+      "selected_logo_size_bytes": 0,
+      "logo_review_status": "missing"
+    },
+    {
+      "brand_id": "netflix",
+      "selected_logo_type": "",
+      "selected_logo_file": "",
+      "selected_logo_size_bytes": 0,
+      "logo_review_status": "missing"
+    },
+    {
+      "brand_id": "bilibili",
+      "selected_logo_type": "",
+      "selected_logo_file": "",
+      "selected_logo_size_bytes": 0,
+      "logo_review_status": "missing"
+    },
+    {
+      "brand_id": "tencent_video",
+      "selected_logo_type": "",
+      "selected_logo_file": "",
+      "selected_logo_size_bytes": 0,
+      "logo_review_status": "missing"
+    },
+    {
+      "brand_id": "playstation",
+      "selected_logo_type": "",
+      "selected_logo_file": "",
+      "selected_logo_size_bytes": 0,
+      "logo_review_status": "missing"
+    },
+    {
+      "brand_id": "xbox",
+      "selected_logo_type": "",
+      "selected_logo_file": "",
+      "selected_logo_size_bytes": 0,
+      "logo_review_status": "missing"
+    },
+    {
+      "brand_id": "steam",
+      "selected_logo_type": "",
+      "selected_logo_file": "",
+      "selected_logo_size_bytes": 0,
+      "logo_review_status": "missing"
+    },
+    {
+      "brand_id": "roblox",
+      "selected_logo_type": "",
+      "selected_logo_file": "",
+      "selected_logo_size_bytes": 0,
+      "logo_review_status": "missing"
+    },
+    {
+      "brand_id": "jd",
+      "selected_logo_type": "",
+      "selected_logo_file": "",
+      "selected_logo_size_bytes": 0,
+      "logo_review_status": "missing"
+    },
+    {
+      "brand_id": "tmall",
+      "selected_logo_type": "",
+      "selected_logo_file": "",
+      "selected_logo_size_bytes": 0,
+      "logo_review_status": "missing"
+    },
+    {
+      "brand_id": "pinduoduo",
+      "selected_logo_type": "",
+      "selected_logo_file": "",
+      "selected_logo_size_bytes": 0,
+      "logo_review_status": "missing"
+    },
+    {
+      "brand_id": "meituan",
+      "selected_logo_type": "",
+      "selected_logo_file": "",
+      "selected_logo_size_bytes": 0,
+      "logo_review_status": "missing"
+    },
+    {
+      "brand_id": "mastercard",
+      "selected_logo_type": "",
+      "selected_logo_file": "",
+      "selected_logo_size_bytes": 0,
+      "logo_review_status": "missing"
+    },
+    {
+      "brand_id": "paypal",
+      "selected_logo_type": "",
+      "selected_logo_file": "",
+      "selected_logo_size_bytes": 0,
+      "logo_review_status": "missing"
+    },
+    {
+      "brand_id": "alipay",
+      "selected_logo_type": "",
+      "selected_logo_file": "",
+      "selected_logo_size_bytes": 0,
+      "logo_review_status": "missing"
+    },
+    {
+      "brand_id": "wechat_pay",
+      "selected_logo_type": "",
+      "selected_logo_file": "",
+      "selected_logo_size_bytes": 0,
+      "logo_review_status": "missing"
+    },
+    {
+      "brand_id": "bank_of_china",
+      "selected_logo_type": "",
+      "selected_logo_file": "",
+      "selected_logo_size_bytes": 0,
+      "logo_review_status": "missing"
+    },
+    {
+      "brand_id": "icbc",
+      "selected_logo_type": "",
+      "selected_logo_file": "",
+      "selected_logo_size_bytes": 0,
+      "logo_review_status": "missing"
+    },
+    {
+      "brand_id": "china_construction_bank",
+      "selected_logo_type": "",
+      "selected_logo_file": "",
+      "selected_logo_size_bytes": 0,
+      "logo_review_status": "missing"
+    },
+    {
+      "brand_id": "agricultural_bank_of_china",
+      "selected_logo_type": "",
+      "selected_logo_file": "",
+      "selected_logo_size_bytes": 0,
+      "logo_review_status": "missing"
+    },
+    {
+      "brand_id": "hsbc",
+      "selected_logo_type": "",
+      "selected_logo_file": "",
+      "selected_logo_size_bytes": 0,
+      "logo_review_status": "missing"
+    },
+    {
+      "brand_id": "citibank",
+      "selected_logo_type": "",
+      "selected_logo_file": "",
+      "selected_logo_size_bytes": 0,
+      "logo_review_status": "missing"
+    },
+    {
+      "brand_id": "chase",
+      "selected_logo_type": "",
+      "selected_logo_file": "",
+      "selected_logo_size_bytes": 0,
+      "logo_review_status": "missing"
+    },
+    {
+      "brand_id": "deutsche_bank",
+      "selected_logo_type": "",
+      "selected_logo_file": "",
+      "selected_logo_size_bytes": 0,
+      "logo_review_status": "missing"
+    },
+    {
+      "brand_id": "chanel",
+      "selected_logo_type": "",
+      "selected_logo_file": "",
+      "selected_logo_size_bytes": 0,
+      "logo_review_status": "missing"
+    },
+    {
+      "brand_id": "gucci",
+      "selected_logo_type": "",
+      "selected_logo_file": "",
+      "selected_logo_size_bytes": 0,
+      "logo_review_status": "missing"
+    },
+    {
+      "brand_id": "louis_vuitton",
+      "selected_logo_type": "",
+      "selected_logo_file": "",
+      "selected_logo_size_bytes": 0,
+      "logo_review_status": "missing"
+    },
+    {
+      "brand_id": "hermes",
+      "selected_logo_type": "",
+      "selected_logo_file": "",
+      "selected_logo_size_bytes": 0,
+      "logo_review_status": "missing"
+    },
+    {
+      "brand_id": "air_china",
+      "selected_logo_type": "",
+      "selected_logo_file": "",
+      "selected_logo_size_bytes": 0,
+      "logo_review_status": "missing"
+    },
+    {
+      "brand_id": "china_southern_airlines",
+      "selected_logo_type": "",
+      "selected_logo_file": "",
+      "selected_logo_size_bytes": 0,
+      "logo_review_status": "missing"
+    },
+    {
+      "brand_id": "china_eastern_airlines",
+      "selected_logo_type": "",
+      "selected_logo_file": "",
+      "selected_logo_size_bytes": 0,
+      "logo_review_status": "missing"
+    },
+    {
+      "brand_id": "hainan_airlines",
+      "selected_logo_type": "",
+      "selected_logo_file": "",
+      "selected_logo_size_bytes": 0,
+      "logo_review_status": "missing"
+    },
+    {
+      "brand_id": "emirates",
+      "selected_logo_type": "",
+      "selected_logo_file": "",
+      "selected_logo_size_bytes": 0,
+      "logo_review_status": "missing"
+    },
+    {
+      "brand_id": "qatar_airways",
+      "selected_logo_type": "",
+      "selected_logo_file": "",
+      "selected_logo_size_bytes": 0,
+      "logo_review_status": "missing"
+    },
+    {
+      "brand_id": "singapore_airlines",
+      "selected_logo_type": "",
+      "selected_logo_file": "",
+      "selected_logo_size_bytes": 0,
+      "logo_review_status": "missing"
+    },
+    {
+      "brand_id": "delta_air_lines",
+      "selected_logo_type": "",
+      "selected_logo_file": "",
+      "selected_logo_size_bytes": 0,
+      "logo_review_status": "missing"
+    },
+    {
+      "brand_id": "united_nations",
+      "selected_logo_type": "",
+      "selected_logo_file": "",
+      "selected_logo_size_bytes": 0,
+      "logo_review_status": "missing"
+    },
+    {
+      "brand_id": "world_health_organization",
+      "selected_logo_type": "",
+      "selected_logo_file": "",
+      "selected_logo_size_bytes": 0,
+      "logo_review_status": "missing"
+    },
+    {
+      "brand_id": "olympics",
+      "selected_logo_type": "",
+      "selected_logo_file": "",
+      "selected_logo_size_bytes": 0,
+      "logo_review_status": "missing"
+    },
+    {
+      "brand_id": "red_cross",
+      "selected_logo_type": "",
+      "selected_logo_file": "",
+      "selected_logo_size_bytes": 0,
+      "logo_review_status": "missing"
+    },
+    {
+      "brand_id": "tsinghua_university",
+      "selected_logo_type": "",
+      "selected_logo_file": "",
+      "selected_logo_size_bytes": 0,
+      "logo_review_status": "missing"
+    },
+    {
+      "brand_id": "peking_university",
+      "selected_logo_type": "",
+      "selected_logo_file": "",
+      "selected_logo_size_bytes": 0,
+      "logo_review_status": "missing"
+    },
+    {
+      "brand_id": "fudan_university",
+      "selected_logo_type": "",
+      "selected_logo_file": "",
+      "selected_logo_size_bytes": 0,
+      "logo_review_status": "missing"
+    },
+    {
+      "brand_id": "zhejiang_university",
+      "selected_logo_type": "",
+      "selected_logo_file": "",
+      "selected_logo_size_bytes": 0,
+      "logo_review_status": "missing"
+    }
+  ]
+}

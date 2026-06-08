@@ -1,0 +1,48 @@
+{
+  "fetched_at": "2026-06-06T12:08:00.633Z",
+  "brand_id": "adobe",
+  "query": "Adobe",
+  "http_status": 200,
+  "search_status": "ok",
+  "results": [
+    {
+      "brandId": "id_KsyK7J9",
+      "claimed": true,
+      "domain": "adobe.com",
+      "name": "Adobe",
+      "icon": "https://cdn.brandfetch.io/id_KsyK7J9/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834079467bfumLaCV7m9gybtNPY",
+      "_score": 19.238907,
+      "qualityScore": 0.999996538460673,
+      "verified": true
+    },
+    {
+      "brandId": "idOUIqm7EW",
+      "claimed": false,
+      "domain": "marketo.com",
+      "name": "Adobe Marketo Engage",
+      "icon": "https://cdn.brandfetch.io/idOUIqm7EW/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834079467bfumLaCV7m9gybtNPY",
+      "_score": 13.0882015,
+      "qualityScore": 0.8713938524638477,
+      "verified": true
+    },
+    {
+      "brandId": "idS8jTKobM",
+      "claimed": false,
+      "domain": "thefa.com",
+      "name": "Adobe Women's FA Cup",
+      "icon": "https://cdn.brandfetch.io/idS8jTKobM/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834079467bfumLaCV7m9gybtNPY",
+      "_score": 11.201548,
+      "qualityScore": 0.7684791536582499
+    },
+    {
+      "brandId": "idkrQGARPW",
+      "claimed": false,
+      "domain": "typekit.com",
+      "name": "Adobe Creative Cloud",
+      "icon": "https://cdn.brandfetch.io/idkrQGARPW/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834079467bfumLaCV7m9gybtNPY",
+      "_score": 11.889009,
+      "qualityScore": 0.756283564070891,
+      "verified": false
+    }
+  ]
+}

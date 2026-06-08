@@ -1,0 +1,29 @@
+{
+  "fetched_at": "2026-06-06T12:08:25.253Z",
+  "brand_id": "china_southern_airlines",
+  "query": "China Southern Airlines",
+  "http_status": 200,
+  "search_status": "ok",
+  "results": [
+    {
+      "brandId": "idegaEzF5o",
+      "claimed": false,
+      "domain": "csair.com",
+      "name": "China Southern Airlines",
+      "icon": "https://cdn.brandfetch.io/idegaEzF5o/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834104083bfumLaCV7m3g_1d1gd",
+      "_score": 22.67246,
+      "qualityScore": 0.8964352241088059,
+      "verified": true
+    },
+    {
+      "brandId": "idsuKhfLI-",
+      "claimed": false,
+      "domain": "chinasouthernairlines.com.vn",
+      "name": "China Southern Airlines",
+      "icon": "https://cdn.brandfetch.io/idsuKhfLI-/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834104083bfumLaCV7m3g_1d1gd",
+      "_score": 22.063957,
+      "qualityScore": 0.3076923076923077,
+      "verified": false
+    }
+  ]
+}

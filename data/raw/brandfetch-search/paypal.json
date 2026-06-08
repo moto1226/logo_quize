@@ -1,0 +1,58 @@
+{
+  "fetched_at": "2026-06-06T12:08:16.336Z",
+  "brand_id": "paypal",
+  "query": "PayPal",
+  "http_status": 200,
+  "search_status": "ok",
+  "results": [
+    {
+      "brandId": "id-Wd4a4TS",
+      "claimed": true,
+      "domain": "paypal.com",
+      "name": "PayPal",
+      "icon": "https://cdn.brandfetch.io/id-Wd4a4TS/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834095166bfumLaCV7m5W8E8NR9",
+      "_score": 19.612965,
+      "qualityScore": 0.9999938846138557,
+      "verified": true
+    },
+    {
+      "brandId": "idcbKPMMns",
+      "claimed": false,
+      "domain": "xoom.com",
+      "name": "Xoom, a PayPal Service",
+      "icon": "https://cdn.brandfetch.io/idcbKPMMns/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834095166bfumLaCV7m5W8E8NR9",
+      "_score": 11.057837,
+      "qualityScore": 0.960734172875851,
+      "verified": true
+    },
+    {
+      "brandId": "idEb4saWG1",
+      "claimed": false,
+      "domain": "zettle.com",
+      "name": "Zettle by PayPal",
+      "icon": "https://cdn.brandfetch.io/idEb4saWG1/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834095166bfumLaCV7m5W8E8NR9",
+      "_score": 13.272175,
+      "qualityScore": 0.9205476916753845,
+      "verified": true
+    },
+    {
+      "brandId": "id7kcSrkNo",
+      "claimed": false,
+      "domain": "happyreturns.com",
+      "name": "Happy Returns a PayPal company",
+      "icon": "https://cdn.brandfetch.io/id7kcSrkNo/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834095166bfumLaCV7m5W8E8NR9",
+      "_score": 9.706198,
+      "qualityScore": 0.9198229607249709,
+      "verified": true
+    },
+    {
+      "brandId": "id0Kel0foz",
+      "claimed": false,
+      "domain": "paydiant.com",
+      "name": "PayPal",
+      "icon": "https://cdn.brandfetch.io/id0Kel0foz/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834095166bfumLaCV7m5W8E8NR9",
+      "_score": 19.622974,
+      "qualityScore": 0.7678141342612258
+    }
+  ]
+}

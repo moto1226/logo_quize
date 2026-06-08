@@ -1,0 +1,55 @@
+{
+  "fetched_at": "2026-06-06T12:07:37.902Z",
+  "brand_id": "puma",
+  "query": "Puma",
+  "http_status": 200,
+  "search_status": "ok",
+  "results": [
+    {
+      "brandId": "idDV9AjI6R",
+      "claimed": false,
+      "domain": "puma.com",
+      "name": "PUMA",
+      "icon": "https://cdn.brandfetch.io/idDV9AjI6R/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834056730bfumLaCV7mHyt-Bk8E",
+      "_score": 19.53869,
+      "qualityScore": 0.8842714229909328,
+      "verified": true
+    },
+    {
+      "brandId": "idsRp2jfMU",
+      "claimed": false,
+      "domain": "pumagolf.com",
+      "name": "PUMA Golf",
+      "icon": "https://cdn.brandfetch.io/idsRp2jfMU/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834056730bfumLaCV7mHyt-Bk8E",
+      "_score": 16.106087,
+      "qualityScore": 0.7526539766250326
+    },
+    {
+      "brandId": "idkVQyWKPO",
+      "claimed": false,
+      "domain": "pumaenergy.com",
+      "name": "Puma Energy",
+      "icon": "https://cdn.brandfetch.io/idkVQyWKPO/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834056730bfumLaCV7mHyt-Bk8E",
+      "_score": 15.759926,
+      "qualityScore": 0.736939684234921
+    },
+    {
+      "brandId": "idoTKajgAJ",
+      "claimed": false,
+      "domain": "pumas.mx",
+      "name": "PUMAS",
+      "icon": "https://cdn.brandfetch.io/idoTKajgAJ/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834056730bfumLaCV7mHyt-Bk8E",
+      "_score": 23.227112,
+      "qualityScore": 0.6986052419590028
+    },
+    {
+      "brandId": "idraAWjria",
+      "claimed": false,
+      "domain": "pumaknives.de",
+      "name": "PUMA Messermanufaktur Solingen",
+      "icon": "https://cdn.brandfetch.io/idraAWjria/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834056730bfumLaCV7mHyt-Bk8E",
+      "_score": 13.168217,
+      "qualityScore": 0.6906570284334879
+    }
+  ]
+}

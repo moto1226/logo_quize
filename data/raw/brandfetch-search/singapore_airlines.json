@@ -1,0 +1,48 @@
+{
+  "fetched_at": "2026-06-06T12:08:28.044Z",
+  "brand_id": "singapore_airlines",
+  "query": "Singapore Airlines",
+  "http_status": 200,
+  "search_status": "ok",
+  "results": [
+    {
+      "brandId": "idf4k686Hz",
+      "claimed": false,
+      "domain": "singaporeair.com",
+      "name": "Singapore Airlines",
+      "icon": "https://cdn.brandfetch.io/idf4k686Hz/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834106877bfumLaCV7mb6DuHNjD",
+      "_score": 33.6051,
+      "qualityScore": 0.9610561537255768,
+      "verified": true
+    },
+    {
+      "brandId": "idPLE7jZ1D",
+      "claimed": false,
+      "domain": "silverkris.com",
+      "name": "Singapore Airlines",
+      "icon": "https://cdn.brandfetch.io/idPLE7jZ1D/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834106877bfumLaCV7mb6DuHNjD",
+      "_score": 32.986,
+      "qualityScore": 0.6869629025099564
+    },
+    {
+      "brandId": "idDfdH5IFd",
+      "claimed": false,
+      "domain": "singaporeairlines.com",
+      "name": "SINGAPORE AIRLINES",
+      "icon": "https://cdn.brandfetch.io/idDfdH5IFd/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834106877bfumLaCV7mb6DuHNjD",
+      "_score": 33.6051,
+      "qualityScore": 0.3864828850822597,
+      "verified": false
+    },
+    {
+      "brandId": "iddUOrD3mv",
+      "claimed": false,
+      "domain": "singaporeairlinesacademy.com.sg",
+      "name": "Singapore Airlines",
+      "icon": "https://cdn.brandfetch.io/iddUOrD3mv/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834106877bfumLaCV7mb6DuHNjD",
+      "_score": 28.405048,
+      "qualityScore": 0.3813566049545359,
+      "verified": false
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "fetched_at": "2026-06-06T12:08:07.033Z",
+  "brand_id": "telegram",
+  "query": "Telegram",
+  "http_status": 200,
+  "search_status": "ok",
+  "results": [
+    {
+      "brandId": "id68S6e-Gp",
+      "claimed": false,
+      "domain": "telegram.org",
+      "name": "Telegram",
+      "icon": "https://cdn.brandfetch.io/id68S6e-Gp/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834085862bfumLaCV7mdQG9HBZj",
+      "_score": 19.741798,
+      "qualityScore": 0.92306238461175,
+      "verified": true
+    },
+    {
+      "brandId": "idlUUEx3ms",
+      "claimed": false,
+      "domain": "leadertelegram.com",
+      "name": "Leader-Telegram",
+      "icon": "https://cdn.brandfetch.io/idlUUEx3ms/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834085862bfumLaCV7mdQG9HBZj",
+      "_score": 15.931417,
+      "qualityScore": 0.7604028631776388
+    },
+    {
+      "brandId": "idwUzcTePW",
+      "claimed": false,
+      "domain": "rockymounttelegram.com",
+      "name": "Rocky Mount Telegram",
+      "icon": "https://cdn.brandfetch.io/idwUzcTePW/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834085862bfumLaCV7mdQG9HBZj",
+      "_score": 12.94681,
+      "qualityScore": 0.7538364384591095
+    },
+    {
+      "brandId": "idHYAs0vku",
+      "claimed": false,
+      "domain": "tdtnews.com",
+      "name": "Temple Daily Telegram",
+      "icon": "https://cdn.brandfetch.io/idHYAs0vku/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834085862bfumLaCV7mdQG9HBZj",
+      "_score": 12.94681,
+      "qualityScore": 0.7521833803535375
+    }
+  ]
+}

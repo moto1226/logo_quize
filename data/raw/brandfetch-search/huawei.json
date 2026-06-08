@@ -1,0 +1,55 @@
+{
+  "fetched_at": "2026-06-06T12:07:57.843Z",
+  "brand_id": "huawei",
+  "query": "Huawei",
+  "http_status": 200,
+  "search_status": "ok",
+  "results": [
+    {
+      "brandId": "idLAJ42baU",
+      "claimed": false,
+      "domain": "huawei.com",
+      "name": "Huawei",
+      "icon": "https://cdn.brandfetch.io/idLAJ42baU/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834076634bfumLaCV7mzVTqgtK5",
+      "_score": 22.29431,
+      "qualityScore": 0.9230568461488269,
+      "verified": true
+    },
+    {
+      "brandId": "idVxunMvzZ",
+      "claimed": false,
+      "domain": "huaweicentral.com",
+      "name": "HC Newsroom",
+      "icon": "https://cdn.brandfetch.io/idVxunMvzZ/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834076634bfumLaCV7mzVTqgtK5",
+      "_score": 14.811328,
+      "qualityScore": 0.7654214028938123
+    },
+    {
+      "brandId": "idXZRYBgEm",
+      "claimed": false,
+      "domain": "huaweicloud.com",
+      "name": "Huawei Cloud",
+      "icon": "https://cdn.brandfetch.io/idXZRYBgEm/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834076634bfumLaCV7mzVTqgtK5",
+      "_score": 17.395767,
+      "qualityScore": 0.7560367563168813
+    },
+    {
+      "brandId": "idB1OkpbMv",
+      "claimed": false,
+      "domain": "huaweiblog.de",
+      "name": "HUAWEI.blog",
+      "icon": "https://cdn.brandfetch.io/idB1OkpbMv/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834076634bfumLaCV7mzVTqgtK5",
+      "_score": 26.314688,
+      "qualityScore": 0.69729989547882
+    },
+    {
+      "brandId": "idwEMzIDH6",
+      "claimed": false,
+      "domain": "huaweiupdate.com",
+      "name": "Huawei Update",
+      "icon": "https://cdn.brandfetch.io/idwEMzIDH6/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834076634bfumLaCV7mzVTqgtK5",
+      "_score": 17.314022,
+      "qualityScore": 0.6833186996758287
+    }
+  ]
+}

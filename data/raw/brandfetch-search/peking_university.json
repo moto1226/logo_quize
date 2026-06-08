@@ -1,0 +1,57 @@
+{
+  "fetched_at": "2026-06-06T12:08:31.935Z",
+  "brand_id": "peking_university",
+  "query": "Peking University",
+  "http_status": 200,
+  "search_status": "ok",
+  "results": [
+    {
+      "brandId": "idGBXp2IFp",
+      "claimed": false,
+      "domain": "pkusz.edu.cn",
+      "name": "Peking University Shenzhen Graduate School",
+      "icon": "https://cdn.brandfetch.io/idGBXp2IFp/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834110765bfumLaCV7mMYPrqWd9",
+      "_score": 32.1081,
+      "qualityScore": 0.520447860881196,
+      "verified": false
+    },
+    {
+      "brandId": "idz3kyqrEC",
+      "claimed": false,
+      "domain": "founder.net",
+      "name": "Peking University Founder Group Co.",
+      "icon": "https://cdn.brandfetch.io/idz3kyqrEC/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834110765bfumLaCV7mMYPrqWd9",
+      "_score": 32.970974,
+      "qualityScore": 0.4272906933611349,
+      "verified": false
+    },
+    {
+      "brandId": "idmpf47GWF",
+      "claimed": false,
+      "domain": "pku-resources.com",
+      "name": "Peking University Resources (Holdings) Co Ltd",
+      "icon": "https://cdn.brandfetch.io/idmpf47GWF/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834110765bfumLaCV7mMYPrqWd9",
+      "_score": 33.161613,
+      "qualityScore": 0.34615384615384615,
+      "verified": false
+    },
+    {
+      "brandId": "idXt2gYWPI",
+      "claimed": false,
+      "domain": "pkumingde.com",
+      "name": "Peking University Mingde Fund",
+      "icon": "https://cdn.brandfetch.io/idXt2gYWPI/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834110765bfumLaCV7mMYPrqWd9",
+      "_score": 32.970974,
+      "qualityScore": 0.19230769230769232
+    },
+    {
+      "brandId": "idbkurxoFb",
+      "claimed": false,
+      "domain": "wpu.com.cn",
+      "name": "Beijing WBL Peking University Biotech Co., Ltd.",
+      "icon": "https://cdn.brandfetch.io/idbkurxoFb/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834110765bfumLaCV7mMYPrqWd9",
+      "_score": 32.84765,
+      "qualityScore": 0.19230769230769232
+    }
+  ]
+}

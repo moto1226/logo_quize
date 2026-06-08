@@ -1,0 +1,58 @@
+{
+  "fetched_at": "2026-06-06T12:08:18.042Z",
+  "brand_id": "bank_of_china",
+  "query": "Bank of China",
+  "http_status": 200,
+  "search_status": "ok",
+  "results": [
+    {
+      "brandId": "idW8v4GmoH",
+      "claimed": false,
+      "domain": "psbc.com",
+      "name": "Postal Savings Bank Of China",
+      "icon": "https://cdn.brandfetch.io/idW8v4GmoH/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834096887bfumLaCV7mCJgR8gX_",
+      "_score": 32.559784,
+      "qualityScore": 0.8694353712049967,
+      "verified": true
+    },
+    {
+      "brandId": "ida3fnJjf9",
+      "claimed": false,
+      "domain": "boc.cn",
+      "name": "Bank of China",
+      "icon": "https://cdn.brandfetch.io/ida3fnJjf9/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834096887bfumLaCV7mCJgR8gX_",
+      "_score": 32.559784,
+      "qualityScore": 0.8582054933975272,
+      "verified": true
+    },
+    {
+      "brandId": "id2D_kZbjD",
+      "claimed": false,
+      "domain": "abchina.com",
+      "name": "Agricultural Bank of China",
+      "icon": "https://cdn.brandfetch.io/id2D_kZbjD/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834096887bfumLaCV7mCJgR8gX_",
+      "_score": 29.362999,
+      "qualityScore": 0.8448438842878941,
+      "verified": true
+    },
+    {
+      "brandId": "idNRs09lVp",
+      "claimed": false,
+      "domain": "hkmenstennisopen.com",
+      "name": "Bank of China Hong Kong Tennis Open",
+      "icon": "https://cdn.brandfetch.io/idNRs09lVp/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834096887bfumLaCV7mCJgR8gX_",
+      "_score": 29.362999,
+      "qualityScore": 0.6361371205727416,
+      "verified": false
+    },
+    {
+      "brandId": "idN2F4DAtT",
+      "claimed": false,
+      "domain": "icbc.com.cn",
+      "name": "Industrial and Commercial Bank of China",
+      "icon": "https://cdn.brandfetch.io/idN2F4DAtT/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834096887bfumLaCV7mCJgR8gX_",
+      "_score": 29.931889,
+      "qualityScore": 0.5762223459786634
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "fetched_at": "2026-06-06T12:08:05.824Z",
+  "brand_id": "xiaohongshu",
+  "query": "Xiaohongshu",
+  "http_status": 200,
+  "search_status": "ok",
+  "results": [
+    {
+      "brandId": "idvL6iJWSM",
+      "claimed": false,
+      "domain": "xiaohongshu.com",
+      "name": "Xiaohongshu",
+      "icon": "https://cdn.brandfetch.io/idvL6iJWSM/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834084651bfumLaCV7mH15IRl3p",
+      "_score": 26.435863,
+      "qualityScore": 0.6153341346027644
+    },
+    {
+      "brandId": "idCtvrTGic",
+      "claimed": false,
+      "domain": "hk-xiaohongshu.com",
+      "name": null,
+      "icon": "https://cdn.brandfetch.io/idCtvrTGic/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834084651bfumLaCV7mH15IRl3p",
+      "_score": 10.796682,
+      "qualityScore": 0.2692307692307692,
+      "verified": false
+    }
+  ]
+}

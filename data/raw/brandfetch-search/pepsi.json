@@ -1,0 +1,48 @@
+{
+  "fetched_at": "2026-06-06T12:07:45.835Z",
+  "brand_id": "pepsi",
+  "query": "Pepsi",
+  "http_status": 200,
+  "search_status": "ok",
+  "results": [
+    {
+      "brandId": "idzsO4cZJ1",
+      "claimed": false,
+      "domain": "pepsico.com",
+      "name": "PepsiCo",
+      "icon": "https://cdn.brandfetch.io/idzsO4cZJ1/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834064658bfumLaCV7mh5GKJFSO",
+      "_score": 22.334513,
+      "qualityScore": 0.9611417691315961,
+      "verified": true
+    },
+    {
+      "brandId": "idGhGN0KKe",
+      "claimed": false,
+      "domain": "pepsi.com",
+      "name": "Pepsi",
+      "icon": "https://cdn.brandfetch.io/idGhGN0KKe/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834064658bfumLaCV7mh5GKJFSO",
+      "_score": 21.383114,
+      "qualityScore": 0.9603031535373268,
+      "verified": true
+    },
+    {
+      "brandId": "idj9jtPyej",
+      "claimed": false,
+      "domain": "pepsicojobs.com",
+      "name": "PepsiCo JOBS",
+      "icon": "https://cdn.brandfetch.io/idj9jtPyej/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834064659bfumLaCV7mPV6W3bto",
+      "_score": 16.948835,
+      "qualityScore": 0.9549623445098169,
+      "verified": true
+    },
+    {
+      "brandId": "idYcKTn89v",
+      "claimed": false,
+      "domain": "fabster.com",
+      "name": "Pepsia",
+      "icon": "https://cdn.brandfetch.io/idYcKTn89v/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834064659bfumLaCV7mPV6W3bto",
+      "_score": 26.314688,
+      "qualityScore": 0.7303260479661274
+    }
+  ]
+}

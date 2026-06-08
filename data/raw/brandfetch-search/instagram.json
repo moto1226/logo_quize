@@ -1,0 +1,57 @@
+{
+  "fetched_at": "2026-06-06T12:08:01.772Z",
+  "brand_id": "instagram",
+  "query": "Instagram",
+  "http_status": 200,
+  "search_status": "ok",
+  "results": [
+    {
+      "brandId": "ido5G85nya",
+      "claimed": false,
+      "domain": "instagram.com",
+      "name": "Instagram",
+      "icon": "https://cdn.brandfetch.io/ido5G85nya/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834080605bfumLaCV7mMl0PAd5l",
+      "_score": 18.17412,
+      "qualityScore": 0.9615378846152404,
+      "verified": true
+    },
+    {
+      "brandId": "idb2rNNZlR",
+      "claimed": true,
+      "domain": "myinstafollow.com",
+      "name": "MyInstaFollow - Buy Instagram Followers",
+      "icon": "https://cdn.brandfetch.io/idb2rNNZlR/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834080605bfumLaCV7mMl0PAd5l",
+      "_score": 11.836399,
+      "qualityScore": 0.8024184794507737
+    },
+    {
+      "brandId": "idHQNYtGMK",
+      "claimed": true,
+      "domain": "fenomist.com",
+      "name": "Fenomist (Instagram Takipçi Satın Al)",
+      "icon": "https://cdn.brandfetch.io/idHQNYtGMK/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834080605bfumLaCV7mMl0PAd5l",
+      "_score": 10.348995,
+      "qualityScore": 0.7462016288580995,
+      "verified": false
+    },
+    {
+      "brandId": "id6-8hlApi",
+      "claimed": false,
+      "domain": "instagrammernews.com",
+      "name": "InstagramNews 日本版",
+      "icon": "https://cdn.brandfetch.io/id6-8hlApi/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834080605bfumLaCV7mMl0PAd5l",
+      "_score": 15.78241,
+      "qualityScore": 0.7024451083035849,
+      "verified": false
+    },
+    {
+      "brandId": "idd7WEVwZk",
+      "claimed": false,
+      "domain": "instagramers.com",
+      "name": "Philippe Gonzalez",
+      "icon": "https://cdn.brandfetch.io/idd7WEVwZk/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834080605bfumLaCV7mMl0PAd5l",
+      "_score": 14.526967,
+      "qualityScore": 0.6342742931839579
+    }
+  ]
+}

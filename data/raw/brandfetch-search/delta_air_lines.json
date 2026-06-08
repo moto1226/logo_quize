@@ -1,0 +1,29 @@
+{
+  "fetched_at": "2026-06-06T12:08:28.599Z",
+  "brand_id": "delta_air_lines",
+  "query": "Delta Air Lines",
+  "http_status": 200,
+  "search_status": "ok",
+  "results": [
+    {
+      "brandId": "idXul6ycu1",
+      "claimed": false,
+      "domain": "dalm.ec",
+      "name": "Delta Air Lines Pilots",
+      "icon": "https://cdn.brandfetch.io/idXul6ycu1/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834107436bfumLaCV7m5DqnYIj0",
+      "_score": 28.781696,
+      "qualityScore": 0.23076923076923078,
+      "verified": false
+    },
+    {
+      "brandId": "idLcQXJh-q",
+      "claimed": false,
+      "domain": "deltaairlines.com",
+      "name": "Delta Air Lines",
+      "icon": "https://cdn.brandfetch.io/idLcQXJh-q/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834107436bfumLaCV7m5DqnYIj0",
+      "_score": 28.781696,
+      "qualityScore": 0.21794871794871792,
+      "verified": false
+    }
+  ]
+}

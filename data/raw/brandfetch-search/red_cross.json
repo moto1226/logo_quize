@@ -1,0 +1,28 @@
+{
+  "fetched_at": "2026-06-06T12:08:30.823Z",
+  "brand_id": "red_cross",
+  "query": "Red Cross",
+  "http_status": 200,
+  "search_status": "ok",
+  "results": [
+    {
+      "brandId": "idgpoc0lkM",
+      "claimed": false,
+      "domain": "redcross.org",
+      "name": "American Red Cross",
+      "icon": "https://cdn.brandfetch.io/idgpoc0lkM/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834109666bfumLaCV7mh89ttxvI",
+      "_score": 26.194586,
+      "qualityScore": 0.9228435576339664,
+      "verified": true
+    },
+    {
+      "brandId": "idCg5MrFsC",
+      "claimed": false,
+      "domain": "redcrossblood.org",
+      "name": "American Red Cross",
+      "icon": "https://cdn.brandfetch.io/idCg5MrFsC/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1780834109666bfumLaCV7mh89ttxvI",
+      "_score": 26.37629,
+      "qualityScore": 0.7296456727960335
+    }
+  ]
+}
