@@ -32,9 +32,13 @@
     "collect:logos-all": "npm run collect:website-icons && npm run collect:wikidata-logos && npm run collect:thesvg && npm run collect:car-logos && npm run collect:gilbarbara && npm run collect:vectorlogozone && npm run discover:official-assets && npm run build:logo-candidates-index && npm run preview:logo-candidates && npm run report:logo-coverage",
     "build:all-logo-corpus": "node scripts/build-all-logo-corpus.js",
     "enrich:brand-names": "node scripts/enrich-brand-metadata.js",
-    "build:quiz-data": "node scripts/build-quiz-data.js build",
+    "build:quiz-data": "node scripts/build-quiz-data-from-logo-test.js",
     "preview:quiz-questions": "node scripts/build-quiz-data.js preview",
-    "validate:quiz-data": "node scripts/build-quiz-data.js validate"
+    "validate:quiz-data": "node scripts/build-quiz-data.js validate",
+    "test:logo-grid": "node scripts/test-generate-logo-grid.js",
+    "logo-grid:status": "node scripts/logo-grid-batch.js status",
+    "logo-grid:prompt": "node scripts/logo-grid-batch.js prompt",
+    "logo-grid:ingest": "node scripts/logo-grid-batch.js ingest"
   },
   "dependencies": {
     "csv-parse": "^5.6.0",

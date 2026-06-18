@@ -3,5 +3,6 @@ node_modules/
 .tools/
 vendor/
 /assets/
+/generated/
 reports/*.log
 project.private.config.json

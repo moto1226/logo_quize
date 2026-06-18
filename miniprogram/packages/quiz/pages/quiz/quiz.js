@@ -20,7 +20,7 @@ const { saveLatestResult } = require("../../../../utils/storage.js");
 
 const letters = ["A", "B", "C", "D"];
 const ROUND_QUESTION_COUNT = 20;
-const LOGO_BASE_URL = "https://logos.lupio.studio/logos";
+const LOGO_BASE_URL = "https://logos.lupio.studio/logos/v20260618";
 const preloadedLogoUrls = new Set();
 const brandNameMap = sourceBrands.reduce((map, brand) => {
   map[brand.brand_id] = brand.display_name || brand.name_zh || brand.name_en || brand.brand_id;
@@ -28,7 +28,7 @@ const brandNameMap = sourceBrands.reduce((map, brand) => {
 }, {});
 
 function logoPath(brandId) {
-  return `${LOGO_BASE_URL}/${brandId}.jpg`;
+  return `${LOGO_BASE_URL}/${brandId}.webp`;
 }
 
 function normalizeLogoImage(image, brandId) {
@@ -131,6 +131,94 @@ function getPrompt(type) {
   if (type === "brand_to_logo") return "请选择对应的 Logo";
   if (type === "logo_to_brand") return "请认出这个品牌";
   return "请选择正确答案";
+}
+
+function makeRuntimeOptions(answer, brands) {
+  const chosen = new Map([[answer.brand_id, answer]]);
+  const add = (pool) => {
+    for (const item of shuffle(pool)) {
+      if (chosen.size >= 4) break;
+      if (item.brand_id !== answer.brand_id && !chosen.has(item.brand_id)) {
+        chosen.set(item.brand_id, item);
+      }
+    }
+  };
+  add(brands.filter((item) => item.similar_group === answer.similar_group));
+  add(brands.filter((item) => item.category && item.category === answer.category));
+  add(brands.filter((item) => item.industry === answer.industry));
+  add(brands);
+  return shuffle([...chosen.values()].slice(0, 4)).map((item) => ({ brand_id: item.brand_id }));
+}
+
+function buildRuntimeQuestion(brand, type, brands) {
+  const options = makeRuntimeOptions(brand, brands);
+  return {
+    id: `q_${type}_${brand.brand_id}_001`,
+    type,
+    answer_brand_id: brand.brand_id,
+    options,
+    industry: brand.industry || "其他",
+    category: brand.category || "",
+    similar_group: brand.similar_group || brand.industry || "general"
+  };
+}
+
+function pickBalancedBrands(brands, limit, excludedBrandIds) {
+  const selected = [];
+  const used = new Set(excludedBrandIds ? Array.from(excludedBrandIds) : []);
+  const buckets = new Map();
+  for (const brand of shuffle(brands || [])) {
+    if (!brand || !brand.brand_id || used.has(brand.brand_id)) continue;
+    const key = brand.industry || brand.similar_group || "其他";
+    if (!buckets.has(key)) buckets.set(key, []);
+    buckets.get(key).push(brand);
+  }
+  const keys = shuffle([...buckets.keys()]);
+  let picked = true;
+  while (selected.length < limit && picked) {
+    picked = false;
+    for (const key of keys) {
+      if (selected.length >= limit) break;
+      const bucket = buckets.get(key) || [];
+      const brand = bucket.shift();
+      if (!brand) continue;
+      selected.push(brand);
+      used.add(brand.brand_id);
+      picked = true;
+    }
+  }
+  if (selected.length < limit) {
+    for (const brand of shuffle(brands || [])) {
+      if (selected.length >= limit) break;
+      if (!brand || used.has(brand.brand_id)) continue;
+      selected.push(brand);
+      used.add(brand.brand_id);
+    }
+  }
+  return selected;
+}
+
+function pickRuntimeRoundQuestions(brands, mode, limit) {
+  const total = Math.min(limit || ROUND_QUESTION_COUNT, (brands || []).length);
+  if (!mode || mode === "mixed") {
+    const logoTarget = Math.ceil(total / 2);
+    const reverseTarget = total - logoTarget;
+    const used = new Set();
+    const logoBrands = pickBalancedBrands(brands, logoTarget, used);
+    logoBrands.forEach((brand) => used.add(brand.brand_id));
+    const reverseBrands = pickBalancedBrands(brands, reverseTarget, used);
+    const logoQuestions = logoBrands.map((brand) => buildRuntimeQuestion(brand, "logo_to_brand", brands));
+    const reverseQuestions = reverseBrands.map((brand) => buildRuntimeQuestion(brand, "brand_to_logo", brands));
+    const first = Math.random() > 0.5 ? logoQuestions : reverseQuestions;
+    const second = first === logoQuestions ? reverseQuestions : logoQuestions;
+    const mixed = [];
+    for (let index = 0; index < Math.max(first.length, second.length); index += 1) {
+      if (first[index]) mixed.push(first[index]);
+      if (second[index]) mixed.push(second[index]);
+    }
+    return mixed.slice(0, total);
+  }
+  return pickBalancedBrands(brands, total).map((brand) => buildRuntimeQuestion(brand, mode, brands));
 }
 
 function pickBalancedQuestions(questions, limit, excludedBrandIds) {
@@ -265,7 +353,9 @@ Page({
   },
 
   loadQuestions(mode) {
-    const questions = this.pickRoundQuestions(sourceQuestions, mode);
+    const questions = sourceQuestions.length
+      ? this.pickRoundQuestions(sourceQuestions, mode)
+      : pickRuntimeRoundQuestions(sourceBrands, mode, ROUND_QUESTION_COUNT);
     if (!questions.length) {
       console.warn("no available questions for mode", mode);
       this.setData({

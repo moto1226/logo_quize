@@ -1,7 +1,7 @@
 {
   "headers": [
     {
-      "source": "/logos/*.jpg",
+      "source": "/logos/v20260618/*.webp",
       "headers": [
         {
           "key": "Cache-Control",
