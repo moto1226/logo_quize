@@ -1,0 +1,19 @@
+{
+  "pages": [
+    {
+      "path": "pages/index/index",
+      "name": "识标挑战首页",
+      "description": "Logo 识别练习首页，展示题库规模、练习模式入口和快速开始按钮。用户可进入混合练习、基础识别或反向记忆。"
+    },
+    {
+      "path": "packages/quiz/pages/quiz/quiz",
+      "name": "识标挑战答题页",
+      "description": "Logo 识别答题页面。支持基础识别题和反向记忆题，每轮 20 题，用户选择答案后查看正确与否并继续下一题。"
+    },
+    {
+      "path": "packages/quiz/pages/result/result",
+      "name": "识标挑战结果页",
+      "description": "展示最近一次练习结果、答对题数、正确率、用时和题型表现。"
+    }
+  ]
+}
