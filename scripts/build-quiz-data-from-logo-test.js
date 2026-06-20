@@ -12,9 +12,9 @@ const quizDataDir = path.join(miniprogramRoot, "packages", "quiz", "data");
 const mainDataDir = path.join(miniprogramRoot, "data");
 const reviewDir = path.join(root, "review");
 const reportDir = path.join(root, "reports");
-const distLogoDir = path.join(root, "dist", "logos", "v20260618");
+const distLogoDir = path.join(root, "dist", "logos", "v20260620");
 
-const cdnBase = (process.env.LOGO_CDN_BASE || "https://logos.lupio.studio/logos/v20260618").replace(/\/+$/, "");
+const cdnBase = (process.env.LOGO_CDN_BASE || "https://logos.lupio.studio/logos/v20260620").replace(/\/+$/, "");
 const questionReviewFile = path.join(reviewDir, "quiz-questions-preview.html");
 const buildReportFile = path.join(reportDir, "logo-test-build-report.json");
 const validationReportFile = path.join(reportDir, "quiz-data-validation-report.json");
@@ -63,7 +63,7 @@ function logoUrl(brandId) {
 }
 
 function localReviewLogo(brandId) {
-  return `../dist/logos/v20260618/${brandId}.webp`;
+  return `../dist/logos/v20260620/${brandId}.webp`;
 }
 
 function numericScore(value) {
@@ -503,7 +503,7 @@ function build() {
     question_count: questions.length,
     logo_to_brand_count: questions.filter((q) => q.type === "logo_to_brand").length,
     brand_to_logo_count: questions.filter((q) => q.type === "brand_to_logo").length,
-    dist_logo_dir: "dist/logos/v20260618",
+    dist_logo_dir: "dist/logos/v20260620",
     duplicate_logo_group_count: duplicateAudit.duplicateGroups.length,
     duplicate_logo_affected_brand_count: duplicateAudit.duplicateAffectedBrandCount,
     duplicate_logo_excluded_brand_count: duplicateAudit.excludedBrandCount,

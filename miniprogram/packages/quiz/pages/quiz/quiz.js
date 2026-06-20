@@ -20,7 +20,7 @@ const { saveLatestResult } = require("../../../../utils/storage.js");
 
 const letters = ["A", "B", "C", "D"];
 const ROUND_QUESTION_COUNT = 20;
-const LOGO_BASE_URL = "https://logos.lupio.studio/logos/v20260618";
+const LOGO_BASE_URL = "https://logos.lupio.studio/logos/v20260620";
 const preloadedLogoUrls = new Set();
 const brandNameMap = sourceBrands.reduce((map, brand) => {
   map[brand.brand_id] = brand.display_name || brand.name_zh || brand.name_en || brand.brand_id;

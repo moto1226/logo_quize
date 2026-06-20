@@ -7,7 +7,7 @@
     "enhance": true,
     "packNpmRelationList": [],
     "ignoreDevUnusedFiles": false,
-    "ignoreUploadUnusedFiles": true,
+    "ignoreUploadUnusedFiles": false,
     "babelSetting": {
       "ignore": [],
       "disablePlugins": [],
