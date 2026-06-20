@@ -1,0 +1,5739 @@
+{
+  "generated_at": "2026-06-18T22:48:44.177Z",
+  "reason": "These grid PNGs are byte-identical duplicates of logo-grid-i18-007 and must be regenerated before slicing.",
+  "repair_grid_count": 50,
+  "by_industry": {
+    "工业 / 能源 / 制造": 2,
+    "农业 / 食品原料 / 种业": 8,
+    "体育 / 赛事 / 俱乐部": 9,
+    "艺术 / 文化 / 设计机构": 8,
+    "公共机构 / 城市品牌 / 非营利": 7,
+    "专业服务 / 咨询 / 法律 / 广告": 8,
+    "特殊行业 / 高风险行业 / 待筛选": 8
+  },
+  "repair_grids": [
+    {
+      "grid_id": "logo-grid-i18-008",
+      "industry": "工业 / 能源 / 制造",
+      "current_grid_image": "generated/logo-test/grid/logo-grid-i18-008.png",
+      "prompt_file": "generated/logo-test/prompt/logo-grid-i18-008-prompt.txt",
+      "prompt_exists": true,
+      "ingest_command": "node scripts/logo-grid-batch.js ingest logo-grid-i18-008 --source <new_png> --industry \"工业 / 能源 / 制造\"",
+      "item_count": 16,
+      "items": [
+        {
+          "index": 0,
+          "brand_id": "safran",
+          "brand_name": "Safran",
+          "row": 0,
+          "col": 0
+        },
+        {
+          "index": 1,
+          "brand_id": "general_dynamics",
+          "brand_name": "General Dynamics",
+          "row": 0,
+          "col": 1
+        },
+        {
+          "index": 2,
+          "brand_id": "comac",
+          "brand_name": "COMAC 中国商飞",
+          "row": 0,
+          "col": 2
+        },
+        {
+          "index": 3,
+          "brand_id": "avic",
+          "brand_name": "AVIC 中国航空工业",
+          "row": 0,
+          "col": 3
+        },
+        {
+          "index": 4,
+          "brand_id": "casc",
+          "brand_name": "CASC 中国航天科技",
+          "row": 1,
+          "col": 0
+        },
+        {
+          "index": 5,
+          "brand_id": "jaxa",
+          "brand_name": "JAXA",
+          "row": 1,
+          "col": 1
+        },
+        {
+          "index": 6,
+          "brand_id": "esa",
+          "brand_name": "ESA",
+          "row": 1,
+          "col": 2
+        },
+        {
+          "index": 7,
+          "brand_id": "virgin_galactic",
+          "brand_name": "Virgin Galactic",
+          "row": 1,
+          "col": 3
+        },
+        {
+          "index": 8,
+          "brand_id": "keysight",
+          "brand_name": "Keysight",
+          "row": 2,
+          "col": 0
+        },
+        {
+          "index": 9,
+          "brand_id": "fluke",
+          "brand_name": "Fluke",
+          "row": 2,
+          "col": 1
+        },
+        {
+          "index": 10,
+          "brand_id": "tektronix",
+          "brand_name": "Tektronix",
+          "row": 2,
+          "col": 2
+        },
+        {
+          "index": 11,
+          "brand_id": "agilent",
+          "brand_name": "Agilent",
+          "row": 2,
+          "col": 3
+        },
+        {
+          "index": 12,
+          "brand_id": "shimadzu",
+          "brand_name": "Shimadzu",
+          "row": 3,
+          "col": 0
+        },
+        {
+          "index": 13,
+          "brand_id": "horiba",
+          "brand_name": "Horiba",
+          "row": 3,
+          "col": 1
+        },
+        {
+          "index": 14,
+          "brand_id": "olympus_scientific",
+          "brand_name": "Olympus Scientific",
+          "row": 3,
+          "col": 2
+        },
+        {
+          "index": 15,
+          "brand_id": "leica_microsystems",
+          "brand_name": "Leica Microsystems",
+          "row": 3,
+          "col": 3
+        }
+      ]
+    },
+    {
+      "grid_id": "logo-grid-i18-009",
+      "industry": "工业 / 能源 / 制造",
+      "current_grid_image": "generated/logo-test/grid/logo-grid-i18-009.png",
+      "prompt_file": "generated/logo-test/prompt/logo-grid-i18-009-prompt.txt",
+      "prompt_exists": true,
+      "ingest_command": "node scripts/logo-grid-batch.js ingest logo-grid-i18-009 --source <new_png> --industry \"工业 / 能源 / 制造\"",
+      "item_count": 7,
+      "items": [
+        {
+          "index": 0,
+          "brand_id": "zeiss_industrial",
+          "brand_name": "Zeiss Industrial",
+          "row": 0,
+          "col": 0
+        },
+        {
+          "index": 1,
+          "brand_id": "mettler_toledo",
+          "brand_name": "Mettler Toledo",
+          "row": 0,
+          "col": 1
+        },
+        {
+          "index": 2,
+          "brand_id": "perkinelmer",
+          "brand_name": "PerkinElmer",
+          "row": 0,
+          "col": 2
+        },
+        {
+          "index": 3,
+          "brand_id": "waters",
+          "brand_name": "Waters",
+          "row": 0,
+          "col": 3
+        },
+        {
+          "index": 4,
+          "brand_id": "bruker",
+          "brand_name": "Bruker",
+          "row": 1,
+          "col": 0
+        },
+        {
+          "index": 5,
+          "brand_id": "anton_paar",
+          "brand_name": "Anton Paar",
+          "row": 1,
+          "col": 1
+        },
+        {
+          "index": 6,
+          "brand_id": "endress_plus_hauser",
+          "brand_name": "Endress+Hauser",
+          "row": 1,
+          "col": 2
+        }
+      ]
+    },
+    {
+      "grid_id": "logo-grid-i19-001",
+      "industry": "农业 / 食品原料 / 种业",
+      "current_grid_image": "generated/logo-test/grid/logo-grid-i19-001.png",
+      "prompt_file": "generated/logo-test/prompt/logo-grid-i19-001-prompt.txt",
+      "prompt_exists": true,
+      "ingest_command": "node scripts/logo-grid-batch.js ingest logo-grid-i19-001 --source <new_png> --industry \"农业 / 食品原料 / 种业\"",
+      "item_count": 16,
+      "items": [
+        {
+          "index": 0,
+          "brand_id": "bayer_crop_science",
+          "brand_name": "Bayer Crop Science",
+          "row": 0,
+          "col": 0
+        },
+        {
+          "index": 1,
+          "brand_id": "corteva_agriscience",
+          "brand_name": "Corteva Agriscience",
+          "row": 0,
+          "col": 1
+        },
+        {
+          "index": 2,
+          "brand_id": "syngenta",
+          "brand_name": "Syngenta",
+          "row": 0,
+          "col": 2
+        },
+        {
+          "index": 3,
+          "brand_id": "basf_agricultural_solutions",
+          "brand_name": "BASF Agricultural Solutions",
+          "row": 0,
+          "col": 3
+        },
+        {
+          "index": 4,
+          "brand_id": "limagrain",
+          "brand_name": "Limagrain",
+          "row": 1,
+          "col": 0
+        },
+        {
+          "index": 5,
+          "brand_id": "kws",
+          "brand_name": "KWS",
+          "row": 1,
+          "col": 1
+        },
+        {
+          "index": 6,
+          "brand_id": "rijk_zwaan",
+          "brand_name": "Rijk Zwaan",
+          "row": 1,
+          "col": 2
+        },
+        {
+          "index": 7,
+          "brand_id": "sakata_seed",
+          "brand_name": "Sakata Seed",
+          "row": 1,
+          "col": 3
+        },
+        {
+          "index": 8,
+          "brand_id": "takii_seed",
+          "brand_name": "Takii Seed",
+          "row": 2,
+          "col": 0
+        },
+        {
+          "index": 9,
+          "brand_id": "beidahuang",
+          "brand_name": "Beidahuang 北大荒",
+          "row": 2,
+          "col": 1
+        },
+        {
+          "index": 10,
+          "brand_id": "cn_58f1bd7a",
+          "brand_name": "隆平高科",
+          "row": 2,
+          "col": 2
+        },
+        {
+          "index": 11,
+          "brand_id": "cn_58dda09c",
+          "brand_name": "荃银高科",
+          "row": 2,
+          "col": 3
+        },
+        {
+          "index": 12,
+          "brand_id": "cn_9a63acf6",
+          "brand_name": "登海种业",
+          "row": 3,
+          "col": 0
+        },
+        {
+          "index": 13,
+          "brand_id": "winfield_united",
+          "brand_name": "WinField United",
+          "row": 3,
+          "col": 1
+        },
+        {
+          "index": 14,
+          "brand_id": "nutrien_ag_solutions",
+          "brand_name": "Nutrien Ag Solutions",
+          "row": 3,
+          "col": 2
+        },
+        {
+          "index": 15,
+          "brand_id": "john_deere_19",
+          "brand_name": "John Deere",
+          "row": 3,
+          "col": 3
+        }
+      ]
+    },
+    {
+      "grid_id": "logo-grid-i19-002",
+      "industry": "农业 / 食品原料 / 种业",
+      "current_grid_image": "generated/logo-test/grid/logo-grid-i19-002.png",
+      "prompt_file": "generated/logo-test/prompt/logo-grid-i19-002-prompt.txt",
+      "prompt_exists": true,
+      "ingest_command": "node scripts/logo-grid-batch.js ingest logo-grid-i19-002 --source <new_png> --industry \"农业 / 食品原料 / 种业\"",
+      "item_count": 16,
+      "items": [
+        {
+          "index": 0,
+          "brand_id": "kubota_19",
+          "brand_name": "Kubota",
+          "row": 0,
+          "col": 0
+        },
+        {
+          "index": 1,
+          "brand_id": "claas",
+          "brand_name": "CLAAS",
+          "row": 0,
+          "col": 1
+        },
+        {
+          "index": 2,
+          "brand_id": "cnh_industrial_19",
+          "brand_name": "CNH Industrial",
+          "row": 0,
+          "col": 2
+        },
+        {
+          "index": 3,
+          "brand_id": "new_holland_agriculture",
+          "brand_name": "New Holland Agriculture",
+          "row": 0,
+          "col": 3
+        },
+        {
+          "index": 4,
+          "brand_id": "case_ih",
+          "brand_name": "Case IH",
+          "row": 1,
+          "col": 0
+        },
+        {
+          "index": 5,
+          "brand_id": "agco",
+          "brand_name": "AGCO",
+          "row": 1,
+          "col": 1
+        },
+        {
+          "index": 6,
+          "brand_id": "massey_ferguson",
+          "brand_name": "Massey Ferguson",
+          "row": 1,
+          "col": 2
+        },
+        {
+          "index": 7,
+          "brand_id": "fendt",
+          "brand_name": "Fendt",
+          "row": 1,
+          "col": 3
+        },
+        {
+          "index": 8,
+          "brand_id": "mahindra_tractors",
+          "brand_name": "Mahindra Tractors",
+          "row": 2,
+          "col": 0
+        },
+        {
+          "index": 9,
+          "brand_id": "yanmar_agriculture",
+          "brand_name": "Yanmar Agriculture",
+          "row": 2,
+          "col": 1
+        },
+        {
+          "index": 10,
+          "brand_id": "iseki",
+          "brand_name": "Iseki",
+          "row": 2,
+          "col": 2
+        },
+        {
+          "index": 11,
+          "brand_id": "lovol",
+          "brand_name": "雷沃 Lovol",
+          "row": 2,
+          "col": 3
+        },
+        {
+          "index": 12,
+          "brand_id": "yto_19",
+          "brand_name": "一拖 YTO",
+          "row": 3,
+          "col": 0
+        },
+        {
+          "index": 13,
+          "brand_id": "cn_94a286d6",
+          "brand_name": "中联农机",
+          "row": 3,
+          "col": 1
+        },
+        {
+          "index": 14,
+          "brand_id": "cofco",
+          "brand_name": "COFCO 中粮",
+          "row": 3,
+          "col": 2
+        },
+        {
+          "index": 15,
+          "brand_id": "adm",
+          "brand_name": "ADM",
+          "row": 3,
+          "col": 3
+        }
+      ]
+    },
+    {
+      "grid_id": "logo-grid-i19-003",
+      "industry": "农业 / 食品原料 / 种业",
+      "current_grid_image": "generated/logo-test/grid/logo-grid-i19-003.png",
+      "prompt_file": "generated/logo-test/prompt/logo-grid-i19-003-prompt.txt",
+      "prompt_exists": true,
+      "ingest_command": "node scripts/logo-grid-batch.js ingest logo-grid-i19-003 --source <new_png> --industry \"农业 / 食品原料 / 种业\"",
+      "item_count": 16,
+      "items": [
+        {
+          "index": 0,
+          "brand_id": "bunge",
+          "brand_name": "Bunge",
+          "row": 0,
+          "col": 0
+        },
+        {
+          "index": 1,
+          "brand_id": "cargill",
+          "brand_name": "Cargill",
+          "row": 0,
+          "col": 1
+        },
+        {
+          "index": 2,
+          "brand_id": "louis_dreyfus_company",
+          "brand_name": "Louis Dreyfus Company",
+          "row": 0,
+          "col": 2
+        },
+        {
+          "index": 3,
+          "brand_id": "wilmar_international",
+          "brand_name": "Wilmar International",
+          "row": 0,
+          "col": 3
+        },
+        {
+          "index": 4,
+          "brand_id": "cn_e0111785",
+          "brand_name": "益海嘉里金龙鱼",
+          "row": 1,
+          "col": 0
+        },
+        {
+          "index": 5,
+          "brand_id": "arawana",
+          "brand_name": "金龙鱼 Arawana",
+          "row": 1,
+          "col": 1
+        },
+        {
+          "index": 6,
+          "brand_id": "cn_d0af4042",
+          "brand_name": "福临门",
+          "row": 1,
+          "col": 2
+        },
+        {
+          "index": 7,
+          "brand_id": "cn_9e61d319",
+          "brand_name": "鲁花",
+          "row": 1,
+          "col": 3
+        },
+        {
+          "index": 8,
+          "brand_id": "cn_dc0210a8",
+          "brand_name": "海天味业",
+          "row": 2,
+          "col": 0
+        },
+        {
+          "index": 9,
+          "brand_id": "lee_kum_kee",
+          "brand_name": "李锦记 Lee Kum Kee",
+          "row": 2,
+          "col": 1
+        },
+        {
+          "index": 10,
+          "brand_id": "cn_037f4056",
+          "brand_name": "厨邦",
+          "row": 2,
+          "col": 2
+        },
+        {
+          "index": 11,
+          "brand_id": "cn_19224138",
+          "brand_name": "千禾味业",
+          "row": 2,
+          "col": 3
+        },
+        {
+          "index": 12,
+          "brand_id": "kikkoman",
+          "brand_name": "Kikkoman",
+          "row": 3,
+          "col": 0
+        },
+        {
+          "index": 13,
+          "brand_id": "ajinomoto",
+          "brand_name": "Ajinomoto",
+          "row": 3,
+          "col": 1
+        },
+        {
+          "index": 14,
+          "brand_id": "mizkan",
+          "brand_name": "Mizkan",
+          "row": 3,
+          "col": 2
+        },
+        {
+          "index": 15,
+          "brand_id": "tyson_foods",
+          "brand_name": "Tyson Foods",
+          "row": 3,
+          "col": 3
+        }
+      ]
+    },
+    {
+      "grid_id": "logo-grid-i19-004",
+      "industry": "农业 / 食品原料 / 种业",
+      "current_grid_image": "generated/logo-test/grid/logo-grid-i19-004.png",
+      "prompt_file": "generated/logo-test/prompt/logo-grid-i19-004-prompt.txt",
+      "prompt_exists": true,
+      "ingest_command": "node scripts/logo-grid-batch.js ingest logo-grid-i19-004 --source <new_png> --industry \"农业 / 食品原料 / 种业\"",
+      "item_count": 16,
+      "items": [
+        {
+          "index": 0,
+          "brand_id": "jbs",
+          "brand_name": "JBS",
+          "row": 0,
+          "col": 0
+        },
+        {
+          "index": 1,
+          "brand_id": "smithfield_foods",
+          "brand_name": "Smithfield Foods",
+          "row": 0,
+          "col": 1
+        },
+        {
+          "index": 2,
+          "brand_id": "wh_group",
+          "brand_name": "WH Group 万洲国际",
+          "row": 0,
+          "col": 2
+        },
+        {
+          "index": 3,
+          "brand_id": "shuanghui",
+          "brand_name": "双汇 Shuanghui",
+          "row": 0,
+          "col": 3
+        },
+        {
+          "index": 4,
+          "brand_id": "hormel_foods",
+          "brand_name": "Hormel Foods",
+          "row": 1,
+          "col": 0
+        },
+        {
+          "index": 5,
+          "brand_id": "cp_foods",
+          "brand_name": "CP Foods 正大食品",
+          "row": 1,
+          "col": 1
+        },
+        {
+          "index": 6,
+          "brand_id": "new_hope",
+          "brand_name": "New Hope 新希望",
+          "row": 1,
+          "col": 2
+        },
+        {
+          "index": 7,
+          "brand_id": "wens",
+          "brand_name": "Wens 温氏",
+          "row": 1,
+          "col": 3
+        },
+        {
+          "index": 8,
+          "brand_id": "muyuan",
+          "brand_name": "Muyuan 牧原",
+          "row": 2,
+          "col": 0
+        },
+        {
+          "index": 9,
+          "brand_id": "maruha_nichiro",
+          "brand_name": "Maruha Nichiro",
+          "row": 2,
+          "col": 1
+        },
+        {
+          "index": 10,
+          "brand_id": "nissui",
+          "brand_name": "Nissui",
+          "row": 2,
+          "col": 2
+        },
+        {
+          "index": 11,
+          "brand_id": "thai_union",
+          "brand_name": "Thai Union",
+          "row": 2,
+          "col": 3
+        },
+        {
+          "index": 12,
+          "brand_id": "mowi",
+          "brand_name": "Mowi",
+          "row": 3,
+          "col": 0
+        },
+        {
+          "index": 13,
+          "brand_id": "seafood_watch",
+          "brand_name": "Seafood Watch",
+          "row": 3,
+          "col": 1
+        },
+        {
+          "index": 14,
+          "brand_id": "yili_19",
+          "brand_name": "伊利 Yili",
+          "row": 3,
+          "col": 2
+        },
+        {
+          "index": 15,
+          "brand_id": "mengniu_19",
+          "brand_name": "蒙牛 Mengniu",
+          "row": 3,
+          "col": 3
+        }
+      ]
+    },
+    {
+      "grid_id": "logo-grid-i19-005",
+      "industry": "农业 / 食品原料 / 种业",
+      "current_grid_image": "generated/logo-test/grid/logo-grid-i19-005.png",
+      "prompt_file": "generated/logo-test/prompt/logo-grid-i19-005-prompt.txt",
+      "prompt_exists": true,
+      "ingest_command": "node scripts/logo-grid-batch.js ingest logo-grid-i19-005 --source <new_png> --industry \"农业 / 食品原料 / 种业\"",
+      "item_count": 16,
+      "items": [
+        {
+          "index": 0,
+          "brand_id": "danone_19",
+          "brand_name": "Danone",
+          "row": 0,
+          "col": 0
+        },
+        {
+          "index": 1,
+          "brand_id": "fonterra",
+          "brand_name": "Fonterra",
+          "row": 0,
+          "col": 1
+        },
+        {
+          "index": 2,
+          "brand_id": "arla_foods",
+          "brand_name": "Arla Foods",
+          "row": 0,
+          "col": 2
+        },
+        {
+          "index": 3,
+          "brand_id": "frieslandcampina",
+          "brand_name": "FrieslandCampina",
+          "row": 0,
+          "col": 3
+        },
+        {
+          "index": 4,
+          "brand_id": "lactalis",
+          "brand_name": "Lactalis",
+          "row": 1,
+          "col": 0
+        },
+        {
+          "index": 5,
+          "brand_id": "saputo",
+          "brand_name": "Saputo",
+          "row": 1,
+          "col": 1
+        },
+        {
+          "index": 6,
+          "brand_id": "meiji_dairy",
+          "brand_name": "Meiji Dairy",
+          "row": 1,
+          "col": 2
+        },
+        {
+          "index": 7,
+          "brand_id": "morinaga_milk",
+          "brand_name": "Morinaga Milk",
+          "row": 1,
+          "col": 3
+        },
+        {
+          "index": 8,
+          "brand_id": "bright_dairy_19",
+          "brand_name": "Bright Dairy 光明乳业",
+          "row": 2,
+          "col": 0
+        },
+        {
+          "index": 9,
+          "brand_id": "cn_25e53381_19",
+          "brand_name": "君乐宝",
+          "row": 2,
+          "col": 1
+        },
+        {
+          "index": 10,
+          "brand_id": "feihe",
+          "brand_name": "飞鹤 Feihe",
+          "row": 2,
+          "col": 2
+        },
+        {
+          "index": 11,
+          "brand_id": "cn_239e9bf8",
+          "brand_name": "现代牧业",
+          "row": 2,
+          "col": 3
+        },
+        {
+          "index": 12,
+          "brand_id": "cn_4f21382a",
+          "brand_name": "圣牧",
+          "row": 3,
+          "col": 0
+        },
+        {
+          "index": 13,
+          "brand_id": "dole",
+          "brand_name": "Dole",
+          "row": 3,
+          "col": 1
+        },
+        {
+          "index": 14,
+          "brand_id": "chiquita",
+          "brand_name": "Chiquita",
+          "row": 3,
+          "col": 2
+        },
+        {
+          "index": 15,
+          "brand_id": "sunkist",
+          "brand_name": "Sunkist",
+          "row": 3,
+          "col": 3
+        }
+      ]
+    },
+    {
+      "grid_id": "logo-grid-i19-006",
+      "industry": "农业 / 食品原料 / 种业",
+      "current_grid_image": "generated/logo-test/grid/logo-grid-i19-006.png",
+      "prompt_file": "generated/logo-test/prompt/logo-grid-i19-006-prompt.txt",
+      "prompt_exists": true,
+      "ingest_command": "node scripts/logo-grid-batch.js ingest logo-grid-i19-006 --source <new_png> --industry \"农业 / 食品原料 / 种业\"",
+      "item_count": 16,
+      "items": [
+        {
+          "index": 0,
+          "brand_id": "zespri",
+          "brand_name": "Zespri",
+          "row": 0,
+          "col": 0
+        },
+        {
+          "index": 1,
+          "brand_id": "driscolls",
+          "brand_name": "Driscoll's",
+          "row": 0,
+          "col": 1
+        },
+        {
+          "index": 2,
+          "brand_id": "del_monte",
+          "brand_name": "Del Monte",
+          "row": 0,
+          "col": 2
+        },
+        {
+          "index": 3,
+          "brand_id": "goodfarmer",
+          "brand_name": "佳农 Goodfarmer",
+          "row": 0,
+          "col": 3
+        },
+        {
+          "index": 4,
+          "brand_id": "pagoda",
+          "brand_name": "百果园 Pagoda",
+          "row": 1,
+          "col": 0
+        },
+        {
+          "index": 5,
+          "brand_id": "cn_8cafc914",
+          "brand_name": "鲜丰水果",
+          "row": 1,
+          "col": 1
+        },
+        {
+          "index": 6,
+          "brand_id": "dole_19",
+          "brand_name": "都乐 Dole 中国",
+          "row": 1,
+          "col": 2
+        },
+        {
+          "index": 7,
+          "brand_id": "zespri_19",
+          "brand_name": "佳沛 Zespri",
+          "row": 1,
+          "col": 3
+        },
+        {
+          "index": 8,
+          "brand_id": "cn_d0f3c912",
+          "brand_name": "京觅",
+          "row": 2,
+          "col": 0
+        },
+        {
+          "index": 9,
+          "brand_id": "cn_1826aab6",
+          "brand_name": "盒马日日鲜",
+          "row": 2,
+          "col": 1
+        },
+        {
+          "index": 10,
+          "brand_id": "sambazon",
+          "brand_name": "Sambazon",
+          "row": 2,
+          "col": 2
+        },
+        {
+          "index": 11,
+          "brand_id": "ocean_spray",
+          "brand_name": "Ocean Spray",
+          "row": 2,
+          "col": 3
+        },
+        {
+          "index": 12,
+          "brand_id": "nutrien",
+          "brand_name": "Nutrien",
+          "row": 3,
+          "col": 0
+        },
+        {
+          "index": 13,
+          "brand_id": "yara",
+          "brand_name": "Yara",
+          "row": 3,
+          "col": 1
+        },
+        {
+          "index": 14,
+          "brand_id": "icl_group",
+          "brand_name": "ICL Group",
+          "row": 3,
+          "col": 2
+        },
+        {
+          "index": 15,
+          "brand_id": "the_mosaic_company",
+          "brand_name": "The Mosaic Company",
+          "row": 3,
+          "col": 3
+        }
+      ]
+    },
+    {
+      "grid_id": "logo-grid-i19-007",
+      "industry": "农业 / 食品原料 / 种业",
+      "current_grid_image": "generated/logo-test/grid/logo-grid-i19-007.png",
+      "prompt_file": "generated/logo-test/prompt/logo-grid-i19-007-prompt.txt",
+      "prompt_exists": true,
+      "ingest_command": "node scripts/logo-grid-batch.js ingest logo-grid-i19-007 --source <new_png> --industry \"农业 / 食品原料 / 种业\"",
+      "item_count": 16,
+      "items": [
+        {
+          "index": 0,
+          "brand_id": "cf_industries",
+          "brand_name": "CF Industries",
+          "row": 0,
+          "col": 0
+        },
+        {
+          "index": 1,
+          "brand_id": "k_plus_s",
+          "brand_name": "K+S",
+          "row": 0,
+          "col": 1
+        },
+        {
+          "index": 2,
+          "brand_id": "fmc_corporation",
+          "brand_name": "FMC Corporation",
+          "row": 0,
+          "col": 2
+        },
+        {
+          "index": 3,
+          "brand_id": "upl",
+          "brand_name": "UPL",
+          "row": 0,
+          "col": 3
+        },
+        {
+          "index": 4,
+          "brand_id": "adama",
+          "brand_name": "ADAMA",
+          "row": 1,
+          "col": 0
+        },
+        {
+          "index": 5,
+          "brand_id": "nufarm",
+          "brand_name": "Nufarm",
+          "row": 1,
+          "col": 1
+        },
+        {
+          "index": 6,
+          "brand_id": "cn_45ca53ac",
+          "brand_name": "新洋丰",
+          "row": 1,
+          "col": 2
+        },
+        {
+          "index": 7,
+          "brand_id": "cn_a67e8325",
+          "brand_name": "云天化",
+          "row": 1,
+          "col": 3
+        },
+        {
+          "index": 8,
+          "brand_id": "stanley_agriculture",
+          "brand_name": "史丹利 Stanley Agriculture",
+          "row": 2,
+          "col": 0
+        },
+        {
+          "index": 9,
+          "brand_id": "kingenta",
+          "brand_name": "金正大 Kingenta",
+          "row": 2,
+          "col": 1
+        },
+        {
+          "index": 10,
+          "brand_id": "cn_347b2503",
+          "brand_name": "鲁西化工",
+          "row": 2,
+          "col": 2
+        },
+        {
+          "index": 11,
+          "brand_id": "whole_foods_market",
+          "brand_name": "Whole Foods Market",
+          "row": 2,
+          "col": 3
+        },
+        {
+          "index": 12,
+          "brand_id": "trader_joes",
+          "brand_name": "Trader Joe's",
+          "row": 3,
+          "col": 0
+        },
+        {
+          "index": 13,
+          "brand_id": "beyond_meat",
+          "brand_name": "Beyond Meat",
+          "row": 3,
+          "col": 1
+        },
+        {
+          "index": 14,
+          "brand_id": "impossible_foods",
+          "brand_name": "Impossible Foods",
+          "row": 3,
+          "col": 2
+        },
+        {
+          "index": 15,
+          "brand_id": "oatly",
+          "brand_name": "Oatly",
+          "row": 3,
+          "col": 3
+        }
+      ]
+    },
+    {
+      "grid_id": "logo-grid-i19-008",
+      "industry": "农业 / 食品原料 / 种业",
+      "current_grid_image": "generated/logo-test/grid/logo-grid-i19-008.png",
+      "prompt_file": "generated/logo-test/prompt/logo-grid-i19-008-prompt.txt",
+      "prompt_exists": true,
+      "ingest_command": "node scripts/logo-grid-batch.js ingest logo-grid-i19-008 --source <new_png> --industry \"农业 / 食品原料 / 种业\"",
+      "item_count": 10,
+      "items": [
+        {
+          "index": 0,
+          "brand_id": "alpro",
+          "brand_name": "Alpro",
+          "row": 0,
+          "col": 0
+        },
+        {
+          "index": 1,
+          "brand_id": "silk",
+          "brand_name": "Silk",
+          "row": 0,
+          "col": 1
+        },
+        {
+          "index": 2,
+          "brand_id": "natures_path",
+          "brand_name": "Nature's Path",
+          "row": 0,
+          "col": 2
+        },
+        {
+          "index": 3,
+          "brand_id": "organic_valley",
+          "brand_name": "Organic Valley",
+          "row": 0,
+          "col": 3
+        },
+        {
+          "index": 4,
+          "brand_id": "horizon_organic",
+          "brand_name": "Horizon Organic",
+          "row": 1,
+          "col": 0
+        },
+        {
+          "index": 5,
+          "brand_id": "whitewave",
+          "brand_name": "WhiteWave",
+          "row": 1,
+          "col": 1
+        },
+        {
+          "index": 6,
+          "brand_id": "green_monday",
+          "brand_name": "Green Monday",
+          "row": 1,
+          "col": 2
+        },
+        {
+          "index": 7,
+          "brand_id": "omnifoods",
+          "brand_name": "OmniFoods",
+          "row": 1,
+          "col": 3
+        },
+        {
+          "index": 8,
+          "brand_id": "starfield",
+          "brand_name": "星期零 Starfield",
+          "row": 2,
+          "col": 0
+        },
+        {
+          "index": 9,
+          "brand_id": "cn_cf076fbe",
+          "brand_name": "植物标签",
+          "row": 2,
+          "col": 1
+        }
+      ]
+    },
+    {
+      "grid_id": "logo-grid-i20-001",
+      "industry": "体育 / 赛事 / 俱乐部",
+      "current_grid_image": "generated/logo-test/grid/logo-grid-i20-001.png",
+      "prompt_file": "generated/logo-test/prompt/logo-grid-i20-001-prompt.txt",
+      "prompt_exists": true,
+      "ingest_command": "node scripts/logo-grid-batch.js ingest logo-grid-i20-001 --source <new_png> --industry \"体育 / 赛事 / 俱乐部\"",
+      "item_count": 16,
+      "items": [
+        {
+          "index": 0,
+          "brand_id": "fifa",
+          "brand_name": "FIFA",
+          "row": 0,
+          "col": 0
+        },
+        {
+          "index": 1,
+          "brand_id": "uefa",
+          "brand_name": "UEFA",
+          "row": 0,
+          "col": 1
+        },
+        {
+          "index": 2,
+          "brand_id": "nba",
+          "brand_name": "NBA",
+          "row": 0,
+          "col": 2
+        },
+        {
+          "index": 3,
+          "brand_id": "nfl",
+          "brand_name": "NFL",
+          "row": 0,
+          "col": 3
+        },
+        {
+          "index": 4,
+          "brand_id": "mlb",
+          "brand_name": "MLB",
+          "row": 1,
+          "col": 0
+        },
+        {
+          "index": 5,
+          "brand_id": "nhl",
+          "brand_name": "NHL",
+          "row": 1,
+          "col": 1
+        },
+        {
+          "index": 6,
+          "brand_id": "formula_1",
+          "brand_name": "Formula 1",
+          "row": 1,
+          "col": 2
+        },
+        {
+          "index": 7,
+          "brand_id": "motogp",
+          "brand_name": "MotoGP",
+          "row": 1,
+          "col": 3
+        },
+        {
+          "index": 8,
+          "brand_id": "ufc",
+          "brand_name": "UFC",
+          "row": 2,
+          "col": 0
+        },
+        {
+          "index": 9,
+          "brand_id": "wwe",
+          "brand_name": "WWE",
+          "row": 2,
+          "col": 1
+        },
+        {
+          "index": 10,
+          "brand_id": "olympics",
+          "brand_name": "Olympics",
+          "row": 2,
+          "col": 2
+        },
+        {
+          "index": 11,
+          "brand_id": "asian_games",
+          "brand_name": "Asian Games",
+          "row": 2,
+          "col": 3
+        },
+        {
+          "index": 12,
+          "brand_id": "world_athletics",
+          "brand_name": "World Athletics",
+          "row": 3,
+          "col": 0
+        },
+        {
+          "index": 13,
+          "brand_id": "atp_tour",
+          "brand_name": "ATP Tour",
+          "row": 3,
+          "col": 1
+        },
+        {
+          "index": 14,
+          "brand_id": "wta",
+          "brand_name": "WTA",
+          "row": 3,
+          "col": 2
+        },
+        {
+          "index": 15,
+          "brand_id": "pga_tour",
+          "brand_name": "PGA Tour",
+          "row": 3,
+          "col": 3
+        }
+      ]
+    },
+    {
+      "grid_id": "logo-grid-i20-002",
+      "industry": "体育 / 赛事 / 俱乐部",
+      "current_grid_image": "generated/logo-test/grid/logo-grid-i20-002.png",
+      "prompt_file": "generated/logo-test/prompt/logo-grid-i20-002-prompt.txt",
+      "prompt_exists": true,
+      "ingest_command": "node scripts/logo-grid-batch.js ingest logo-grid-i20-002 --source <new_png> --industry \"体育 / 赛事 / 俱乐部\"",
+      "item_count": 16,
+      "items": [
+        {
+          "index": 0,
+          "brand_id": "liv_golf",
+          "brand_name": "LIV Golf",
+          "row": 0,
+          "col": 0
+        },
+        {
+          "index": 1,
+          "brand_id": "tour_de_france",
+          "brand_name": "Tour de France",
+          "row": 0,
+          "col": 1
+        },
+        {
+          "index": 2,
+          "brand_id": "the_open",
+          "brand_name": "The Open",
+          "row": 0,
+          "col": 2
+        },
+        {
+          "index": 3,
+          "brand_id": "real_madrid",
+          "brand_name": "Real Madrid",
+          "row": 0,
+          "col": 3
+        },
+        {
+          "index": 4,
+          "brand_id": "fc_barcelona",
+          "brand_name": "FC Barcelona",
+          "row": 1,
+          "col": 0
+        },
+        {
+          "index": 5,
+          "brand_id": "manchester_united",
+          "brand_name": "Manchester United",
+          "row": 1,
+          "col": 1
+        },
+        {
+          "index": 6,
+          "brand_id": "liverpool_fc",
+          "brand_name": "Liverpool FC",
+          "row": 1,
+          "col": 2
+        },
+        {
+          "index": 7,
+          "brand_id": "manchester_city",
+          "brand_name": "Manchester City",
+          "row": 1,
+          "col": 3
+        },
+        {
+          "index": 8,
+          "brand_id": "chelsea_fc",
+          "brand_name": "Chelsea FC",
+          "row": 2,
+          "col": 0
+        },
+        {
+          "index": 9,
+          "brand_id": "arsenal_fc",
+          "brand_name": "Arsenal FC",
+          "row": 2,
+          "col": 1
+        },
+        {
+          "index": 10,
+          "brand_id": "tottenham_hotspur",
+          "brand_name": "Tottenham Hotspur",
+          "row": 2,
+          "col": 2
+        },
+        {
+          "index": 11,
+          "brand_id": "bayern_munich",
+          "brand_name": "Bayern Munich",
+          "row": 2,
+          "col": 3
+        },
+        {
+          "index": 12,
+          "brand_id": "borussia_dortmund",
+          "brand_name": "Borussia Dortmund",
+          "row": 3,
+          "col": 0
+        },
+        {
+          "index": 13,
+          "brand_id": "paris_saint_germain_psg",
+          "brand_name": "Paris Saint-Germain PSG",
+          "row": 3,
+          "col": 1
+        },
+        {
+          "index": 14,
+          "brand_id": "juventus",
+          "brand_name": "Juventus",
+          "row": 3,
+          "col": 2
+        },
+        {
+          "index": 15,
+          "brand_id": "ac_milan",
+          "brand_name": "AC Milan",
+          "row": 3,
+          "col": 3
+        }
+      ]
+    },
+    {
+      "grid_id": "logo-grid-i20-003",
+      "industry": "体育 / 赛事 / 俱乐部",
+      "current_grid_image": "generated/logo-test/grid/logo-grid-i20-003.png",
+      "prompt_file": "generated/logo-test/prompt/logo-grid-i20-003-prompt.txt",
+      "prompt_exists": true,
+      "ingest_command": "node scripts/logo-grid-batch.js ingest logo-grid-i20-003 --source <new_png> --industry \"体育 / 赛事 / 俱乐部\"",
+      "item_count": 16,
+      "items": [
+        {
+          "index": 0,
+          "brand_id": "inter_milan",
+          "brand_name": "Inter Milan",
+          "row": 0,
+          "col": 0
+        },
+        {
+          "index": 1,
+          "brand_id": "as_roma",
+          "brand_name": "AS Roma",
+          "row": 0,
+          "col": 1
+        },
+        {
+          "index": 2,
+          "brand_id": "atletico_madrid",
+          "brand_name": "Atletico Madrid",
+          "row": 0,
+          "col": 2
+        },
+        {
+          "index": 3,
+          "brand_id": "ajax",
+          "brand_name": "Ajax",
+          "row": 0,
+          "col": 3
+        },
+        {
+          "index": 4,
+          "brand_id": "benfica",
+          "brand_name": "Benfica",
+          "row": 1,
+          "col": 0
+        },
+        {
+          "index": 5,
+          "brand_id": "celtic_fc",
+          "brand_name": "Celtic FC",
+          "row": 1,
+          "col": 1
+        },
+        {
+          "index": 6,
+          "brand_id": "al_nassr",
+          "brand_name": "Al Nassr",
+          "row": 1,
+          "col": 2
+        },
+        {
+          "index": 7,
+          "brand_id": "shanghai_port",
+          "brand_name": "Shanghai Port 上海海港",
+          "row": 1,
+          "col": 3
+        },
+        {
+          "index": 8,
+          "brand_id": "beijing_guoan",
+          "brand_name": "Beijing Guoan 北京国安",
+          "row": 2,
+          "col": 0
+        },
+        {
+          "index": 9,
+          "brand_id": "urawa_red_diamonds",
+          "brand_name": "Urawa Red Diamonds",
+          "row": 2,
+          "col": 1
+        },
+        {
+          "index": 10,
+          "brand_id": "kashima_antlers",
+          "brand_name": "Kashima Antlers",
+          "row": 2,
+          "col": 2
+        },
+        {
+          "index": 11,
+          "brand_id": "los_angeles_lakers",
+          "brand_name": "Los Angeles Lakers",
+          "row": 2,
+          "col": 3
+        },
+        {
+          "index": 12,
+          "brand_id": "golden_state_warriors",
+          "brand_name": "Golden State Warriors",
+          "row": 3,
+          "col": 0
+        },
+        {
+          "index": 13,
+          "brand_id": "chicago_bulls",
+          "brand_name": "Chicago Bulls",
+          "row": 3,
+          "col": 1
+        },
+        {
+          "index": 14,
+          "brand_id": "boston_celtics",
+          "brand_name": "Boston Celtics",
+          "row": 3,
+          "col": 2
+        },
+        {
+          "index": 15,
+          "brand_id": "new_york_knicks",
+          "brand_name": "New York Knicks",
+          "row": 3,
+          "col": 3
+        }
+      ]
+    },
+    {
+      "grid_id": "logo-grid-i20-004",
+      "industry": "体育 / 赛事 / 俱乐部",
+      "current_grid_image": "generated/logo-test/grid/logo-grid-i20-004.png",
+      "prompt_file": "generated/logo-test/prompt/logo-grid-i20-004-prompt.txt",
+      "prompt_exists": true,
+      "ingest_command": "node scripts/logo-grid-batch.js ingest logo-grid-i20-004 --source <new_png> --industry \"体育 / 赛事 / 俱乐部\"",
+      "item_count": 16,
+      "items": [
+        {
+          "index": 0,
+          "brand_id": "brooklyn_nets",
+          "brand_name": "Brooklyn Nets",
+          "row": 0,
+          "col": 0
+        },
+        {
+          "index": 1,
+          "brand_id": "miami_heat",
+          "brand_name": "Miami Heat",
+          "row": 0,
+          "col": 1
+        },
+        {
+          "index": 2,
+          "brand_id": "dallas_mavericks",
+          "brand_name": "Dallas Mavericks",
+          "row": 0,
+          "col": 2
+        },
+        {
+          "index": 3,
+          "brand_id": "houston_rockets",
+          "brand_name": "Houston Rockets",
+          "row": 0,
+          "col": 3
+        },
+        {
+          "index": 4,
+          "brand_id": "phoenix_suns",
+          "brand_name": "Phoenix Suns",
+          "row": 1,
+          "col": 0
+        },
+        {
+          "index": 5,
+          "brand_id": "milwaukee_bucks",
+          "brand_name": "Milwaukee Bucks",
+          "row": 1,
+          "col": 1
+        },
+        {
+          "index": 6,
+          "brand_id": "toronto_raptors",
+          "brand_name": "Toronto Raptors",
+          "row": 1,
+          "col": 2
+        },
+        {
+          "index": 7,
+          "brand_id": "san_antonio_spurs",
+          "brand_name": "San Antonio Spurs",
+          "row": 1,
+          "col": 3
+        },
+        {
+          "index": 8,
+          "brand_id": "philadelphia_76ers",
+          "brand_name": "Philadelphia 76ers",
+          "row": 2,
+          "col": 0
+        },
+        {
+          "index": 9,
+          "brand_id": "denver_nuggets",
+          "brand_name": "Denver Nuggets",
+          "row": 2,
+          "col": 1
+        },
+        {
+          "index": 10,
+          "brand_id": "beijing_ducks",
+          "brand_name": "Beijing Ducks 北京首钢",
+          "row": 2,
+          "col": 2
+        },
+        {
+          "index": 11,
+          "brand_id": "guangdong_southern_tigers",
+          "brand_name": "Guangdong Southern Tigers",
+          "row": 2,
+          "col": 3
+        },
+        {
+          "index": 12,
+          "brand_id": "liaoning_flying_leopards",
+          "brand_name": "Liaoning Flying Leopards",
+          "row": 3,
+          "col": 0
+        },
+        {
+          "index": 13,
+          "brand_id": "alvark_tokyo",
+          "brand_name": "Alvark Tokyo",
+          "row": 3,
+          "col": 1
+        },
+        {
+          "index": 14,
+          "brand_id": "chiba_jets",
+          "brand_name": "Chiba Jets",
+          "row": 3,
+          "col": 2
+        },
+        {
+          "index": 15,
+          "brand_id": "t1",
+          "brand_name": "T1",
+          "row": 3,
+          "col": 3
+        }
+      ]
+    },
+    {
+      "grid_id": "logo-grid-i20-005",
+      "industry": "体育 / 赛事 / 俱乐部",
+      "current_grid_image": "generated/logo-test/grid/logo-grid-i20-005.png",
+      "prompt_file": "generated/logo-test/prompt/logo-grid-i20-005-prompt.txt",
+      "prompt_exists": true,
+      "ingest_command": "node scripts/logo-grid-batch.js ingest logo-grid-i20-005 --source <new_png> --industry \"体育 / 赛事 / 俱乐部\"",
+      "item_count": 16,
+      "items": [
+        {
+          "index": 0,
+          "brand_id": "gen_g",
+          "brand_name": "Gen.G",
+          "row": 0,
+          "col": 0
+        },
+        {
+          "index": 1,
+          "brand_id": "g2_esports",
+          "brand_name": "G2 Esports",
+          "row": 0,
+          "col": 1
+        },
+        {
+          "index": 2,
+          "brand_id": "fnatic",
+          "brand_name": "Fnatic",
+          "row": 0,
+          "col": 2
+        },
+        {
+          "index": 3,
+          "brand_id": "team_liquid",
+          "brand_name": "Team Liquid",
+          "row": 0,
+          "col": 3
+        },
+        {
+          "index": 4,
+          "brand_id": "cloud9",
+          "brand_name": "Cloud9",
+          "row": 1,
+          "col": 0
+        },
+        {
+          "index": 5,
+          "brand_id": "faze_clan",
+          "brand_name": "FaZe Clan",
+          "row": 1,
+          "col": 1
+        },
+        {
+          "index": 6,
+          "brand_id": "natus_vincere_navi",
+          "brand_name": "Natus Vincere NAVI",
+          "row": 1,
+          "col": 2
+        },
+        {
+          "index": 7,
+          "brand_id": "edward_gaming_edg",
+          "brand_name": "EDward Gaming EDG",
+          "row": 1,
+          "col": 3
+        },
+        {
+          "index": 8,
+          "brand_id": "bilibili_gaming_blg",
+          "brand_name": "Bilibili Gaming BLG",
+          "row": 2,
+          "col": 0
+        },
+        {
+          "index": 9,
+          "brand_id": "royal_never_give_up_rng",
+          "brand_name": "Royal Never Give Up RNG",
+          "row": 2,
+          "col": 1
+        },
+        {
+          "index": 10,
+          "brand_id": "top_esports_tes",
+          "brand_name": "Top Esports TES",
+          "row": 2,
+          "col": 2
+        },
+        {
+          "index": 11,
+          "brand_id": "jd_gaming_jdg",
+          "brand_name": "JD Gaming JDG",
+          "row": 2,
+          "col": 3
+        },
+        {
+          "index": 12,
+          "brand_id": "weibo_gaming_wbg",
+          "brand_name": "Weibo Gaming WBG",
+          "row": 3,
+          "col": 0
+        },
+        {
+          "index": 13,
+          "brand_id": "invictus_gaming_ig",
+          "brand_name": "Invictus Gaming IG",
+          "row": 3,
+          "col": 1
+        },
+        {
+          "index": 14,
+          "brand_id": "team_vitality",
+          "brand_name": "Team Vitality",
+          "row": 3,
+          "col": 2
+        },
+        {
+          "index": 15,
+          "brand_id": "sentinels",
+          "brand_name": "Sentinels",
+          "row": 3,
+          "col": 3
+        }
+      ]
+    },
+    {
+      "grid_id": "logo-grid-i20-006",
+      "industry": "体育 / 赛事 / 俱乐部",
+      "current_grid_image": "generated/logo-test/grid/logo-grid-i20-006.png",
+      "prompt_file": "generated/logo-test/prompt/logo-grid-i20-006-prompt.txt",
+      "prompt_exists": true,
+      "ingest_command": "node scripts/logo-grid-batch.js ingest logo-grid-i20-006 --source <new_png> --industry \"体育 / 赛事 / 俱乐部\"",
+      "item_count": 16,
+      "items": [
+        {
+          "index": 0,
+          "brand_id": "100_thieves",
+          "brand_name": "100 Thieves",
+          "row": 0,
+          "col": 0
+        },
+        {
+          "index": 1,
+          "brand_id": "drx",
+          "brand_name": "DRX",
+          "row": 0,
+          "col": 1
+        },
+        {
+          "index": 2,
+          "brand_id": "zeta_division",
+          "brand_name": "ZETA DIVISION",
+          "row": 0,
+          "col": 2
+        },
+        {
+          "index": 3,
+          "brand_id": "decathlon_20",
+          "brand_name": "Decathlon",
+          "row": 0,
+          "col": 3
+        },
+        {
+          "index": 4,
+          "brand_id": "foot_locker",
+          "brand_name": "Foot Locker",
+          "row": 1,
+          "col": 0
+        },
+        {
+          "index": 5,
+          "brand_id": "jd_sports",
+          "brand_name": "JD Sports",
+          "row": 1,
+          "col": 1
+        },
+        {
+          "index": 6,
+          "brand_id": "sports_direct",
+          "brand_name": "Sports Direct",
+          "row": 1,
+          "col": 2
+        },
+        {
+          "index": 7,
+          "brand_id": "dicks_sporting_goods",
+          "brand_name": "Dick's Sporting Goods",
+          "row": 1,
+          "col": 3
+        },
+        {
+          "index": 8,
+          "brand_id": "academy_sports",
+          "brand_name": "Academy Sports",
+          "row": 2,
+          "col": 0
+        },
+        {
+          "index": 9,
+          "brand_id": "supermonkey",
+          "brand_name": "超级猩猩 Supermonkey",
+          "row": 2,
+          "col": 1
+        },
+        {
+          "index": 10,
+          "brand_id": "leke",
+          "brand_name": "乐刻运动 Leke",
+          "row": 2,
+          "col": 2
+        },
+        {
+          "index": 11,
+          "brand_id": "anytime_fitness",
+          "brand_name": "Anytime Fitness",
+          "row": 2,
+          "col": 3
+        },
+        {
+          "index": 12,
+          "brand_id": "planet_fitness",
+          "brand_name": "Planet Fitness",
+          "row": 3,
+          "col": 0
+        },
+        {
+          "index": 13,
+          "brand_id": "golds_gym",
+          "brand_name": "Gold's Gym",
+          "row": 3,
+          "col": 1
+        },
+        {
+          "index": 14,
+          "brand_id": "puregym",
+          "brand_name": "PureGym",
+          "row": 3,
+          "col": 2
+        },
+        {
+          "index": 15,
+          "brand_id": "equinox",
+          "brand_name": "Equinox",
+          "row": 3,
+          "col": 3
+        }
+      ]
+    },
+    {
+      "grid_id": "logo-grid-i20-007",
+      "industry": "体育 / 赛事 / 俱乐部",
+      "current_grid_image": "generated/logo-test/grid/logo-grid-i20-007.png",
+      "prompt_file": "generated/logo-test/prompt/logo-grid-i20-007-prompt.txt",
+      "prompt_exists": true,
+      "ingest_command": "node scripts/logo-grid-batch.js ingest logo-grid-i20-007 --source <new_png> --industry \"体育 / 赛事 / 俱乐部\"",
+      "item_count": 16,
+      "items": [
+        {
+          "index": 0,
+          "brand_id": "f45_training",
+          "brand_name": "F45 Training",
+          "row": 0,
+          "col": 0
+        },
+        {
+          "index": 1,
+          "brand_id": "orangetheory_fitness",
+          "brand_name": "OrangeTheory Fitness",
+          "row": 0,
+          "col": 1
+        },
+        {
+          "index": 2,
+          "brand_id": "soulcycle",
+          "brand_name": "SoulCycle",
+          "row": 0,
+          "col": 2
+        },
+        {
+          "index": 3,
+          "brand_id": "keep_fitness",
+          "brand_name": "Keep Fitness",
+          "row": 0,
+          "col": 3
+        },
+        {
+          "index": 4,
+          "brand_id": "red_bull_20",
+          "brand_name": "Red Bull",
+          "row": 1,
+          "col": 0
+        },
+        {
+          "index": 5,
+          "brand_id": "monster_energy_20",
+          "brand_name": "Monster Energy",
+          "row": 1,
+          "col": 1
+        },
+        {
+          "index": 6,
+          "brand_id": "gopro_20",
+          "brand_name": "GoPro",
+          "row": 1,
+          "col": 2
+        },
+        {
+          "index": 7,
+          "brand_id": "vans_20",
+          "brand_name": "Vans",
+          "row": 1,
+          "col": 3
+        },
+        {
+          "index": 8,
+          "brand_id": "dc_shoes",
+          "brand_name": "DC Shoes",
+          "row": 2,
+          "col": 0
+        },
+        {
+          "index": 9,
+          "brand_id": "quiksilver",
+          "brand_name": "Quiksilver",
+          "row": 2,
+          "col": 1
+        },
+        {
+          "index": 10,
+          "brand_id": "billabong",
+          "brand_name": "Billabong",
+          "row": 2,
+          "col": 2
+        },
+        {
+          "index": 11,
+          "brand_id": "rip_curl",
+          "brand_name": "Rip Curl",
+          "row": 2,
+          "col": 3
+        },
+        {
+          "index": 12,
+          "brand_id": "oakley_20",
+          "brand_name": "Oakley",
+          "row": 3,
+          "col": 0
+        },
+        {
+          "index": 13,
+          "brand_id": "burton",
+          "brand_name": "Burton",
+          "row": 3,
+          "col": 1
+        },
+        {
+          "index": 14,
+          "brand_id": "volcom",
+          "brand_name": "Volcom",
+          "row": 3,
+          "col": 2
+        },
+        {
+          "index": 15,
+          "brand_id": "element_skateboards",
+          "brand_name": "Element Skateboards",
+          "row": 3,
+          "col": 3
+        }
+      ]
+    },
+    {
+      "grid_id": "logo-grid-i20-008",
+      "industry": "体育 / 赛事 / 俱乐部",
+      "current_grid_image": "generated/logo-test/grid/logo-grid-i20-008.png",
+      "prompt_file": "generated/logo-test/prompt/logo-grid-i20-008-prompt.txt",
+      "prompt_exists": true,
+      "ingest_command": "node scripts/logo-grid-batch.js ingest logo-grid-i20-008 --source <new_png> --industry \"体育 / 赛事 / 俱乐部\"",
+      "item_count": 16,
+      "items": [
+        {
+          "index": 0,
+          "brand_id": "santa_cruz_skateboards",
+          "brand_name": "Santa Cruz Skateboards",
+          "row": 0,
+          "col": 0
+        },
+        {
+          "index": 1,
+          "brand_id": "thrasher",
+          "brand_name": "Thrasher",
+          "row": 0,
+          "col": 1
+        },
+        {
+          "index": 2,
+          "brand_id": "supreme_skate",
+          "brand_name": "Supreme Skate",
+          "row": 0,
+          "col": 2
+        },
+        {
+          "index": 3,
+          "brand_id": "wilson",
+          "brand_name": "Wilson",
+          "row": 0,
+          "col": 3
+        },
+        {
+          "index": 4,
+          "brand_id": "head",
+          "brand_name": "Head",
+          "row": 1,
+          "col": 0
+        },
+        {
+          "index": 5,
+          "brand_id": "babolat",
+          "brand_name": "Babolat",
+          "row": 1,
+          "col": 1
+        },
+        {
+          "index": 6,
+          "brand_id": "yonex",
+          "brand_name": "Yonex",
+          "row": 1,
+          "col": 2
+        },
+        {
+          "index": 7,
+          "brand_id": "prince",
+          "brand_name": "Prince",
+          "row": 1,
+          "col": 3
+        },
+        {
+          "index": 8,
+          "brand_id": "dunlop_sports",
+          "brand_name": "Dunlop Sports",
+          "row": 2,
+          "col": 0
+        },
+        {
+          "index": 9,
+          "brand_id": "titleist",
+          "brand_name": "Titleist",
+          "row": 2,
+          "col": 1
+        },
+        {
+          "index": 10,
+          "brand_id": "callaway",
+          "brand_name": "Callaway",
+          "row": 2,
+          "col": 2
+        },
+        {
+          "index": 11,
+          "brand_id": "taylormade",
+          "brand_name": "TaylorMade",
+          "row": 2,
+          "col": 3
+        },
+        {
+          "index": 12,
+          "brand_id": "ping",
+          "brand_name": "Ping",
+          "row": 3,
+          "col": 0
+        },
+        {
+          "index": 13,
+          "brand_id": "mizuno_golf",
+          "brand_name": "Mizuno Golf",
+          "row": 3,
+          "col": 1
+        },
+        {
+          "index": 14,
+          "brand_id": "srixon",
+          "brand_name": "Srixon",
+          "row": 3,
+          "col": 2
+        },
+        {
+          "index": 15,
+          "brand_id": "xxio",
+          "brand_name": "XXIO",
+          "row": 3,
+          "col": 3
+        }
+      ]
+    },
+    {
+      "grid_id": "logo-grid-i20-009",
+      "industry": "体育 / 赛事 / 俱乐部",
+      "current_grid_image": "generated/logo-test/grid/logo-grid-i20-009.png",
+      "prompt_file": "generated/logo-test/prompt/logo-grid-i20-009-prompt.txt",
+      "prompt_exists": true,
+      "ingest_command": "node scripts/logo-grid-batch.js ingest logo-grid-i20-009 --source <new_png> --industry \"体育 / 赛事 / 俱乐部\"",
+      "item_count": 2,
+      "items": [
+        {
+          "index": 0,
+          "brand_id": "bowflex",
+          "brand_name": "Bowflex",
+          "row": 0,
+          "col": 0
+        },
+        {
+          "index": 1,
+          "brand_id": "concept2",
+          "brand_name": "Concept2",
+          "row": 0,
+          "col": 1
+        }
+      ]
+    },
+    {
+      "grid_id": "logo-grid-i21-001",
+      "industry": "艺术 / 文化 / 设计机构",
+      "current_grid_image": "generated/logo-test/grid/logo-grid-i21-001.png",
+      "prompt_file": "generated/logo-test/prompt/logo-grid-i21-001-prompt.txt",
+      "prompt_exists": true,
+      "ingest_command": "node scripts/logo-grid-batch.js ingest logo-grid-i21-001 --source <new_png> --industry \"艺术 / 文化 / 设计机构\"",
+      "item_count": 16,
+      "items": [
+        {
+          "index": 0,
+          "brand_id": "moma",
+          "brand_name": "MoMA",
+          "row": 0,
+          "col": 0
+        },
+        {
+          "index": 1,
+          "brand_id": "tate",
+          "brand_name": "Tate",
+          "row": 0,
+          "col": 1
+        },
+        {
+          "index": 2,
+          "brand_id": "the_louvre",
+          "brand_name": "The Louvre",
+          "row": 0,
+          "col": 2
+        },
+        {
+          "index": 3,
+          "brand_id": "the_metropolitan_museum_of_art",
+          "brand_name": "The Metropolitan Museum of Art",
+          "row": 0,
+          "col": 3
+        },
+        {
+          "index": 4,
+          "brand_id": "guggenheim_museum",
+          "brand_name": "Guggenheim Museum",
+          "row": 1,
+          "col": 0
+        },
+        {
+          "index": 5,
+          "brand_id": "centre_pompidou",
+          "brand_name": "Centre Pompidou",
+          "row": 1,
+          "col": 1
+        },
+        {
+          "index": 6,
+          "brand_id": "british_museum",
+          "brand_name": "British Museum",
+          "row": 1,
+          "col": 2
+        },
+        {
+          "index": 7,
+          "brand_id": "victoria_and_albert_museum_v_and",
+          "brand_name": "Victoria and Albert Museum V&A",
+          "row": 1,
+          "col": 3
+        },
+        {
+          "index": 8,
+          "brand_id": "rijksmuseum",
+          "brand_name": "Rijksmuseum",
+          "row": 2,
+          "col": 0
+        },
+        {
+          "index": 9,
+          "brand_id": "uffizi_galleries",
+          "brand_name": "Uffizi Galleries",
+          "row": 2,
+          "col": 1
+        },
+        {
+          "index": 10,
+          "brand_id": "prado_museum",
+          "brand_name": "Prado Museum",
+          "row": 2,
+          "col": 2
+        },
+        {
+          "index": 11,
+          "brand_id": "palace_museum",
+          "brand_name": "故宫博物院 Palace Museum",
+          "row": 2,
+          "col": 3
+        },
+        {
+          "index": 12,
+          "brand_id": "cn_727a49a2",
+          "brand_name": "中国国家博物馆",
+          "row": 3,
+          "col": 0
+        },
+        {
+          "index": 13,
+          "brand_id": "cn_91d38cbe",
+          "brand_name": "上海博物馆",
+          "row": 3,
+          "col": 1
+        },
+        {
+          "index": 14,
+          "brand_id": "m_plus_museum",
+          "brand_name": "M+ Museum",
+          "row": 3,
+          "col": 2
+        },
+        {
+          "index": 15,
+          "brand_id": "teamlab_borderless",
+          "brand_name": "teamLab Borderless",
+          "row": 3,
+          "col": 3
+        }
+      ]
+    },
+    {
+      "grid_id": "logo-grid-i21-002",
+      "industry": "艺术 / 文化 / 设计机构",
+      "current_grid_image": "generated/logo-test/grid/logo-grid-i21-002.png",
+      "prompt_file": "generated/logo-test/prompt/logo-grid-i21-002-prompt.txt",
+      "prompt_exists": true,
+      "ingest_command": "node scripts/logo-grid-batch.js ingest logo-grid-i21-002 --source <new_png> --industry \"艺术 / 文化 / 设计机构\"",
+      "item_count": 16,
+      "items": [
+        {
+          "index": 0,
+          "brand_id": "mori_art_museum",
+          "brand_name": "Mori Art Museum",
+          "row": 0,
+          "col": 0
+        },
+        {
+          "index": 1,
+          "brand_id": "national_art_center_tokyo",
+          "brand_name": "National Art Center Tokyo",
+          "row": 0,
+          "col": 1
+        },
+        {
+          "index": 2,
+          "brand_id": "art_basel",
+          "brand_name": "Art Basel",
+          "row": 0,
+          "col": 2
+        },
+        {
+          "index": 3,
+          "brand_id": "venice_biennale",
+          "brand_name": "Venice Biennale",
+          "row": 0,
+          "col": 3
+        },
+        {
+          "index": 4,
+          "brand_id": "documenta",
+          "brand_name": "Documenta",
+          "row": 1,
+          "col": 0
+        },
+        {
+          "index": 5,
+          "brand_id": "frieze",
+          "brand_name": "Frieze",
+          "row": 1,
+          "col": 1
+        },
+        {
+          "index": 6,
+          "brand_id": "design_miami",
+          "brand_name": "Design Miami",
+          "row": 1,
+          "col": 2
+        },
+        {
+          "index": 7,
+          "brand_id": "milan_design_week",
+          "brand_name": "Milan Design Week",
+          "row": 1,
+          "col": 3
+        },
+        {
+          "index": 8,
+          "brand_id": "london_design_festival",
+          "brand_name": "London Design Festival",
+          "row": 2,
+          "col": 0
+        },
+        {
+          "index": 9,
+          "brand_id": "tokyo_design_week",
+          "brand_name": "Tokyo Design Week",
+          "row": 2,
+          "col": 1
+        },
+        {
+          "index": 10,
+          "brand_id": "shanghai_design_week",
+          "brand_name": "Shanghai Design Week",
+          "row": 2,
+          "col": 2
+        },
+        {
+          "index": 11,
+          "brand_id": "beijing_design_week",
+          "brand_name": "Beijing Design Week",
+          "row": 2,
+          "col": 3
+        },
+        {
+          "index": 12,
+          "brand_id": "cn_e179cf37",
+          "brand_name": "深圳设计周",
+          "row": 3,
+          "col": 0
+        },
+        {
+          "index": 13,
+          "brand_id": "cn_376290c5",
+          "brand_name": "成都双年展",
+          "row": 3,
+          "col": 1
+        },
+        {
+          "index": 14,
+          "brand_id": "cn_67a1b391",
+          "brand_name": "上海双年展",
+          "row": 3,
+          "col": 2
+        },
+        {
+          "index": 15,
+          "brand_id": "uabb",
+          "brand_name": "UABB 深港城市建筑双城双年展",
+          "row": 3,
+          "col": 3
+        }
+      ]
+    },
+    {
+      "grid_id": "logo-grid-i21-003",
+      "industry": "艺术 / 文化 / 设计机构",
+      "current_grid_image": "generated/logo-test/grid/logo-grid-i21-003.png",
+      "prompt_file": "generated/logo-test/prompt/logo-grid-i21-003-prompt.txt",
+      "prompt_exists": true,
+      "ingest_command": "node scripts/logo-grid-batch.js ingest logo-grid-i21-003 --source <new_png> --industry \"艺术 / 文化 / 设计机构\"",
+      "item_count": 16,
+      "items": [
+        {
+          "index": 0,
+          "brand_id": "aiga_design_conference",
+          "brand_name": "AIGA Design Conference",
+          "row": 0,
+          "col": 0
+        },
+        {
+          "index": 1,
+          "brand_id": "d_and_ad_awards",
+          "brand_name": "D&AD Awards",
+          "row": 0,
+          "col": 1
+        },
+        {
+          "index": 2,
+          "brand_id": "cannes_lions",
+          "brand_name": "Cannes Lions",
+          "row": 0,
+          "col": 2
+        },
+        {
+          "index": 3,
+          "brand_id": "red_dot_design_award",
+          "brand_name": "Red Dot Design Award",
+          "row": 0,
+          "col": 3
+        },
+        {
+          "index": 4,
+          "brand_id": "if_design_award",
+          "brand_name": "iF Design Award",
+          "row": 1,
+          "col": 0
+        },
+        {
+          "index": 5,
+          "brand_id": "aiga",
+          "brand_name": "AIGA",
+          "row": 1,
+          "col": 1
+        },
+        {
+          "index": 6,
+          "brand_id": "d_and_ad",
+          "brand_name": "D&AD",
+          "row": 1,
+          "col": 2
+        },
+        {
+          "index": 7,
+          "brand_id": "type_directors_club_tdc",
+          "brand_name": "Type Directors Club TDC",
+          "row": 1,
+          "col": 3
+        },
+        {
+          "index": 8,
+          "brand_id": "the_one_club",
+          "brand_name": "The One Club",
+          "row": 2,
+          "col": 0
+        },
+        {
+          "index": 9,
+          "brand_id": "adc_awards",
+          "brand_name": "ADC Awards",
+          "row": 2,
+          "col": 1
+        },
+        {
+          "index": 10,
+          "brand_id": "agi_alliance_graphique_internationale",
+          "brand_name": "AGI Alliance Graphique Internationale",
+          "row": 2,
+          "col": 2
+        },
+        {
+          "index": 11,
+          "brand_id": "international_council_of_design_ico_d",
+          "brand_name": "International Council of Design ico-D",
+          "row": 2,
+          "col": 3
+        },
+        {
+          "index": 12,
+          "brand_id": "design_council",
+          "brand_name": "Design Council",
+          "row": 3,
+          "col": 0
+        },
+        {
+          "index": 13,
+          "brand_id": "japan_graphic_design_association_jagda",
+          "brand_name": "Japan Graphic Design Association JAGDA",
+          "row": 3,
+          "col": 1
+        },
+        {
+          "index": 14,
+          "brand_id": "tokyo_tdc",
+          "brand_name": "Tokyo TDC",
+          "row": 3,
+          "col": 2
+        },
+        {
+          "index": 15,
+          "brand_id": "sgda",
+          "brand_name": "深圳市平面设计协会 SGDA",
+          "row": 3,
+          "col": 3
+        }
+      ]
+    },
+    {
+      "grid_id": "logo-grid-i21-004",
+      "industry": "艺术 / 文化 / 设计机构",
+      "current_grid_image": "generated/logo-test/grid/logo-grid-i21-004.png",
+      "prompt_file": "generated/logo-test/prompt/logo-grid-i21-004-prompt.txt",
+      "prompt_exists": true,
+      "ingest_command": "node scripts/logo-grid-batch.js ingest logo-grid-i21-004 --source <new_png> --industry \"艺术 / 文化 / 设计机构\"",
+      "item_count": 16,
+      "items": [
+        {
+          "index": 0,
+          "brand_id": "gdc_award",
+          "brand_name": "GDC Award",
+          "row": 0,
+          "col": 0
+        },
+        {
+          "index": 1,
+          "brand_id": "dia",
+          "brand_name": "中国设计智造大奖 DIA",
+          "row": 0,
+          "col": 1
+        },
+        {
+          "index": 2,
+          "brand_id": "pentawards",
+          "brand_name": "Pentawards",
+          "row": 0,
+          "col": 2
+        },
+        {
+          "index": 3,
+          "brand_id": "a_design_award",
+          "brand_name": "A' Design Award",
+          "row": 0,
+          "col": 3
+        },
+        {
+          "index": 4,
+          "brand_id": "monotype",
+          "brand_name": "Monotype",
+          "row": 1,
+          "col": 0
+        },
+        {
+          "index": 5,
+          "brand_id": "linotype",
+          "brand_name": "Linotype",
+          "row": 1,
+          "col": 1
+        },
+        {
+          "index": 6,
+          "brand_id": "myfonts",
+          "brand_name": "MyFonts",
+          "row": 1,
+          "col": 2
+        },
+        {
+          "index": 7,
+          "brand_id": "adobe_fonts",
+          "brand_name": "Adobe Fonts",
+          "row": 1,
+          "col": 3
+        },
+        {
+          "index": 8,
+          "brand_id": "google_fonts",
+          "brand_name": "Google Fonts",
+          "row": 2,
+          "col": 0
+        },
+        {
+          "index": 9,
+          "brand_id": "typekit",
+          "brand_name": "Typekit",
+          "row": 2,
+          "col": 1
+        },
+        {
+          "index": 10,
+          "brand_id": "fontworks",
+          "brand_name": "Fontworks",
+          "row": 2,
+          "col": 2
+        },
+        {
+          "index": 11,
+          "brand_id": "morisawa",
+          "brand_name": "Morisawa",
+          "row": 2,
+          "col": 3
+        },
+        {
+          "index": 12,
+          "brand_id": "foundertype",
+          "brand_name": "FounderType 方正字库",
+          "row": 3,
+          "col": 0
+        },
+        {
+          "index": 13,
+          "brand_id": "hanyi_fonts",
+          "brand_name": "Hanyi Fonts 汉仪字库",
+          "row": 3,
+          "col": 1
+        },
+        {
+          "index": 14,
+          "brand_id": "zcool_fonts",
+          "brand_name": "ZCOOL Fonts 站酷字库",
+          "row": 3,
+          "col": 2
+        },
+        {
+          "index": 15,
+          "brand_id": "typetogether",
+          "brand_name": "TypeTogether",
+          "row": 3,
+          "col": 3
+        }
+      ]
+    },
+    {
+      "grid_id": "logo-grid-i21-005",
+      "industry": "艺术 / 文化 / 设计机构",
+      "current_grid_image": "generated/logo-test/grid/logo-grid-i21-005.png",
+      "prompt_file": "generated/logo-test/prompt/logo-grid-i21-005-prompt.txt",
+      "prompt_exists": true,
+      "ingest_command": "node scripts/logo-grid-batch.js ingest logo-grid-i21-005 --source <new_png> --industry \"艺术 / 文化 / 设计机构\"",
+      "item_count": 16,
+      "items": [
+        {
+          "index": 0,
+          "brand_id": "hoefler_and_co",
+          "brand_name": "Hoefler&Co.",
+          "row": 0,
+          "col": 0
+        },
+        {
+          "index": 1,
+          "brand_id": "commercial_type",
+          "brand_name": "Commercial Type",
+          "row": 0,
+          "col": 1
+        },
+        {
+          "index": 2,
+          "brand_id": "klim_type_foundry",
+          "brand_name": "Klim Type Foundry",
+          "row": 0,
+          "col": 2
+        },
+        {
+          "index": 3,
+          "brand_id": "dinamo_typefaces",
+          "brand_name": "Dinamo Typefaces",
+          "row": 0,
+          "col": 3
+        },
+        {
+          "index": 4,
+          "brand_id": "pangram_pangram",
+          "brand_name": "Pangram Pangram",
+          "row": 1,
+          "col": 0
+        },
+        {
+          "index": 5,
+          "brand_id": "sydney_opera_house",
+          "brand_name": "Sydney Opera House",
+          "row": 1,
+          "col": 1
+        },
+        {
+          "index": 6,
+          "brand_id": "lincoln_center",
+          "brand_name": "Lincoln Center",
+          "row": 1,
+          "col": 2
+        },
+        {
+          "index": 7,
+          "brand_id": "carnegie_hall",
+          "brand_name": "Carnegie Hall",
+          "row": 1,
+          "col": 3
+        },
+        {
+          "index": 8,
+          "brand_id": "royal_opera_house",
+          "brand_name": "Royal Opera House",
+          "row": 2,
+          "col": 0
+        },
+        {
+          "index": 9,
+          "brand_id": "the_met_opera",
+          "brand_name": "The Met Opera",
+          "row": 2,
+          "col": 1
+        },
+        {
+          "index": 10,
+          "brand_id": "barbican_centre",
+          "brand_name": "Barbican Centre",
+          "row": 2,
+          "col": 2
+        },
+        {
+          "index": 11,
+          "brand_id": "southbank_centre",
+          "brand_name": "Southbank Centre",
+          "row": 2,
+          "col": 3
+        },
+        {
+          "index": 12,
+          "brand_id": "national_theatre",
+          "brand_name": "National Theatre",
+          "row": 3,
+          "col": 0
+        },
+        {
+          "index": 13,
+          "brand_id": "ncpa",
+          "brand_name": "国家大剧院 NCPA",
+          "row": 3,
+          "col": 1
+        },
+        {
+          "index": 14,
+          "brand_id": "cn_0e7b8c43",
+          "brand_name": "上海大剧院",
+          "row": 3,
+          "col": 2
+        },
+        {
+          "index": 15,
+          "brand_id": "cn_24f58cb2",
+          "brand_name": "上海文化广场",
+          "row": 3,
+          "col": 3
+        }
+      ]
+    },
+    {
+      "grid_id": "logo-grid-i21-006",
+      "industry": "艺术 / 文化 / 设计机构",
+      "current_grid_image": "generated/logo-test/grid/logo-grid-i21-006.png",
+      "prompt_file": "generated/logo-test/prompt/logo-grid-i21-006-prompt.txt",
+      "prompt_exists": true,
+      "ingest_command": "node scripts/logo-grid-batch.js ingest logo-grid-i21-006 --source <new_png> --industry \"艺术 / 文化 / 设计机构\"",
+      "item_count": 16,
+      "items": [
+        {
+          "index": 0,
+          "brand_id": "cn_3b6b14d0",
+          "brand_name": "北京人艺",
+          "row": 0,
+          "col": 0
+        },
+        {
+          "index": 1,
+          "brand_id": "cn_efb60709",
+          "brand_name": "新国立剧场",
+          "row": 0,
+          "col": 1
+        },
+        {
+          "index": 2,
+          "brand_id": "bunkamura",
+          "brand_name": "Bunkamura",
+          "row": 0,
+          "col": 2
+        },
+        {
+          "index": 3,
+          "brand_id": "suntory_hall",
+          "brand_name": "Suntory Hall",
+          "row": 0,
+          "col": 3
+        },
+        {
+          "index": 4,
+          "brand_id": "seoul_arts_center",
+          "brand_name": "Seoul Arts Center",
+          "row": 1,
+          "col": 0
+        },
+        {
+          "index": 5,
+          "brand_id": "the_met_store",
+          "brand_name": "The Met Store",
+          "row": 1,
+          "col": 1
+        },
+        {
+          "index": 6,
+          "brand_id": "moma_design_store",
+          "brand_name": "MoMA Design Store",
+          "row": 1,
+          "col": 2
+        },
+        {
+          "index": 7,
+          "brand_id": "tate_shop",
+          "brand_name": "Tate Shop",
+          "row": 1,
+          "col": 3
+        },
+        {
+          "index": 8,
+          "brand_id": "v_and_a_shop",
+          "brand_name": "V&A Shop",
+          "row": 2,
+          "col": 0
+        },
+        {
+          "index": 9,
+          "brand_id": "british_museum_shop",
+          "brand_name": "British Museum Shop",
+          "row": 2,
+          "col": 1
+        },
+        {
+          "index": 10,
+          "brand_id": "cn_03d729bc",
+          "brand_name": "故宫文创",
+          "row": 2,
+          "col": 2
+        },
+        {
+          "index": 11,
+          "brand_id": "cn_462a7028",
+          "brand_name": "敦煌研究院文创",
+          "row": 2,
+          "col": 3
+        },
+        {
+          "index": 12,
+          "brand_id": "cn_4fbc2ed2",
+          "brand_name": "三星堆文创",
+          "row": 3,
+          "col": 0
+        },
+        {
+          "index": 13,
+          "brand_id": "cn_420d69fe",
+          "brand_name": "苏州博物馆文创",
+          "row": 3,
+          "col": 1
+        },
+        {
+          "index": 14,
+          "brand_id": "to_summer",
+          "brand_name": "观夏 To Summer",
+          "row": 3,
+          "col": 2
+        },
+        {
+          "index": 15,
+          "brand_id": "the_beast",
+          "brand_name": "野兽派 The Beast",
+          "row": 3,
+          "col": 3
+        }
+      ]
+    },
+    {
+      "grid_id": "logo-grid-i21-007",
+      "industry": "艺术 / 文化 / 设计机构",
+      "current_grid_image": "generated/logo-test/grid/logo-grid-i21-007.png",
+      "prompt_file": "generated/logo-test/prompt/logo-grid-i21-007-prompt.txt",
+      "prompt_exists": true,
+      "ingest_command": "node scripts/logo-grid-batch.js ingest logo-grid-i21-007 --source <new_png> --industry \"艺术 / 文化 / 设计机构\"",
+      "item_count": 16,
+      "items": [
+        {
+          "index": 0,
+          "brand_id": "cn_7e1082cd",
+          "brand_name": "朵云书院",
+          "row": 0,
+          "col": 0
+        },
+        {
+          "index": 1,
+          "brand_id": "tsutaya_books",
+          "brand_name": "蔦屋書店 Tsutaya Books",
+          "row": 0,
+          "col": 1
+        },
+        {
+          "index": 2,
+          "brand_id": "loft_japan",
+          "brand_name": "Loft Japan",
+          "row": 0,
+          "col": 2
+        },
+        {
+          "index": 3,
+          "brand_id": "itoya",
+          "brand_name": "Itoya",
+          "row": 0,
+          "col": 3
+        },
+        {
+          "index": 4,
+          "brand_id": "kinokuniya",
+          "brand_name": "Kinokuniya",
+          "row": 1,
+          "col": 0
+        },
+        {
+          "index": 5,
+          "brand_id": "behance_21",
+          "brand_name": "Behance",
+          "row": 1,
+          "col": 1
+        },
+        {
+          "index": 6,
+          "brand_id": "dribbble_21",
+          "brand_name": "Dribbble",
+          "row": 1,
+          "col": 2
+        },
+        {
+          "index": 7,
+          "brand_id": "cargo_collective",
+          "brand_name": "Cargo Collective",
+          "row": 1,
+          "col": 3
+        },
+        {
+          "index": 8,
+          "brand_id": "readymag",
+          "brand_name": "Readymag",
+          "row": 2,
+          "col": 0
+        },
+        {
+          "index": 9,
+          "brand_id": "muzli",
+          "brand_name": "Muzli",
+          "row": 2,
+          "col": 1
+        },
+        {
+          "index": 10,
+          "brand_id": "awwwards",
+          "brand_name": "Awwwards",
+          "row": 2,
+          "col": 2
+        },
+        {
+          "index": 11,
+          "brand_id": "the_fwa",
+          "brand_name": "The FWA",
+          "row": 2,
+          "col": 3
+        },
+        {
+          "index": 12,
+          "brand_id": "brand_new",
+          "brand_name": "Brand New",
+          "row": 3,
+          "col": 0
+        },
+        {
+          "index": 13,
+          "brand_id": "its_nice_that_21",
+          "brand_name": "It's Nice That",
+          "row": 3,
+          "col": 1
+        },
+        {
+          "index": 14,
+          "brand_id": "bp_and_o",
+          "brand_name": "BP&O",
+          "row": 3,
+          "col": 2
+        },
+        {
+          "index": 15,
+          "brand_id": "logolounge",
+          "brand_name": "LogoLounge",
+          "row": 3,
+          "col": 3
+        }
+      ]
+    },
+    {
+      "grid_id": "logo-grid-i21-008",
+      "industry": "艺术 / 文化 / 设计机构",
+      "current_grid_image": "generated/logo-test/grid/logo-grid-i21-008.png",
+      "prompt_file": "generated/logo-test/prompt/logo-grid-i21-008-prompt.txt",
+      "prompt_exists": true,
+      "ingest_command": "node scripts/logo-grid-batch.js ingest logo-grid-i21-008 --source <new_png> --industry \"艺术 / 文化 / 设计机构\"",
+      "item_count": 4,
+      "items": [
+        {
+          "index": 0,
+          "brand_id": "designspiration",
+          "brand_name": "Designspiration",
+          "row": 0,
+          "col": 0
+        },
+        {
+          "index": 1,
+          "brand_id": "abduzeedo",
+          "brand_name": "Abduzeedo",
+          "row": 0,
+          "col": 1
+        },
+        {
+          "index": 2,
+          "brand_id": "creative_boom",
+          "brand_name": "Creative Boom",
+          "row": 0,
+          "col": 2
+        },
+        {
+          "index": 3,
+          "brand_id": "underconsideration",
+          "brand_name": "UnderConsideration",
+          "row": 0,
+          "col": 3
+        }
+      ]
+    },
+    {
+      "grid_id": "logo-grid-i22-001",
+      "industry": "公共机构 / 城市品牌 / 非营利",
+      "current_grid_image": "generated/logo-test/grid/logo-grid-i22-001.png",
+      "prompt_file": "generated/logo-test/prompt/logo-grid-i22-001-prompt.txt",
+      "prompt_exists": true,
+      "ingest_command": "node scripts/logo-grid-batch.js ingest logo-grid-i22-001 --source <new_png> --industry \"公共机构 / 城市品牌 / 非营利\"",
+      "item_count": 16,
+      "items": [
+        {
+          "index": 0,
+          "brand_id": "united_nations_un",
+          "brand_name": "United Nations UN",
+          "row": 0,
+          "col": 0
+        },
+        {
+          "index": 1,
+          "brand_id": "unicef",
+          "brand_name": "UNICEF",
+          "row": 0,
+          "col": 1
+        },
+        {
+          "index": 2,
+          "brand_id": "unesco",
+          "brand_name": "UNESCO",
+          "row": 0,
+          "col": 2
+        },
+        {
+          "index": 3,
+          "brand_id": "who",
+          "brand_name": "WHO",
+          "row": 0,
+          "col": 3
+        },
+        {
+          "index": 4,
+          "brand_id": "wto",
+          "brand_name": "WTO",
+          "row": 1,
+          "col": 0
+        },
+        {
+          "index": 5,
+          "brand_id": "world_bank",
+          "brand_name": "World Bank",
+          "row": 1,
+          "col": 1
+        },
+        {
+          "index": 6,
+          "brand_id": "imf",
+          "brand_name": "IMF",
+          "row": 1,
+          "col": 2
+        },
+        {
+          "index": 7,
+          "brand_id": "oecd",
+          "brand_name": "OECD",
+          "row": 1,
+          "col": 3
+        },
+        {
+          "index": 8,
+          "brand_id": "european_union_eu",
+          "brand_name": "European Union EU",
+          "row": 2,
+          "col": 0
+        },
+        {
+          "index": 9,
+          "brand_id": "asean",
+          "brand_name": "ASEAN",
+          "row": 2,
+          "col": 1
+        },
+        {
+          "index": 10,
+          "brand_id": "african_union",
+          "brand_name": "African Union",
+          "row": 2,
+          "col": 2
+        },
+        {
+          "index": 11,
+          "brand_id": "nato",
+          "brand_name": "NATO",
+          "row": 2,
+          "col": 3
+        },
+        {
+          "index": 12,
+          "brand_id": "international_olympic_committee_ioc",
+          "brand_name": "International Olympic Committee IOC",
+          "row": 3,
+          "col": 0
+        },
+        {
+          "index": 13,
+          "brand_id": "world_economic_forum",
+          "brand_name": "World Economic Forum",
+          "row": 3,
+          "col": 1
+        },
+        {
+          "index": 14,
+          "brand_id": "iso",
+          "brand_name": "ISO",
+          "row": 3,
+          "col": 2
+        },
+        {
+          "index": 15,
+          "brand_id": "wipo",
+          "brand_name": "WIPO",
+          "row": 3,
+          "col": 3
+        }
+      ]
+    },
+    {
+      "grid_id": "logo-grid-i22-002",
+      "industry": "公共机构 / 城市品牌 / 非营利",
+      "current_grid_image": "generated/logo-test/grid/logo-grid-i22-002.png",
+      "prompt_file": "generated/logo-test/prompt/logo-grid-i22-002-prompt.txt",
+      "prompt_exists": true,
+      "ingest_command": "node scripts/logo-grid-batch.js ingest logo-grid-i22-002 --source <new_png> --industry \"公共机构 / 城市品牌 / 非营利\"",
+      "item_count": 16,
+      "items": [
+        {
+          "index": 0,
+          "brand_id": "red_cross",
+          "brand_name": "Red Cross",
+          "row": 0,
+          "col": 0
+        },
+        {
+          "index": 1,
+          "brand_id": "wwf",
+          "brand_name": "WWF",
+          "row": 0,
+          "col": 1
+        },
+        {
+          "index": 2,
+          "brand_id": "greenpeace",
+          "brand_name": "Greenpeace",
+          "row": 0,
+          "col": 2
+        },
+        {
+          "index": 3,
+          "brand_id": "amnesty_international",
+          "brand_name": "Amnesty International",
+          "row": 0,
+          "col": 3
+        },
+        {
+          "index": 4,
+          "brand_id": "m_decins_sans_fronti_res_msf",
+          "brand_name": "Médecins Sans Frontières MSF",
+          "row": 1,
+          "col": 0
+        },
+        {
+          "index": 5,
+          "brand_id": "oxfam",
+          "brand_name": "Oxfam",
+          "row": 1,
+          "col": 1
+        },
+        {
+          "index": 6,
+          "brand_id": "save_the_children",
+          "brand_name": "Save the Children",
+          "row": 1,
+          "col": 2
+        },
+        {
+          "index": 7,
+          "brand_id": "the_nature_conservancy",
+          "brand_name": "The Nature Conservancy",
+          "row": 1,
+          "col": 3
+        },
+        {
+          "index": 8,
+          "brand_id": "world_vision",
+          "brand_name": "World Vision",
+          "row": 2,
+          "col": 0
+        },
+        {
+          "index": 9,
+          "brand_id": "bill_and_melinda_gates_foundation",
+          "brand_name": "Bill & Melinda Gates Foundation",
+          "row": 2,
+          "col": 1
+        },
+        {
+          "index": 10,
+          "brand_id": "ford_foundation",
+          "brand_name": "Ford Foundation",
+          "row": 2,
+          "col": 2
+        },
+        {
+          "index": 11,
+          "brand_id": "rockefeller_foundation",
+          "brand_name": "Rockefeller Foundation",
+          "row": 2,
+          "col": 3
+        },
+        {
+          "index": 12,
+          "brand_id": "one_foundation",
+          "brand_name": "One Foundation 壹基金",
+          "row": 3,
+          "col": 0
+        },
+        {
+          "index": 13,
+          "brand_id": "cn_6b43aeb5",
+          "brand_name": "韩红爱心慈善基金会",
+          "row": 3,
+          "col": 1
+        },
+        {
+          "index": 14,
+          "brand_id": "cn_f3d62f3d",
+          "brand_name": "中国扶贫基金会",
+          "row": 3,
+          "col": 2
+        },
+        {
+          "index": 15,
+          "brand_id": "alipay_foundation",
+          "brand_name": "Alipay Foundation",
+          "row": 3,
+          "col": 3
+        }
+      ]
+    },
+    {
+      "grid_id": "logo-grid-i22-003",
+      "industry": "公共机构 / 城市品牌 / 非营利",
+      "current_grid_image": "generated/logo-test/grid/logo-grid-i22-003.png",
+      "prompt_file": "generated/logo-test/prompt/logo-grid-i22-003-prompt.txt",
+      "prompt_exists": true,
+      "ingest_command": "node scripts/logo-grid-batch.js ingest logo-grid-i22-003 --source <new_png> --industry \"公共机构 / 城市品牌 / 非营利\"",
+      "item_count": 16,
+      "items": [
+        {
+          "index": 0,
+          "brand_id": "mozilla_foundation",
+          "brand_name": "Mozilla Foundation",
+          "row": 0,
+          "col": 0
+        },
+        {
+          "index": 1,
+          "brand_id": "i_ny",
+          "brand_name": "I ❤️ NY",
+          "row": 0,
+          "col": 1
+        },
+        {
+          "index": 2,
+          "brand_id": "tokyo_tokyo_old_meets_new",
+          "brand_name": "Tokyo Tokyo Old meets New",
+          "row": 0,
+          "col": 2
+        },
+        {
+          "index": 3,
+          "brand_id": "seoul_city",
+          "brand_name": "Seoul City",
+          "row": 0,
+          "col": 3
+        },
+        {
+          "index": 4,
+          "brand_id": "visit_singapore",
+          "brand_name": "Visit Singapore",
+          "row": 1,
+          "col": 0
+        },
+        {
+          "index": 5,
+          "brand_id": "amazing_thailand",
+          "brand_name": "Amazing Thailand",
+          "row": 1,
+          "col": 1
+        },
+        {
+          "index": 6,
+          "brand_id": "incredible_india",
+          "brand_name": "Incredible India",
+          "row": 1,
+          "col": 2
+        },
+        {
+          "index": 7,
+          "brand_id": "visit_japan",
+          "brand_name": "Visit Japan",
+          "row": 1,
+          "col": 3
+        },
+        {
+          "index": 8,
+          "brand_id": "brand_hong_kong",
+          "brand_name": "Brand Hong Kong",
+          "row": 2,
+          "col": 0
+        },
+        {
+          "index": 9,
+          "brand_id": "dubai_tourism",
+          "brand_name": "Dubai Tourism",
+          "row": 2,
+          "col": 1
+        },
+        {
+          "index": 10,
+          "brand_id": "visit_london",
+          "brand_name": "Visit London",
+          "row": 2,
+          "col": 2
+        },
+        {
+          "index": 11,
+          "brand_id": "paris_je_taime",
+          "brand_name": "Paris Je t'aime",
+          "row": 2,
+          "col": 3
+        },
+        {
+          "index": 12,
+          "brand_id": "i_amsterdam",
+          "brand_name": "I amsterdam",
+          "row": 3,
+          "col": 0
+        },
+        {
+          "index": 13,
+          "brand_id": "melbourne",
+          "brand_name": "Melbourne",
+          "row": 3,
+          "col": 1
+        },
+        {
+          "index": 14,
+          "brand_id": "new_zealand_tourism",
+          "brand_name": "New Zealand Tourism",
+          "row": 3,
+          "col": 2
+        },
+        {
+          "index": 15,
+          "brand_id": "macao_tourism",
+          "brand_name": "澳門旅遊局 Macao Tourism",
+          "row": 3,
+          "col": 3
+        }
+      ]
+    },
+    {
+      "grid_id": "logo-grid-i22-004",
+      "industry": "公共机构 / 城市品牌 / 非营利",
+      "current_grid_image": "generated/logo-test/grid/logo-grid-i22-004.png",
+      "prompt_file": "generated/logo-test/prompt/logo-grid-i22-004-prompt.txt",
+      "prompt_exists": true,
+      "ingest_command": "node scripts/logo-grid-batch.js ingest logo-grid-i22-004 --source <new_png> --industry \"公共机构 / 城市品牌 / 非营利\"",
+      "item_count": 16,
+      "items": [
+        {
+          "index": 0,
+          "brand_id": "cn_82275181",
+          "brand_name": "上海城市形象",
+          "row": 0,
+          "col": 0
+        },
+        {
+          "index": 1,
+          "brand_id": "cn_6e819e76",
+          "brand_name": "北京文旅",
+          "row": 0,
+          "col": 1
+        },
+        {
+          "index": 2,
+          "brand_id": "cn_ba92c1c7",
+          "brand_name": "成都文旅",
+          "row": 0,
+          "col": 2
+        },
+        {
+          "index": 3,
+          "brand_id": "gov_uk",
+          "brand_name": "Gov.uk",
+          "row": 0,
+          "col": 3
+        },
+        {
+          "index": 4,
+          "brand_id": "usa_gov",
+          "brand_name": "USA.gov",
+          "row": 1,
+          "col": 0
+        },
+        {
+          "index": 5,
+          "brand_id": "service_nsw",
+          "brand_name": "Service NSW",
+          "row": 1,
+          "col": 1
+        },
+        {
+          "index": 6,
+          "brand_id": "mygov_australia",
+          "brand_name": "MyGov Australia",
+          "row": 1,
+          "col": 2
+        },
+        {
+          "index": 7,
+          "brand_id": "digital_agency_japan",
+          "brand_name": "Digital Agency Japan",
+          "row": 1,
+          "col": 3
+        },
+        {
+          "index": 8,
+          "brand_id": "my_number_japan",
+          "brand_name": "My Number Japan",
+          "row": 2,
+          "col": 0
+        },
+        {
+          "index": 9,
+          "brand_id": "singapore_government",
+          "brand_name": "Singapore Government",
+          "row": 2,
+          "col": 1
+        },
+        {
+          "index": 10,
+          "brand_id": "govhk",
+          "brand_name": "香港政府一站通 GovHK",
+          "row": 2,
+          "col": 2
+        },
+        {
+          "index": 11,
+          "brand_id": "cn_cc493c88",
+          "brand_name": "澳门特别行政区政府",
+          "row": 2,
+          "col": 3
+        },
+        {
+          "index": 12,
+          "brand_id": "cn_78e6eb5e",
+          "brand_name": "中国政府网",
+          "row": 3,
+          "col": 0
+        },
+        {
+          "index": 13,
+          "brand_id": "cn_1d8b8694",
+          "brand_name": "国家税务总局",
+          "row": 3,
+          "col": 1
+        },
+        {
+          "index": 14,
+          "brand_id": "cn_4fb3ddbf",
+          "brand_name": "北京一卡通",
+          "row": 3,
+          "col": 2
+        },
+        {
+          "index": 15,
+          "brand_id": "cn_801ed588",
+          "brand_name": "上海交通卡",
+          "row": 3,
+          "col": 3
+        }
+      ]
+    },
+    {
+      "grid_id": "logo-grid-i22-005",
+      "industry": "公共机构 / 城市品牌 / 非营利",
+      "current_grid_image": "generated/logo-test/grid/logo-grid-i22-005.png",
+      "prompt_file": "generated/logo-test/prompt/logo-grid-i22-005-prompt.txt",
+      "prompt_exists": true,
+      "ingest_command": "node scripts/logo-grid-batch.js ingest logo-grid-i22-005 --source <new_png> --industry \"公共机构 / 城市品牌 / 非营利\"",
+      "item_count": 16,
+      "items": [
+        {
+          "index": 0,
+          "brand_id": "suica",
+          "brand_name": "Suica",
+          "row": 0,
+          "col": 0
+        },
+        {
+          "index": 1,
+          "brand_id": "pasmo",
+          "brand_name": "PASMO",
+          "row": 0,
+          "col": 1
+        },
+        {
+          "index": 2,
+          "brand_id": "octopus",
+          "brand_name": "Octopus 八达通",
+          "row": 0,
+          "col": 2
+        },
+        {
+          "index": 3,
+          "brand_id": "ez_link",
+          "brand_name": "EZ-Link",
+          "row": 0,
+          "col": 3
+        },
+        {
+          "index": 4,
+          "brand_id": "fema",
+          "brand_name": "FEMA",
+          "row": 1,
+          "col": 0
+        },
+        {
+          "index": 5,
+          "brand_id": "cdc",
+          "brand_name": "CDC",
+          "row": 1,
+          "col": 1
+        },
+        {
+          "index": 6,
+          "brand_id": "nhs",
+          "brand_name": "NHS",
+          "row": 1,
+          "col": 2
+        },
+        {
+          "index": 7,
+          "brand_id": "japan_meteorological_agency",
+          "brand_name": "Japan Meteorological Agency",
+          "row": 1,
+          "col": 3
+        },
+        {
+          "index": 8,
+          "brand_id": "tokyo_fire_department",
+          "brand_name": "Tokyo Fire Department",
+          "row": 2,
+          "col": 0
+        },
+        {
+          "index": 9,
+          "brand_id": "cn_a1567b7a",
+          "brand_name": "中国消防",
+          "row": 2,
+          "col": 1
+        },
+        {
+          "index": 10,
+          "brand_id": "cn_8d755d43",
+          "brand_name": "中国地震台网",
+          "row": 2,
+          "col": 2
+        },
+        {
+          "index": 11,
+          "brand_id": "cn_08f682e3",
+          "brand_name": "中国气象局",
+          "row": 2,
+          "col": 3
+        },
+        {
+          "index": 12,
+          "brand_id": "national_park_service",
+          "brand_name": "National Park Service",
+          "row": 3,
+          "col": 0
+        },
+        {
+          "index": 13,
+          "brand_id": "us_forest_service",
+          "brand_name": "US Forest Service",
+          "row": 3,
+          "col": 1
+        },
+        {
+          "index": 14,
+          "brand_id": "royal_national_lifeboat_institution_rnli",
+          "brand_name": "Royal National Lifeboat Institution RNLI",
+          "row": 3,
+          "col": 2
+        },
+        {
+          "index": 15,
+          "brand_id": "st_john_ambulance",
+          "brand_name": "St John Ambulance",
+          "row": 3,
+          "col": 3
+        }
+      ]
+    },
+    {
+      "grid_id": "logo-grid-i22-006",
+      "industry": "公共机构 / 城市品牌 / 非营利",
+      "current_grid_image": "generated/logo-test/grid/logo-grid-i22-006.png",
+      "prompt_file": "generated/logo-test/prompt/logo-grid-i22-006-prompt.txt",
+      "prompt_exists": true,
+      "ingest_command": "node scripts/logo-grid-batch.js ingest logo-grid-i22-006 --source <new_png> --industry \"公共机构 / 城市品牌 / 非营利\"",
+      "item_count": 16,
+      "items": [
+        {
+          "index": 0,
+          "brand_id": "lifeline",
+          "brand_name": "Lifeline",
+          "row": 0,
+          "col": 0
+        },
+        {
+          "index": 1,
+          "brand_id": "samhsa",
+          "brand_name": "SAMHSA",
+          "row": 0,
+          "col": 1
+        },
+        {
+          "index": 2,
+          "brand_id": "988_lifeline",
+          "brand_name": "988 Lifeline",
+          "row": 0,
+          "col": 2
+        },
+        {
+          "index": 3,
+          "brand_id": "new_york_public_library",
+          "brand_name": "New York Public Library",
+          "row": 0,
+          "col": 3
+        },
+        {
+          "index": 4,
+          "brand_id": "library_of_congress",
+          "brand_name": "Library of Congress",
+          "row": 1,
+          "col": 0
+        },
+        {
+          "index": 5,
+          "brand_id": "british_library",
+          "brand_name": "British Library",
+          "row": 1,
+          "col": 1
+        },
+        {
+          "index": 6,
+          "brand_id": "national_diet_library",
+          "brand_name": "National Diet Library",
+          "row": 1,
+          "col": 2
+        },
+        {
+          "index": 7,
+          "brand_id": "biblioth_que_nationale_de_france",
+          "brand_name": "Bibliothèque nationale de France",
+          "row": 1,
+          "col": 3
+        },
+        {
+          "index": 8,
+          "brand_id": "cn_142a6497",
+          "brand_name": "国家图书馆",
+          "row": 2,
+          "col": 0
+        },
+        {
+          "index": 9,
+          "brand_id": "cn_fed4acda",
+          "brand_name": "上海图书馆",
+          "row": 2,
+          "col": 1
+        },
+        {
+          "index": 10,
+          "brand_id": "cn_d81552a4",
+          "brand_name": "首都图书馆",
+          "row": 2,
+          "col": 2
+        },
+        {
+          "index": 11,
+          "brand_id": "cn_769776da",
+          "brand_name": "香港公共图书馆",
+          "row": 2,
+          "col": 3
+        },
+        {
+          "index": 12,
+          "brand_id": "singapore_national_library_board",
+          "brand_name": "Singapore National Library Board",
+          "row": 3,
+          "col": 0
+        },
+        {
+          "index": 13,
+          "brand_id": "internet_archive",
+          "brand_name": "Internet Archive",
+          "row": 3,
+          "col": 1
+        },
+        {
+          "index": 14,
+          "brand_id": "europeana",
+          "brand_name": "Europeana",
+          "row": 3,
+          "col": 2
+        },
+        {
+          "index": 15,
+          "brand_id": "worldcat",
+          "brand_name": "WorldCat",
+          "row": 3,
+          "col": 3
+        }
+      ]
+    },
+    {
+      "grid_id": "logo-grid-i22-007",
+      "industry": "公共机构 / 城市品牌 / 非营利",
+      "current_grid_image": "generated/logo-test/grid/logo-grid-i22-007.png",
+      "prompt_file": "generated/logo-test/prompt/logo-grid-i22-007-prompt.txt",
+      "prompt_exists": true,
+      "ingest_command": "node scripts/logo-grid-batch.js ingest logo-grid-i22-007 --source <new_png> --industry \"公共机构 / 城市品牌 / 非营利\"",
+      "item_count": 13,
+      "items": [
+        {
+          "index": 0,
+          "brand_id": "project_gutenberg",
+          "brand_name": "Project Gutenberg",
+          "row": 0,
+          "col": 0
+        },
+        {
+          "index": 1,
+          "brand_id": "national_science_foundation_nsf",
+          "brand_name": "National Science Foundation NSF",
+          "row": 0,
+          "col": 1
+        },
+        {
+          "index": 2,
+          "brand_id": "national_institutes_of_health_nih",
+          "brand_name": "National Institutes of Health NIH",
+          "row": 0,
+          "col": 2
+        },
+        {
+          "index": 3,
+          "brand_id": "wellcome_trust",
+          "brand_name": "Wellcome Trust",
+          "row": 0,
+          "col": 3
+        },
+        {
+          "index": 4,
+          "brand_id": "max_planck_society",
+          "brand_name": "Max Planck Society",
+          "row": 1,
+          "col": 0
+        },
+        {
+          "index": 5,
+          "brand_id": "fraunhofer_society",
+          "brand_name": "Fraunhofer Society",
+          "row": 1,
+          "col": 1
+        },
+        {
+          "index": 6,
+          "brand_id": "cnrs",
+          "brand_name": "CNRS",
+          "row": 1,
+          "col": 2
+        },
+        {
+          "index": 7,
+          "brand_id": "riken",
+          "brand_name": "RIKEN",
+          "row": 1,
+          "col": 3
+        },
+        {
+          "index": 8,
+          "brand_id": "chinese_academy_of_sciences",
+          "brand_name": "Chinese Academy of Sciences 中科院",
+          "row": 2,
+          "col": 0
+        },
+        {
+          "index": 9,
+          "brand_id": "japan_society_for_the_promotion_of",
+          "brand_name": "Japan Society for the Promotion of Science JSPS",
+          "row": 2,
+          "col": 1
+        },
+        {
+          "index": 10,
+          "brand_id": "european_research_council_erc",
+          "brand_name": "European Research Council ERC",
+          "row": 2,
+          "col": 2
+        },
+        {
+          "index": 11,
+          "brand_id": "howard_hughes_medical_institute",
+          "brand_name": "Howard Hughes Medical Institute",
+          "row": 2,
+          "col": 3
+        },
+        {
+          "index": 12,
+          "brand_id": "chan_zuckerberg_initiative",
+          "brand_name": "Chan Zuckerberg Initiative",
+          "row": 3,
+          "col": 0
+        }
+      ]
+    },
+    {
+      "grid_id": "logo-grid-i23-001",
+      "industry": "专业服务 / 咨询 / 法律 / 广告",
+      "current_grid_image": "generated/logo-test/grid/logo-grid-i23-001.png",
+      "prompt_file": "generated/logo-test/prompt/logo-grid-i23-001-prompt.txt",
+      "prompt_exists": true,
+      "ingest_command": "node scripts/logo-grid-batch.js ingest logo-grid-i23-001 --source <new_png> --industry \"专业服务 / 咨询 / 法律 / 广告\"",
+      "item_count": 16,
+      "items": [
+        {
+          "index": 0,
+          "brand_id": "deloitte",
+          "brand_name": "Deloitte",
+          "row": 0,
+          "col": 0
+        },
+        {
+          "index": 1,
+          "brand_id": "pwc",
+          "brand_name": "PwC",
+          "row": 0,
+          "col": 1
+        },
+        {
+          "index": 2,
+          "brand_id": "kpmg",
+          "brand_name": "KPMG",
+          "row": 0,
+          "col": 2
+        },
+        {
+          "index": 3,
+          "brand_id": "ey",
+          "brand_name": "EY",
+          "row": 0,
+          "col": 3
+        },
+        {
+          "index": 4,
+          "brand_id": "accenture",
+          "brand_name": "Accenture",
+          "row": 1,
+          "col": 0
+        },
+        {
+          "index": 5,
+          "brand_id": "mckinsey_and_company",
+          "brand_name": "McKinsey & Company",
+          "row": 1,
+          "col": 1
+        },
+        {
+          "index": 6,
+          "brand_id": "boston_consulting_group_bcg",
+          "brand_name": "Boston Consulting Group BCG",
+          "row": 1,
+          "col": 2
+        },
+        {
+          "index": 7,
+          "brand_id": "bain_and_company",
+          "brand_name": "Bain & Company",
+          "row": 1,
+          "col": 3
+        },
+        {
+          "index": 8,
+          "brand_id": "roland_berger",
+          "brand_name": "Roland Berger",
+          "row": 2,
+          "col": 0
+        },
+        {
+          "index": 9,
+          "brand_id": "oliver_wyman",
+          "brand_name": "Oliver Wyman",
+          "row": 2,
+          "col": 1
+        },
+        {
+          "index": 10,
+          "brand_id": "kearney",
+          "brand_name": "Kearney",
+          "row": 2,
+          "col": 2
+        },
+        {
+          "index": 11,
+          "brand_id": "capgemini",
+          "brand_name": "Capgemini",
+          "row": 2,
+          "col": 3
+        },
+        {
+          "index": 12,
+          "brand_id": "ibm_consulting",
+          "brand_name": "IBM Consulting",
+          "row": 3,
+          "col": 0
+        },
+        {
+          "index": 13,
+          "brand_id": "cognizant",
+          "brand_name": "Cognizant",
+          "row": 3,
+          "col": 1
+        },
+        {
+          "index": 14,
+          "brand_id": "infosys",
+          "brand_name": "Infosys",
+          "row": 3,
+          "col": 2
+        },
+        {
+          "index": 15,
+          "brand_id": "tata_consultancy_services_tcs",
+          "brand_name": "Tata Consultancy Services TCS",
+          "row": 3,
+          "col": 3
+        }
+      ]
+    },
+    {
+      "grid_id": "logo-grid-i23-002",
+      "industry": "专业服务 / 咨询 / 法律 / 广告",
+      "current_grid_image": "generated/logo-test/grid/logo-grid-i23-002.png",
+      "prompt_file": "generated/logo-test/prompt/logo-grid-i23-002-prompt.txt",
+      "prompt_exists": true,
+      "ingest_command": "node scripts/logo-grid-batch.js ingest logo-grid-i23-002 --source <new_png> --industry \"专业服务 / 咨询 / 法律 / 广告\"",
+      "item_count": 16,
+      "items": [
+        {
+          "index": 0,
+          "brand_id": "wipro",
+          "brand_name": "Wipro",
+          "row": 0,
+          "col": 0
+        },
+        {
+          "index": 1,
+          "brand_id": "hcltech",
+          "brand_name": "HCLTech",
+          "row": 0,
+          "col": 1
+        },
+        {
+          "index": 2,
+          "brand_id": "wpp",
+          "brand_name": "WPP",
+          "row": 0,
+          "col": 2
+        },
+        {
+          "index": 3,
+          "brand_id": "omnicom_group",
+          "brand_name": "Omnicom Group",
+          "row": 0,
+          "col": 3
+        },
+        {
+          "index": 4,
+          "brand_id": "publicis_groupe",
+          "brand_name": "Publicis Groupe",
+          "row": 1,
+          "col": 0
+        },
+        {
+          "index": 5,
+          "brand_id": "interpublic_group_ipg",
+          "brand_name": "Interpublic Group IPG",
+          "row": 1,
+          "col": 1
+        },
+        {
+          "index": 6,
+          "brand_id": "dentsu",
+          "brand_name": "Dentsu",
+          "row": 1,
+          "col": 2
+        },
+        {
+          "index": 7,
+          "brand_id": "havas",
+          "brand_name": "Havas",
+          "row": 1,
+          "col": 3
+        },
+        {
+          "index": 8,
+          "brand_id": "ogilvy",
+          "brand_name": "Ogilvy",
+          "row": 2,
+          "col": 0
+        },
+        {
+          "index": 9,
+          "brand_id": "bbdo",
+          "brand_name": "BBDO",
+          "row": 2,
+          "col": 1
+        },
+        {
+          "index": 10,
+          "brand_id": "tbwa",
+          "brand_name": "TBWA",
+          "row": 2,
+          "col": 2
+        },
+        {
+          "index": 11,
+          "brand_id": "leo_burnett",
+          "brand_name": "Leo Burnett",
+          "row": 2,
+          "col": 3
+        },
+        {
+          "index": 12,
+          "brand_id": "saatchi_and_saatchi",
+          "brand_name": "Saatchi & Saatchi",
+          "row": 3,
+          "col": 0
+        },
+        {
+          "index": 13,
+          "brand_id": "mccann",
+          "brand_name": "McCann",
+          "row": 3,
+          "col": 1
+        },
+        {
+          "index": 14,
+          "brand_id": "vml",
+          "brand_name": "VML",
+          "row": 3,
+          "col": 2
+        },
+        {
+          "index": 15,
+          "brand_id": "droga5",
+          "brand_name": "Droga5",
+          "row": 3,
+          "col": 3
+        }
+      ]
+    },
+    {
+      "grid_id": "logo-grid-i23-003",
+      "industry": "专业服务 / 咨询 / 法律 / 广告",
+      "current_grid_image": "generated/logo-test/grid/logo-grid-i23-003.png",
+      "prompt_file": "generated/logo-test/prompt/logo-grid-i23-003-prompt.txt",
+      "prompt_exists": true,
+      "ingest_command": "node scripts/logo-grid-batch.js ingest logo-grid-i23-003 --source <new_png> --industry \"专业服务 / 咨询 / 法律 / 广告\"",
+      "item_count": 16,
+      "items": [
+        {
+          "index": 0,
+          "brand_id": "akqa",
+          "brand_name": "AKQA",
+          "row": 0,
+          "col": 0
+        },
+        {
+          "index": 1,
+          "brand_id": "r_ga",
+          "brand_name": "R/GA",
+          "row": 0,
+          "col": 1
+        },
+        {
+          "index": 2,
+          "brand_id": "wieden_plus_kennedy",
+          "brand_name": "Wieden+Kennedy",
+          "row": 0,
+          "col": 2
+        },
+        {
+          "index": 3,
+          "brand_id": "grey",
+          "brand_name": "Grey",
+          "row": 0,
+          "col": 3
+        },
+        {
+          "index": 4,
+          "brand_id": "fcb",
+          "brand_name": "FCB",
+          "row": 1,
+          "col": 0
+        },
+        {
+          "index": 5,
+          "brand_id": "interbrand",
+          "brand_name": "Interbrand",
+          "row": 1,
+          "col": 1
+        },
+        {
+          "index": 6,
+          "brand_id": "landor",
+          "brand_name": "Landor",
+          "row": 1,
+          "col": 2
+        },
+        {
+          "index": 7,
+          "brand_id": "pentagram",
+          "brand_name": "Pentagram",
+          "row": 1,
+          "col": 3
+        },
+        {
+          "index": 8,
+          "brand_id": "wolff_olins",
+          "brand_name": "Wolff Olins",
+          "row": 2,
+          "col": 0
+        },
+        {
+          "index": 9,
+          "brand_id": "collins",
+          "brand_name": "Collins",
+          "row": 2,
+          "col": 1
+        },
+        {
+          "index": 10,
+          "brand_id": "metadesign",
+          "brand_name": "MetaDesign",
+          "row": 2,
+          "col": 2
+        },
+        {
+          "index": 11,
+          "brand_id": "designstudio",
+          "brand_name": "DesignStudio",
+          "row": 2,
+          "col": 3
+        },
+        {
+          "index": 12,
+          "brand_id": "mucho",
+          "brand_name": "Mucho",
+          "row": 3,
+          "col": 0
+        },
+        {
+          "index": 13,
+          "brand_id": "base_design",
+          "brand_name": "Base Design",
+          "row": 3,
+          "col": 1
+        },
+        {
+          "index": 14,
+          "brand_id": "moving_brands",
+          "brand_name": "Moving Brands",
+          "row": 3,
+          "col": 2
+        },
+        {
+          "index": 15,
+          "brand_id": "superunion",
+          "brand_name": "Superunion",
+          "row": 3,
+          "col": 3
+        }
+      ]
+    },
+    {
+      "grid_id": "logo-grid-i23-004",
+      "industry": "专业服务 / 咨询 / 法律 / 广告",
+      "current_grid_image": "generated/logo-test/grid/logo-grid-i23-004.png",
+      "prompt_file": "generated/logo-test/prompt/logo-grid-i23-004-prompt.txt",
+      "prompt_exists": true,
+      "ingest_command": "node scripts/logo-grid-batch.js ingest logo-grid-i23-004 --source <new_png> --industry \"专业服务 / 咨询 / 法律 / 广告\"",
+      "item_count": 16,
+      "items": [
+        {
+          "index": 0,
+          "brand_id": "futurebrand",
+          "brand_name": "FutureBrand",
+          "row": 0,
+          "col": 0
+        },
+        {
+          "index": 1,
+          "brand_id": "siegel_plus_gale",
+          "brand_name": "Siegel+Gale",
+          "row": 0,
+          "col": 1
+        },
+        {
+          "index": 2,
+          "brand_id": "lippincott",
+          "brand_name": "Lippincott",
+          "row": 0,
+          "col": 2
+        },
+        {
+          "index": 3,
+          "brand_id": "frog_design",
+          "brand_name": "Frog Design",
+          "row": 0,
+          "col": 3
+        },
+        {
+          "index": 4,
+          "brand_id": "ideo",
+          "brand_name": "IDEO",
+          "row": 1,
+          "col": 0
+        },
+        {
+          "index": 5,
+          "brand_id": "huge",
+          "brand_name": "Huge",
+          "row": 1,
+          "col": 1
+        },
+        {
+          "index": 6,
+          "brand_id": "ruder_finn",
+          "brand_name": "Ruder Finn",
+          "row": 1,
+          "col": 2
+        },
+        {
+          "index": 7,
+          "brand_id": "baker_mckenzie",
+          "brand_name": "Baker McKenzie",
+          "row": 1,
+          "col": 3
+        },
+        {
+          "index": 8,
+          "brand_id": "dla_piper",
+          "brand_name": "DLA Piper",
+          "row": 2,
+          "col": 0
+        },
+        {
+          "index": 9,
+          "brand_id": "clifford_chance",
+          "brand_name": "Clifford Chance",
+          "row": 2,
+          "col": 1
+        },
+        {
+          "index": 10,
+          "brand_id": "allen_and_overy",
+          "brand_name": "Allen & Overy",
+          "row": 2,
+          "col": 2
+        },
+        {
+          "index": 11,
+          "brand_id": "linklaters",
+          "brand_name": "Linklaters",
+          "row": 2,
+          "col": 3
+        },
+        {
+          "index": 12,
+          "brand_id": "freshfields",
+          "brand_name": "Freshfields",
+          "row": 3,
+          "col": 0
+        },
+        {
+          "index": 13,
+          "brand_id": "skadden",
+          "brand_name": "Skadden",
+          "row": 3,
+          "col": 1
+        },
+        {
+          "index": 14,
+          "brand_id": "kirkland_and_ellis",
+          "brand_name": "Kirkland & Ellis",
+          "row": 3,
+          "col": 2
+        },
+        {
+          "index": 15,
+          "brand_id": "latham_and_watkins",
+          "brand_name": "Latham & Watkins",
+          "row": 3,
+          "col": 3
+        }
+      ]
+    },
+    {
+      "grid_id": "logo-grid-i23-005",
+      "industry": "专业服务 / 咨询 / 法律 / 广告",
+      "current_grid_image": "generated/logo-test/grid/logo-grid-i23-005.png",
+      "prompt_file": "generated/logo-test/prompt/logo-grid-i23-005-prompt.txt",
+      "prompt_exists": true,
+      "ingest_command": "node scripts/logo-grid-batch.js ingest logo-grid-i23-005 --source <new_png> --industry \"专业服务 / 咨询 / 法律 / 广告\"",
+      "item_count": 16,
+      "items": [
+        {
+          "index": 0,
+          "brand_id": "king_and_wood_mallesons",
+          "brand_name": "King & Wood Mallesons 金杜",
+          "row": 0,
+          "col": 0
+        },
+        {
+          "index": 1,
+          "brand_id": "junhe",
+          "brand_name": "JunHe 君合",
+          "row": 0,
+          "col": 1
+        },
+        {
+          "index": 2,
+          "brand_id": "zhong_lun",
+          "brand_name": "Zhong Lun 中伦",
+          "row": 0,
+          "col": 2
+        },
+        {
+          "index": 3,
+          "brand_id": "fangda",
+          "brand_name": "Fangda 方达",
+          "row": 0,
+          "col": 3
+        },
+        {
+          "index": 4,
+          "brand_id": "mori_hamada_and_matsumoto",
+          "brand_name": "Mori Hamada & Matsumoto",
+          "row": 1,
+          "col": 0
+        },
+        {
+          "index": 5,
+          "brand_id": "nishimura_and_asahi",
+          "brand_name": "Nishimura & Asahi",
+          "row": 1,
+          "col": 1
+        },
+        {
+          "index": 6,
+          "brand_id": "lexisnexis",
+          "brand_name": "LexisNexis",
+          "row": 1,
+          "col": 2
+        },
+        {
+          "index": 7,
+          "brand_id": "westlaw",
+          "brand_name": "Westlaw",
+          "row": 1,
+          "col": 3
+        },
+        {
+          "index": 8,
+          "brand_id": "linkedin_23",
+          "brand_name": "LinkedIn",
+          "row": 2,
+          "col": 0
+        },
+        {
+          "index": 9,
+          "brand_id": "indeed",
+          "brand_name": "Indeed",
+          "row": 2,
+          "col": 1
+        },
+        {
+          "index": 10,
+          "brand_id": "glassdoor",
+          "brand_name": "Glassdoor",
+          "row": 2,
+          "col": 2
+        },
+        {
+          "index": 11,
+          "brand_id": "recruit",
+          "brand_name": "Recruit",
+          "row": 2,
+          "col": 3
+        },
+        {
+          "index": 12,
+          "brand_id": "wantedly",
+          "brand_name": "Wantedly",
+          "row": 3,
+          "col": 0
+        },
+        {
+          "index": 13,
+          "brand_id": "boss",
+          "brand_name": "BOSS直聘",
+          "row": 3,
+          "col": 1
+        },
+        {
+          "index": 14,
+          "brand_id": "zhaopin",
+          "brand_name": "智联招聘 Zhaopin",
+          "row": 3,
+          "col": 2
+        },
+        {
+          "index": 15,
+          "brand_id": "51job",
+          "brand_name": "前程无忧 51job",
+          "row": 3,
+          "col": 3
+        }
+      ]
+    },
+    {
+      "grid_id": "logo-grid-i23-006",
+      "industry": "专业服务 / 咨询 / 法律 / 广告",
+      "current_grid_image": "generated/logo-test/grid/logo-grid-i23-006.png",
+      "prompt_file": "generated/logo-test/prompt/logo-grid-i23-006-prompt.txt",
+      "prompt_exists": true,
+      "ingest_command": "node scripts/logo-grid-batch.js ingest logo-grid-i23-006 --source <new_png> --industry \"专业服务 / 咨询 / 法律 / 广告\"",
+      "item_count": 16,
+      "items": [
+        {
+          "index": 0,
+          "brand_id": "liepin",
+          "brand_name": "猎聘 Liepin",
+          "row": 0,
+          "col": 0
+        },
+        {
+          "index": 1,
+          "brand_id": "lagou",
+          "brand_name": "拉勾 Lagou",
+          "row": 0,
+          "col": 1
+        },
+        {
+          "index": 2,
+          "brand_id": "maimai_23",
+          "brand_name": "脉脉 Maimai",
+          "row": 0,
+          "col": 2
+        },
+        {
+          "index": 3,
+          "brand_id": "workday",
+          "brand_name": "Workday",
+          "row": 0,
+          "col": 3
+        },
+        {
+          "index": 4,
+          "brand_id": "adp",
+          "brand_name": "ADP",
+          "row": 1,
+          "col": 0
+        },
+        {
+          "index": 5,
+          "brand_id": "sap_successfactors",
+          "brand_name": "SAP SuccessFactors",
+          "row": 1,
+          "col": 1
+        },
+        {
+          "index": 6,
+          "brand_id": "moka",
+          "brand_name": "Moka",
+          "row": 1,
+          "col": 2
+        },
+        {
+          "index": 7,
+          "brand_id": "beisen",
+          "brand_name": "北森 Beisen",
+          "row": 1,
+          "col": 3
+        },
+        {
+          "index": 8,
+          "brand_id": "greenhouse",
+          "brand_name": "Greenhouse",
+          "row": 2,
+          "col": 0
+        },
+        {
+          "index": 9,
+          "brand_id": "lever",
+          "brand_name": "Lever",
+          "row": 2,
+          "col": 1
+        },
+        {
+          "index": 10,
+          "brand_id": "bloomberg_terminal",
+          "brand_name": "Bloomberg Terminal",
+          "row": 2,
+          "col": 2
+        },
+        {
+          "index": 11,
+          "brand_id": "refinitiv_lseg_workspace",
+          "brand_name": "Refinitiv / LSEG Workspace",
+          "row": 2,
+          "col": 3
+        },
+        {
+          "index": 12,
+          "brand_id": "s_and_p_global",
+          "brand_name": "S&P Global",
+          "row": 3,
+          "col": 0
+        },
+        {
+          "index": 13,
+          "brand_id": "moodys",
+          "brand_name": "Moody's",
+          "row": 3,
+          "col": 1
+        },
+        {
+          "index": 14,
+          "brand_id": "fitch_ratings",
+          "brand_name": "Fitch Ratings",
+          "row": 3,
+          "col": 2
+        },
+        {
+          "index": 15,
+          "brand_id": "dun_and_bradstreet",
+          "brand_name": "Dun & Bradstreet",
+          "row": 3,
+          "col": 3
+        }
+      ]
+    },
+    {
+      "grid_id": "logo-grid-i23-007",
+      "industry": "专业服务 / 咨询 / 法律 / 广告",
+      "current_grid_image": "generated/logo-test/grid/logo-grid-i23-007.png",
+      "prompt_file": "generated/logo-test/prompt/logo-grid-i23-007-prompt.txt",
+      "prompt_exists": true,
+      "ingest_command": "node scripts/logo-grid-batch.js ingest logo-grid-i23-007 --source <new_png> --industry \"专业服务 / 咨询 / 法律 / 广告\"",
+      "item_count": 16,
+      "items": [
+        {
+          "index": 0,
+          "brand_id": "pitchbook",
+          "brand_name": "PitchBook",
+          "row": 0,
+          "col": 0
+        },
+        {
+          "index": 1,
+          "brand_id": "crunchbase",
+          "brand_name": "Crunchbase",
+          "row": 0,
+          "col": 1
+        },
+        {
+          "index": 2,
+          "brand_id": "cb_insights",
+          "brand_name": "CB Insights",
+          "row": 0,
+          "col": 2
+        },
+        {
+          "index": 3,
+          "brand_id": "cn_76c5d9be",
+          "brand_name": "企查查",
+          "row": 0,
+          "col": 3
+        },
+        {
+          "index": 4,
+          "brand_id": "cn_6bde41af",
+          "brand_name": "天眼查",
+          "row": 1,
+          "col": 0
+        },
+        {
+          "index": 5,
+          "brand_id": "cn_48ee9f45",
+          "brand_name": "启信宝",
+          "row": 1,
+          "col": 1
+        },
+        {
+          "index": 6,
+          "brand_id": "wind",
+          "brand_name": "Wind 万得",
+          "row": 1,
+          "col": 2
+        },
+        {
+          "index": 7,
+          "brand_id": "choice",
+          "brand_name": "Choice 东方财富",
+          "row": 1,
+          "col": 3
+        },
+        {
+          "index": 8,
+          "brand_id": "questmobile",
+          "brand_name": "QuestMobile",
+          "row": 2,
+          "col": 0
+        },
+        {
+          "index": 9,
+          "brand_id": "iresearch",
+          "brand_name": "艾瑞咨询 iResearch",
+          "row": 2,
+          "col": 1
+        },
+        {
+          "index": 10,
+          "brand_id": "nielseniq",
+          "brand_name": "NielsenIQ",
+          "row": 2,
+          "col": 2
+        },
+        {
+          "index": 11,
+          "brand_id": "kantar",
+          "brand_name": "Kantar",
+          "row": 2,
+          "col": 3
+        },
+        {
+          "index": 12,
+          "brand_id": "salesforce",
+          "brand_name": "Salesforce",
+          "row": 3,
+          "col": 0
+        },
+        {
+          "index": 13,
+          "brand_id": "sap",
+          "brand_name": "SAP",
+          "row": 3,
+          "col": 1
+        },
+        {
+          "index": 14,
+          "brand_id": "oracle",
+          "brand_name": "Oracle",
+          "row": 3,
+          "col": 2
+        },
+        {
+          "index": 15,
+          "brand_id": "servicenow",
+          "brand_name": "ServiceNow",
+          "row": 3,
+          "col": 3
+        }
+      ]
+    },
+    {
+      "grid_id": "logo-grid-i23-008",
+      "industry": "专业服务 / 咨询 / 法律 / 广告",
+      "current_grid_image": "generated/logo-test/grid/logo-grid-i23-008.png",
+      "prompt_file": "generated/logo-test/prompt/logo-grid-i23-008-prompt.txt",
+      "prompt_exists": true,
+      "ingest_command": "node scripts/logo-grid-batch.js ingest logo-grid-i23-008 --source <new_png> --industry \"专业服务 / 咨询 / 法律 / 广告\"",
+      "item_count": 14,
+      "items": [
+        {
+          "index": 0,
+          "brand_id": "workday_23",
+          "brand_name": "Workday",
+          "row": 0,
+          "col": 0
+        },
+        {
+          "index": 1,
+          "brand_id": "hubspot",
+          "brand_name": "HubSpot",
+          "row": 0,
+          "col": 1
+        },
+        {
+          "index": 2,
+          "brand_id": "zendesk",
+          "brand_name": "Zendesk",
+          "row": 0,
+          "col": 2
+        },
+        {
+          "index": 3,
+          "brand_id": "shopify",
+          "brand_name": "Shopify",
+          "row": 0,
+          "col": 3
+        },
+        {
+          "index": 4,
+          "brand_id": "atlassian",
+          "brand_name": "Atlassian",
+          "row": 1,
+          "col": 0
+        },
+        {
+          "index": 5,
+          "brand_id": "jira",
+          "brand_name": "Jira",
+          "row": 1,
+          "col": 1
+        },
+        {
+          "index": 6,
+          "brand_id": "confluence",
+          "brand_name": "Confluence",
+          "row": 1,
+          "col": 2
+        },
+        {
+          "index": 7,
+          "brand_id": "microsoft_dynamics",
+          "brand_name": "Microsoft Dynamics",
+          "row": 1,
+          "col": 3
+        },
+        {
+          "index": 8,
+          "brand_id": "zoho",
+          "brand_name": "Zoho",
+          "row": 2,
+          "col": 0
+        },
+        {
+          "index": 9,
+          "brand_id": "freshworks",
+          "brand_name": "Freshworks",
+          "row": 2,
+          "col": 1
+        },
+        {
+          "index": 10,
+          "brand_id": "yonyou",
+          "brand_name": "用友 YonYou",
+          "row": 2,
+          "col": 2
+        },
+        {
+          "index": 11,
+          "brand_id": "kingdee",
+          "brand_name": "金蝶 Kingdee",
+          "row": 2,
+          "col": 3
+        },
+        {
+          "index": 12,
+          "brand_id": "cn_29c79d44",
+          "brand_name": "纷享销客",
+          "row": 3,
+          "col": 0
+        },
+        {
+          "index": 13,
+          "brand_id": "cn_96120710",
+          "brand_name": "明道云",
+          "row": 3,
+          "col": 1
+        }
+      ]
+    },
+    {
+      "grid_id": "logo-grid-i24-001",
+      "industry": "特殊行业 / 高风险行业 / 待筛选",
+      "current_grid_image": "generated/logo-test/grid/logo-grid-i24-001.png",
+      "prompt_file": "generated/logo-test/prompt/logo-grid-i24-001-prompt.txt",
+      "prompt_exists": true,
+      "ingest_command": "node scripts/logo-grid-batch.js ingest logo-grid-i24-001 --source <new_png> --industry \"特殊行业 / 高风险行业 / 待筛选\"",
+      "item_count": 16,
+      "items": [
+        {
+          "index": 0,
+          "brand_id": "marlboro",
+          "brand_name": "Marlboro",
+          "row": 0,
+          "col": 0
+        },
+        {
+          "index": 1,
+          "brand_id": "camel",
+          "brand_name": "Camel",
+          "row": 0,
+          "col": 1
+        },
+        {
+          "index": 2,
+          "brand_id": "lucky_strike",
+          "brand_name": "Lucky Strike",
+          "row": 0,
+          "col": 2
+        },
+        {
+          "index": 3,
+          "brand_id": "winston",
+          "brand_name": "Winston",
+          "row": 0,
+          "col": 3
+        },
+        {
+          "index": 4,
+          "brand_id": "parliament",
+          "brand_name": "Parliament",
+          "row": 1,
+          "col": 0
+        },
+        {
+          "index": 5,
+          "brand_id": "dunhill_tobacco",
+          "brand_name": "Dunhill Tobacco",
+          "row": 1,
+          "col": 1
+        },
+        {
+          "index": 6,
+          "brand_id": "mild_seven_mevius",
+          "brand_name": "Mild Seven / Mevius",
+          "row": 1,
+          "col": 2
+        },
+        {
+          "index": 7,
+          "brand_id": "iqos",
+          "brand_name": "IQOS",
+          "row": 1,
+          "col": 3
+        },
+        {
+          "index": 8,
+          "brand_id": "heets",
+          "brand_name": "HEETS",
+          "row": 2,
+          "col": 0
+        },
+        {
+          "index": 9,
+          "brand_id": "ploom",
+          "brand_name": "Ploom",
+          "row": 2,
+          "col": 1
+        },
+        {
+          "index": 10,
+          "brand_id": "vuse",
+          "brand_name": "Vuse",
+          "row": 2,
+          "col": 2
+        },
+        {
+          "index": 11,
+          "brand_id": "blu",
+          "brand_name": "Blu",
+          "row": 2,
+          "col": 3
+        },
+        {
+          "index": 12,
+          "brand_id": "relx",
+          "brand_name": "RELX 悦刻",
+          "row": 3,
+          "col": 0
+        },
+        {
+          "index": 13,
+          "brand_id": "yooz",
+          "brand_name": "YOOZ",
+          "row": 3,
+          "col": 1
+        },
+        {
+          "index": 14,
+          "brand_id": "moti",
+          "brand_name": "MOTI 魔笛",
+          "row": 3,
+          "col": 2
+        },
+        {
+          "index": 15,
+          "brand_id": "cn_30901a63",
+          "brand_name": "中华烟",
+          "row": 3,
+          "col": 3
+        }
+      ]
+    },
+    {
+      "grid_id": "logo-grid-i24-002",
+      "industry": "特殊行业 / 高风险行业 / 待筛选",
+      "current_grid_image": "generated/logo-test/grid/logo-grid-i24-002.png",
+      "prompt_file": "generated/logo-test/prompt/logo-grid-i24-002-prompt.txt",
+      "prompt_exists": true,
+      "ingest_command": "node scripts/logo-grid-batch.js ingest logo-grid-i24-002 --source <new_png> --industry \"特殊行业 / 高风险行业 / 待筛选\"",
+      "item_count": 16,
+      "items": [
+        {
+          "index": 0,
+          "brand_id": "cn_18472444",
+          "brand_name": "双喜",
+          "row": 0,
+          "col": 0
+        },
+        {
+          "index": 1,
+          "brand_id": "cn_1cebc104",
+          "brand_name": "黄鹤楼",
+          "row": 0,
+          "col": 1
+        },
+        {
+          "index": 2,
+          "brand_id": "bet365",
+          "brand_name": "Bet365",
+          "row": 0,
+          "col": 2
+        },
+        {
+          "index": 3,
+          "brand_id": "draftkings",
+          "brand_name": "DraftKings",
+          "row": 0,
+          "col": 3
+        },
+        {
+          "index": 4,
+          "brand_id": "fanduel",
+          "brand_name": "FanDuel",
+          "row": 1,
+          "col": 0
+        },
+        {
+          "index": 5,
+          "brand_id": "william_hill",
+          "brand_name": "William Hill",
+          "row": 1,
+          "col": 1
+        },
+        {
+          "index": 6,
+          "brand_id": "ladbrokes",
+          "brand_name": "Ladbrokes",
+          "row": 1,
+          "col": 2
+        },
+        {
+          "index": 7,
+          "brand_id": "paddy_power",
+          "brand_name": "Paddy Power",
+          "row": 1,
+          "col": 3
+        },
+        {
+          "index": 8,
+          "brand_id": "betfair",
+          "brand_name": "Betfair",
+          "row": 2,
+          "col": 0
+        },
+        {
+          "index": 9,
+          "brand_id": "mgm_resorts_betmgm",
+          "brand_name": "MGM Resorts BetMGM",
+          "row": 2,
+          "col": 1
+        },
+        {
+          "index": 10,
+          "brand_id": "caesars_sportsbook",
+          "brand_name": "Caesars Sportsbook",
+          "row": 2,
+          "col": 2
+        },
+        {
+          "index": 11,
+          "brand_id": "pokerstars",
+          "brand_name": "PokerStars",
+          "row": 2,
+          "col": 3
+        },
+        {
+          "index": 12,
+          "brand_id": "888poker",
+          "brand_name": "888poker",
+          "row": 3,
+          "col": 0
+        },
+        {
+          "index": 13,
+          "brand_id": "sjm",
+          "brand_name": "澳门博彩 SJM",
+          "row": 3,
+          "col": 1
+        },
+        {
+          "index": 14,
+          "brand_id": "cn_998a45fe",
+          "brand_name": "中国体育彩票",
+          "row": 3,
+          "col": 2
+        },
+        {
+          "index": 15,
+          "brand_id": "cn_6c6e6fb0",
+          "brand_name": "中国福利彩票",
+          "row": 3,
+          "col": 3
+        }
+      ]
+    },
+    {
+      "grid_id": "logo-grid-i24-003",
+      "industry": "特殊行业 / 高风险行业 / 待筛选",
+      "current_grid_image": "generated/logo-test/grid/logo-grid-i24-003.png",
+      "prompt_file": "generated/logo-test/prompt/logo-grid-i24-003-prompt.txt",
+      "prompt_exists": true,
+      "ingest_command": "node scripts/logo-grid-batch.js ingest logo-grid-i24-003 --source <new_png> --industry \"特殊行业 / 高风险行业 / 待筛选\"",
+      "item_count": 16,
+      "items": [
+        {
+          "index": 0,
+          "brand_id": "japan_sports_council_toto",
+          "brand_name": "Japan Sports Council Toto",
+          "row": 0,
+          "col": 0
+        },
+        {
+          "index": 1,
+          "brand_id": "las_vegas_sands",
+          "brand_name": "Las Vegas Sands",
+          "row": 0,
+          "col": 1
+        },
+        {
+          "index": 2,
+          "brand_id": "mgm_resorts",
+          "brand_name": "MGM Resorts",
+          "row": 0,
+          "col": 2
+        },
+        {
+          "index": 3,
+          "brand_id": "wynn_resorts",
+          "brand_name": "Wynn Resorts",
+          "row": 0,
+          "col": 3
+        },
+        {
+          "index": 4,
+          "brand_id": "caesars_entertainment",
+          "brand_name": "Caesars Entertainment",
+          "row": 1,
+          "col": 0
+        },
+        {
+          "index": 5,
+          "brand_id": "galaxy_entertainment",
+          "brand_name": "Galaxy Entertainment 银河娱乐",
+          "row": 1,
+          "col": 1
+        },
+        {
+          "index": 6,
+          "brand_id": "sjm_holdings",
+          "brand_name": "SJM Holdings 澳博",
+          "row": 1,
+          "col": 2
+        },
+        {
+          "index": 7,
+          "brand_id": "melco",
+          "brand_name": "Melco 新濠",
+          "row": 1,
+          "col": 3
+        },
+        {
+          "index": 8,
+          "brand_id": "mgm_china",
+          "brand_name": "MGM China 美高梅中国",
+          "row": 2,
+          "col": 0
+        },
+        {
+          "index": 9,
+          "brand_id": "wynn_macau",
+          "brand_name": "Wynn Macau 永利澳门",
+          "row": 2,
+          "col": 1
+        },
+        {
+          "index": 10,
+          "brand_id": "resorts_world_genting",
+          "brand_name": "Resorts World Genting",
+          "row": 2,
+          "col": 2
+        },
+        {
+          "index": 11,
+          "brand_id": "marina_bay_sands",
+          "brand_name": "Marina Bay Sands",
+          "row": 2,
+          "col": 3
+        },
+        {
+          "index": 12,
+          "brand_id": "the_venetian",
+          "brand_name": "The Venetian",
+          "row": 3,
+          "col": 0
+        },
+        {
+          "index": 13,
+          "brand_id": "city_of_dreams",
+          "brand_name": "City of Dreams",
+          "row": 3,
+          "col": 1
+        },
+        {
+          "index": 14,
+          "brand_id": "onlyfans",
+          "brand_name": "OnlyFans",
+          "row": 3,
+          "col": 2
+        },
+        {
+          "index": 15,
+          "brand_id": "pornhub",
+          "brand_name": "Pornhub",
+          "row": 3,
+          "col": 3
+        }
+      ]
+    },
+    {
+      "grid_id": "logo-grid-i24-004",
+      "industry": "特殊行业 / 高风险行业 / 待筛选",
+      "current_grid_image": "generated/logo-test/grid/logo-grid-i24-004.png",
+      "prompt_file": "generated/logo-test/prompt/logo-grid-i24-004-prompt.txt",
+      "prompt_exists": true,
+      "ingest_command": "node scripts/logo-grid-batch.js ingest logo-grid-i24-004 --source <new_png> --industry \"特殊行业 / 高风险行业 / 待筛选\"",
+      "item_count": 16,
+      "items": [
+        {
+          "index": 0,
+          "brand_id": "brazzers",
+          "brand_name": "Brazzers",
+          "row": 0,
+          "col": 0
+        },
+        {
+          "index": 1,
+          "brand_id": "playboy",
+          "brand_name": "Playboy",
+          "row": 0,
+          "col": 1
+        },
+        {
+          "index": 2,
+          "brand_id": "penthouse",
+          "brand_name": "Penthouse",
+          "row": 0,
+          "col": 2
+        },
+        {
+          "index": 3,
+          "brand_id": "fanza",
+          "brand_name": "FANZA",
+          "row": 0,
+          "col": 3
+        },
+        {
+          "index": 4,
+          "brand_id": "dmm",
+          "brand_name": "DMM",
+          "row": 1,
+          "col": 0
+        },
+        {
+          "index": 5,
+          "brand_id": "r18_com",
+          "brand_name": "R18.com",
+          "row": 1,
+          "col": 1
+        },
+        {
+          "index": 6,
+          "brand_id": "manyvids",
+          "brand_name": "ManyVids",
+          "row": 1,
+          "col": 2
+        },
+        {
+          "index": 7,
+          "brand_id": "fansly",
+          "brand_name": "Fansly",
+          "row": 1,
+          "col": 3
+        },
+        {
+          "index": 8,
+          "brand_id": "glock",
+          "brand_name": "Glock",
+          "row": 2,
+          "col": 0
+        },
+        {
+          "index": 9,
+          "brand_id": "beretta",
+          "brand_name": "Beretta",
+          "row": 2,
+          "col": 1
+        },
+        {
+          "index": 10,
+          "brand_id": "colt",
+          "brand_name": "Colt",
+          "row": 2,
+          "col": 2
+        },
+        {
+          "index": 11,
+          "brand_id": "smith_and_wesson",
+          "brand_name": "Smith & Wesson",
+          "row": 2,
+          "col": 3
+        },
+        {
+          "index": 12,
+          "brand_id": "remington",
+          "brand_name": "Remington",
+          "row": 3,
+          "col": 0
+        },
+        {
+          "index": 13,
+          "brand_id": "winchester",
+          "brand_name": "Winchester",
+          "row": 3,
+          "col": 1
+        },
+        {
+          "index": 14,
+          "brand_id": "sig_sauer",
+          "brand_name": "SIG Sauer",
+          "row": 3,
+          "col": 2
+        },
+        {
+          "index": 15,
+          "brand_id": "heckler_and_koch",
+          "brand_name": "Heckler & Koch",
+          "row": 3,
+          "col": 3
+        }
+      ]
+    },
+    {
+      "grid_id": "logo-grid-i24-005",
+      "industry": "特殊行业 / 高风险行业 / 待筛选",
+      "current_grid_image": "generated/logo-test/grid/logo-grid-i24-005.png",
+      "prompt_file": "generated/logo-test/prompt/logo-grid-i24-005-prompt.txt",
+      "prompt_exists": true,
+      "ingest_command": "node scripts/logo-grid-batch.js ingest logo-grid-i24-005 --source <new_png> --industry \"特殊行业 / 高风险行业 / 待筛选\"",
+      "item_count": 16,
+      "items": [
+        {
+          "index": 0,
+          "brand_id": "browning",
+          "brand_name": "Browning",
+          "row": 0,
+          "col": 0
+        },
+        {
+          "index": 1,
+          "brand_id": "ruger",
+          "brand_name": "Ruger",
+          "row": 0,
+          "col": 1
+        },
+        {
+          "index": 2,
+          "brand_id": "bushnell",
+          "brand_name": "Bushnell",
+          "row": 0,
+          "col": 2
+        },
+        {
+          "index": 3,
+          "brand_id": "leupold",
+          "brand_name": "Leupold",
+          "row": 0,
+          "col": 3
+        },
+        {
+          "index": 4,
+          "brand_id": "magpul",
+          "brand_name": "Magpul",
+          "row": 1,
+          "col": 0
+        },
+        {
+          "index": 5,
+          "brand_id": "safariland",
+          "brand_name": "Safariland",
+          "row": 1,
+          "col": 1
+        },
+        {
+          "index": 6,
+          "brand_id": "5_11_tactical",
+          "brand_name": "5.11 Tactical",
+          "row": 1,
+          "col": 2
+        },
+        {
+          "index": 7,
+          "brand_id": "tinder",
+          "brand_name": "Tinder",
+          "row": 1,
+          "col": 3
+        },
+        {
+          "index": 8,
+          "brand_id": "bumble",
+          "brand_name": "Bumble",
+          "row": 2,
+          "col": 0
+        },
+        {
+          "index": 9,
+          "brand_id": "hinge",
+          "brand_name": "Hinge",
+          "row": 2,
+          "col": 1
+        },
+        {
+          "index": 10,
+          "brand_id": "okcupid",
+          "brand_name": "OkCupid",
+          "row": 2,
+          "col": 2
+        },
+        {
+          "index": 11,
+          "brand_id": "match_com",
+          "brand_name": "Match.com",
+          "row": 2,
+          "col": 3
+        },
+        {
+          "index": 12,
+          "brand_id": "grindr",
+          "brand_name": "Grindr",
+          "row": 3,
+          "col": 0
+        },
+        {
+          "index": 13,
+          "brand_id": "badoo",
+          "brand_name": "Badoo",
+          "row": 3,
+          "col": 1
+        },
+        {
+          "index": 14,
+          "brand_id": "pairs",
+          "brand_name": "Pairs",
+          "row": 3,
+          "col": 2
+        },
+        {
+          "index": 15,
+          "brand_id": "tapple",
+          "brand_name": "Tapple",
+          "row": 3,
+          "col": 3
+        }
+      ]
+    },
+    {
+      "grid_id": "logo-grid-i24-006",
+      "industry": "特殊行业 / 高风险行业 / 待筛选",
+      "current_grid_image": "generated/logo-test/grid/logo-grid-i24-006.png",
+      "prompt_file": "generated/logo-test/prompt/logo-grid-i24-006-prompt.txt",
+      "prompt_exists": true,
+      "ingest_command": "node scripts/logo-grid-batch.js ingest logo-grid-i24-006 --source <new_png> --industry \"特殊行业 / 高风险行业 / 待筛选\"",
+      "item_count": 16,
+      "items": [
+        {
+          "index": 0,
+          "brand_id": "with",
+          "brand_name": "With",
+          "row": 0,
+          "col": 0
+        },
+        {
+          "index": 1,
+          "brand_id": "soul",
+          "brand_name": "Soul",
+          "row": 0,
+          "col": 1
+        },
+        {
+          "index": 2,
+          "brand_id": "tantan",
+          "brand_name": "探探 Tantan",
+          "row": 0,
+          "col": 2
+        },
+        {
+          "index": 3,
+          "brand_id": "momo",
+          "brand_name": "陌陌 Momo",
+          "row": 0,
+          "col": 3
+        },
+        {
+          "index": 4,
+          "brand_id": "her",
+          "brand_name": "Her",
+          "row": 1,
+          "col": 0
+        },
+        {
+          "index": 5,
+          "brand_id": "coffee_meets_bagel",
+          "brand_name": "Coffee Meets Bagel",
+          "row": 1,
+          "col": 1
+        },
+        {
+          "index": 6,
+          "brand_id": "vatican",
+          "brand_name": "Vatican",
+          "row": 1,
+          "col": 2
+        },
+        {
+          "index": 7,
+          "brand_id": "church_of_england",
+          "brand_name": "Church of England",
+          "row": 1,
+          "col": 3
+        },
+        {
+          "index": 8,
+          "brand_id": "salvation_army",
+          "brand_name": "Salvation Army",
+          "row": 2,
+          "col": 0
+        },
+        {
+          "index": 9,
+          "brand_id": "soka_gakkai",
+          "brand_name": "Soka Gakkai",
+          "row": 2,
+          "col": 1
+        },
+        {
+          "index": 10,
+          "brand_id": "islamic_relief",
+          "brand_name": "Islamic Relief",
+          "row": 2,
+          "col": 2
+        },
+        {
+          "index": 11,
+          "brand_id": "world_council_of_churches",
+          "brand_name": "World Council of Churches",
+          "row": 2,
+          "col": 3
+        },
+        {
+          "index": 12,
+          "brand_id": "democratic_party",
+          "brand_name": "Democratic Party",
+          "row": 3,
+          "col": 0
+        },
+        {
+          "index": 13,
+          "brand_id": "republican_party",
+          "brand_name": "Republican Party",
+          "row": 3,
+          "col": 1
+        },
+        {
+          "index": 14,
+          "brand_id": "labour_party_uk",
+          "brand_name": "Labour Party UK",
+          "row": 3,
+          "col": 2
+        },
+        {
+          "index": 15,
+          "brand_id": "conservative_party_uk",
+          "brand_name": "Conservative Party UK",
+          "row": 3,
+          "col": 3
+        }
+      ]
+    },
+    {
+      "grid_id": "logo-grid-i24-007",
+      "industry": "特殊行业 / 高风险行业 / 待筛选",
+      "current_grid_image": "generated/logo-test/grid/logo-grid-i24-007.png",
+      "prompt_file": "generated/logo-test/prompt/logo-grid-i24-007-prompt.txt",
+      "prompt_exists": true,
+      "ingest_command": "node scripts/logo-grid-batch.js ingest logo-grid-i24-007 --source <new_png> --industry \"特殊行业 / 高风险行业 / 待筛选\"",
+      "item_count": 16,
+      "items": [
+        {
+          "index": 0,
+          "brand_id": "liberal_democratic_party_japan",
+          "brand_name": "Liberal Democratic Party Japan",
+          "row": 0,
+          "col": 0
+        },
+        {
+          "index": 1,
+          "brand_id": "european_peoples_party",
+          "brand_name": "European People's Party",
+          "row": 0,
+          "col": 1
+        },
+        {
+          "index": 2,
+          "brand_id": "green_party",
+          "brand_name": "Green Party",
+          "row": 0,
+          "col": 2
+        },
+        {
+          "index": 3,
+          "brand_id": "social_democratic_party",
+          "brand_name": "Social Democratic Party",
+          "row": 0,
+          "col": 3
+        },
+        {
+          "index": 4,
+          "brand_id": "4chan",
+          "brand_name": "4chan",
+          "row": 1,
+          "col": 0
+        },
+        {
+          "index": 5,
+          "brand_id": "8kun",
+          "brand_name": "8kun",
+          "row": 1,
+          "col": 1
+        },
+        {
+          "index": 6,
+          "brand_id": "telegram_channels",
+          "brand_name": "Telegram Channels",
+          "row": 1,
+          "col": 2
+        },
+        {
+          "index": 7,
+          "brand_id": "truth_social",
+          "brand_name": "Truth Social",
+          "row": 1,
+          "col": 3
+        },
+        {
+          "index": 8,
+          "brand_id": "parler",
+          "brand_name": "Parler",
+          "row": 2,
+          "col": 0
+        },
+        {
+          "index": 9,
+          "brand_id": "gab",
+          "brand_name": "Gab",
+          "row": 2,
+          "col": 1
+        },
+        {
+          "index": 10,
+          "brand_id": "kick_streaming",
+          "brand_name": "Kick Streaming",
+          "row": 2,
+          "col": 2
+        },
+        {
+          "index": 11,
+          "brand_id": "rumble_24",
+          "brand_name": "Rumble",
+          "row": 2,
+          "col": 3
+        },
+        {
+          "index": 12,
+          "brand_id": "odysee",
+          "brand_name": "Odysee",
+          "row": 3,
+          "col": 0
+        },
+        {
+          "index": 13,
+          "brand_id": "bitchute",
+          "brand_name": "BitChute",
+          "row": 3,
+          "col": 1
+        },
+        {
+          "index": 14,
+          "brand_id": "the_pirate_bay",
+          "brand_name": "The Pirate Bay",
+          "row": 3,
+          "col": 2
+        },
+        {
+          "index": 15,
+          "brand_id": "sci_hub",
+          "brand_name": "Sci-Hub",
+          "row": 3,
+          "col": 3
+        }
+      ]
+    },
+    {
+      "grid_id": "logo-grid-i24-008",
+      "industry": "特殊行业 / 高风险行业 / 待筛选",
+      "current_grid_image": "generated/logo-test/grid/logo-grid-i24-008.png",
+      "prompt_file": "generated/logo-test/prompt/logo-grid-i24-008-prompt.txt",
+      "prompt_exists": true,
+      "ingest_command": "node scripts/logo-grid-batch.js ingest logo-grid-i24-008 --source <new_png> --industry \"特殊行业 / 高风险行业 / 待筛选\"",
+      "item_count": 1,
+      "items": [
+        {
+          "index": 0,
+          "brand_id": "libgen",
+          "brand_name": "Libgen",
+          "row": 0,
+          "col": 0
+        }
+      ]
+    }
+  ]
+}

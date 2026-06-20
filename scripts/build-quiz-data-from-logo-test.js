@@ -1,5 +1,6 @@
 const fs = require("node:fs");
 const path = require("node:path");
+const crypto = require("node:crypto");
 const { parse } = require("csv-parse/sync");
 
 const root = path.resolve(__dirname, "..");
@@ -17,6 +18,7 @@ const cdnBase = (process.env.LOGO_CDN_BASE || "https://logos.lupio.studio/logos/
 const questionReviewFile = path.join(reviewDir, "quiz-questions-preview.html");
 const buildReportFile = path.join(reportDir, "logo-test-build-report.json");
 const validationReportFile = path.join(reportDir, "quiz-data-validation-report.json");
+const duplicateExclusionReportFile = path.join(reportDir, "logo-duplicate-exclusion-report.json");
 
 function ensureDir(dir) {
   fs.mkdirSync(dir, { recursive: true });
@@ -38,6 +40,10 @@ function writeJs(file, data) {
 function writeJson(file, data) {
   ensureDir(path.dirname(file));
   fs.writeFileSync(file, `${JSON.stringify(data, null, 2)}\n`, "utf8");
+}
+
+function fileSha1(file) {
+  return crypto.createHash("sha1").update(fs.readFileSync(file)).digest("hex");
 }
 
 function htmlEscape(value) {
@@ -162,6 +168,52 @@ function publicBrand(brand) {
   };
 }
 
+function findDuplicateLogoExclusions(brands) {
+  const hashGroups = new Map();
+  const missing = [];
+  for (const brand of brands) {
+    const file = path.join(tilesDir, `${brand.brand_id}.webp`);
+    if (!fs.existsSync(file)) {
+      missing.push(brand.brand_id);
+      continue;
+    }
+    const hash = fileSha1(file);
+    if (!hashGroups.has(hash)) hashGroups.set(hash, []);
+    hashGroups.get(hash).push(brand);
+  }
+
+  const duplicateGroups = [];
+  const excludedBrandIds = new Set();
+  for (const [sha1, group] of hashGroups) {
+    if (group.length <= 1) continue;
+    const [kept, ...excluded] = group;
+    for (const brand of excluded) excludedBrandIds.add(brand.brand_id);
+    duplicateGroups.push({
+      sha1,
+      count: group.length,
+      kept: {
+        brand_id: kept.brand_id,
+        display_name: kept.display_name,
+        file: `generated/logo-test/tiles/${kept.brand_id}.webp`
+      },
+      excluded: excluded.map((brand) => ({
+        brand_id: brand.brand_id,
+        display_name: brand.display_name,
+        file: `generated/logo-test/tiles/${brand.brand_id}.webp`
+      }))
+    });
+  }
+
+  duplicateGroups.sort((a, b) => b.count - a.count || a.kept.brand_id.localeCompare(b.kept.brand_id));
+  return {
+    missing,
+    duplicateGroups,
+    excludedBrandIds,
+    duplicateAffectedBrandCount: duplicateGroups.reduce((sum, group) => sum + group.count, 0),
+    excludedBrandCount: excludedBrandIds.size
+  };
+}
+
 function buildQuestions(brands) {
   const questions = [];
   for (const brand of brands) {
@@ -191,7 +243,6 @@ function buildQuestions(brands) {
 }
 
 function copyDistLogos(brands) {
-  fs.rmSync(distLogoDir, { recursive: true, force: true });
   ensureDir(distLogoDir);
   const missing = [];
   for (const brand of brands) {
@@ -201,11 +252,26 @@ function copyDistLogos(brands) {
       missing.push(brand.brand_id);
       continue;
     }
-    fs.copyFileSync(source, target);
+    copyFileWithRetry(source, target);
   }
   ensureDir(path.join(root, "dist"));
   fs.writeFileSync(path.join(root, "dist", "index.html"), "<!doctype html><title>Logo Assets</title>\n", "utf8");
   return missing;
+}
+
+function copyFileWithRetry(source, target, attempts = 5) {
+  let lastError;
+  for (let attempt = 1; attempt <= attempts; attempt += 1) {
+    try {
+      fs.copyFileSync(source, target);
+      return;
+    } catch (error) {
+      lastError = error;
+      if (attempt === attempts) break;
+      Atomics.wait(new Int32Array(new SharedArrayBuffer(4)), 0, 0, 80 * attempt);
+    }
+  }
+  throw lastError;
 }
 
 function writeQuizPreview(brands, questions) {
@@ -404,7 +470,9 @@ function build() {
   const rows = readCsv(csvFile);
   const gridMap = loadGridMap();
   const brands = rows.map((row) => brandFromRow(row, gridMap));
-  const publicBrands = brands.map(publicBrand);
+  const allPublicBrands = brands.map(publicBrand);
+  const duplicateAudit = findDuplicateLogoExclusions(allPublicBrands);
+  const publicBrands = allPublicBrands.filter((brand) => !duplicateAudit.excludedBrandIds.has(brand.brand_id));
   const missingDistSources = copyDistLogos(publicBrands);
   const questions = buildQuestions(publicBrands);
 
@@ -430,11 +498,16 @@ function build() {
     source_csv: "logo_industry_brand_collection_MAX_flat.csv",
     source_tiles: "generated/logo-test/tiles",
     logo_base_url: cdnBase,
+    original_brand_count: allPublicBrands.length,
     brand_count: publicBrands.length,
     question_count: questions.length,
     logo_to_brand_count: questions.filter((q) => q.type === "logo_to_brand").length,
     brand_to_logo_count: questions.filter((q) => q.type === "brand_to_logo").length,
     dist_logo_dir: "dist/logos/v20260618",
+    duplicate_logo_group_count: duplicateAudit.duplicateGroups.length,
+    duplicate_logo_affected_brand_count: duplicateAudit.duplicateAffectedBrandCount,
+    duplicate_logo_excluded_brand_count: duplicateAudit.excludedBrandCount,
+    duplicate_logo_exclusion_report: "reports/logo-duplicate-exclusion-report.json",
     missing_dist_source_count: missingDistSources.length,
     missing_dist_sources: missingDistSources.slice(0, 50),
     validation_error_count: errors.length,
@@ -443,6 +516,17 @@ function build() {
     by_priority: byPriority
   };
   writeJson(buildReportFile, report);
+  writeJson(duplicateExclusionReportFile, {
+    generated_at: report.generated_at,
+    original_brand_count: allPublicBrands.length,
+    kept_brand_count: publicBrands.length,
+    duplicate_group_count: duplicateAudit.duplicateGroups.length,
+    duplicate_affected_brand_count: duplicateAudit.duplicateAffectedBrandCount,
+    excluded_brand_count: duplicateAudit.excludedBrandCount,
+    missing_tile_source_count: duplicateAudit.missing.length,
+    missing_tile_sources: duplicateAudit.missing,
+    duplicate_groups: duplicateAudit.duplicateGroups
+  });
   writeJson(validationReportFile, {
     generated_at: report.generated_at,
     brand_count: publicBrands.length,
