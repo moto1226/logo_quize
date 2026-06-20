@@ -9,11 +9,6 @@
         "pages/quiz/quiz",
         "pages/result/result"
       ]
-    },
-    {
-      "root": "skills",
-      "pages": [],
-      "independent": true
     }
   ],
   "window": {
@@ -21,16 +16,6 @@
     "navigationBarBackgroundColor": "#ffffff",
     "navigationBarTextStyle": "black",
     "backgroundColor": "#f6f7f9"
-  },
-  "agent": {
-    "skills": [
-      {
-        "name": "quiz",
-        "description": "识标挑战：开始 Logo 识别练习、选择练习模式、查看题库规模和最近成绩",
-        "path": "skills/quiz-skill"
-      }
-    ],
-    "pageMetadata": "page-meta.json"
   },
   "style": "v2",
   "sitemapLocation": "sitemap.json"

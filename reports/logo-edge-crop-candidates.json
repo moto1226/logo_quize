@@ -1,0 +1,258 @@
+{
+  "generated_at": "2026-06-20T11:49:43.358Z",
+  "count": 14,
+  "candidates": [
+    {
+      "id": "cn_ec8bfa3e",
+      "file": "cn_ec8bfa3e.webp",
+      "score": 258,
+      "edge": {
+        "top": 258,
+        "bottom": 0,
+        "left": 0,
+        "right": 0
+      },
+      "bbox": {
+        "minX": 42,
+        "minY": 0,
+        "maxX": 390,
+        "maxY": 368
+      },
+      "sampledNonWhite": 20406
+    },
+    {
+      "id": "byjus",
+      "file": "byjus.webp",
+      "score": 132,
+      "edge": {
+        "top": 0,
+        "bottom": 0,
+        "left": 132,
+        "right": 0
+      },
+      "bbox": {
+        "minX": 0,
+        "minY": 112,
+        "maxX": 436,
+        "maxY": 246
+      },
+      "sampledNonWhite": 7700
+    },
+    {
+      "id": "cn_ce47bd58",
+      "file": "cn_ce47bd58.webp",
+      "score": 118,
+      "edge": {
+        "top": 0,
+        "bottom": 0,
+        "left": 118,
+        "right": 0
+      },
+      "bbox": {
+        "minX": 0,
+        "minY": 164,
+        "maxX": 468,
+        "maxY": 302
+      },
+      "sampledNonWhite": 8286
+    },
+    {
+      "id": "cpa_australia",
+      "file": "cpa_australia.webp",
+      "score": 111,
+      "edge": {
+        "top": 0,
+        "bottom": 0,
+        "left": 111,
+        "right": 0
+      },
+      "bbox": {
+        "minX": 2,
+        "minY": 176,
+        "maxX": 460,
+        "maxY": 400
+      },
+      "sampledNonWhite": 25475
+    },
+    {
+      "id": "microsoft_learn",
+      "file": "microsoft_learn.webp",
+      "score": 107,
+      "edge": {
+        "top": 0,
+        "bottom": 0,
+        "left": 107,
+        "right": 0
+      },
+      "bbox": {
+        "minX": 0,
+        "minY": 212,
+        "maxX": 446,
+        "maxY": 360
+      },
+      "sampledNonWhite": 7730
+    },
+    {
+      "id": "kaiser_permanente",
+      "file": "kaiser_permanente.webp",
+      "score": 78,
+      "edge": {
+        "top": 0,
+        "bottom": 0,
+        "left": 78,
+        "right": 0
+      },
+      "bbox": {
+        "minX": 0,
+        "minY": 130,
+        "maxX": 476,
+        "maxY": 288
+      },
+      "sampledNonWhite": 6169
+    },
+    {
+      "id": "cn_13b5f816",
+      "file": "cn_13b5f816.webp",
+      "score": 66,
+      "edge": {
+        "top": 0,
+        "bottom": 0,
+        "left": 66,
+        "right": 0
+      },
+      "bbox": {
+        "minX": 0,
+        "minY": 4,
+        "maxX": 398,
+        "maxY": 348
+      },
+      "sampledNonWhite": 8527
+    },
+    {
+      "id": "cn_9ce02494",
+      "file": "cn_9ce02494.webp",
+      "score": 62,
+      "edge": {
+        "top": 62,
+        "bottom": 0,
+        "left": 0,
+        "right": 0
+      },
+      "bbox": {
+        "minX": 88,
+        "minY": 0,
+        "maxX": 378,
+        "maxY": 292
+      },
+      "sampledNonWhite": 6993
+    },
+    {
+      "id": "tiger_brokers",
+      "file": "tiger_brokers.webp",
+      "score": 51,
+      "edge": {
+        "top": 0,
+        "bottom": 0,
+        "left": 51,
+        "right": 0
+      },
+      "bbox": {
+        "minX": 0,
+        "minY": 188,
+        "maxX": 448,
+        "maxY": 348
+      },
+      "sampledNonWhite": 8186
+    },
+    {
+      "id": "airtasker",
+      "file": "airtasker.webp",
+      "score": 35,
+      "edge": {
+        "top": 0,
+        "bottom": 0,
+        "left": 35,
+        "right": 0
+      },
+      "bbox": {
+        "minX": 0,
+        "minY": 128,
+        "maxX": 450,
+        "maxY": 216
+      },
+      "sampledNonWhite": 4857
+    },
+    {
+      "id": "qatar_airways",
+      "file": "qatar_airways.webp",
+      "score": 28,
+      "edge": {
+        "top": 0,
+        "bottom": 0,
+        "left": 28,
+        "right": 0
+      },
+      "bbox": {
+        "minX": 0,
+        "minY": 150,
+        "maxX": 468,
+        "maxY": 290
+      },
+      "sampledNonWhite": 5449
+    },
+    {
+      "id": "cfa_institute",
+      "file": "cfa_institute.webp",
+      "score": 27,
+      "edge": {
+        "top": 0,
+        "bottom": 0,
+        "left": 0,
+        "right": 27
+      },
+      "bbox": {
+        "minX": 58,
+        "minY": 200,
+        "maxX": 510,
+        "maxY": 368
+      },
+      "sampledNonWhite": 7716
+    },
+    {
+      "id": "novartis",
+      "file": "novartis.webp",
+      "score": 27,
+      "edge": {
+        "top": 0,
+        "bottom": 0,
+        "left": 27,
+        "right": 0
+      },
+      "bbox": {
+        "minX": 0,
+        "minY": 212,
+        "maxX": 464,
+        "maxY": 314
+      },
+      "sampledNonWhite": 3201
+    },
+    {
+      "id": "legoland",
+      "file": "legoland.webp",
+      "score": 26,
+      "edge": {
+        "top": 0,
+        "bottom": 0,
+        "left": 0,
+        "right": 26
+      },
+      "bbox": {
+        "minX": 48,
+        "minY": 192,
+        "maxX": 510,
+        "maxY": 382
+      },
+      "sampledNonWhite": 6744
+    }
+  ]
+}

@@ -1,0 +1,3316 @@
+{
+  "summary": {
+    "total": 120,
+    "blur": 21,
+    "crop_or_border": 99,
+    "excludedManual": 22,
+    "generatedAt": "2026-06-20T07:21:58.040Z"
+  },
+  "candidates": [
+    {
+      "brand_id": "anchor_spotify_for_podcasters",
+      "name": "Anchor / Spotify for Podcasters",
+      "category": "新闻 / 媒体 / 内容平台 / 播客 / 音频内容",
+      "file": "dist\\logos\\v20260620\\anchor_spotify_for_podcasters.webp",
+      "score": 3.22,
+      "fileSize": 4456,
+      "contentRatio": 0.3566,
+      "edgeDensity": 0,
+      "laplacianVariance": 4.47,
+      "layout": {
+        "left": 86,
+        "top": 86,
+        "right": 85,
+        "bottom": 84,
+        "offsetX": 1,
+        "offsetY": 1,
+        "bboxWidth": 341,
+        "bboxHeight": 342,
+        "contentRatio": 0.3566
+      },
+      "issue_type": "blur",
+      "reasons": [
+        "文件较小且边缘密度偏低",
+        "大面积内容但细节分数偏低",
+        "局部锐度和边缘数量都偏低"
+      ]
+    },
+    {
+      "brand_id": "36",
+      "name": "36氪",
+      "category": "新闻 / 媒体 / 内容平台 / 中国新闻 / 门户",
+      "file": "dist\\logos\\v20260620\\36.webp",
+      "score": 4.16,
+      "fileSize": 3788,
+      "contentRatio": 0.2387,
+      "edgeDensity": 0,
+      "laplacianVariance": 5.71,
+      "layout": {
+        "left": 85,
+        "top": 97,
+        "right": 84,
+        "bottom": 96,
+        "offsetX": 1,
+        "offsetY": 1,
+        "bboxWidth": 343,
+        "bboxHeight": 319,
+        "contentRatio": 0.2387
+      },
+      "issue_type": "blur",
+      "reasons": [
+        "文件较小且边缘密度偏低",
+        "局部锐度和边缘数量都偏低"
+      ]
+    },
+    {
+      "brand_id": "adobe_stock",
+      "name": "Adobe Stock",
+      "category": "新闻 / 媒体 / 内容平台 / 图片 / 灵感平台",
+      "file": "dist\\logos\\v20260620\\adobe_stock.webp",
+      "score": 4.57,
+      "fileSize": 3430,
+      "contentRatio": 0.444,
+      "edgeDensity": 0.0001,
+      "laplacianVariance": 6.15,
+      "layout": {
+        "left": 79,
+        "top": 79,
+        "right": 79,
+        "bottom": 81,
+        "offsetX": 0,
+        "offsetY": -1,
+        "bboxWidth": 354,
+        "bboxHeight": 352,
+        "contentRatio": 0.444
+      },
+      "issue_type": "blur",
+      "reasons": [
+        "文件较小且边缘密度偏低",
+        "大面积内容但细节分数偏低",
+        "局部锐度和边缘数量都偏低"
+      ]
+    },
+    {
+      "brand_id": "spotify_podcasts",
+      "name": "Spotify Podcasts",
+      "category": "新闻 / 媒体 / 内容平台 / 播客 / 音频内容",
+      "file": "dist\\logos\\v20260620\\spotify_podcasts.webp",
+      "score": 15.39,
+      "fileSize": 5614,
+      "contentRatio": 0.4071,
+      "edgeDensity": 0.003,
+      "laplacianVariance": 13.97,
+      "layout": {
+        "left": 65,
+        "top": 65,
+        "right": 65,
+        "bottom": 65,
+        "offsetX": 0,
+        "offsetY": 0,
+        "bboxWidth": 382,
+        "bboxHeight": 382,
+        "contentRatio": 0.4071
+      },
+      "issue_type": "blur",
+      "reasons": [
+        "文件较小且边缘密度偏低",
+        "大面积内容但细节分数偏低",
+        "局部锐度和边缘数量都偏低"
+      ]
+    },
+    {
+      "brand_id": "9",
+      "name": "古田路9号",
+      "category": "新闻 / 媒体 / 内容平台 / 图片 / 灵感平台",
+      "file": "dist\\logos\\v20260620\\9.webp",
+      "score": 51.32,
+      "fileSize": 4584,
+      "contentRatio": 0.2846,
+      "edgeDensity": 0.0038,
+      "laplacianVariance": 61.77,
+      "layout": {
+        "left": 104,
+        "top": 65,
+        "right": 126,
+        "bottom": 64,
+        "offsetX": -11,
+        "offsetY": 1,
+        "bboxWidth": 282,
+        "bboxHeight": 383,
+        "contentRatio": 0.2846
+      },
+      "issue_type": "blur",
+      "reasons": [
+        "文件较小且边缘密度偏低",
+        "局部锐度和边缘数量都偏低"
+      ]
+    },
+    {
+      "brand_id": "national_geographic",
+      "name": "National Geographic",
+      "category": "新闻 / 媒体 / 内容平台 / 杂志 / 文化媒体",
+      "file": "dist\\logos\\v20260620\\national_geographic.webp",
+      "score": 71.82,
+      "fileSize": 1188,
+      "contentRatio": 0.185,
+      "edgeDensity": 0.0206,
+      "laplacianVariance": 48.19,
+      "layout": {
+        "left": 121,
+        "top": 65,
+        "right": 120,
+        "bottom": 65,
+        "offsetX": 1,
+        "offsetY": 0,
+        "bboxWidth": 271,
+        "bboxHeight": 382,
+        "contentRatio": 0.185
+      },
+      "issue_type": "blur",
+      "reasons": [
+        "文件较小且边缘密度偏低"
+      ]
+    },
+    {
+      "brand_id": "huaban",
+      "name": "花瓣 Huaban",
+      "category": "新闻 / 媒体 / 内容平台 / 图片 / 灵感平台",
+      "file": "dist\\logos\\v20260620\\huaban.webp",
+      "score": 84.48,
+      "fileSize": 3326,
+      "contentRatio": 0.4939,
+      "edgeDensity": 0.0124,
+      "laplacianVariance": 86.4,
+      "layout": {
+        "left": 66,
+        "top": 65,
+        "right": 65,
+        "bottom": 65,
+        "offsetX": 1,
+        "offsetY": 0,
+        "bboxWidth": 381,
+        "bboxHeight": 382,
+        "contentRatio": 0.4939
+      },
+      "issue_type": "blur",
+      "reasons": [
+        "文件较小且边缘密度偏低",
+        "大面积内容但细节分数偏低",
+        "局部锐度和边缘数量都偏低"
+      ]
+    },
+    {
+      "brand_id": "flipkart",
+      "name": "Flipkart",
+      "category": "电商 / 零售 / 商超 / 综合电商",
+      "file": "dist\\logos\\v20260620\\flipkart.webp",
+      "score": 92.39,
+      "fileSize": 6336,
+      "contentRatio": 0.3618,
+      "edgeDensity": 0.0321,
+      "laplacianVariance": 48.02,
+      "layout": {
+        "left": 8,
+        "top": 87,
+        "right": 8,
+        "bottom": 18,
+        "offsetX": 0,
+        "offsetY": 35,
+        "bboxWidth": 496,
+        "bboxHeight": 407,
+        "contentRatio": 0.3618
+      },
+      "issue_type": "blur",
+      "reasons": [
+        "大面积内容但细节分数偏低"
+      ]
+    },
+    {
+      "brand_id": "castbox",
+      "name": "Castbox",
+      "category": "新闻 / 媒体 / 内容平台 / 播客 / 音频内容",
+      "file": "dist\\logos\\v20260620\\castbox.webp",
+      "score": 103.82,
+      "fileSize": 5276,
+      "contentRatio": 0.3505,
+      "edgeDensity": 0.0505,
+      "laplacianVariance": 17.98,
+      "layout": {
+        "left": 90,
+        "top": 65,
+        "right": 88,
+        "bottom": 65,
+        "offsetX": 1,
+        "offsetY": 0,
+        "bboxWidth": 334,
+        "bboxHeight": 382,
+        "contentRatio": 0.3505
+      },
+      "issue_type": "blur",
+      "reasons": [
+        "大面积内容但细节分数偏低"
+      ]
+    },
+    {
+      "brand_id": "myfitnesspal",
+      "name": "MyFitnessPal",
+      "category": "美妆 / 个护 / 健康消费 / 健康管理 / 健身消费",
+      "file": "dist\\logos\\v20260620\\myfitnesspal.webp",
+      "score": 103.91,
+      "fileSize": 6200,
+      "contentRatio": 0.4261,
+      "edgeDensity": 0.0304,
+      "laplacianVariance": 68.39,
+      "layout": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0,
+        "offsetX": 0,
+        "offsetY": 0,
+        "bboxWidth": 512,
+        "bboxHeight": 512,
+        "contentRatio": 0.4261
+      },
+      "issue_type": "blur",
+      "reasons": [
+        "大面积内容但细节分数偏低"
+      ]
+    },
+    {
+      "brand_id": "macos",
+      "name": "macOS",
+      "category": "互联网 / 软件 / 数字服务 / 操作系统 / 系统软件",
+      "file": "dist\\logos\\v20260620\\macos.webp",
+      "score": 125.5,
+      "fileSize": 5138,
+      "contentRatio": 0.3848,
+      "edgeDensity": 0.033,
+      "laplacianVariance": 91.82,
+      "layout": {
+        "left": 8,
+        "top": 88,
+        "right": 8,
+        "bottom": 8,
+        "offsetX": 0,
+        "offsetY": 40,
+        "bboxWidth": 496,
+        "bboxHeight": 416,
+        "contentRatio": 0.3848
+      },
+      "issue_type": "blur",
+      "reasons": [
+        "大面积内容但细节分数偏低"
+      ]
+    },
+    {
+      "brand_id": "firefox",
+      "name": "Firefox",
+      "category": "互联网 / 软件 / 数字服务 / 搜索 / 浏览器",
+      "file": "dist\\logos\\v20260620\\firefox.webp",
+      "score": 125.82,
+      "fileSize": 8762,
+      "contentRatio": 0.3652,
+      "edgeDensity": 0.0369,
+      "laplacianVariance": 82.52,
+      "layout": {
+        "left": 64,
+        "top": 51,
+        "right": 85,
+        "bottom": 79,
+        "offsetX": -10,
+        "offsetY": -14,
+        "bboxWidth": 363,
+        "bboxHeight": 382,
+        "contentRatio": 0.3652
+      },
+      "issue_type": "blur",
+      "reasons": [
+        "大面积内容但细节分数偏低"
+      ]
+    },
+    {
+      "brand_id": "pampers",
+      "name": "Pampers",
+      "category": "美妆 / 个护 / 健康消费 / 母婴 / 家庭健康消费",
+      "file": "dist\\logos\\v20260620\\pampers.webp",
+      "score": 131.88,
+      "fileSize": 10986,
+      "contentRatio": 0.366,
+      "edgeDensity": 0.043,
+      "laplacianVariance": 75.78,
+      "layout": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0,
+        "offsetX": 0,
+        "offsetY": 0,
+        "bboxWidth": 512,
+        "bboxHeight": 512,
+        "contentRatio": 0.366
+      },
+      "issue_type": "blur",
+      "reasons": [
+        "大面积内容但细节分数偏低"
+      ]
+    },
+    {
+      "brand_id": "product_hunt",
+      "name": "Product Hunt",
+      "category": "新闻 / 媒体 / 内容平台 / 内容社区 / 问答",
+      "file": "dist\\logos\\v20260620\\product_hunt.webp",
+      "score": 135.94,
+      "fileSize": 4804,
+      "contentRatio": 0.3792,
+      "edgeDensity": 0.0378,
+      "laplacianVariance": 94.42,
+      "layout": {
+        "left": 65,
+        "top": 65,
+        "right": 65,
+        "bottom": 65,
+        "offsetX": 0,
+        "offsetY": 0,
+        "bboxWidth": 382,
+        "bboxHeight": 382,
+        "contentRatio": 0.3792
+      },
+      "issue_type": "blur",
+      "reasons": [
+        "大面积内容但细节分数偏低"
+      ]
+    },
+    {
+      "brand_id": "designboom",
+      "name": "Designboom",
+      "category": "新闻 / 媒体 / 内容平台 / 杂志 / 文化媒体",
+      "file": "dist\\logos\\v20260620\\designboom.webp",
+      "score": 141.38,
+      "fileSize": 3408,
+      "contentRatio": 0.5567,
+      "edgeDensity": 0.0737,
+      "laplacianVariance": 12.02,
+      "layout": {
+        "left": 65,
+        "top": 65,
+        "right": 64,
+        "bottom": 65,
+        "offsetX": 1,
+        "offsetY": 0,
+        "bboxWidth": 383,
+        "bboxHeight": 382,
+        "contentRatio": 0.5567
+      },
+      "issue_type": "blur",
+      "reasons": [
+        "大面积内容但细节分数偏低"
+      ]
+    },
+    {
+      "brand_id": "nikon",
+      "name": "Nikon",
+      "category": "消费电子 / 科技硬件 / 相机 / 影像设备",
+      "file": "dist\\logos\\v20260620\\nikon.webp",
+      "score": 152.93,
+      "fileSize": 15982,
+      "contentRatio": 0.4205,
+      "edgeDensity": 0.0416,
+      "laplacianVariance": 108.32,
+      "layout": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0,
+        "offsetX": 0,
+        "offsetY": 0,
+        "bboxWidth": 512,
+        "bboxHeight": 512,
+        "contentRatio": 0.4205
+      },
+      "issue_type": "blur",
+      "reasons": [
+        "大面积内容但细节分数偏低"
+      ]
+    },
+    {
+      "brand_id": "sleep_cycle",
+      "name": "Sleep Cycle",
+      "category": "美妆 / 个护 / 健康消费 / 健康管理 / 健身消费",
+      "file": "dist\\logos\\v20260620\\sleep_cycle.webp",
+      "score": 152.94,
+      "fileSize": 8930,
+      "contentRatio": 0.3778,
+      "edgeDensity": 0.0539,
+      "laplacianVariance": 77.59,
+      "layout": {
+        "left": 0,
+        "top": 82,
+        "right": 88,
+        "bottom": 0,
+        "offsetX": -44,
+        "offsetY": 41,
+        "bboxWidth": 424,
+        "bboxHeight": 430,
+        "contentRatio": 0.3778
+      },
+      "issue_type": "blur",
+      "reasons": [
+        "大面积内容但细节分数偏低"
+      ]
+    },
+    {
+      "brand_id": "cn_22b87143",
+      "name": "人民日报",
+      "category": "新闻 / 媒体 / 内容平台 / 中国新闻 / 门户",
+      "file": "dist\\logos\\v20260620\\cn_22b87143.webp",
+      "score": 156.93,
+      "fileSize": 6436,
+      "contentRatio": 0.427,
+      "edgeDensity": 0.0082,
+      "laplacianVariance": 197.51,
+      "layout": {
+        "left": 65,
+        "top": 65,
+        "right": 65,
+        "bottom": 65,
+        "offsetX": 0,
+        "offsetY": 0,
+        "bboxWidth": 382,
+        "bboxHeight": 382,
+        "contentRatio": 0.427
+      },
+      "issue_type": "blur",
+      "reasons": [
+        "文件较小且边缘密度偏低",
+        "大面积内容但细节分数偏低"
+      ]
+    },
+    {
+      "brand_id": "dribbble",
+      "name": "Dribbble",
+      "category": "新闻 / 媒体 / 内容平台 / 图片 / 灵感平台",
+      "file": "dist\\logos\\v20260620\\dribbble.webp",
+      "score": 157.97,
+      "fileSize": 6462,
+      "contentRatio": 0.4521,
+      "edgeDensity": 0.0549,
+      "laplacianVariance": 82.13,
+      "layout": {
+        "left": 65,
+        "top": 65,
+        "right": 65,
+        "bottom": 65,
+        "offsetX": 0,
+        "offsetY": 0,
+        "bboxWidth": 382,
+        "bboxHeight": 382,
+        "contentRatio": 0.4521
+      },
+      "issue_type": "blur",
+      "reasons": [
+        "大面积内容但细节分数偏低"
+      ]
+    },
+    {
+      "brand_id": "the_new_york_times",
+      "name": "The New York Times",
+      "category": "新闻 / 媒体 / 内容平台 / 国际新闻媒体",
+      "file": "dist\\logos\\v20260620\\the_new_york_times.webp",
+      "score": 169.36,
+      "fileSize": 3718,
+      "contentRatio": 0.477,
+      "edgeDensity": 0.0566,
+      "laplacianVariance": 93.61,
+      "layout": {
+        "left": 66,
+        "top": 66,
+        "right": 66,
+        "bottom": 66,
+        "offsetX": 0,
+        "offsetY": 0,
+        "bboxWidth": 380,
+        "bboxHeight": 380,
+        "contentRatio": 0.477
+      },
+      "issue_type": "blur",
+      "reasons": [
+        "大面积内容但细节分数偏低"
+      ]
+    },
+    {
+      "brand_id": "hacker_news",
+      "name": "Hacker News",
+      "category": "新闻 / 媒体 / 内容平台 / 内容社区 / 问答",
+      "file": "dist\\logos\\v20260620\\hacker_news.webp",
+      "score": 225.3,
+      "fileSize": 2780,
+      "contentRatio": 0.5484,
+      "edgeDensity": 0.0204,
+      "laplacianVariance": 261.98,
+      "layout": {
+        "left": 65,
+        "top": 65,
+        "right": 65,
+        "bottom": 65,
+        "offsetX": 0,
+        "offsetY": 0,
+        "bboxWidth": 382,
+        "bboxHeight": 382,
+        "contentRatio": 0.5484
+      },
+      "issue_type": "blur",
+      "reasons": [
+        "文件较小且边缘密度偏低"
+      ]
+    },
+    {
+      "brand_id": "kyoto_university",
+      "name": "Kyoto University",
+      "category": "教育 / 知识 / 出版 / 大学 / 学术机构",
+      "file": "dist\\logos\\v20260620\\kyoto_university.webp",
+      "score": 2747.18,
+      "fileSize": 17778,
+      "contentRatio": 0.1323,
+      "edgeDensity": 0.4119,
+      "laplacianVariance": 2785.89,
+      "layout": {
+        "left": 93,
+        "top": 0,
+        "right": 116,
+        "bottom": 290,
+        "offsetX": -11,
+        "offsetY": -145,
+        "bboxWidth": 303,
+        "bboxHeight": 222,
+        "contentRatio": 0.1323
+      },
+      "issue_type": "crop_or_border",
+      "reasons": [
+        "内容贴边，可能裁切或有边框残留",
+        "上下边距明显失衡",
+        "视觉中心偏移较大"
+      ]
+    },
+    {
+      "brand_id": "daiichi_sankyo",
+      "name": "Daiichi Sankyo",
+      "category": "医疗 / 医药 / 生物科技 / 制药企业",
+      "file": "dist\\logos\\v20260620\\daiichi_sankyo.webp",
+      "score": 565.48,
+      "fileSize": 7198,
+      "contentRatio": 0.0942,
+      "edgeDensity": 0.1135,
+      "laplacianVariance": 501.51,
+      "layout": {
+        "left": 112,
+        "top": 0,
+        "right": 140,
+        "bottom": 256,
+        "offsetX": -14,
+        "offsetY": -128,
+        "bboxWidth": 260,
+        "bboxHeight": 256,
+        "contentRatio": 0.0942
+      },
+      "issue_type": "crop_or_border",
+      "reasons": [
+        "上下边距明显失衡",
+        "视觉中心偏移较大"
+      ]
+    },
+    {
+      "brand_id": "zim",
+      "name": "ZIM",
+      "category": "物流 / 外卖 / 本地生活 / 供应链 / 海运 / 仓储",
+      "file": "dist\\logos\\v20260620\\zim.webp",
+      "score": 645.51,
+      "fileSize": 6696,
+      "contentRatio": 0.1317,
+      "edgeDensity": 0.1331,
+      "laplacianVariance": 563.84,
+      "layout": {
+        "left": 129,
+        "top": 0,
+        "right": 119,
+        "bottom": 241,
+        "offsetX": 5,
+        "offsetY": -120,
+        "bboxWidth": 264,
+        "bboxHeight": 271,
+        "contentRatio": 0.1317
+      },
+      "issue_type": "crop_or_border",
+      "reasons": [
+        "上下边距明显失衡",
+        "视觉中心偏移较大"
+      ]
+    },
+    {
+      "brand_id": "six_flags",
+      "name": "Six Flags",
+      "category": "游戏 / 娱乐 / 影视 / 音乐 / 主题乐园 / 娱乐场馆",
+      "file": "dist\\logos\\v20260620\\six_flags.webp",
+      "score": 522.28,
+      "fileSize": 10000,
+      "contentRatio": 0.1486,
+      "edgeDensity": 0.1233,
+      "laplacianVariance": 417.02,
+      "layout": {
+        "left": 20,
+        "top": 0,
+        "right": 57,
+        "bottom": 239,
+        "offsetX": -18,
+        "offsetY": -119,
+        "bboxWidth": 435,
+        "bboxHeight": 273,
+        "contentRatio": 0.1486
+      },
+      "issue_type": "crop_or_border",
+      "reasons": [
+        "内容贴边，可能裁切或有边框残留",
+        "上下边距明显失衡",
+        "视觉中心偏移较大"
+      ]
+    },
+    {
+      "brand_id": "balenciaga",
+      "name": "Balenciaga",
+      "category": "奢侈品 / 时尚 / 珠宝 / 奢侈时装",
+      "file": "dist\\logos\\v20260620\\balenciaga.webp",
+      "score": 259.38,
+      "fileSize": 4440,
+      "contentRatio": 0.0496,
+      "edgeDensity": 0.0559,
+      "laplacianVariance": 220.5,
+      "layout": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 236,
+        "offsetX": 0,
+        "offsetY": -118,
+        "bboxWidth": 512,
+        "bboxHeight": 276,
+        "contentRatio": 0.0496
+      },
+      "issue_type": "crop_or_border",
+      "reasons": [
+        "内容贴边，可能裁切或有边框残留",
+        "内容框几乎占满画布",
+        "上下边距明显失衡",
+        "视觉中心偏移较大"
+      ]
+    },
+    {
+      "brand_id": "mitsubishi_estate",
+      "name": "Mitsubishi Estate",
+      "category": "家居 / 房地产 / 建筑 / 房地产开发",
+      "file": "dist\\logos\\v20260620\\mitsubishi_estate.webp",
+      "score": 894.85,
+      "fileSize": 7810,
+      "contentRatio": 0.104,
+      "edgeDensity": 0.1814,
+      "laplacianVariance": 789.28,
+      "layout": {
+        "left": 56,
+        "top": 0,
+        "right": 142,
+        "bottom": 236,
+        "offsetX": -43,
+        "offsetY": -118,
+        "bboxWidth": 314,
+        "bboxHeight": 276,
+        "contentRatio": 0.104
+      },
+      "issue_type": "crop_or_border",
+      "reasons": [
+        "内容贴边，可能裁切或有边框残留",
+        "上下边距明显失衡",
+        "视觉中心偏移较大"
+      ]
+    },
+    {
+      "brand_id": "mitsui_fudosan",
+      "name": "Mitsui Fudosan",
+      "category": "家居 / 房地产 / 建筑 / 房地产开发",
+      "file": "dist\\logos\\v20260620\\mitsui_fudosan.webp",
+      "score": 824.62,
+      "fileSize": 8772,
+      "contentRatio": 0.1026,
+      "edgeDensity": 0.1753,
+      "laplacianVariance": 707.08,
+      "layout": {
+        "left": 56,
+        "top": 0,
+        "right": 119,
+        "bottom": 236,
+        "offsetX": -31,
+        "offsetY": -118,
+        "bboxWidth": 337,
+        "bboxHeight": 276,
+        "contentRatio": 0.1026
+      },
+      "issue_type": "crop_or_border",
+      "reasons": [
+        "内容贴边，可能裁切或有边框残留",
+        "上下边距明显失衡",
+        "视觉中心偏移较大"
+      ]
+    },
+    {
+      "brand_id": "marni",
+      "name": "Marni",
+      "category": "奢侈品 / 时尚 / 珠宝 / 设计师品牌",
+      "file": "dist\\logos\\v20260620\\marni.webp",
+      "score": 136.33,
+      "fileSize": 2722,
+      "contentRatio": 0.0336,
+      "edgeDensity": 0.0302,
+      "laplacianVariance": 113.95,
+      "layout": {
+        "left": 0,
+        "top": 0,
+        "right": 39,
+        "bottom": 232,
+        "offsetX": -19,
+        "offsetY": -116,
+        "bboxWidth": 473,
+        "bboxHeight": 280,
+        "contentRatio": 0.0336
+      },
+      "issue_type": "crop_or_border",
+      "reasons": [
+        "内容贴边，可能裁切或有边框残留",
+        "上下边距明显失衡",
+        "视觉中心偏移较大"
+      ]
+    },
+    {
+      "brand_id": "shimano",
+      "name": "Shimano",
+      "category": "汽车 / 新能源 / 交通工具 / 自行车 / 骑行",
+      "file": "dist\\logos\\v20260620\\shimano.webp",
+      "score": 146.75,
+      "fileSize": 4606,
+      "contentRatio": 0.0938,
+      "edgeDensity": 0.0509,
+      "laplacianVariance": 76.48,
+      "layout": {
+        "left": 24,
+        "top": 0,
+        "right": 0,
+        "bottom": 224,
+        "offsetX": 12,
+        "offsetY": -112,
+        "bboxWidth": 488,
+        "bboxHeight": 288,
+        "contentRatio": 0.0938
+      },
+      "issue_type": "crop_or_border",
+      "reasons": [
+        "内容贴边，可能裁切或有边框残留",
+        "上下边距明显失衡",
+        "视觉中心偏移较大"
+      ]
+    },
+    {
+      "brand_id": "panasonic_lumix",
+      "name": "Panasonic Lumix",
+      "category": "消费电子 / 科技硬件 / 相机 / 影像设备",
+      "file": "dist\\logos\\v20260620\\panasonic_lumix.webp",
+      "score": 226.56,
+      "fileSize": 3192,
+      "contentRatio": 0.0567,
+      "edgeDensity": 0.0477,
+      "laplacianVariance": 195.34,
+      "layout": {
+        "left": 0,
+        "top": 0,
+        "right": 44,
+        "bottom": 223,
+        "offsetX": -22,
+        "offsetY": -111,
+        "bboxWidth": 468,
+        "bboxHeight": 289,
+        "contentRatio": 0.0567
+      },
+      "issue_type": "crop_or_border",
+      "reasons": [
+        "内容贴边，可能裁切或有边框残留",
+        "上下边距明显失衡",
+        "视觉中心偏移较大"
+      ]
+    },
+    {
+      "brand_id": "cn_bac0ffa9",
+      "name": "多邻国",
+      "category": "教育 / 知识 / 出版 / 语言学习",
+      "file": "dist\\logos\\v20260620\\cn_bac0ffa9.webp",
+      "score": 300.93,
+      "fileSize": 10956,
+      "contentRatio": 0.2131,
+      "edgeDensity": 0.1026,
+      "laplacianVariance": 161.45,
+      "layout": {
+        "left": 0,
+        "top": 21,
+        "right": 52,
+        "bottom": 241,
+        "offsetX": -26,
+        "offsetY": -110,
+        "bboxWidth": 460,
+        "bboxHeight": 250,
+        "contentRatio": 0.2131
+      },
+      "issue_type": "crop_or_border",
+      "reasons": [
+        "内容贴边，可能裁切或有边框残留",
+        "上下边距明显失衡",
+        "视觉中心偏移较大"
+      ]
+    },
+    {
+      "brand_id": "equinox",
+      "name": "Equinox",
+      "category": "体育 / 赛事 / 俱乐部 / 体育用品零售 / 场馆",
+      "file": "dist\\logos\\v20260620\\equinox.webp",
+      "score": 192.81,
+      "fileSize": 3376,
+      "contentRatio": 0.035,
+      "edgeDensity": 0.0395,
+      "laplacianVariance": 168.93,
+      "layout": {
+        "left": 0,
+        "top": 0,
+        "right": 32,
+        "bottom": 221,
+        "offsetX": -16,
+        "offsetY": -110,
+        "bboxWidth": 480,
+        "bboxHeight": 291,
+        "contentRatio": 0.035
+      },
+      "issue_type": "crop_or_border",
+      "reasons": [
+        "内容贴边，可能裁切或有边框残留",
+        "上下边距明显失衡",
+        "视觉中心偏移较大"
+      ]
+    },
+    {
+      "brand_id": "tamron",
+      "name": "Tamron",
+      "category": "消费电子 / 科技硬件 / 相机 / 影像设备",
+      "file": "dist\\logos\\v20260620\\tamron.webp",
+      "score": 197.56,
+      "fileSize": 4752,
+      "contentRatio": 0.0698,
+      "edgeDensity": 0.0514,
+      "laplacianVariance": 145.86,
+      "layout": {
+        "left": 0,
+        "top": 0,
+        "right": 43,
+        "bottom": 220,
+        "offsetX": -21,
+        "offsetY": -110,
+        "bboxWidth": 469,
+        "bboxHeight": 292,
+        "contentRatio": 0.0698
+      },
+      "issue_type": "crop_or_border",
+      "reasons": [
+        "内容贴边，可能裁切或有边框残留",
+        "上下边距明显失衡",
+        "视觉中心偏移较大"
+      ]
+    },
+    {
+      "brand_id": "cn_9ce02494",
+      "name": "修正药业",
+      "category": "医疗 / 医药 / 生物科技 / 中医药 / 保健药品",
+      "file": "dist\\logos\\v20260620\\cn_9ce02494.webp",
+      "score": 927.94,
+      "fileSize": 9040,
+      "contentRatio": 0.1167,
+      "edgeDensity": 0.1821,
+      "laplacianVariance": 833.61,
+      "layout": {
+        "left": 87,
+        "top": 0,
+        "right": 132,
+        "bottom": 218,
+        "offsetX": -22,
+        "offsetY": -109,
+        "bboxWidth": 293,
+        "bboxHeight": 294,
+        "contentRatio": 0.1167
+      },
+      "issue_type": "crop_or_border",
+      "reasons": [
+        "上下边距明显失衡",
+        "视觉中心偏移较大"
+      ]
+    },
+    {
+      "brand_id": "daikoku_drug",
+      "name": "Daikoku Drug",
+      "category": "医疗 / 医药 / 生物科技 / 药房 / 连锁药店",
+      "file": "dist\\logos\\v20260620\\daikoku_drug.webp",
+      "score": 803.37,
+      "fileSize": 11206,
+      "contentRatio": 0.2453,
+      "edgeDensity": 0.2378,
+      "laplacianVariance": 521.19,
+      "layout": {
+        "left": 97,
+        "top": 0,
+        "right": 151,
+        "bottom": 219,
+        "offsetX": -27,
+        "offsetY": -109,
+        "bboxWidth": 264,
+        "bboxHeight": 293,
+        "contentRatio": 0.2453
+      },
+      "issue_type": "crop_or_border",
+      "reasons": [
+        "上下边距明显失衡",
+        "视觉中心偏移较大"
+      ]
+    },
+    {
+      "brand_id": "bulgari",
+      "name": "Bulgari",
+      "category": "奢侈品 / 时尚 / 珠宝 / 高级珠宝 / 腕表",
+      "file": "dist\\logos\\v20260620\\bulgari.webp",
+      "score": 220.3,
+      "fileSize": 3586,
+      "contentRatio": 0.0279,
+      "edgeDensity": 0.0427,
+      "laplacianVariance": 199.25,
+      "layout": {
+        "left": 41,
+        "top": 216,
+        "right": 0,
+        "bottom": 0,
+        "offsetX": 21,
+        "offsetY": 108,
+        "bboxWidth": 471,
+        "bboxHeight": 296,
+        "contentRatio": 0.0279
+      },
+      "issue_type": "crop_or_border",
+      "reasons": [
+        "内容贴边，可能裁切或有边框残留",
+        "上下边距明显失衡",
+        "视觉中心偏移较大"
+      ]
+    },
+    {
+      "brand_id": "fujifilm",
+      "name": "Fujifilm",
+      "category": "消费电子 / 科技硬件 / 相机 / 影像设备",
+      "file": "dist\\logos\\v20260620\\fujifilm.webp",
+      "score": 256.13,
+      "fileSize": 3660,
+      "contentRatio": 0.0737,
+      "edgeDensity": 0.0591,
+      "laplacianVariance": 208.05,
+      "layout": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 216,
+        "offsetX": 0,
+        "offsetY": -108,
+        "bboxWidth": 512,
+        "bboxHeight": 296,
+        "contentRatio": 0.0737
+      },
+      "issue_type": "crop_or_border",
+      "reasons": [
+        "内容贴边，可能裁切或有边框残留",
+        "内容框几乎占满画布",
+        "上下边距明显失衡",
+        "视觉中心偏移较大"
+      ]
+    },
+    {
+      "brand_id": "lufthansa",
+      "name": "Lufthansa",
+      "category": "出行 / 旅游 / 酒店 / 航空 / 航空公司",
+      "file": "dist\\logos\\v20260620\\lufthansa.webp",
+      "score": 514.01,
+      "fileSize": 8844,
+      "contentRatio": 0.0914,
+      "edgeDensity": 0.1056,
+      "laplacianVariance": 449.85,
+      "layout": {
+        "left": 40,
+        "top": 12,
+        "right": 0,
+        "bottom": 228,
+        "offsetX": 20,
+        "offsetY": -108,
+        "bboxWidth": 472,
+        "bboxHeight": 272,
+        "contentRatio": 0.0914
+      },
+      "issue_type": "crop_or_border",
+      "reasons": [
+        "内容贴边，可能裁切或有边框残留",
+        "上下边距明显失衡",
+        "视觉中心偏移较大"
+      ]
+    },
+    {
+      "brand_id": "pull_and_bear",
+      "name": "Pull&Bear",
+      "category": "服饰 / 运动 / 户外 / 快时尚 / 基础服饰",
+      "file": "dist\\logos\\v20260620\\pull_and_bear.webp",
+      "score": 312.57,
+      "fileSize": 4336,
+      "contentRatio": 0.0657,
+      "edgeDensity": 0.0629,
+      "laplacianVariance": 276.81,
+      "layout": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 216,
+        "offsetX": 0,
+        "offsetY": -108,
+        "bboxWidth": 512,
+        "bboxHeight": 296,
+        "contentRatio": 0.0657
+      },
+      "issue_type": "crop_or_border",
+      "reasons": [
+        "内容贴边，可能裁切或有边框残留",
+        "内容框几乎占满画布",
+        "上下边距明显失衡",
+        "视觉中心偏移较大"
+      ]
+    },
+    {
+      "brand_id": "disney_parks",
+      "name": "Disney Parks",
+      "category": "游戏 / 娱乐 / 影视 / 音乐 / 主题乐园 / 娱乐场馆",
+      "file": "dist\\logos\\v20260620\\disney_parks.webp",
+      "score": 699.57,
+      "fileSize": 13928,
+      "contentRatio": 0.1372,
+      "edgeDensity": 0.1519,
+      "laplacianVariance": 591.85,
+      "layout": {
+        "left": 59,
+        "top": 0,
+        "right": 96,
+        "bottom": 215,
+        "offsetX": -18,
+        "offsetY": -107,
+        "bboxWidth": 357,
+        "bboxHeight": 297,
+        "contentRatio": 0.1372
+      },
+      "issue_type": "crop_or_border",
+      "reasons": [
+        "内容贴边，可能裁切或有边框残留",
+        "上下边距明显失衡",
+        "视觉中心偏移较大"
+      ]
+    },
+    {
+      "brand_id": "hyundai_ioniq",
+      "name": "Hyundai IONIQ",
+      "category": "汽车 / 新能源 / 交通工具 / 新能源汽车",
+      "file": "dist\\logos\\v20260620\\hyundai_ioniq.webp",
+      "score": 117.12,
+      "fileSize": 4296,
+      "contentRatio": 0.052,
+      "edgeDensity": 0.0345,
+      "laplacianVariance": 76.47,
+      "layout": {
+        "left": 0,
+        "top": 215,
+        "right": 55,
+        "bottom": 2,
+        "offsetX": -27,
+        "offsetY": 107,
+        "bboxWidth": 457,
+        "bboxHeight": 295,
+        "contentRatio": 0.052
+      },
+      "issue_type": "crop_or_border",
+      "reasons": [
+        "内容贴边，可能裁切或有边框残留",
+        "上下边距明显失衡",
+        "视觉中心偏移较大"
+      ]
+    },
+    {
+      "brand_id": "mango",
+      "name": "Mango",
+      "category": "服饰 / 运动 / 户外 / 快时尚 / 基础服饰",
+      "file": "dist\\logos\\v20260620\\mango.webp",
+      "score": 246.28,
+      "fileSize": 4314,
+      "contentRatio": 0.0549,
+      "edgeDensity": 0.0534,
+      "laplacianVariance": 208.51,
+      "layout": {
+        "left": 39,
+        "top": 0,
+        "right": 0,
+        "bottom": 214,
+        "offsetX": 20,
+        "offsetY": -107,
+        "bboxWidth": 473,
+        "bboxHeight": 298,
+        "contentRatio": 0.0549
+      },
+      "issue_type": "crop_or_border",
+      "reasons": [
+        "内容贴边，可能裁切或有边框残留",
+        "上下边距明显失衡",
+        "视觉中心偏移较大"
+      ]
+    },
+    {
+      "brand_id": "bershka",
+      "name": "Bershka",
+      "category": "服饰 / 运动 / 户外 / 快时尚 / 基础服饰",
+      "file": "dist\\logos\\v20260620\\bershka.webp",
+      "score": 310.61,
+      "fileSize": 4468,
+      "contentRatio": 0.0528,
+      "edgeDensity": 0.0607,
+      "laplacianVariance": 279.55,
+      "layout": {
+        "left": 8,
+        "top": 0,
+        "right": 0,
+        "bottom": 212,
+        "offsetX": 4,
+        "offsetY": -106,
+        "bboxWidth": 504,
+        "bboxHeight": 300,
+        "contentRatio": 0.0528
+      },
+      "issue_type": "crop_or_border",
+      "reasons": [
+        "内容贴边，可能裁切或有边框残留",
+        "内容框几乎占满画布",
+        "上下边距明显失衡",
+        "视觉中心偏移较大"
+      ]
+    },
+    {
+      "brand_id": "freightliner",
+      "name": "Freightliner",
+      "category": "汽车 / 新能源 / 交通工具 / 商用车 / 工程车",
+      "file": "dist\\logos\\v20260620\\freightliner.webp",
+      "score": 431.71,
+      "fileSize": 9164,
+      "contentRatio": 0.1441,
+      "edgeDensity": 0.1141,
+      "laplacianVariance": 314.22,
+      "layout": {
+        "left": 20,
+        "top": 212,
+        "right": 0,
+        "bottom": 0,
+        "offsetX": 10,
+        "offsetY": 106,
+        "bboxWidth": 492,
+        "bboxHeight": 300,
+        "contentRatio": 0.1441
+      },
+      "issue_type": "crop_or_border",
+      "reasons": [
+        "内容贴边，可能裁切或有边框残留",
+        "内容框几乎占满画布",
+        "上下边距明显失衡",
+        "视觉中心偏移较大"
+      ]
+    },
+    {
+      "brand_id": "harmonyos",
+      "name": "HarmonyOS",
+      "category": "互联网 / 软件 / 数字服务 / 操作系统 / 系统软件",
+      "file": "dist\\logos\\v20260620\\harmonyos.webp",
+      "score": 292.87,
+      "fileSize": 4568,
+      "contentRatio": 0.0485,
+      "edgeDensity": 0.0586,
+      "laplacianVariance": 260.21,
+      "layout": {
+        "left": 1,
+        "top": 0,
+        "right": 44,
+        "bottom": 213,
+        "offsetX": -21,
+        "offsetY": -106,
+        "bboxWidth": 467,
+        "bboxHeight": 299,
+        "contentRatio": 0.0485
+      },
+      "issue_type": "crop_or_border",
+      "reasons": [
+        "内容贴边，可能裁切或有边框残留",
+        "上下边距明显失衡",
+        "视觉中心偏移较大"
+      ]
+    },
+    {
+      "brand_id": "innisfree",
+      "name": "Innisfree",
+      "category": "美妆 / 个护 / 健康消费 / 护肤品牌",
+      "file": "dist\\logos\\v20260620\\innisfree.webp",
+      "score": 199.56,
+      "fileSize": 5360,
+      "contentRatio": 0.0579,
+      "edgeDensity": 0.0497,
+      "laplacianVariance": 152.86,
+      "layout": {
+        "left": 43,
+        "top": 1,
+        "right": 0,
+        "bottom": 214,
+        "offsetX": 22,
+        "offsetY": -106,
+        "bboxWidth": 469,
+        "bboxHeight": 297,
+        "contentRatio": 0.0579
+      },
+      "issue_type": "crop_or_border",
+      "reasons": [
+        "内容贴边，可能裁切或有边框残留",
+        "上下边距明显失衡",
+        "视觉中心偏移较大"
+      ]
+    },
+    {
+      "brand_id": "shein",
+      "name": "Shein",
+      "category": "服饰 / 运动 / 户外 / 快时尚 / 基础服饰",
+      "file": "dist\\logos\\v20260620\\shein.webp",
+      "score": 188.35,
+      "fileSize": 2954,
+      "contentRatio": 0.0608,
+      "edgeDensity": 0.0449,
+      "laplacianVariance": 149.32,
+      "layout": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 210,
+        "offsetX": 0,
+        "offsetY": -105,
+        "bboxWidth": 512,
+        "bboxHeight": 302,
+        "contentRatio": 0.0608
+      },
+      "issue_type": "crop_or_border",
+      "reasons": [
+        "内容贴边，可能裁切或有边框残留",
+        "内容框几乎占满画布",
+        "上下边距明显失衡",
+        "视觉中心偏移较大"
+      ]
+    },
+    {
+      "brand_id": "wumart",
+      "name": "物美 Wumart",
+      "category": "电商 / 零售 / 商超 / 商超 / 大卖场",
+      "file": "dist\\logos\\v20260620\\wumart.webp",
+      "score": 410.33,
+      "fileSize": 10558,
+      "contentRatio": 0.1268,
+      "edgeDensity": 0.1053,
+      "laplacianVariance": 306.64,
+      "layout": {
+        "left": 32,
+        "top": 0,
+        "right": 0,
+        "bottom": 211,
+        "offsetX": 16,
+        "offsetY": -105,
+        "bboxWidth": 480,
+        "bboxHeight": 301,
+        "contentRatio": 0.1268
+      },
+      "issue_type": "crop_or_border",
+      "reasons": [
+        "内容贴边，可能裁切或有边框残留",
+        "上下边距明显失衡",
+        "视觉中心偏移较大"
+      ]
+    },
+    {
+      "brand_id": "kia",
+      "name": "Kia",
+      "category": "汽车 / 新能源 / 交通工具 / 大众汽车品牌",
+      "file": "dist\\logos\\v20260620\\kia.webp",
+      "score": 186.92,
+      "fileSize": 4006,
+      "contentRatio": 0.0962,
+      "edgeDensity": 0.0388,
+      "laplacianVariance": 162.54,
+      "layout": {
+        "left": 0,
+        "top": 0,
+        "right": 28,
+        "bottom": 208,
+        "offsetX": -14,
+        "offsetY": -104,
+        "bboxWidth": 484,
+        "bboxHeight": 304,
+        "contentRatio": 0.0962
+      },
+      "issue_type": "crop_or_border",
+      "reasons": [
+        "内容贴边，可能裁切或有边框残留",
+        "上下边距明显失衡",
+        "视觉中心偏移较大"
+      ]
+    },
+    {
+      "brand_id": "loccitane",
+      "name": "L'Occitane",
+      "category": "美妆 / 个护 / 健康消费 / 洗护用品",
+      "file": "dist\\logos\\v20260620\\loccitane.webp",
+      "score": 439.46,
+      "fileSize": 7764,
+      "contentRatio": 0.0613,
+      "edgeDensity": 0.0832,
+      "laplacianVariance": 402.26,
+      "layout": {
+        "left": 0,
+        "top": 0,
+        "right": 29,
+        "bottom": 208,
+        "offsetX": -14,
+        "offsetY": -104,
+        "bboxWidth": 483,
+        "bboxHeight": 304,
+        "contentRatio": 0.0613
+      },
+      "issue_type": "crop_or_border",
+      "reasons": [
+        "内容贴边，可能裁切或有边框残留",
+        "上下边距明显失衡",
+        "视觉中心偏移较大"
+      ]
+    },
+    {
+      "brand_id": "noom",
+      "name": "Noom",
+      "category": "美妆 / 个护 / 健康消费 / 健康管理 / 健身消费",
+      "file": "dist\\logos\\v20260620\\noom.webp",
+      "score": 184.91,
+      "fileSize": 6066,
+      "contentRatio": 0.0799,
+      "edgeDensity": 0.0468,
+      "laplacianVariance": 139.92,
+      "layout": {
+        "left": 0,
+        "top": 0,
+        "right": 52,
+        "bottom": 208,
+        "offsetX": -26,
+        "offsetY": -104,
+        "bboxWidth": 460,
+        "bboxHeight": 304,
+        "contentRatio": 0.0799
+      },
+      "issue_type": "crop_or_border",
+      "reasons": [
+        "内容贴边，可能裁切或有边框残留",
+        "上下边距明显失衡",
+        "视觉中心偏移较大"
+      ]
+    },
+    {
+      "brand_id": "magna",
+      "name": "Magna",
+      "category": "汽车 / 新能源 / 交通工具 / 轮胎 / 汽车零部件",
+      "file": "dist\\logos\\v20260620\\magna.webp",
+      "score": 247.65,
+      "fileSize": 6478,
+      "contentRatio": 0.0838,
+      "edgeDensity": 0.0569,
+      "laplacianVariance": 201.67,
+      "layout": {
+        "left": 0,
+        "top": 204,
+        "right": 32,
+        "bottom": 0,
+        "offsetX": -16,
+        "offsetY": 102,
+        "bboxWidth": 480,
+        "bboxHeight": 308,
+        "contentRatio": 0.0838
+      },
+      "issue_type": "crop_or_border",
+      "reasons": [
+        "内容贴边，可能裁切或有边框残留",
+        "上下边距明显失衡",
+        "视觉中心偏移较大"
+      ]
+    },
+    {
+      "brand_id": "pandora",
+      "name": "Pandora",
+      "category": "奢侈品 / 时尚 / 珠宝 / 高级珠宝 / 腕表",
+      "file": "dist\\logos\\v20260620\\pandora.webp",
+      "score": 326.7,
+      "fileSize": 4956,
+      "contentRatio": 0.0563,
+      "edgeDensity": 0.0593,
+      "laplacianVariance": 305.5,
+      "layout": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 204,
+        "offsetX": 0,
+        "offsetY": -102,
+        "bboxWidth": 512,
+        "bboxHeight": 308,
+        "contentRatio": 0.0563
+      },
+      "issue_type": "crop_or_border",
+      "reasons": [
+        "内容贴边，可能裁切或有边框残留",
+        "内容框几乎占满画布",
+        "上下边距明显失衡",
+        "视觉中心偏移较大"
+      ]
+    },
+    {
+      "brand_id": "prince_hotels",
+      "name": "Prince Hotels",
+      "category": "出行 / 旅游 / 酒店 / 航空 / 酒店集团",
+      "file": "dist\\logos\\v20260620\\prince_hotels.webp",
+      "score": 617.62,
+      "fileSize": 9360,
+      "contentRatio": 0.0903,
+      "edgeDensity": 0.1321,
+      "laplacianVariance": 527.61,
+      "layout": {
+        "left": 0,
+        "top": 19,
+        "right": 72,
+        "bottom": 224,
+        "offsetX": -36,
+        "offsetY": -102,
+        "bboxWidth": 440,
+        "bboxHeight": 269,
+        "contentRatio": 0.0903
+      },
+      "issue_type": "crop_or_border",
+      "reasons": [
+        "内容贴边，可能裁切或有边框残留",
+        "上下边距明显失衡",
+        "视觉中心偏移较大"
+      ]
+    },
+    {
+      "brand_id": "canon",
+      "name": "Canon",
+      "category": "消费电子 / 科技硬件 / 相机 / 影像设备",
+      "file": "dist\\logos\\v20260620\\canon.webp",
+      "score": 187.46,
+      "fileSize": 6438,
+      "contentRatio": 0.095,
+      "edgeDensity": 0.0527,
+      "laplacianVariance": 128.66,
+      "layout": {
+        "left": 37,
+        "top": 0,
+        "right": 0,
+        "bottom": 202,
+        "offsetX": 19,
+        "offsetY": -101,
+        "bboxWidth": 475,
+        "bboxHeight": 310,
+        "contentRatio": 0.095
+      },
+      "issue_type": "crop_or_border",
+      "reasons": [
+        "内容贴边，可能裁切或有边框残留",
+        "上下边距明显失衡",
+        "视觉中心偏移较大"
+      ]
+    },
+    {
+      "brand_id": "crest",
+      "name": "Crest",
+      "category": "美妆 / 个护 / 健康消费 / 口腔护理",
+      "file": "dist\\logos\\v20260620\\crest.webp",
+      "score": 168.01,
+      "fileSize": 6348,
+      "contentRatio": 0.0861,
+      "edgeDensity": 0.0421,
+      "laplacianVariance": 128.12,
+      "layout": {
+        "left": 18,
+        "top": 0,
+        "right": 0,
+        "bottom": 200,
+        "offsetX": 9,
+        "offsetY": -100,
+        "bboxWidth": 494,
+        "bboxHeight": 312,
+        "contentRatio": 0.0861
+      },
+      "issue_type": "crop_or_border",
+      "reasons": [
+        "内容贴边，可能裁切或有边框残留",
+        "内容框几乎占满画布",
+        "上下边距明显失衡",
+        "视觉中心偏移较大"
+      ]
+    },
+    {
+      "brand_id": "doutor",
+      "name": "Doutor",
+      "category": "食品 / 饮料 / 餐饮 / 咖啡品牌",
+      "file": "dist\\logos\\v20260620\\doutor.webp",
+      "score": 286.26,
+      "fileSize": 4638,
+      "contentRatio": 0.1157,
+      "edgeDensity": 0.0645,
+      "laplacianVariance": 236.28,
+      "layout": {
+        "left": 43,
+        "top": 0,
+        "right": 0,
+        "bottom": 201,
+        "offsetX": 22,
+        "offsetY": -100,
+        "bboxWidth": 469,
+        "bboxHeight": 311,
+        "contentRatio": 0.1157
+      },
+      "issue_type": "crop_or_border",
+      "reasons": [
+        "内容贴边，可能裁切或有边框残留",
+        "上下边距明显失衡",
+        "视觉中心偏移较大"
+      ]
+    },
+    {
+      "brand_id": "pccw",
+      "name": "PCCW",
+      "category": "通信 / 运营商 / 网络基础设施 / 宽带 / 有线电视 / ISP",
+      "file": "dist\\logos\\v20260620\\pccw.webp",
+      "score": 220.55,
+      "fileSize": 6102,
+      "contentRatio": 0.0823,
+      "edgeDensity": 0.0443,
+      "laplacianVariance": 195.66,
+      "layout": {
+        "left": 51,
+        "top": 0,
+        "right": 0,
+        "bottom": 200,
+        "offsetX": 26,
+        "offsetY": -100,
+        "bboxWidth": 461,
+        "bboxHeight": 312,
+        "contentRatio": 0.0823
+      },
+      "issue_type": "crop_or_border",
+      "reasons": [
+        "内容贴边，可能裁切或有边框残留",
+        "上下边距明显失衡",
+        "视觉中心偏移较大"
+      ]
+    },
+    {
+      "brand_id": "arista",
+      "name": "Arista",
+      "category": "通信 / 运营商 / 网络基础设施 / 网络设备 / 通信设备",
+      "file": "dist\\logos\\v20260620\\arista.webp",
+      "score": 268.09,
+      "fileSize": 5056,
+      "contentRatio": 0.0614,
+      "edgeDensity": 0.0522,
+      "laplacianVariance": 241.82,
+      "layout": {
+        "left": 0,
+        "top": 199,
+        "right": 41,
+        "bottom": 2,
+        "offsetX": -20,
+        "offsetY": 99,
+        "bboxWidth": 471,
+        "bboxHeight": 311,
+        "contentRatio": 0.0614
+      },
+      "issue_type": "crop_or_border",
+      "reasons": [
+        "内容贴边，可能裁切或有边框残留",
+        "上下边距明显失衡",
+        "视觉中心偏移较大"
+      ]
+    },
+    {
+      "brand_id": "aveeno",
+      "name": "Aveeno",
+      "category": "美妆 / 个护 / 健康消费 / 洗护用品",
+      "file": "dist\\logos\\v20260620\\aveeno.webp",
+      "score": 230.84,
+      "fileSize": 5670,
+      "contentRatio": 0.0622,
+      "edgeDensity": 0.049,
+      "laplacianVariance": 198.05,
+      "layout": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 199,
+        "offsetX": 0,
+        "offsetY": -99,
+        "bboxWidth": 512,
+        "bboxHeight": 313,
+        "contentRatio": 0.0622
+      },
+      "issue_type": "crop_or_border",
+      "reasons": [
+        "内容贴边，可能裁切或有边框残留",
+        "内容框几乎占满画布",
+        "上下边距明显失衡",
+        "视觉中心偏移较大"
+      ]
+    },
+    {
+      "brand_id": "chaumet",
+      "name": "Chaumet",
+      "category": "奢侈品 / 时尚 / 珠宝 / 高级珠宝 / 腕表",
+      "file": "dist\\logos\\v20260620\\chaumet.webp",
+      "score": 314.35,
+      "fileSize": 5582,
+      "contentRatio": 0.0444,
+      "edgeDensity": 0.0543,
+      "laplacianVariance": 300.81,
+      "layout": {
+        "left": 35,
+        "top": 198,
+        "right": 0,
+        "bottom": 0,
+        "offsetX": 18,
+        "offsetY": 99,
+        "bboxWidth": 477,
+        "bboxHeight": 314,
+        "contentRatio": 0.0444
+      },
+      "issue_type": "crop_or_border",
+      "reasons": [
+        "内容贴边，可能裁切或有边框残留",
+        "上下边距明显失衡",
+        "视觉中心偏移较大"
+      ]
+    },
+    {
+      "brand_id": "nokia",
+      "name": "Nokia",
+      "category": "消费电子 / 科技硬件 / 手机品牌",
+      "file": "dist\\logos\\v20260620\\nokia.webp",
+      "score": 225.66,
+      "fileSize": 5122,
+      "contentRatio": 0.0881,
+      "edgeDensity": 0.0481,
+      "laplacianVariance": 193.22,
+      "layout": {
+        "left": 0,
+        "top": 202,
+        "right": 32,
+        "bottom": 4,
+        "offsetX": -16,
+        "offsetY": 99,
+        "bboxWidth": 480,
+        "bboxHeight": 306,
+        "contentRatio": 0.0881
+      },
+      "issue_type": "crop_or_border",
+      "reasons": [
+        "内容贴边，可能裁切或有边框残留",
+        "上下边距明显失衡",
+        "视觉中心偏移较大"
+      ]
+    },
+    {
+      "brand_id": "ntt_docomo",
+      "name": "NTT Docomo",
+      "category": "通信 / 运营商 / 网络基础设施 / 移动通信运营商",
+      "file": "dist\\logos\\v20260620\\ntt_docomo.webp",
+      "score": 189.35,
+      "fileSize": 6362,
+      "contentRatio": 0.0829,
+      "edgeDensity": 0.0512,
+      "laplacianVariance": 134.87,
+      "layout": {
+        "left": 44,
+        "top": 0,
+        "right": 0,
+        "bottom": 196,
+        "offsetX": 22,
+        "offsetY": -98,
+        "bboxWidth": 468,
+        "bboxHeight": 316,
+        "contentRatio": 0.0829
+      },
+      "issue_type": "crop_or_border",
+      "reasons": [
+        "内容贴边，可能裁切或有边框残留",
+        "上下边距明显失衡",
+        "视觉中心偏移较大"
+      ]
+    },
+    {
+      "brand_id": "stradivarius",
+      "name": "Stradivarius",
+      "category": "服饰 / 运动 / 户外 / 快时尚 / 基础服饰",
+      "file": "dist\\logos\\v20260620\\stradivarius.webp",
+      "score": 387.62,
+      "fileSize": 6034,
+      "contentRatio": 0.0636,
+      "edgeDensity": 0.0716,
+      "laplacianVariance": 359.4,
+      "layout": {
+        "left": 1,
+        "top": 0,
+        "right": 0,
+        "bottom": 197,
+        "offsetX": 1,
+        "offsetY": -98,
+        "bboxWidth": 511,
+        "bboxHeight": 315,
+        "contentRatio": 0.0636
+      },
+      "issue_type": "crop_or_border",
+      "reasons": [
+        "内容贴边，可能裁切或有边框残留",
+        "内容框几乎占满画布",
+        "上下边距明显失衡",
+        "视觉中心偏移较大"
+      ]
+    },
+    {
+      "brand_id": "atelier_cologne",
+      "name": "Atelier Cologne",
+      "category": "美妆 / 个护 / 健康消费 / 香水 / 香氛",
+      "file": "dist\\logos\\v20260620\\atelier_cologne.webp",
+      "score": 296.69,
+      "fileSize": 7230,
+      "contentRatio": 0.0469,
+      "edgeDensity": 0.0595,
+      "laplacianVariance": 263.27,
+      "layout": {
+        "left": 32,
+        "top": 0,
+        "right": 0,
+        "bottom": 192,
+        "offsetX": 16,
+        "offsetY": -96,
+        "bboxWidth": 480,
+        "bboxHeight": 320,
+        "contentRatio": 0.0469
+      },
+      "issue_type": "crop_or_border",
+      "reasons": [
+        "内容贴边，可能裁切或有边框残留",
+        "上下边距明显失衡",
+        "视觉中心偏移较大"
+      ]
+    },
+    {
+      "brand_id": "haribo",
+      "name": "Haribo",
+      "category": "食品 / 饮料 / 餐饮 / 包装食品 / 零食",
+      "file": "dist\\logos\\v20260620\\haribo.webp",
+      "score": 284.08,
+      "fileSize": 9342,
+      "contentRatio": 0.1668,
+      "edgeDensity": 0.0863,
+      "laplacianVariance": 178.88,
+      "layout": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 192,
+        "offsetX": 0,
+        "offsetY": -96,
+        "bboxWidth": 512,
+        "bboxHeight": 320,
+        "contentRatio": 0.1668
+      },
+      "issue_type": "crop_or_border",
+      "reasons": [
+        "内容贴边，可能裁切或有边框残留",
+        "内容框几乎占满画布",
+        "上下边距明显失衡",
+        "视觉中心偏移较大"
+      ]
+    },
+    {
+      "brand_id": "onlyfans",
+      "name": "OnlyFans",
+      "category": "特殊行业 / 高风险行业 / 待筛选 / 成人内容 / 成人服务",
+      "file": "dist\\logos\\v20260620\\onlyfans.webp",
+      "score": 203.42,
+      "fileSize": 6208,
+      "contentRatio": 0.0717,
+      "edgeDensity": 0.0536,
+      "laplacianVariance": 148.63,
+      "layout": {
+        "left": 0,
+        "top": 0,
+        "right": 32,
+        "bottom": 192,
+        "offsetX": -16,
+        "offsetY": -96,
+        "bboxWidth": 480,
+        "bboxHeight": 320,
+        "contentRatio": 0.0717
+      },
+      "issue_type": "crop_or_border",
+      "reasons": [
+        "内容贴边，可能裁切或有边框残留",
+        "上下边距明显失衡",
+        "视觉中心偏移较大"
+      ]
+    },
+    {
+      "brand_id": "shiseido",
+      "name": "Shiseido",
+      "category": "美妆 / 个护 / 健康消费 / 护肤品牌",
+      "file": "dist\\logos\\v20260620\\shiseido.webp",
+      "score": 263.5,
+      "fileSize": 7242,
+      "contentRatio": 0.065,
+      "edgeDensity": 0.0655,
+      "laplacianVariance": 202.17,
+      "layout": {
+        "left": 28,
+        "top": 1,
+        "right": 0,
+        "bottom": 194,
+        "offsetX": 14,
+        "offsetY": -96,
+        "bboxWidth": 484,
+        "bboxHeight": 317,
+        "contentRatio": 0.065
+      },
+      "issue_type": "crop_or_border",
+      "reasons": [
+        "内容贴边，可能裁切或有边框残留",
+        "上下边距明显失衡",
+        "视觉中心偏移较大"
+      ]
+    },
+    {
+      "brand_id": "z_kai",
+      "name": "Z-kai",
+      "category": "教育 / 知识 / 出版 / K12 / 教培",
+      "file": "dist\\logos\\v20260620\\z_kai.webp",
+      "score": 497.7,
+      "fileSize": 6064,
+      "contentRatio": 0.0972,
+      "edgeDensity": 0.1112,
+      "laplacianVariance": 413.2,
+      "layout": {
+        "left": 42,
+        "top": 28,
+        "right": 0,
+        "bottom": 219,
+        "offsetX": 21,
+        "offsetY": -95,
+        "bboxWidth": 470,
+        "bboxHeight": 265,
+        "contentRatio": 0.0972
+      },
+      "issue_type": "crop_or_border",
+      "reasons": [
+        "内容贴边，可能裁切或有边框残留",
+        "视觉中心偏移较大"
+      ]
+    },
+    {
+      "brand_id": "apa_hotels",
+      "name": "APA Hotels",
+      "category": "出行 / 旅游 / 酒店 / 航空 / 酒店集团",
+      "file": "dist\\logos\\v20260620\\apa_hotels.webp",
+      "score": 869.48,
+      "fileSize": 17630,
+      "contentRatio": 0.2117,
+      "edgeDensity": 0.2276,
+      "laplacianVariance": 638.73,
+      "layout": {
+        "left": 52,
+        "top": 0,
+        "right": 83,
+        "bottom": 189,
+        "offsetX": -15,
+        "offsetY": -94,
+        "bboxWidth": 377,
+        "bboxHeight": 323,
+        "contentRatio": 0.2117
+      },
+      "issue_type": "crop_or_border",
+      "reasons": [
+        "内容贴边，可能裁切或有边框残留",
+        "上下边距明显失衡",
+        "视觉中心偏移较大"
+      ]
+    },
+    {
+      "brand_id": "ford_foundation",
+      "name": "Ford Foundation",
+      "category": "公共机构 / 城市品牌 / 非营利 / 公益 / 非营利组织",
+      "file": "dist\\logos\\v20260620\\ford_foundation.webp",
+      "score": 364.75,
+      "fileSize": 8648,
+      "contentRatio": 0.0748,
+      "edgeDensity": 0.0816,
+      "laplacianVariance": 302.5,
+      "layout": {
+        "left": 27,
+        "top": 0,
+        "right": 0,
+        "bottom": 188,
+        "offsetX": 14,
+        "offsetY": -94,
+        "bboxWidth": 485,
+        "bboxHeight": 324,
+        "contentRatio": 0.0748
+      },
+      "issue_type": "crop_or_border",
+      "reasons": [
+        "内容贴边，可能裁切或有边框残留",
+        "上下边距明显失衡",
+        "视觉中心偏移较大"
+      ]
+    },
+    {
+      "brand_id": "alipay_foundation",
+      "name": "Alipay Foundation",
+      "category": "公共机构 / 城市品牌 / 非营利 / 公益 / 非营利组织",
+      "file": "dist\\logos\\v20260620\\alipay_foundation.webp",
+      "score": 471.5,
+      "fileSize": 8522,
+      "contentRatio": 0.1114,
+      "edgeDensity": 0.0984,
+      "laplacianVariance": 408.89,
+      "layout": {
+        "left": 0,
+        "top": 0,
+        "right": 40,
+        "bottom": 184,
+        "offsetX": -20,
+        "offsetY": -92,
+        "bboxWidth": 472,
+        "bboxHeight": 328,
+        "contentRatio": 0.1114
+      },
+      "issue_type": "crop_or_border",
+      "reasons": [
+        "内容贴边，可能裁切或有边框残留",
+        "上下边距明显失衡",
+        "视觉中心偏移较大"
+      ]
+    },
+    {
+      "brand_id": "bananain",
+      "name": "Bananain 蕉内",
+      "category": "服饰 / 运动 / 户外 / 内衣 / 家居服",
+      "file": "dist\\logos\\v20260620\\bananain.webp",
+      "score": 367.9,
+      "fileSize": 5648,
+      "contentRatio": 0.1094,
+      "edgeDensity": 0.0803,
+      "laplacianVariance": 310.2,
+      "layout": {
+        "left": 44,
+        "top": 0,
+        "right": 0,
+        "bottom": 184,
+        "offsetX": 22,
+        "offsetY": -92,
+        "bboxWidth": 468,
+        "bboxHeight": 328,
+        "contentRatio": 0.1094
+      },
+      "issue_type": "crop_or_border",
+      "reasons": [
+        "内容贴边，可能裁切或有边框残留",
+        "上下边距明显失衡",
+        "视觉中心偏移较大"
+      ]
+    },
+    {
+      "brand_id": "british_airways",
+      "name": "British Airways",
+      "category": "出行 / 旅游 / 酒店 / 航空 / 航空公司",
+      "file": "dist\\logos\\v20260620\\british_airways.webp",
+      "score": 642.68,
+      "fileSize": 8968,
+      "contentRatio": 0.1036,
+      "edgeDensity": 0.1441,
+      "laplacianVariance": 532.43,
+      "layout": {
+        "left": 0,
+        "top": 72,
+        "right": 0,
+        "bottom": 256,
+        "offsetX": 0,
+        "offsetY": -92,
+        "bboxWidth": 512,
+        "bboxHeight": 184,
+        "contentRatio": 0.1036
+      },
+      "issue_type": "crop_or_border",
+      "reasons": [
+        "内容贴边，可能裁切或有边框残留",
+        "内容框几乎占满画布",
+        "视觉中心偏移较大"
+      ]
+    },
+    {
+      "brand_id": "lor_al_paris",
+      "name": "L'Oréal Paris",
+      "category": "美妆 / 个护 / 健康消费 / 彩妆品牌",
+      "file": "dist\\logos\\v20260620\\lor_al_paris.webp",
+      "score": 311.16,
+      "fileSize": 4848,
+      "contentRatio": 0.0547,
+      "edgeDensity": 0.0667,
+      "laplacianVariance": 265.34,
+      "layout": {
+        "left": 0,
+        "top": 0,
+        "right": 44,
+        "bottom": 184,
+        "offsetX": -22,
+        "offsetY": -92,
+        "bboxWidth": 468,
+        "bboxHeight": 328,
+        "contentRatio": 0.0547
+      },
+      "issue_type": "crop_or_border",
+      "reasons": [
+        "内容贴边，可能裁切或有边框残留",
+        "上下边距明显失衡",
+        "视觉中心偏移较大"
+      ]
+    },
+    {
+      "brand_id": "rockefeller_foundation",
+      "name": "Rockefeller Foundation",
+      "category": "公共机构 / 城市品牌 / 非营利 / 公益 / 非营利组织",
+      "file": "dist\\logos\\v20260620\\rockefeller_foundation.webp",
+      "score": 628.35,
+      "fileSize": 10192,
+      "contentRatio": 0.0972,
+      "edgeDensity": 0.1175,
+      "laplacianVariance": 578.97,
+      "layout": {
+        "left": 2,
+        "top": 0,
+        "right": 34,
+        "bottom": 185,
+        "offsetX": -16,
+        "offsetY": -92,
+        "bboxWidth": 476,
+        "bboxHeight": 327,
+        "contentRatio": 0.0972
+      },
+      "issue_type": "crop_or_border",
+      "reasons": [
+        "内容贴边，可能裁切或有边框残留",
+        "上下边距明显失衡",
+        "视觉中心偏移较大"
+      ]
+    },
+    {
+      "brand_id": "allegro",
+      "name": "Allegro",
+      "category": "电商 / 零售 / 商超 / 综合电商",
+      "file": "dist\\logos\\v20260620\\allegro.webp",
+      "score": 132.9,
+      "fileSize": 5820,
+      "contentRatio": 0.1011,
+      "edgeDensity": 0.0492,
+      "laplacianVariance": 61.55,
+      "layout": {
+        "left": 0,
+        "top": 1,
+        "right": 55,
+        "bottom": 183,
+        "offsetX": -27,
+        "offsetY": -91,
+        "bboxWidth": 457,
+        "bboxHeight": 328,
+        "contentRatio": 0.1011
+      },
+      "issue_type": "crop_or_border",
+      "reasons": [
+        "内容贴边，可能裁切或有边框残留",
+        "上下边距明显失衡",
+        "视觉中心偏移较大"
+      ]
+    },
+    {
+      "brand_id": "pirelli",
+      "name": "Pirelli",
+      "category": "汽车 / 新能源 / 交通工具 / 轮胎 / 汽车零部件",
+      "file": "dist\\logos\\v20260620\\pirelli.webp",
+      "score": 225.65,
+      "fileSize": 4486,
+      "contentRatio": 0.1528,
+      "edgeDensity": 0.0738,
+      "laplacianVariance": 128.95,
+      "layout": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 183,
+        "offsetX": 0,
+        "offsetY": -91,
+        "bboxWidth": 512,
+        "bboxHeight": 329,
+        "contentRatio": 0.1528
+      },
+      "issue_type": "crop_or_border",
+      "reasons": [
+        "内容贴边，可能裁切或有边框残留",
+        "内容框几乎占满画布",
+        "上下边距明显失衡",
+        "视觉中心偏移较大"
+      ]
+    },
+    {
+      "brand_id": "reebok",
+      "name": "Reebok",
+      "category": "服饰 / 运动 / 户外 / 综合运动品牌",
+      "file": "dist\\logos\\v20260620\\reebok.webp",
+      "score": 200.43,
+      "fileSize": 4198,
+      "contentRatio": 0.0872,
+      "edgeDensity": 0.0397,
+      "laplacianVariance": 179.04,
+      "layout": {
+        "left": 4,
+        "top": 0,
+        "right": 0,
+        "bottom": 182,
+        "offsetX": 2,
+        "offsetY": -91,
+        "bboxWidth": 508,
+        "bboxHeight": 330,
+        "contentRatio": 0.0872
+      },
+      "issue_type": "crop_or_border",
+      "reasons": [
+        "内容贴边，可能裁切或有边框残留",
+        "内容框几乎占满画布",
+        "上下边距明显失衡",
+        "视觉中心偏移较大"
+      ]
+    },
+    {
+      "brand_id": "chevrolet",
+      "name": "Chevrolet",
+      "category": "汽车 / 新能源 / 交通工具 / 大众汽车品牌",
+      "file": "dist\\logos\\v20260620\\chevrolet.webp",
+      "score": 433.52,
+      "fileSize": 9776,
+      "contentRatio": 0.1863,
+      "edgeDensity": 0.0984,
+      "laplacianVariance": 356.06,
+      "layout": {
+        "left": 0,
+        "top": 0,
+        "right": 24,
+        "bottom": 181,
+        "offsetX": -12,
+        "offsetY": -90,
+        "bboxWidth": 488,
+        "bboxHeight": 331,
+        "contentRatio": 0.1863
+      },
+      "issue_type": "crop_or_border",
+      "reasons": [
+        "内容贴边，可能裁切或有边框残留",
+        "上下边距明显失衡",
+        "视觉中心偏移较大"
+      ]
+    },
+    {
+      "brand_id": "costco",
+      "name": "Costco",
+      "category": "电商 / 零售 / 商超 / 商超 / 大卖场",
+      "file": "dist\\logos\\v20260620\\costco.webp",
+      "score": 343.42,
+      "fileSize": 9944,
+      "contentRatio": 0.1587,
+      "edgeDensity": 0.0913,
+      "laplacianVariance": 248.72,
+      "layout": {
+        "left": 47,
+        "top": 0,
+        "right": 0,
+        "bottom": 179,
+        "offsetX": 24,
+        "offsetY": -89,
+        "bboxWidth": 465,
+        "bboxHeight": 333,
+        "contentRatio": 0.1587
+      },
+      "issue_type": "crop_or_border",
+      "reasons": [
+        "内容贴边，可能裁切或有边框残留",
+        "上下边距明显失衡"
+      ]
+    },
+    {
+      "brand_id": "catl",
+      "name": "CATL",
+      "category": "汽车 / 新能源 / 交通工具 / 轮胎 / 汽车零部件",
+      "file": "dist\\logos\\v20260620\\catl.webp",
+      "score": 257.93,
+      "fileSize": 4486,
+      "contentRatio": 0.1053,
+      "edgeDensity": 0.0586,
+      "laplacianVariance": 211.75,
+      "layout": {
+        "left": 0,
+        "top": 0,
+        "right": 27,
+        "bottom": 176,
+        "offsetX": -13,
+        "offsetY": -88,
+        "bboxWidth": 485,
+        "bboxHeight": 336,
+        "contentRatio": 0.1053
+      },
+      "issue_type": "crop_or_border",
+      "reasons": [
+        "内容贴边，可能裁切或有边框残留",
+        "上下边距明显失衡"
+      ]
+    },
+    {
+      "brand_id": "head_and_shoulders",
+      "name": "Head & Shoulders",
+      "category": "美妆 / 个护 / 健康消费 / 洗护用品",
+      "file": "dist\\logos\\v20260620\\head_and_shoulders.webp",
+      "score": 525.39,
+      "fileSize": 15548,
+      "contentRatio": 0.1637,
+      "edgeDensity": 0.1148,
+      "laplacianVariance": 442.71,
+      "layout": {
+        "left": 31,
+        "top": 0,
+        "right": 0,
+        "bottom": 177,
+        "offsetX": 16,
+        "offsetY": -88,
+        "bboxWidth": 481,
+        "bboxHeight": 335,
+        "contentRatio": 0.1637
+      },
+      "issue_type": "crop_or_border",
+      "reasons": [
+        "内容贴边，可能裁切或有边框残留",
+        "上下边距明显失衡"
+      ]
+    },
+    {
+      "brand_id": "nhs",
+      "name": "NHS",
+      "category": "公共机构 / 城市品牌 / 非营利 / 应急 / 安全 / 公共机构",
+      "file": "dist\\logos\\v20260620\\nhs.webp",
+      "score": 280.67,
+      "fileSize": 7532,
+      "contentRatio": 0.1938,
+      "edgeDensity": 0.0734,
+      "laplacianVariance": 206.31,
+      "layout": {
+        "left": 46,
+        "top": 0,
+        "right": 0,
+        "bottom": 176,
+        "offsetX": 23,
+        "offsetY": -88,
+        "bboxWidth": 466,
+        "bboxHeight": 336,
+        "contentRatio": 0.1938
+      },
+      "issue_type": "crop_or_border",
+      "reasons": [
+        "内容贴边，可能裁切或有边框残留",
+        "上下边距明显失衡"
+      ]
+    },
+    {
+      "brand_id": "ruijie_networks",
+      "name": "Ruijie Networks",
+      "category": "通信 / 运营商 / 网络基础设施 / 网络设备 / 通信设备",
+      "file": "dist\\logos\\v20260620\\ruijie_networks.webp",
+      "score": 257.57,
+      "fileSize": 9834,
+      "contentRatio": 0.1162,
+      "edgeDensity": 0.0756,
+      "laplacianVariance": 168.67,
+      "layout": {
+        "left": 42,
+        "top": 0,
+        "right": 0,
+        "bottom": 176,
+        "offsetX": 21,
+        "offsetY": -88,
+        "bboxWidth": 470,
+        "bboxHeight": 336,
+        "contentRatio": 0.1162
+      },
+      "issue_type": "crop_or_border",
+      "reasons": [
+        "内容贴边，可能裁切或有边框残留",
+        "上下边距明显失衡"
+      ]
+    },
+    {
+      "brand_id": "hersheys",
+      "name": "Hershey's",
+      "category": "食品 / 饮料 / 餐饮 / 包装食品 / 零食",
+      "file": "dist\\logos\\v20260620\\hersheys.webp",
+      "score": 435.53,
+      "fileSize": 6532,
+      "contentRatio": 0.1738,
+      "edgeDensity": 0.0954,
+      "laplacianVariance": 366.44,
+      "layout": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 175,
+        "offsetX": 0,
+        "offsetY": -87,
+        "bboxWidth": 512,
+        "bboxHeight": 337,
+        "contentRatio": 0.1738
+      },
+      "issue_type": "crop_or_border",
+      "reasons": [
+        "内容贴边，可能裁切或有边框残留",
+        "内容框几乎占满画布",
+        "上下边距明显失衡"
+      ]
+    },
+    {
+      "brand_id": "juniper_networks",
+      "name": "Juniper Networks",
+      "category": "通信 / 运营商 / 网络基础设施 / 网络设备 / 通信设备",
+      "file": "dist\\logos\\v20260620\\juniper_networks.webp",
+      "score": 369.95,
+      "fileSize": 5874,
+      "contentRatio": 0.0699,
+      "edgeDensity": 0.077,
+      "laplacianVariance": 321.38,
+      "layout": {
+        "left": 45,
+        "top": 0,
+        "right": 0,
+        "bottom": 175,
+        "offsetX": 23,
+        "offsetY": -87,
+        "bboxWidth": 467,
+        "bboxHeight": 337,
+        "contentRatio": 0.0699
+      },
+      "issue_type": "crop_or_border",
+      "reasons": [
+        "内容贴边，可能裁切或有边框残留",
+        "上下边距明显失衡"
+      ]
+    },
+    {
+      "brand_id": "waterpik",
+      "name": "Waterpik",
+      "category": "美妆 / 个护 / 健康消费 / 口腔护理",
+      "file": "dist\\logos\\v20260620\\waterpik.webp",
+      "score": 257.95,
+      "fileSize": 7040,
+      "contentRatio": 0.0784,
+      "edgeDensity": 0.0549,
+      "laplacianVariance": 221.08,
+      "layout": {
+        "left": 31,
+        "top": 0,
+        "right": 0,
+        "bottom": 175,
+        "offsetX": 16,
+        "offsetY": -87,
+        "bboxWidth": 481,
+        "bboxHeight": 337,
+        "contentRatio": 0.0784
+      },
+      "issue_type": "crop_or_border",
+      "reasons": [
+        "内容贴边，可能裁切或有边框残留",
+        "上下边距明显失衡"
+      ]
+    },
+    {
+      "brand_id": "calvin_klein_underwear",
+      "name": "Calvin Klein Underwear",
+      "category": "服饰 / 运动 / 户外 / 内衣 / 家居服",
+      "file": "dist\\logos\\v20260620\\calvin_klein_underwear.webp",
+      "score": 382.19,
+      "fileSize": 5930,
+      "contentRatio": 0.0525,
+      "edgeDensity": 0.0677,
+      "laplacianVariance": 361.48,
+      "layout": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 173,
+        "offsetX": 0,
+        "offsetY": -86,
+        "bboxWidth": 512,
+        "bboxHeight": 339,
+        "contentRatio": 0.0525
+      },
+      "issue_type": "crop_or_border",
+      "reasons": [
+        "内容贴边，可能裁切或有边框残留",
+        "内容框几乎占满画布",
+        "上下边距明显失衡"
+      ]
+    },
+    {
+      "brand_id": "cn_ec8bfa3e",
+      "name": "葵花药业",
+      "category": "医疗 / 医药 / 生物科技 / 中医药 / 保健药品",
+      "file": "dist\\logos\\v20260620\\cn_ec8bfa3e.webp",
+      "score": 859.29,
+      "fileSize": 21520,
+      "contentRatio": 0.3081,
+      "edgeDensity": 0.2399,
+      "laplacianVariance": 593.72,
+      "layout": {
+        "left": 40,
+        "top": 0,
+        "right": 119,
+        "bottom": 172,
+        "offsetX": -39,
+        "offsetY": -86,
+        "bboxWidth": 353,
+        "bboxHeight": 340,
+        "contentRatio": 0.3081
+      },
+      "issue_type": "crop_or_border",
+      "reasons": [
+        "内容贴边，可能裁切或有边框残留",
+        "上下边距明显失衡"
+      ]
+    },
+    {
+      "brand_id": "coffee_meets_bagel",
+      "name": "Coffee Meets Bagel",
+      "category": "特殊行业 / 高风险行业 / 待筛选 / 约会 / 社交匹配",
+      "file": "dist\\logos\\v20260620\\coffee_meets_bagel.webp",
+      "score": 300,
+      "fileSize": 10758,
+      "contentRatio": 0.1356,
+      "edgeDensity": 0.0795,
+      "laplacianVariance": 217.81,
+      "layout": {
+        "left": 27,
+        "top": 169,
+        "right": 0,
+        "bottom": 0,
+        "offsetX": 14,
+        "offsetY": 85,
+        "bboxWidth": 485,
+        "bboxHeight": 343,
+        "contentRatio": 0.1356
+      },
+      "issue_type": "crop_or_border",
+      "reasons": [
+        "内容贴边，可能裁切或有边框残留",
+        "上下边距明显失衡"
+      ]
+    },
+    {
+      "brand_id": "ireader",
+      "name": "掌阅 iReader",
+      "category": "教育 / 知识 / 出版 / 电子书 / 有声书",
+      "file": "dist\\logos\\v20260620\\ireader.webp",
+      "score": 624.94,
+      "fileSize": 8312,
+      "contentRatio": 0.1272,
+      "edgeDensity": 0.1492,
+      "laplacianVariance": 494.91,
+      "layout": {
+        "left": 103,
+        "top": 0,
+        "right": 152,
+        "bottom": 168,
+        "offsetX": -24,
+        "offsetY": -84,
+        "bboxWidth": 257,
+        "bboxHeight": 344,
+        "contentRatio": 0.1272
+      },
+      "issue_type": "crop_or_border",
+      "reasons": [
+        "内容贴边，可能裁切或有边框残留",
+        "上下边距明显失衡"
+      ]
+    },
+    {
+      "brand_id": "johnsons",
+      "name": "Johnson's",
+      "category": "美妆 / 个护 / 健康消费 / 洗护用品",
+      "file": "dist\\logos\\v20260620\\johnsons.webp",
+      "score": 252.58,
+      "fileSize": 8316,
+      "contentRatio": 0.0797,
+      "edgeDensity": 0.0626,
+      "laplacianVariance": 194.21,
+      "layout": {
+        "left": 0,
+        "top": 0,
+        "right": 40,
+        "bottom": 168,
+        "offsetX": -20,
+        "offsetY": -84,
+        "bboxWidth": 472,
+        "bboxHeight": 344,
+        "contentRatio": 0.0797
+      },
+      "issue_type": "crop_or_border",
+      "reasons": [
+        "内容贴边，可能裁切或有边框残留",
+        "上下边距明显失衡"
+      ]
+    },
+    {
+      "brand_id": "airtasker",
+      "name": "Airtasker",
+      "category": "物流 / 外卖 / 本地生活 / 家政 / 维修 / 回收",
+      "file": "dist\\logos\\v20260620\\airtasker.webp",
+      "score": 826.77,
+      "fileSize": 6856,
+      "contentRatio": 0.0783,
+      "edgeDensity": 0.1985,
+      "laplacianVariance": 652.01,
+      "layout": {
+        "left": 0,
+        "top": 128,
+        "right": 60,
+        "bottom": 294,
+        "offsetX": -30,
+        "offsetY": -83,
+        "bboxWidth": 452,
+        "bboxHeight": 90,
+        "contentRatio": 0.0783
+      },
+      "issue_type": "crop_or_border",
+      "reasons": [
+        "内容贴边，可能裁切或有边框残留"
+      ]
+    },
+    {
+      "brand_id": "dior_fragrance",
+      "name": "Dior Fragrance",
+      "category": "美妆 / 个护 / 健康消费 / 香水 / 香氛",
+      "file": "dist\\logos\\v20260620\\dior_fragrance.webp",
+      "score": 377.08,
+      "fileSize": 6258,
+      "contentRatio": 0.0757,
+      "edgeDensity": 0.068,
+      "laplacianVariance": 353.69,
+      "layout": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 167,
+        "offsetX": 0,
+        "offsetY": -83,
+        "bboxWidth": 512,
+        "bboxHeight": 345,
+        "contentRatio": 0.0757
+      },
+      "issue_type": "crop_or_border",
+      "reasons": [
+        "内容贴边，可能裁切或有边框残留",
+        "内容框几乎占满画布",
+        "上下边距明显失衡"
+      ]
+    },
+    {
+      "brand_id": "fudan_university",
+      "name": "Fudan University 复旦大学",
+      "category": "教育 / 知识 / 出版 / 大学 / 学术机构",
+      "file": "dist\\logos\\v20260620\\fudan_university.webp",
+      "score": 1091.66,
+      "fileSize": 21264,
+      "contentRatio": 0.1688,
+      "edgeDensity": 0.2321,
+      "laplacianVariance": 935.94,
+      "layout": {
+        "left": 42,
+        "top": 0,
+        "right": 104,
+        "bottom": 164,
+        "offsetX": -31,
+        "offsetY": -82,
+        "bboxWidth": 366,
+        "bboxHeight": 348,
+        "contentRatio": 0.1688
+      },
+      "issue_type": "crop_or_border",
+      "reasons": [
+        "内容贴边，可能裁切或有边框残留",
+        "上下边距明显失衡"
+      ]
+    },
+    {
+      "brand_id": "helpling",
+      "name": "Helpling",
+      "category": "物流 / 外卖 / 本地生活 / 家政 / 维修 / 回收",
+      "file": "dist\\logos\\v20260620\\helpling.webp",
+      "score": 369.2,
+      "fileSize": 11440,
+      "contentRatio": 0.1337,
+      "edgeDensity": 0.1035,
+      "laplacianVariance": 254,
+      "layout": {
+        "left": 98,
+        "top": 11,
+        "right": 0,
+        "bottom": 176,
+        "offsetX": 49,
+        "offsetY": -82,
+        "bboxWidth": 414,
+        "bboxHeight": 325,
+        "contentRatio": 0.1337
+      },
+      "issue_type": "crop_or_border",
+      "reasons": [
+        "内容贴边，可能裁切或有边框残留",
+        "上下边距明显失衡"
+      ]
+    },
+    {
+      "brand_id": "neiwai",
+      "name": "NEIWAI 内外",
+      "category": "服饰 / 运动 / 户外 / 内衣 / 家居服",
+      "file": "dist\\logos\\v20260620\\neiwai.webp",
+      "score": 376.42,
+      "fileSize": 5488,
+      "contentRatio": 0.0556,
+      "edgeDensity": 0.074,
+      "laplacianVariance": 337.92,
+      "layout": {
+        "left": 69,
+        "top": 163,
+        "right": 0,
+        "bottom": 0,
+        "offsetX": 35,
+        "offsetY": 82,
+        "bboxWidth": 443,
+        "bboxHeight": 349,
+        "contentRatio": 0.0556
+      },
+      "issue_type": "crop_or_border",
+      "reasons": [
+        "内容贴边，可能裁切或有边框残留",
+        "上下边距明显失衡"
+      ]
+    },
+    {
+      "brand_id": "pigeon",
+      "name": "Pigeon 贝亲",
+      "category": "美妆 / 个护 / 健康消费 / 母婴 / 家庭健康消费",
+      "file": "dist\\logos\\v20260620\\pigeon.webp",
+      "score": 187.92,
+      "fileSize": 7790,
+      "contentRatio": 0.1369,
+      "edgeDensity": 0.0579,
+      "laplacianVariance": 116.14,
+      "layout": {
+        "left": 0,
+        "top": 163,
+        "right": 50,
+        "bottom": 0,
+        "offsetX": -25,
+        "offsetY": 82,
+        "bboxWidth": 462,
+        "bboxHeight": 349,
+        "contentRatio": 0.1369
+      },
+      "issue_type": "crop_or_border",
+      "reasons": [
+        "内容贴边，可能裁切或有边框残留",
+        "上下边距明显失衡"
+      ]
+    },
+    {
+      "brand_id": "alpine",
+      "name": "Alpine",
+      "category": "汽车 / 新能源 / 交通工具 / 超跑 / 高性能车",
+      "file": "dist\\logos\\v20260620\\alpine.webp",
+      "score": 137.39,
+      "fileSize": 4906,
+      "contentRatio": 0.0948,
+      "edgeDensity": 0.0308,
+      "laplacianVariance": 113.88,
+      "layout": {
+        "left": 0,
+        "top": 0,
+        "right": 79,
+        "bottom": 162,
+        "offsetX": -39,
+        "offsetY": -81,
+        "bboxWidth": 433,
+        "bboxHeight": 350,
+        "contentRatio": 0.0948
+      },
+      "issue_type": "crop_or_border",
+      "reasons": [
+        "内容贴边，可能裁切或有边框残留",
+        "上下边距明显失衡"
+      ]
+    },
+    {
+      "brand_id": "crest_08",
+      "name": "佳洁士 Crest",
+      "category": "美妆 / 个护 / 健康消费 / 口腔护理",
+      "file": "dist\\logos\\v20260620\\crest_08.webp",
+      "score": 255.93,
+      "fileSize": 9768,
+      "contentRatio": 0.1307,
+      "edgeDensity": 0.0681,
+      "laplacianVariance": 185.15,
+      "layout": {
+        "left": 20,
+        "top": 1,
+        "right": 0,
+        "bottom": 163,
+        "offsetX": 10,
+        "offsetY": -81,
+        "bboxWidth": 492,
+        "bboxHeight": 348,
+        "contentRatio": 0.1307
+      },
+      "issue_type": "crop_or_border",
+      "reasons": [
+        "内容贴边，可能裁切或有边框残留",
+        "内容框几乎占满画布",
+        "上下边距明显失衡"
+      ]
+    },
+    {
+      "brand_id": "longines",
+      "name": "Longines",
+      "category": "奢侈品 / 时尚 / 珠宝 / 高级珠宝 / 腕表",
+      "file": "dist\\logos\\v20260620\\longines.webp",
+      "score": 430.29,
+      "fileSize": 7142,
+      "contentRatio": 0.0856,
+      "edgeDensity": 0.0797,
+      "laplacianVariance": 398.39,
+      "layout": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 162,
+        "offsetX": 0,
+        "offsetY": -81,
+        "bboxWidth": 512,
+        "bboxHeight": 350,
+        "contentRatio": 0.0856
+      },
+      "issue_type": "crop_or_border",
+      "reasons": [
+        "内容贴边，可能裁切或有边框残留",
+        "内容框几乎占满画布",
+        "上下边距明显失衡"
+      ]
+    },
+    {
+      "brand_id": "winona",
+      "name": "Winona 薇诺娜",
+      "category": "美妆 / 个护 / 健康消费 / 护肤品牌",
+      "file": "dist\\logos\\v20260620\\winona.webp",
+      "score": 331.64,
+      "fileSize": 10662,
+      "contentRatio": 0.1106,
+      "edgeDensity": 0.0957,
+      "laplacianVariance": 221.34,
+      "layout": {
+        "left": 40,
+        "top": 162,
+        "right": 0,
+        "bottom": 0,
+        "offsetX": 20,
+        "offsetY": 81,
+        "bboxWidth": 472,
+        "bboxHeight": 350,
+        "contentRatio": 0.1106
+      },
+      "issue_type": "crop_or_border",
+      "reasons": [
+        "内容贴边，可能裁切或有边框残留",
+        "上下边距明显失衡"
+      ]
+    },
+    {
+      "brand_id": "air_france",
+      "name": "Air France",
+      "category": "出行 / 旅游 / 酒店 / 航空 / 航空公司",
+      "file": "dist\\logos\\v20260620\\air_france.webp",
+      "score": 1152.79,
+      "fileSize": 5250,
+      "contentRatio": 0.058,
+      "edgeDensity": 0.2271,
+      "laplacianVariance": 1033.4,
+      "layout": {
+        "left": 0,
+        "top": 144,
+        "right": 44,
+        "bottom": 304,
+        "offsetX": -22,
+        "offsetY": -80,
+        "bboxWidth": 468,
+        "bboxHeight": 64,
+        "contentRatio": 0.058
+      },
+      "issue_type": "crop_or_border",
+      "reasons": [
+        "内容贴边，可能裁切或有边框残留"
+      ]
+    },
+    {
+      "brand_id": "infiniti",
+      "name": "Infiniti",
+      "category": "汽车 / 新能源 / 交通工具 / 豪华汽车",
+      "file": "dist\\logos\\v20260620\\infiniti.webp",
+      "score": 316.75,
+      "fileSize": 7552,
+      "contentRatio": 0.1231,
+      "edgeDensity": 0.0755,
+      "laplacianVariance": 251.21,
+      "layout": {
+        "left": 49,
+        "top": 160,
+        "right": 0,
+        "bottom": 0,
+        "offsetX": 25,
+        "offsetY": 80,
+        "bboxWidth": 463,
+        "bboxHeight": 352,
+        "contentRatio": 0.1231
+      },
+      "issue_type": "crop_or_border",
+      "reasons": [
+        "内容贴边，可能裁切或有边框残留",
+        "上下边距明显失衡"
+      ]
+    },
+    {
+      "brand_id": "systema",
+      "name": "Systema",
+      "category": "美妆 / 个护 / 健康消费 / 口腔护理",
+      "file": "dist\\logos\\v20260620\\systema.webp",
+      "score": 288.33,
+      "fileSize": 8698,
+      "contentRatio": 0.0864,
+      "edgeDensity": 0.0716,
+      "laplacianVariance": 221.56,
+      "layout": {
+        "left": 27,
+        "top": 0,
+        "right": 0,
+        "bottom": 160,
+        "offsetX": 14,
+        "offsetY": -80,
+        "bboxWidth": 485,
+        "bboxHeight": 352,
+        "contentRatio": 0.0864
+      },
+      "issue_type": "crop_or_border",
+      "reasons": [
+        "内容贴边，可能裁切或有边框残留",
+        "上下边距明显失衡"
+      ]
+    },
+    {
+      "brand_id": "20th_century_studios",
+      "name": "20th Century Studios",
+      "category": "游戏 / 娱乐 / 影视 / 音乐 / 电影公司 / 影视制作",
+      "file": "dist\\logos\\v20260620\\20th_century_studios.webp",
+      "score": 862.45,
+      "fileSize": 19186,
+      "contentRatio": 0.4806,
+      "edgeDensity": 0.1971,
+      "laplacianVariance": 705.13,
+      "layout": {
+        "left": 57,
+        "top": 0,
+        "right": 83,
+        "bottom": 158,
+        "offsetX": -13,
+        "offsetY": -79,
+        "bboxWidth": 372,
+        "bboxHeight": 354,
+        "contentRatio": 0.4806
+      },
+      "issue_type": "crop_or_border",
+      "reasons": [
+        "内容贴边，可能裁切或有边框残留",
+        "上下边距明显失衡"
+      ]
+    },
+    {
+      "brand_id": "elsevier",
+      "name": "Elsevier",
+      "category": "教育 / 知识 / 出版 / 出版社 / 图书品牌",
+      "file": "dist\\logos\\v20260620\\elsevier.webp",
+      "score": 2878.81,
+      "fileSize": 26842,
+      "contentRatio": 0.2224,
+      "edgeDensity": 0.4365,
+      "laplacianVariance": 2907.19,
+      "layout": {
+        "left": 75,
+        "top": 0,
+        "right": 120,
+        "bottom": 158,
+        "offsetX": -22,
+        "offsetY": -79,
+        "bboxWidth": 317,
+        "bboxHeight": 354,
+        "contentRatio": 0.2224
+      },
+      "issue_type": "crop_or_border",
+      "reasons": [
+        "内容贴边，可能裁切或有边框残留",
+        "上下边距明显失衡"
+      ]
+    },
+    {
+      "brand_id": "samsung",
+      "name": "Samsung",
+      "category": "消费电子 / 科技硬件 / 手机品牌",
+      "file": "dist\\logos\\v20260620\\samsung.webp",
+      "score": 272.4,
+      "fileSize": 7972,
+      "contentRatio": 0.1719,
+      "edgeDensity": 0.0567,
+      "laplacianVariance": 236.57,
+      "layout": {
+        "left": 31,
+        "top": 0,
+        "right": 0,
+        "bottom": 158,
+        "offsetX": 16,
+        "offsetY": -79,
+        "bboxWidth": 481,
+        "bboxHeight": 354,
+        "contentRatio": 0.1719
+      },
+      "issue_type": "crop_or_border",
+      "reasons": [
+        "内容贴边，可能裁切或有边框残留",
+        "上下边距明显失衡"
+      ]
+    },
+    {
+      "brand_id": "ucc_coffee",
+      "name": "UCC Coffee",
+      "category": "食品 / 饮料 / 餐饮 / 咖啡品牌",
+      "file": "dist\\logos\\v20260620\\ucc_coffee.webp",
+      "score": 258.72,
+      "fileSize": 8714,
+      "contentRatio": 0.1387,
+      "edgeDensity": 0.0614,
+      "laplacianVariance": 205.76,
+      "layout": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 159,
+        "offsetX": 0,
+        "offsetY": -79,
+        "bboxWidth": 512,
+        "bboxHeight": 353,
+        "contentRatio": 0.1387
+      },
+      "issue_type": "crop_or_border",
+      "reasons": [
+        "内容贴边，可能裁切或有边框残留",
+        "内容框几乎占满画布",
+        "上下边距明显失衡"
+      ]
+    },
+    {
+      "brand_id": "zte_03",
+      "name": "ZTE",
+      "category": "通信 / 运营商 / 网络基础设施 / 网络设备 / 通信设备",
+      "file": "dist\\logos\\v20260620\\zte_03.webp",
+      "score": 173.39,
+      "fileSize": 4804,
+      "contentRatio": 0.1121,
+      "edgeDensity": 0.0441,
+      "laplacianVariance": 130.68,
+      "layout": {
+        "left": 64,
+        "top": 0,
+        "right": 0,
+        "bottom": 159,
+        "offsetX": 32,
+        "offsetY": -79,
+        "bboxWidth": 448,
+        "bboxHeight": 353,
+        "contentRatio": 0.1121
+      },
+      "issue_type": "crop_or_border",
+      "reasons": [
+        "内容贴边，可能裁切或有边框残留",
+        "上下边距明显失衡"
+      ]
+    },
+    {
+      "brand_id": "fema",
+      "name": "FEMA",
+      "category": "公共机构 / 城市品牌 / 非营利 / 应急 / 安全 / 公共机构",
+      "file": "dist\\logos\\v20260620\\fema.webp",
+      "score": 518.62,
+      "fileSize": 12424,
+      "contentRatio": 0.1158,
+      "edgeDensity": 0.1174,
+      "laplacianVariance": 426.68,
+      "layout": {
+        "left": 0,
+        "top": 157,
+        "right": 32,
+        "bottom": 1,
+        "offsetX": -16,
+        "offsetY": 78,
+        "bboxWidth": 480,
+        "bboxHeight": 354,
+        "contentRatio": 0.1158
+      },
+      "issue_type": "crop_or_border",
+      "reasons": [
+        "内容贴边，可能裁切或有边框残留",
+        "上下边距明显失衡"
+      ]
+    },
+    {
+      "brand_id": "m_and_ms",
+      "name": "M&M's",
+      "category": "食品 / 饮料 / 餐饮 / 包装食品 / 零食",
+      "file": "dist\\logos\\v20260620\\m_and_ms.webp",
+      "score": 556.96,
+      "fileSize": 11910,
+      "contentRatio": 0.1718,
+      "edgeDensity": 0.1118,
+      "laplacianVariance": 494.17,
+      "layout": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 156,
+        "offsetX": 0,
+        "offsetY": -78,
+        "bboxWidth": 512,
+        "bboxHeight": 356,
+        "contentRatio": 0.1718
+      },
+      "issue_type": "crop_or_border",
+      "reasons": [
+        "内容贴边，可能裁切或有边框残留",
+        "内容框几乎占满画布",
+        "上下边距明显失衡"
+      ]
+    },
+    {
+      "brand_id": "new_balance",
+      "name": "New Balance",
+      "category": "服饰 / 运动 / 户外 / 综合运动品牌",
+      "file": "dist\\logos\\v20260620\\new_balance.webp",
+      "score": 209.59,
+      "fileSize": 7210,
+      "contentRatio": 0.1913,
+      "edgeDensity": 0.0631,
+      "laplacianVariance": 133.35,
+      "layout": {
+        "left": 64,
+        "top": 0,
+        "right": 0,
+        "bottom": 156,
+        "offsetX": 32,
+        "offsetY": -78,
+        "bboxWidth": 448,
+        "bboxHeight": 356,
+        "contentRatio": 0.1913
+      },
+      "issue_type": "crop_or_border",
+      "reasons": [
+        "内容贴边，可能裁切或有边框残留",
+        "上下边距明显失衡"
+      ]
+    },
+    {
+      "brand_id": "ole",
+      "name": "Ole'",
+      "category": "电商 / 零售 / 商超 / 商超 / 大卖场",
+      "file": "dist\\logos\\v20260620\\ole.webp",
+      "score": 345.52,
+      "fileSize": 9756,
+      "contentRatio": 0.1374,
+      "edgeDensity": 0.0751,
+      "laplacianVariance": 292.02,
+      "layout": {
+        "left": 73,
+        "top": 0,
+        "right": 0,
+        "bottom": 157,
+        "offsetX": 37,
+        "offsetY": -78,
+        "bboxWidth": 439,
+        "bboxHeight": 355,
+        "contentRatio": 0.1374
+      },
+      "issue_type": "crop_or_border",
+      "reasons": [
+        "内容贴边，可能裁切或有边框残留",
+        "上下边距明显失衡"
+      ]
+    },
+    {
+      "brand_id": "qq_15",
+      "name": "QQ阅读",
+      "category": "教育 / 知识 / 出版 / 电子书 / 有声书",
+      "file": "dist\\logos\\v20260620\\qq_15.webp",
+      "score": 784.72,
+      "fileSize": 9564,
+      "contentRatio": 0.1813,
+      "edgeDensity": 0.1716,
+      "laplacianVariance": 660.82,
+      "layout": {
+        "left": 108,
+        "top": 0,
+        "right": 164,
+        "bottom": 156,
+        "offsetX": -28,
+        "offsetY": -78,
+        "bboxWidth": 240,
+        "bboxHeight": 356,
+        "contentRatio": 0.1813
+      },
+      "issue_type": "crop_or_border",
+      "reasons": [
+        "内容贴边，可能裁切或有边框残留",
+        "上下边距明显失衡"
+      ]
+    },
+    {
+      "brand_id": "sk_ii",
+      "name": "SK-II",
+      "category": "美妆 / 个护 / 健康消费 / 护肤品牌",
+      "file": "dist\\logos\\v20260620\\sk_ii.webp",
+      "score": 221.4,
+      "fileSize": 6242,
+      "contentRatio": 0.0956,
+      "edgeDensity": 0.0522,
+      "laplacianVariance": 177,
+      "layout": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 157,
+        "offsetX": 0,
+        "offsetY": -78,
+        "bboxWidth": 512,
+        "bboxHeight": 355,
+        "contentRatio": 0.0956
+      },
+      "issue_type": "crop_or_border",
+      "reasons": [
+        "内容贴边，可能裁切或有边框残留",
+        "内容框几乎占满画布",
+        "上下边距明显失衡"
+      ]
+    },
+    {
+      "brand_id": "cleveland_clinic",
+      "name": "Cleveland Clinic",
+      "category": "医疗 / 医药 / 生物科技 / 医疗服务 / 互联网医疗",
+      "file": "dist\\logos\\v20260620\\cleveland_clinic.webp",
+      "score": 354.83,
+      "fileSize": 6884,
+      "contentRatio": 0.1102,
+      "edgeDensity": 0.082,
+      "laplacianVariance": 287.69,
+      "layout": {
+        "left": 15,
+        "top": 154,
+        "right": 47,
+        "bottom": 0,
+        "offsetX": -16,
+        "offsetY": 77,
+        "bboxWidth": 450,
+        "bboxHeight": 358,
+        "contentRatio": 0.1102
+      },
+      "issue_type": "crop_or_border",
+      "reasons": [
+        "内容贴边，可能裁切或有边框残留",
+        "上下边距明显失衡"
+      ]
+    },
+    {
+      "brand_id": "cn_13b5f816",
+      "name": "好大夫在线",
+      "category": "医疗 / 医药 / 生物科技 / 医疗服务 / 互联网医疗",
+      "file": "dist\\logos\\v20260620\\cn_13b5f816.webp",
+      "score": 695.8,
+      "fileSize": 15430,
+      "contentRatio": 0.1595,
+      "edgeDensity": 0.1587,
+      "laplacianVariance": 569.75,
+      "layout": {
+        "left": 0,
+        "top": 4,
+        "right": 112,
+        "bottom": 159,
+        "offsetX": -56,
+        "offsetY": -77,
+        "bboxWidth": 400,
+        "bboxHeight": 349,
+        "contentRatio": 0.1595
+      },
+      "issue_type": "crop_or_border",
+      "reasons": [
+        "内容贴边，可能裁切或有边框残留",
+        "左右边距明显失衡",
+        "上下边距明显失衡"
+      ]
+    }
+  ]
+}

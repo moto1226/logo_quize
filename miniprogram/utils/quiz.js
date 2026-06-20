@@ -19,6 +19,8 @@ function buildOptions(question) {
 }
 
 function formatQuestionType(type) {
+  if (type === "brand_clue_to_logo") return "线索推理";
+  if (type === "similar_logo_confusion") return "相似混淆";
   return type === "brand_to_logo" ? "反向记忆" : "基础识别";
 }
 

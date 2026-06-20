@@ -131,14 +131,13 @@ function buildModes() {
     },
     {
       id: "clue",
-      mode: "brand_clue",
+      mode: "brand_clue_to_logo",
       title: "线索推理",
       desc: "根据描述选择 Logo",
-      badge: "锁定",
+      badge: "可练习",
       icon: "?",
       colorClass: "mode-purple",
-      locked: true,
-      toast: "线索推理题即将开放"
+      locked: false
     }
   ];
 }

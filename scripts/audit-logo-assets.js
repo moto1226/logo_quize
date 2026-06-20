@@ -4,7 +4,7 @@ const sharp = require("sharp");
 
 const root = path.resolve(__dirname, "..");
 const brandsFile = path.join(root, "miniprogram", "packages", "quiz", "data", "brands.js");
-const distLogoDir = path.join(root, "dist", "logos", "v20260620");
+const distLogoDir = path.join(root, "dist", "logos", "v20260620r2");
 const reportDir = path.join(root, "reports");
 const reviewDir = path.join(root, "review");
 const reportFile = path.join(reportDir, "logo-visual-risk-audit.json");
@@ -185,7 +185,7 @@ function buildNearDuplicateGroups(entries) {
       brands: group.map((entry) => ({
         brand_id: entry.brand_id,
         display_name: entry.display_name,
-        image: `../dist/logos/v20260620/${entry.brand_id}.webp`
+        image: `../dist/logos/v20260620r2/${entry.brand_id}.webp`
       }))
     }))
     .sort((a, b) => b.count - a.count);
@@ -231,7 +231,7 @@ function writeHtml(entries, nearDuplicateGroups, summary) {
   <section>
     <h2>风险图</h2>
     ${risky.length ? `<div class="grid">${risky.map((entry) => `<article class="card">
-      <img src="../dist/logos/v20260620/${htmlEscape(entry.brand_id)}.webp" loading="lazy" alt="${htmlEscape(entry.display_name)}">
+      <img src="../dist/logos/v20260620r2/${htmlEscape(entry.brand_id)}.webp" loading="lazy" alt="${htmlEscape(entry.display_name)}">
       <div class="name">${htmlEscape(entry.display_name)}</div>
       <div class="id">${htmlEscape(entry.brand_id)}</div>
       <div class="flags">${entry.risk_flags.map(htmlEscape).join(" / ")}</div>

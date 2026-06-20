@@ -20,7 +20,7 @@ const { saveLatestResult } = require("../../../../utils/storage.js");
 
 const letters = ["A", "B", "C", "D"];
 const ROUND_QUESTION_COUNT = 20;
-const LOGO_BASE_URL = "https://logos.lupio.studio/logos/v20260620";
+const LOGO_BASE_URL = "https://logos.lupio.studio/logos/v20260620r2";
 const preloadedLogoUrls = new Set();
 const brandNameMap = sourceBrands.reduce((map, brand) => {
   map[brand.brand_id] = brand.display_name || brand.name_zh || brand.name_en || brand.brand_id;
@@ -104,7 +104,7 @@ function collectQuestionLogoUrls(question) {
   if (question.type === "logo_to_brand") {
     return [normalizeLogoImage(question.logo, question.answer_brand_id)];
   }
-  if (question.type === "brand_to_logo") {
+  if (question.type === "brand_to_logo" || question.type === "brand_clue_to_logo") {
     return (question.options || []).slice(0, 4).map((option) => normalizeLogoImage(option.image, option.brand_id));
   }
   return [];
@@ -130,7 +130,14 @@ function getTypeLabel(type) {
 function getPrompt(type) {
   if (type === "brand_to_logo") return "请选择对应的 Logo";
   if (type === "logo_to_brand") return "请认出这个品牌";
+  if (type === "brand_clue_to_logo") return "根据线索选择 Logo";
   return "请选择正确答案";
+}
+
+function normalizeMode(mode) {
+  if (mode === "brand_clue") return "brand_clue_to_logo";
+  if (mode === "similar_confusion") return "similar_logo_confusion";
+  return mode || "mixed";
 }
 
 function makeRuntimeOptions(answer, brands) {
@@ -353,13 +360,17 @@ Page({
   },
 
   loadQuestions(mode) {
-    const questions = sourceQuestions.length
-      ? this.pickRoundQuestions(sourceQuestions, mode)
-      : pickRuntimeRoundQuestions(sourceBrands, mode, ROUND_QUESTION_COUNT);
+    const normalizedMode = normalizeMode(mode);
+    const dataQuestions = sourceQuestions.length ? this.pickRoundQuestions(sourceQuestions, normalizedMode) : [];
+    const questions = dataQuestions.length
+      ? dataQuestions
+      : (normalizedMode === "brand_clue_to_logo" || normalizedMode === "similar_logo_confusion"
+        ? []
+        : pickRuntimeRoundQuestions(sourceBrands, normalizedMode, ROUND_QUESTION_COUNT));
     if (!questions.length) {
-      console.warn("no available questions for mode", mode);
+      console.warn("no available questions for mode", normalizedMode);
       this.setData({
-        mode,
+        mode: normalizedMode,
         questions: [],
         totalQuestions: 0,
         currentQuestion: null,
@@ -371,7 +382,7 @@ Page({
 
     this.records = [];
     this.setData({
-      mode,
+      mode: normalizedMode,
       questions,
       totalQuestions: questions.length,
       currentIndex: 0,

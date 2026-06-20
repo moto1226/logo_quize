@@ -1,0 +1,76 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Logo 模糊图片审计</title>
+  <style>
+    body{margin:0;background:#f6f7f9;color:#111827;font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif}
+    header{position:sticky;top:0;background:#fff;border-bottom:1px solid #e5e7eb;padding:16px 20px;z-index:2}
+    h1{margin:0 0 8px;font-size:22px}.summary{display:flex;gap:8px;flex-wrap:wrap;color:#667085;font-size:13px}.summary span{border:1px solid #e5e7eb;border-radius:999px;padding:5px 9px}
+    main{padding:18px;display:grid;grid-template-columns:repeat(auto-fill,minmax(230px,1fr));gap:14px}.card{background:#fff;border:1px solid #e5e7eb;border-radius:8px;padding:10px}.card.severe{border-color:#ff7875;background:#fff1f0}.card.suspect{border-color:#ffd591;background:#fff7e6}
+    img{width:100%;aspect-ratio:1/1;object-fit:contain;background:#fff;border-radius:6px}h2{font-size:15px;margin:8px 0 4px;word-break:break-word}p{margin:3px 0;color:#667085;font-size:12px;word-break:break-word}
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Logo 模糊图片审计</h1>
+    <div class="summary">
+      <span>总数 2951</span>
+      <span>严重模糊 4</span>
+      <span>疑似模糊 2</span>
+      <span>正常 2945</span>
+      <span>生成时间 2026-06-20T05:24:46.186Z</span>
+    </div>
+  </header>
+  <main>
+      <article class="card severe">
+        <img src="../dist/logos/v20260620/anchor_spotify_for_podcasters.webp" loading="lazy" alt="">
+        <div>
+          <h2>anchor_spotify_for_podcasters</h2>
+          <p>severe | score 3.22 | lap 4.47 | edge 0 | size 4456</p>
+          <p>dist\logos\v20260620\anchor_spotify_for_podcasters.webp</p>
+        </div>
+      </article>
+      <article class="card severe">
+        <img src="../dist/logos/v20260620/36.webp" loading="lazy" alt="">
+        <div>
+          <h2>36</h2>
+          <p>severe | score 4.16 | lap 5.71 | edge 0 | size 3788</p>
+          <p>dist\logos\v20260620\36.webp</p>
+        </div>
+      </article>
+      <article class="card severe">
+        <img src="../dist/logos/v20260620/adobe_stock.webp" loading="lazy" alt="">
+        <div>
+          <h2>adobe_stock</h2>
+          <p>severe | score 4.57 | lap 6.15 | edge 0.0001 | size 3430</p>
+          <p>dist\logos\v20260620\adobe_stock.webp</p>
+        </div>
+      </article>
+      <article class="card severe">
+        <img src="../dist/logos/v20260620/spotify_podcasts.webp" loading="lazy" alt="">
+        <div>
+          <h2>spotify_podcasts</h2>
+          <p>severe | score 15.39 | lap 13.97 | edge 0.003 | size 5614</p>
+          <p>dist\logos\v20260620\spotify_podcasts.webp</p>
+        </div>
+      </article>
+      <article class="card suspect">
+        <img src="../dist/logos/v20260620/9.webp" loading="lazy" alt="">
+        <div>
+          <h2>9</h2>
+          <p>suspect | score 51.32 | lap 61.77 | edge 0.0038 | size 4584</p>
+          <p>dist\logos\v20260620\9.webp</p>
+        </div>
+      </article>
+      <article class="card suspect">
+        <img src="../dist/logos/v20260620/huaban.webp" loading="lazy" alt="">
+        <div>
+          <h2>huaban</h2>
+          <p>suspect | score 84.48 | lap 86.4 | edge 0.0124 | size 3326</p>
+          <p>dist\logos\v20260620\huaban.webp</p>
+        </div>
+      </article></main>
+</body>
+</html>

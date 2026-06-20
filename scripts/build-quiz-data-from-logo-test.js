@@ -12,9 +12,9 @@ const quizDataDir = path.join(miniprogramRoot, "packages", "quiz", "data");
 const mainDataDir = path.join(miniprogramRoot, "data");
 const reviewDir = path.join(root, "review");
 const reportDir = path.join(root, "reports");
-const distLogoDir = path.join(root, "dist", "logos", "v20260620");
+const distLogoDir = path.join(root, "dist", "logos", "v20260620r2");
 
-const cdnBase = (process.env.LOGO_CDN_BASE || "https://logos.lupio.studio/logos/v20260620").replace(/\/+$/, "");
+const cdnBase = (process.env.LOGO_CDN_BASE || "https://logos.lupio.studio/logos/v20260620r2").replace(/\/+$/, "");
 const questionReviewFile = path.join(reviewDir, "quiz-questions-preview.html");
 const buildReportFile = path.join(reportDir, "logo-test-build-report.json");
 const validationReportFile = path.join(reportDir, "quiz-data-validation-report.json");
@@ -63,7 +63,7 @@ function logoUrl(brandId) {
 }
 
 function localReviewLogo(brandId) {
-  return `../dist/logos/v20260620/${brandId}.webp`;
+  return `../dist/logos/v20260620r2/${brandId}.webp`;
 }
 
 function numericScore(value) {
@@ -158,6 +158,21 @@ function makeOptions(answer, brands) {
   return shuffleStable([...chosen.values()].slice(0, 4), `${answer.brand_id}:options`);
 }
 
+function makeClueOptions(answer, brands) {
+  const chosen = new Map([[answer.brand_id, answer]]);
+  const answerPrompt = answer.clue_prompt || "";
+  const pools = [
+    brands.filter((item) => item.brand_id !== answer.brand_id && item.category !== answer.category && item.clue_prompt !== answerPrompt),
+    brands.filter((item) => item.brand_id !== answer.brand_id && item.industry !== answer.industry && item.clue_prompt !== answerPrompt),
+    brands.filter((item) => item.brand_id !== answer.brand_id && item.clue_prompt !== answerPrompt),
+    brands
+  ];
+  for (let index = 0; index < pools.length && chosen.size < 4; index += 1) {
+    addOptions(chosen, answer, shuffleStable(pools[index], `${answer.brand_id}:clue:${index}`));
+  }
+  return shuffleStable([...chosen.values()].slice(0, 4), `${answer.brand_id}:clue:options`);
+}
+
 function publicBrand(brand) {
   return {
     brand_id: brand.brand_id,
@@ -242,6 +257,27 @@ function buildQuestions(brands) {
   return questions;
 }
 
+function buildClueQuestions(brands) {
+  const questions = [];
+  for (const brand of brands) {
+    const prompt = String(brand.clue_prompt || "").trim();
+    if (!prompt) continue;
+    const options = makeClueOptions(brand, brands);
+    if (options.length !== 4) continue;
+    questions.push({
+      id: `q_brand_clue_to_logo_${brand.brand_id}_001`,
+      type: "brand_clue_to_logo",
+      prompt,
+      answer_brand_id: brand.brand_id,
+      options: options.map((item) => ({ brand_id: item.brand_id })),
+      industry: brand.industry,
+      category: brand.category,
+      similar_group: brand.similar_group
+    });
+  }
+  return questions;
+}
+
 function copyDistLogos(brands) {
   ensureDir(distLogoDir);
   const missing = [];
@@ -286,6 +322,7 @@ function writeQuizPreview(brands, questions) {
       industry: question.industry || answer.industry || "",
       category: question.category || answer.category || "",
       similar_group: question.similar_group || answer.similar_group || "",
+      prompt: question.prompt || "",
       logo: localReviewLogo(question.answer_brand_id),
       remote_logo: logoUrl(question.answer_brand_id),
       brand_name: answer.display_name || question.answer_brand_id,
@@ -368,11 +405,12 @@ function writeQuizPreview(brands, questions) {
       <span class="pill">题目：${questions.length}</span>
       <span class="pill">基础识别：${typeCounts.logo_to_brand || 0}</span>
       <span class="pill">反向记忆：${typeCounts.brand_to_logo || 0}</span>
+      <span class="pill">线索推理：${typeCounts.brand_clue_to_logo || 0}</span>
       <span class="pill" id="visibleCount"></span>
     </div>
     <div class="filters">
       <input id="search" placeholder="搜索品牌名 / brand_id / 题目 ID">
-      <select id="type"><option value="">全部题型</option><option value="logo_to_brand">基础识别</option><option value="brand_to_logo">反向记忆</option></select>
+      <select id="type"><option value="">全部题型</option><option value="logo_to_brand">基础识别</option><option value="brand_to_logo">反向记忆</option><option value="brand_clue_to_logo">线索推理</option></select>
       <select id="industry"><option value="">全部行业</option></select>
       <select id="category"><option value="">全部小分类</option></select>
     </div>
@@ -391,7 +429,7 @@ function writeQuizPreview(brands, questions) {
     const typeSelect = document.getElementById('type');
     const industrySelect = document.getElementById('industry');
     const categorySelect = document.getElementById('category');
-    const typeLabel = { logo_to_brand: '基础识别', brand_to_logo: '反向记忆' };
+    const typeLabel = { logo_to_brand: '基础识别', brand_to_logo: '反向记忆', brand_clue_to_logo: '线索推理' };
     function addOptions(select, values) {
       Object.entries(values).sort((a,b) => b[1] - a[1] || a[0].localeCompare(b[0])).forEach(([name, count]) => {
         const option = document.createElement('option');
@@ -415,8 +453,11 @@ function writeQuizPreview(brands, questions) {
     function renderCard(question) {
       const cls = 'card ' + question.type;
       const meta = '<div class="meta"><span>' + escapeHtml(question.industry || '未分类') + '</span><span>' + escapeHtml(question.category || '') + '</span><span>' + escapeHtml(question.answer_brand_id) + '</span></div>';
-      if (question.type === 'brand_to_logo') {
-        return '<article class="' + cls + '"><div class="card-head"><div class="qid">' + escapeHtml(question.id) + '</div><div class="type">' + typeLabel[question.type] + '</div></div><div class="prompt">请选择 <span class="answer">' + escapeHtml(question.brand_name) + '</span> 对应的 Logo</div><div class="logo-options">' + question.options.map(option => '<div class="logo-option ' + (option.correct ? 'correct' : '') + '"><span class="letter">' + option.letter + '</span><img src="' + escapeHtml(option.image) + '" loading="lazy" alt="' + escapeHtml(option.name) + '"></div>').join('') + '</div>' + meta + '</article>';
+      if (question.type === 'brand_to_logo' || question.type === 'brand_clue_to_logo') {
+        const prompt = question.type === 'brand_clue_to_logo'
+          ? escapeHtml(question.prompt || '根据线索选择对应的 Logo')
+          : '请选择 <span class="answer">' + escapeHtml(question.brand_name) + '</span> 对应的 Logo';
+        return '<article class="' + cls + '"><div class="card-head"><div class="qid">' + escapeHtml(question.id) + '</div><div class="type">' + typeLabel[question.type] + '</div></div><div class="prompt">' + prompt + '</div><div class="logo-options">' + question.options.map(option => '<div class="logo-option ' + (option.correct ? 'correct' : '') + '"><span class="letter">' + option.letter + '</span><img src="' + escapeHtml(option.image) + '" loading="lazy" alt="' + escapeHtml(option.name) + '"></div>').join('') + '</div>' + meta + '</article>';
       }
       return '<article class="' + cls + '"><div class="card-head"><div class="qid">' + escapeHtml(question.id) + '</div><div class="type">' + typeLabel[question.type] + '</div></div><div class="prompt">请选择该 Logo 对应的品牌</div><div class="question-logo"><img src="' + escapeHtml(question.logo) + '" loading="lazy" alt="' + escapeHtml(question.answer_name) + '"></div><div class="text-options">' + question.options.map(option => '<div class="text-option ' + (option.correct ? 'correct' : '') + '"><span class="letter">' + option.letter + '</span><span>' + escapeHtml(option.name) + '</span></div>').join('') + '</div>' + meta + '</article>';
     }
@@ -455,7 +496,7 @@ function validate(brands, questions) {
     if (!fs.existsSync(path.join(distLogoDir, `${brand.brand_id}.webp`))) errors.push({ brand_id: brand.brand_id, error: "missing_dist_logo" });
   }
   for (const question of questions) {
-    if (!["logo_to_brand", "brand_to_logo"].includes(question.type)) errors.push({ question_id: question.id, error: "invalid_type" });
+    if (!["logo_to_brand", "brand_to_logo", "brand_clue_to_logo"].includes(question.type)) errors.push({ question_id: question.id, error: "invalid_type" });
     if (!brandIds.has(question.answer_brand_id)) errors.push({ question_id: question.id, error: "answer_brand_missing" });
     if (!Array.isArray(question.options) || question.options.length !== 4) errors.push({ question_id: question.id, error: "option_count_not_4" });
     const optionIds = (question.options || []).map((option) => option.brand_id);
@@ -473,16 +514,21 @@ function build() {
   const allPublicBrands = brands.map(publicBrand);
   const duplicateAudit = findDuplicateLogoExclusions(allPublicBrands);
   const publicBrands = allPublicBrands.filter((brand) => !duplicateAudit.excludedBrandIds.has(brand.brand_id));
+  const publicBrandIds = new Set(publicBrands.map((brand) => brand.brand_id));
+  const clueBrands = brands.filter((brand) => publicBrandIds.has(brand.brand_id));
   const missingDistSources = copyDistLogos(publicBrands);
-  const questions = buildQuestions(publicBrands);
+  const baseQuestions = buildQuestions(publicBrands);
+  const clueQuestions = buildClueQuestions(clueBrands);
+  const questions = baseQuestions.concat(clueQuestions);
 
   writeJs(path.join(quizDataDir, "brands.js"), publicBrands);
-  writeJs(path.join(quizDataDir, "questions.js"), []);
+  writeJs(path.join(quizDataDir, "questions.js"), clueQuestions);
   writeJs(path.join(mainDataDir, "summary.js"), {
     brand_count: publicBrands.length,
     question_count: questions.length,
     logo_to_brand_count: questions.filter((q) => q.type === "logo_to_brand").length,
-    brand_to_logo_count: questions.filter((q) => q.type === "brand_to_logo").length
+    brand_to_logo_count: questions.filter((q) => q.type === "brand_to_logo").length,
+    brand_clue_to_logo_count: questions.filter((q) => q.type === "brand_clue_to_logo").length
   });
   writeQuizPreview(publicBrands, questions);
 
@@ -503,7 +549,8 @@ function build() {
     question_count: questions.length,
     logo_to_brand_count: questions.filter((q) => q.type === "logo_to_brand").length,
     brand_to_logo_count: questions.filter((q) => q.type === "brand_to_logo").length,
-    dist_logo_dir: "dist/logos/v20260620",
+    brand_clue_to_logo_count: questions.filter((q) => q.type === "brand_clue_to_logo").length,
+    dist_logo_dir: "dist/logos/v20260620r2",
     duplicate_logo_group_count: duplicateAudit.duplicateGroups.length,
     duplicate_logo_affected_brand_count: duplicateAudit.duplicateAffectedBrandCount,
     duplicate_logo_excluded_brand_count: duplicateAudit.excludedBrandCount,

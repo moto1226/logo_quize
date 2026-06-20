@@ -284,8 +284,13 @@ page {
 .mode-orange { border-color: rgba(255, 150, 0, 0.28); }
 
 .mode-purple .mode-icon { background: rgba(184, 124, 248, 0.14); color: #b87cf8; }
-.mode-purple .mode-badge { background: #f1f1f1; color: #8a8a8a; }
+.mode-purple .mode-badge { background: rgba(184, 124, 248, 0.16); color: #8a45e8; }
 .mode-purple { border-color: rgba(184, 124, 248, 0.3); }
+
+.mode-card.is-locked .mode-badge {
+  background: #f1f1f1;
+  color: #8a8a8a;
+}
 
 .quick-card {
   margin-top: 24rpx;

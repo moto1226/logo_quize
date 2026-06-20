@@ -1,0 +1,209 @@
+{
+  "summary": {
+    "total": 22,
+    "blur": 8,
+    "crop_or_border": 14,
+    "missingFiles": 0,
+    "generatedAt": "2026-06-20T07:15:54.634Z"
+  },
+  "issues": [
+    {
+      "brand_id": "al_jazeera",
+      "issue_type": "blur",
+      "issue_label": "图片模糊",
+      "name": "Al Jazeera",
+      "category": "新闻 / 媒体 / 内容平台 / 国际新闻媒体",
+      "file": "dist\\logos\\v20260620\\al_jazeera.webp",
+      "exists": true
+    },
+    {
+      "brand_id": "bloomberg",
+      "issue_type": "blur",
+      "issue_label": "图片模糊",
+      "name": "Bloomberg",
+      "category": "新闻 / 媒体 / 内容平台 / 国际新闻媒体",
+      "file": "dist\\logos\\v20260620\\bloomberg.webp",
+      "exists": true
+    },
+    {
+      "brand_id": "cn_882c305e",
+      "issue_type": "blur",
+      "issue_label": "图片模糊",
+      "name": "第一财经",
+      "category": "新闻 / 媒体 / 内容平台 / 中国新闻 / 门户",
+      "file": "dist\\logos\\v20260620\\cn_882c305e.webp",
+      "exists": true
+    },
+    {
+      "brand_id": "cn_992b39c4",
+      "issue_type": "blur",
+      "issue_label": "图片模糊",
+      "name": "界面新闻",
+      "category": "新闻 / 媒体 / 内容平台 / 中国新闻 / 门户",
+      "file": "dist\\logos\\v20260620\\cn_992b39c4.webp",
+      "exists": true
+    },
+    {
+      "brand_id": "himalaya",
+      "issue_type": "blur",
+      "issue_label": "图片模糊",
+      "name": "Himalaya",
+      "category": "新闻 / 媒体 / 内容平台 / 播客 / 音频内容",
+      "file": "dist\\logos\\v20260620\\himalaya.webp",
+      "exists": true
+    },
+    {
+      "brand_id": "vcg",
+      "issue_type": "blur",
+      "issue_label": "图片模糊",
+      "name": "视觉中国 VCG",
+      "category": "新闻 / 媒体 / 内容平台 / 图片 / 灵感平台",
+      "file": "dist\\logos\\v20260620\\vcg.webp",
+      "exists": true
+    },
+    {
+      "brand_id": "wired",
+      "issue_type": "blur",
+      "issue_label": "图片模糊",
+      "name": "WIRED",
+      "category": "新闻 / 媒体 / 内容平台 / 杂志 / 文化媒体",
+      "file": "dist\\logos\\v20260620\\wired.webp",
+      "exists": true
+    },
+    {
+      "brand_id": "zaker",
+      "issue_type": "blur",
+      "issue_label": "图片模糊",
+      "name": "ZAKER",
+      "category": "新闻 / 媒体 / 内容平台 / 中国新闻 / 门户",
+      "file": "dist\\logos\\v20260620\\zaker.webp",
+      "exists": true
+    },
+    {
+      "brand_id": "aesop",
+      "issue_type": "crop_or_border",
+      "issue_label": "边框 / 裁切 / 不居中 / 残缺",
+      "name": "Aesop",
+      "category": "奢侈品 / 时尚 / 珠宝 / 眼镜 / 香氛精品",
+      "file": "dist\\logos\\v20260620\\aesop.webp",
+      "exists": true
+    },
+    {
+      "brand_id": "amazon",
+      "issue_type": "crop_or_border",
+      "issue_label": "边框 / 裁切 / 不居中 / 残缺",
+      "name": "Amazon",
+      "category": "电商 / 零售 / 商超 / 综合电商",
+      "file": "dist\\logos\\v20260620\\amazon.webp",
+      "exists": true
+    },
+    {
+      "brand_id": "citibank",
+      "issue_type": "crop_or_border",
+      "issue_label": "边框 / 裁切 / 不居中 / 残缺",
+      "name": "Citibank",
+      "category": "金融 / 支付 / 保险 / 银行",
+      "file": "dist\\logos\\v20260620\\citibank.webp",
+      "exists": true
+    },
+    {
+      "brand_id": "cisco",
+      "issue_type": "crop_or_border",
+      "issue_label": "边框 / 裁切 / 不居中 / 残缺",
+      "name": "Cisco",
+      "category": "通信 / 运营商 / 网络基础设施 / 网络设备 / 通信设备",
+      "file": "dist\\logos\\v20260620\\cisco.webp",
+      "exists": true
+    },
+    {
+      "brand_id": "cn_b0ec25ac",
+      "issue_type": "crop_or_border",
+      "issue_label": "边框 / 裁切 / 不居中 / 残缺",
+      "name": "东阿阿胶",
+      "category": "医疗 / 医药 / 生物科技 / 中医药 / 保健药品",
+      "file": "dist\\logos\\v20260620\\cn_b0ec25ac.webp",
+      "exists": true
+    },
+    {
+      "brand_id": "cn_bf699c32",
+      "issue_type": "crop_or_border",
+      "issue_label": "边框 / 裁切 / 不居中 / 残缺",
+      "name": "哈药集团",
+      "category": "医疗 / 医药 / 生物科技 / 中医药 / 保健药品",
+      "file": "dist\\logos\\v20260620\\cn_bf699c32.webp",
+      "exists": true
+    },
+    {
+      "brand_id": "columbia_university",
+      "issue_type": "crop_or_border",
+      "issue_label": "边框 / 裁切 / 不居中 / 残缺",
+      "name": "Columbia University",
+      "category": "教育 / 知识 / 出版 / 大学 / 学术机构",
+      "file": "dist\\logos\\v20260620\\columbia_university.webp",
+      "exists": true
+    },
+    {
+      "brand_id": "lazada",
+      "issue_type": "crop_or_border",
+      "issue_label": "边框 / 裁切 / 不居中 / 残缺",
+      "name": "Lazada",
+      "category": "电商 / 零售 / 商超 / 综合电商",
+      "file": "dist\\logos\\v20260620\\lazada.webp",
+      "exists": true
+    },
+    {
+      "brand_id": "peking_university",
+      "issue_type": "crop_or_border",
+      "issue_label": "边框 / 裁切 / 不居中 / 残缺",
+      "name": "Peking University 北京大学",
+      "category": "教育 / 知识 / 出版 / 大学 / 学术机构",
+      "file": "dist\\logos\\v20260620\\peking_university.webp",
+      "exists": true
+    },
+    {
+      "brand_id": "tsinghua_university",
+      "issue_type": "crop_or_border",
+      "issue_label": "边框 / 裁切 / 不居中 / 残缺",
+      "name": "Tsinghua University 清华大学",
+      "category": "教育 / 知识 / 出版 / 大学 / 学术机构",
+      "file": "dist\\logos\\v20260620\\tsinghua_university.webp",
+      "exists": true
+    },
+    {
+      "brand_id": "ucla",
+      "issue_type": "crop_or_border",
+      "issue_label": "边框 / 裁切 / 不居中 / 残缺",
+      "name": "UCLA",
+      "category": "教育 / 知识 / 出版 / 大学 / 学术机构",
+      "file": "dist\\logos\\v20260620\\ucla.webp",
+      "exists": true
+    },
+    {
+      "brand_id": "uc_berkeley",
+      "issue_type": "crop_or_border",
+      "issue_label": "边框 / 裁切 / 不居中 / 残缺",
+      "name": "UC Berkeley",
+      "category": "教育 / 知识 / 出版 / 大学 / 学术机构",
+      "file": "dist\\logos\\v20260620\\uc_berkeley.webp",
+      "exists": true
+    },
+    {
+      "brand_id": "university_of_tokyo",
+      "issue_type": "crop_or_border",
+      "issue_label": "边框 / 裁切 / 不居中 / 残缺",
+      "name": "University of Tokyo",
+      "category": "教育 / 知识 / 出版 / 大学 / 学术机构",
+      "file": "dist\\logos\\v20260620\\university_of_tokyo.webp",
+      "exists": true
+    },
+    {
+      "brand_id": "wanda",
+      "issue_type": "crop_or_border",
+      "issue_label": "边框 / 裁切 / 不居中 / 残缺",
+      "name": "万达 Wanda",
+      "category": "家居 / 房地产 / 建筑 / 房地产开发",
+      "file": "dist\\logos\\v20260620\\wanda.webp",
+      "exists": true
+    }
+  ]
+}
