@@ -20,7 +20,7 @@ const { saveLatestResult } = require("../../../../utils/storage.js");
 
 const letters = ["A", "B", "C", "D"];
 const ROUND_QUESTION_COUNT = 20;
-const LOGO_BASE_URL = "https://logos.lupio.studio/logos/v20260620r2";
+const LOGO_BASE_URL = "https://logos.lupio.studio/logos/v20260621t1";
 const LEARNING_BASE_URL = "https://logos.lupio.studio/learning/v20260621r2";
 const MAX_PRELOAD_CONCURRENCY = 2;
 const preloadedLogoUrls = new Set();
