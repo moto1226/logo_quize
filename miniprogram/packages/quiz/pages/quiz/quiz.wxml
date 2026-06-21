@@ -11,7 +11,9 @@
     <view class="stage-title">{{stagePrompt}}</view>
 
     <block wx:if="{{currentQuestion.type === 'logo_to_brand'}}">
-      <image class="logo-question-image" mode="aspectFit" src="{{currentQuestion.logo}}"></image>
+      <view class="logo-question-box">
+        <image class="logo-question-image" mode="aspectFit" src="{{currentQuestion.logo}}"></image>
+      </view>
     </block>
 
     <block wx:elif="{{currentQuestion.type === 'brand_to_logo'}}">

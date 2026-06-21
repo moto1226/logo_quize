@@ -82,10 +82,19 @@ page {
   text-align: center;
 }
 
-.logo-question-image {
+.logo-question-box {
   width: 320rpx;
   height: 320rpx;
   margin-top: 24rpx;
+  background: #ffffff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.logo-question-image {
+  width: 320rpx;
+  height: 320rpx;
   filter: brightness(1.04);
 }
 
@@ -190,6 +199,7 @@ page {
   position: relative;
   height: 220rpx;
   padding: 0;
+  background: #ffffff;
   line-height: normal;
   display: flex;
   align-items: center;

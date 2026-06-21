@@ -21,8 +21,11 @@ const { saveLatestResult } = require("../../../../utils/storage.js");
 const letters = ["A", "B", "C", "D"];
 const ROUND_QUESTION_COUNT = 20;
 const LOGO_BASE_URL = "https://logos.lupio.studio/logos/v20260620r2";
-const LEARNING_BASE_URL = "https://logos.lupio.studio/learning/v20260621";
+const LEARNING_BASE_URL = "https://logos.lupio.studio/learning/v20260621r2";
+const MAX_PRELOAD_CONCURRENCY = 2;
 const preloadedLogoUrls = new Set();
+const preloadLogoQueue = [];
+let activePreloadCount = 0;
 const learningContentCache = {};
 const brandNameMap = sourceBrands.reduce((map, brand) => {
   map[brand.brand_id] = brand.display_name || brand.brand_id;
@@ -156,10 +159,23 @@ function collectQuestionLogoUrls(question) {
 function preloadLogoUrl(src) {
   if (!src || preloadedLogoUrls.has(src) || typeof wx === "undefined" || !wx.getImageInfo) return;
   preloadedLogoUrls.add(src);
-  wx.getImageInfo({
-    src,
-    fail() {}
-  });
+  preloadLogoQueue.push(src);
+  runPreloadQueue();
+}
+
+function runPreloadQueue() {
+  if (typeof wx === "undefined" || !wx.getImageInfo) return;
+  while (activePreloadCount < MAX_PRELOAD_CONCURRENCY && preloadLogoQueue.length) {
+    const src = preloadLogoQueue.shift();
+    activePreloadCount += 1;
+    wx.getImageInfo({
+      src,
+      complete() {
+        activePreloadCount = Math.max(0, activePreloadCount - 1);
+        runPreloadQueue();
+      }
+    });
+  }
 }
 
 function getTypeLabel(type) {
@@ -479,7 +495,6 @@ Page({
       isEmpty: false
     });
     this.setCurrentQuestion(0);
-    this.preloadUpcomingImages(0);
   },
 
   pickRoundQuestions(questions, mode) {
@@ -538,7 +553,7 @@ Page({
 
   preloadUpcomingImages(startIndex) {
     const questions = this.data.questions || [];
-    for (let index = startIndex; index < Math.min(startIndex + 3, questions.length); index += 1) {
+    for (let index = startIndex; index < Math.min(startIndex + 1, questions.length); index += 1) {
       for (const src of collectQuestionLogoUrls(questions[index])) {
         preloadLogoUrl(src);
       }

@@ -14,7 +14,7 @@ const mainDataDir = path.join(miniprogramRoot, "data");
 const reviewDir = path.join(root, "review");
 const reportDir = path.join(root, "reports");
 const distLogoDir = path.join(root, "dist", "logos", "v20260620r2");
-const learningDataDir = path.join(root, "dist", "learning", "v20260621");
+const learningDataDir = path.join(root, "dist", "learning", "v20260621r2");
 
 const cdnBase = (process.env.LOGO_CDN_BASE || "https://logos.lupio.studio/logos/v20260620r2").replace(/\/+$/, "");
 const questionReviewFile = path.join(reviewDir, "quiz-questions-preview.html");
@@ -203,7 +203,7 @@ function writeLearningData(brands) {
     });
   }
   writeJson(path.join(learningDataDir, "manifest.json"), {
-    version: "v20260621",
+    version: "v20260621r2",
     count: brands.length,
     generated_at: new Date().toISOString()
   });
