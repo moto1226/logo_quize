@@ -21,14 +21,20 @@ const { saveLatestResult } = require("../../../../utils/storage.js");
 const letters = ["A", "B", "C", "D"];
 const ROUND_QUESTION_COUNT = 20;
 const LOGO_BASE_URL = "https://logos.lupio.studio/logos/v20260620r2";
+const LEARNING_BASE_URL = "https://logos.lupio.studio/learning/v20260621";
 const preloadedLogoUrls = new Set();
+const learningContentCache = {};
 const brandNameMap = sourceBrands.reduce((map, brand) => {
-  map[brand.brand_id] = brand.display_name || brand.name_zh || brand.name_en || brand.brand_id;
+  map[brand.brand_id] = brand.display_name || brand.brand_id;
   return map;
 }, {});
 
 function logoPath(brandId) {
   return `${LOGO_BASE_URL}/${brandId}.webp`;
+}
+
+function learningPath(brandId) {
+  return `${LEARNING_BASE_URL}/${brandId}.json`;
 }
 
 function normalizeLogoImage(image, brandId) {
@@ -38,6 +44,43 @@ function normalizeLogoImage(image, brandId) {
 
 function brandName(brandId) {
   return brandNameMap[brandId] || brandId || "";
+}
+
+function splitHighlights(value) {
+  return String(value || "")
+    .split(/[\n；;。]/)
+    .map((item) => item.replace(/^[\s\-•·、]+/, "").trim())
+    .filter(Boolean)
+    .slice(0, 4);
+}
+
+function normalizeLearningContent(data) {
+  const item = data || {};
+  return {
+    brand_story: String(item.brand_story || "").trim(),
+    design_highlights: String(item.design_highlights || "").trim()
+  };
+}
+
+function readLearningCache(brandId) {
+  if (learningContentCache[brandId]) return learningContentCache[brandId];
+  try {
+    const cached = wx.getStorageSync(`brand_learning_${brandId}`);
+    if (cached && (cached.brand_story || cached.design_highlights)) {
+      learningContentCache[brandId] = normalizeLearningContent(cached);
+      return learningContentCache[brandId];
+    }
+  } catch (error) {
+    return null;
+  }
+  return null;
+}
+
+function writeLearningCache(brandId, data) {
+  learningContentCache[brandId] = data;
+  try {
+    wx.setStorageSync(`brand_learning_${brandId}`, data);
+  } catch (error) {}
 }
 
 function getSystemMetrics() {
@@ -308,6 +351,47 @@ function pickMixedQuestions(questions, limit) {
   return mixed.slice(0, limit);
 }
 
+function interleaveQuestionGroups(groups, limit) {
+  const shuffledGroups = groups.filter((group) => group.length).map((group) => shuffle(group));
+  const mixed = [];
+  let picked = true;
+
+  while (mixed.length < limit && picked) {
+    picked = false;
+    for (const group of shuffledGroups) {
+      if (mixed.length >= limit) break;
+      const question = group.shift();
+      if (!question) continue;
+      mixed.push(question);
+      picked = true;
+    }
+  }
+
+  return mixed.slice(0, limit);
+}
+
+function pickHybridMixedQuestions(clueQuestions, brands, limit) {
+  const total = Math.min(limit || ROUND_QUESTION_COUNT, Math.max((brands || []).length, (clueQuestions || []).length));
+  const usedBrandIds = new Set();
+  const validClueQuestions = (clueQuestions || [])
+    .filter(isValidQuestion)
+    .filter((item) => item.type === "brand_clue_to_logo");
+  const clueTarget = validClueQuestions.length ? Math.max(1, Math.floor(total / 3)) : 0;
+  const selectedClueQuestions = pickBalancedQuestions(validClueQuestions, clueTarget, usedBrandIds);
+  selectedClueQuestions.forEach((item) => usedBrandIds.add(item.answer_brand_id));
+
+  const remaining = Math.max(0, total - selectedClueQuestions.length);
+  const logoTarget = Math.ceil(remaining / 2);
+  const reverseTarget = remaining - logoTarget;
+  const logoBrands = pickBalancedBrands(brands, logoTarget, usedBrandIds);
+  logoBrands.forEach((brand) => usedBrandIds.add(brand.brand_id));
+  const reverseBrands = pickBalancedBrands(brands, reverseTarget, usedBrandIds);
+
+  const logoQuestions = logoBrands.map((brand) => buildRuntimeQuestion(brand, "logo_to_brand", brands));
+  const reverseQuestions = reverseBrands.map((brand) => buildRuntimeQuestion(brand, "brand_to_logo", brands));
+  return interleaveQuestionGroups([logoQuestions, reverseQuestions, selectedClueQuestions], total);
+}
+
 Page({
   data: {
     statusBarHeight: 0,
@@ -341,7 +425,9 @@ Page({
     isEmpty: false,
     isLast: false,
     typeLabel: "",
-    stagePrompt: ""
+    stagePrompt: "",
+    showLearningCard: false,
+    learningCard: null
   },
 
   onLoad(query) {
@@ -361,7 +447,9 @@ Page({
 
   loadQuestions(mode) {
     const normalizedMode = normalizeMode(mode);
-    const dataQuestions = sourceQuestions.length ? this.pickRoundQuestions(sourceQuestions, normalizedMode) : [];
+    const dataQuestions = normalizedMode === "mixed" && sourceQuestions.length && sourceBrands.length
+      ? pickHybridMixedQuestions(sourceQuestions, sourceBrands, ROUND_QUESTION_COUNT)
+      : (sourceQuestions.length ? this.pickRoundQuestions(sourceQuestions, normalizedMode) : []);
     const questions = dataQuestions.length
       ? dataQuestions
       : (normalizedMode === "brand_clue_to_logo" || normalizedMode === "similar_logo_confusion"
@@ -440,7 +528,9 @@ Page({
       elapsedText: "0.0s",
       isLast: index === this.data.totalQuestions - 1,
       typeLabel: getTypeLabel(currentQuestion.type),
-      stagePrompt: getPrompt(currentQuestion.type)
+      stagePrompt: getPrompt(currentQuestion.type),
+      showLearningCard: false,
+      learningCard: null
     });
     this.startTimer();
     this.preloadUpcomingImages(index + 1);
@@ -453,6 +543,32 @@ Page({
         preloadLogoUrl(src);
       }
     }
+  },
+
+  loadLearningContent(brandId, callback) {
+    if (!brandId) {
+      callback(null);
+      return;
+    }
+    const cached = readLearningCache(brandId);
+    if (cached) {
+      callback(cached);
+      return;
+    }
+    wx.request({
+      url: learningPath(brandId),
+      method: "GET",
+      success: (res) => {
+        const content = normalizeLearningContent(res.data);
+        if (content.brand_story || content.design_highlights) {
+          writeLearningCache(brandId, content);
+          callback(content);
+          return;
+        }
+        callback(null);
+      },
+      fail: () => callback(null)
+    });
   },
 
   startTimer() {
@@ -529,17 +645,42 @@ Page({
       options,
       records,
       correctAnswerName,
-      correctAnswerTip
+      correctAnswerTip,
+      showLearningCard: !isCorrect,
+      learningCard: isCorrect ? null : this.getLearningCard(currentQuestion, correctAnswerName)
     });
+    if (!isCorrect) {
+      const questionId = currentQuestion.id;
+      this.loadLearningContent(currentQuestion.answer_brand_id, (content) => {
+        const activeQuestion = this.data.currentQuestion || {};
+        if (!this.data.showLearningCard || activeQuestion.id !== questionId) return;
+        this.setData({
+          learningCard: this.getLearningCard(currentQuestion, correctAnswerName, content)
+        });
+      });
+    }
   },
 
   handleContinue() {
+    if (this.data.showLearningCard) {
+      this.setData({ showLearningCard: false });
+      return;
+    }
     if (this.data.answerState !== "correct" && this.data.answerState !== "wrong") return;
+    this.goNextAfterFeedback();
+  },
+
+  goNextAfterFeedback() {
     if (this.data.currentIndex >= this.data.totalQuestions - 1) {
       this.goResult();
       return;
     }
     this.setCurrentQuestion(this.data.currentIndex + 1);
+  },
+
+  handleLearningContinue() {
+    this.setData({ showLearningCard: false });
+    this.goNextAfterFeedback();
   },
 
   handleExit() {
@@ -615,6 +756,21 @@ Page({
       return answerOption.letter;
     }
     return fallbackName || this.getCorrectAnswerName();
+  },
+
+  getLearningCard(question, answerName, content) {
+    const brandId = question.answer_brand_id || "";
+    const answerOption = this.data.options.find((option) => option.brand_id === brandId) || {};
+    const learning = normalizeLearningContent(content || readLearningCache(brandId));
+    const story = learning.brand_story || "正在读取品牌故事，稍后请再看一眼这个品牌。";
+    const highlights = splitHighlights(learning.design_highlights);
+    return {
+      brand_id: brandId,
+      name: answerName || brandName(brandId),
+      logo: normalizeLogoImage(answerOption.image || question.logo, brandId),
+      story,
+      highlights: highlights.length ? highlights : ["观察 Logo 的主形、文字结构和配色关系", "把图形特征和品牌业务场景一起记忆"]
+    };
   },
 
   goHome() {

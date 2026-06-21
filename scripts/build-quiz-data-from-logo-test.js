@@ -4,7 +4,8 @@ const crypto = require("node:crypto");
 const { parse } = require("csv-parse/sync");
 
 const root = path.resolve(__dirname, "..");
-const csvFile = path.join(root, "logo_industry_brand_collection_MAX_flat.csv");
+const csvWithDesignFile = path.join(root, "logo_industry_brand_collection_MAX_flat_with_design_v9.csv");
+const csvFile = fs.existsSync(csvWithDesignFile) ? csvWithDesignFile : path.join(root, "logo_industry_brand_collection_MAX_flat.csv");
 const gridDataDir = path.join(root, "generated", "logo-test", "data");
 const tilesDir = path.join(root, "generated", "logo-test", "tiles");
 const miniprogramRoot = path.join(root, "miniprogram");
@@ -13,6 +14,7 @@ const mainDataDir = path.join(miniprogramRoot, "data");
 const reviewDir = path.join(root, "review");
 const reportDir = path.join(root, "reports");
 const distLogoDir = path.join(root, "dist", "logos", "v20260620r2");
+const learningDataDir = path.join(root, "dist", "learning", "v20260621");
 
 const cdnBase = (process.env.LOGO_CDN_BASE || "https://logos.lupio.studio/logos/v20260620r2").replace(/\/+$/, "");
 const questionReviewFile = path.join(reviewDir, "quiz-questions-preview.html");
@@ -40,6 +42,11 @@ function writeJs(file, data) {
 function writeJson(file, data) {
   ensureDir(path.dirname(file));
   fs.writeFileSync(file, `${JSON.stringify(data, null, 2)}\n`, "utf8");
+}
+
+function writeCompactJson(file, data) {
+  ensureDir(path.dirname(file));
+  fs.writeFileSync(file, `${JSON.stringify(data)}\n`, "utf8");
 }
 
 function fileSha1(file) {
@@ -116,6 +123,8 @@ function brandFromRow(row, gridMap) {
     difficulty_rank: difficultyNumber(row["建议题目难度"]),
     similar_group: row.similar_group || row["小分类名称"] || row["一级行业"] || "general",
     description: row["简介"] || "",
+    brand_story: row["品牌故事"] || "",
+    design_highlights: row["设计亮点"] || "",
     clue_prompt: row["描述题型问题文本"] || "",
     suited_types: row["适合题型"] || "",
     priority: row["收集优先级"] || "",
@@ -181,6 +190,23 @@ function publicBrand(brand) {
     category: brand.category,
     similar_group: brand.similar_group
   };
+}
+
+function writeLearningData(brands) {
+  fs.rmSync(learningDataDir, { recursive: true, force: true });
+  ensureDir(learningDataDir);
+  for (const brand of brands) {
+    writeCompactJson(path.join(learningDataDir, `${brand.brand_id}.json`), {
+      brand_id: brand.brand_id,
+      brand_story: brand.brand_story || "",
+      design_highlights: brand.design_highlights || ""
+    });
+  }
+  writeJson(path.join(learningDataDir, "manifest.json"), {
+    version: "v20260621",
+    count: brands.length,
+    generated_at: new Date().toISOString()
+  });
 }
 
 function findDuplicateLogoExclusions(brands) {
@@ -516,7 +542,9 @@ function build() {
   const publicBrands = allPublicBrands.filter((brand) => !duplicateAudit.excludedBrandIds.has(brand.brand_id));
   const publicBrandIds = new Set(publicBrands.map((brand) => brand.brand_id));
   const clueBrands = brands.filter((brand) => publicBrandIds.has(brand.brand_id));
+  const learningBrands = brands.filter((brand) => publicBrandIds.has(brand.brand_id));
   const missingDistSources = copyDistLogos(publicBrands);
+  writeLearningData(learningBrands);
   const baseQuestions = buildQuestions(publicBrands);
   const clueQuestions = buildClueQuestions(clueBrands);
   const questions = baseQuestions.concat(clueQuestions);

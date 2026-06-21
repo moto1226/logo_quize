@@ -81,6 +81,46 @@
       检查答案
     </button>
   </view>
+
+  <view wx:if="{{showLearningCard && learningCard}}" class="learning-mask">
+    <view class="learning-sheet">
+      <view class="learning-top">
+        <view>
+          <view class="learning-kicker">答错了</view>
+          <view class="learning-subtitle">先看一眼这个品牌，再继续挑战</view>
+        </view>
+      </view>
+
+      <view class="learning-card">
+        <view class="learning-answer-row">
+          <view class="learning-answer-text">
+            <view class="learning-label">正确答案：</view>
+            <view class="learning-brand-name">{{learningCard.name}}</view>
+          </view>
+          <view class="learning-logo-box">
+            <image mode="aspectFit" src="{{learningCard.logo}}"></image>
+          </view>
+        </view>
+
+        <view class="learning-section">
+          <view class="learning-section-title">品牌故事</view>
+          <view class="learning-section-text">{{learningCard.story}}</view>
+        </view>
+
+        <view class="learning-section">
+          <view class="learning-section-title">设计亮点</view>
+          <view class="learning-highlight" wx:for="{{learningCard.highlights}}" wx:key="*this">
+            <text class="learning-dot">•</text>
+            <text>{{item}}</text>
+          </view>
+        </view>
+      </view>
+
+      <button class="learning-continue-btn" bindtap="handleLearningContinue">
+        {{isLast ? '我知道了，查看结果' : '我知道了，继续下一题'}}
+      </button>
+    </view>
+  </view>
 </view>
 
 <view class="empty-page" wx:else>

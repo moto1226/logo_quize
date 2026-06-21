@@ -31,7 +31,7 @@ const typeMetaMap = {
 };
 
 const brandNameMap = brands.reduce((map, brand) => {
-  map[brand.brand_id] = brand.display_name || brand.name_zh || brand.name_en || brand.brand_id;
+  map[brand.brand_id] = brand.display_name || brand.brand_id;
   return map;
 }, {});
 

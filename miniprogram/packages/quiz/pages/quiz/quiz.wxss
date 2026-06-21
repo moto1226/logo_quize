@@ -424,10 +424,163 @@ page {
   line-height: 1.2;
 }
 
+.learning-mask {
+  position: fixed;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  z-index: 60;
+  padding: 124rpx 24rpx calc(168rpx + env(safe-area-inset-bottom));
+  background: linear-gradient(155deg, #ffdddd 0%, #ffffff 42%, #f8fff3 100%);
+  box-sizing: border-box;
+  overflow-y: auto;
+}
+
+.learning-sheet {
+  min-height: 100%;
+  display: flex;
+  flex-direction: column;
+  gap: 22rpx;
+}
+
+.learning-top {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 12rpx 12rpx 8rpx;
+}
+
+.learning-kicker {
+  color: #ff4b4b;
+  font-size: 48rpx;
+  line-height: 1.2;
+  font-weight: 900;
+}
+
+.learning-subtitle {
+  margin-top: 12rpx;
+  color: #64748b;
+  font-size: 24rpx;
+  font-weight: 700;
+}
+
+.learning-card {
+  padding: 34rpx 26rpx;
+  border-radius: 28rpx;
+  background: rgba(255, 255, 255, 0.96);
+  box-shadow: 0 16rpx 46rpx rgba(15, 23, 42, 0.09);
+}
+
+.learning-answer-row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 22rpx;
+}
+
+.learning-answer-text {
+  flex: 1;
+  min-width: 0;
+}
+
+.learning-label {
+  color: #667085;
+  font-size: 24rpx;
+  font-weight: 800;
+}
+
+.learning-brand-name {
+  margin-top: 18rpx;
+  color: #1f2937;
+  font-size: 42rpx;
+  line-height: 1.18;
+  font-weight: 900;
+  overflow-wrap: break-word;
+}
+
+.learning-logo-box {
+  width: 220rpx;
+  height: 220rpx;
+  border-radius: 22rpx;
+  background: #ffffff;
+  border: 2rpx solid #edf2f7;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+
+.learning-logo-box image {
+  width: 190rpx;
+  height: 190rpx;
+}
+
+.learning-section {
+  margin-top: 32rpx;
+  padding: 28rpx;
+  border-radius: 24rpx;
+  background: #f8fafc;
+}
+
+.learning-section-title {
+  color: #25324a;
+  font-size: 27rpx;
+  line-height: 1.2;
+  font-weight: 900;
+}
+
+.learning-section-text {
+  margin-top: 20rpx;
+  color: #475467;
+  font-size: 26rpx;
+  line-height: 1.85;
+  font-weight: 500;
+}
+
+.learning-highlight {
+  margin-top: 18rpx;
+  display: flex;
+  align-items: flex-start;
+  gap: 14rpx;
+  color: #475467;
+  font-size: 26rpx;
+  line-height: 1.75;
+  font-weight: 500;
+}
+
+.learning-dot {
+  color: #1cb0f6;
+  font-weight: 900;
+}
+
+.learning-continue-btn {
+  position: fixed;
+  left: 20rpx;
+  right: 20rpx;
+  bottom: calc(24rpx + env(safe-area-inset-bottom));
+  z-index: 61;
+  width: calc(100vw - 40rpx) !important;
+  height: 104rpx;
+  margin: 0 !important;
+  border-radius: 28rpx;
+  background: #58cc02;
+  border-bottom: 8rpx solid #46a302;
+  color: #ffffff;
+  font-size: 34rpx;
+  line-height: 1.2;
+  font-weight: 900;
+  display: flex !important;
+  align-items: center;
+  justify-content: center;
+  box-sizing: border-box;
+}
+
 .option-btn::after,
 .logo-option-btn::after,
 .check-btn::after,
 .footer-btn::after,
-.empty-card button::after {
+.empty-card button::after,
+.learning-continue-btn::after {
   border: 0;
 }
